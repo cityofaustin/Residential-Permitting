@@ -1,4 +1,3 @@
 ---
-layout: home
+title: Welcome to Austin's permitting Resource
 ---
-

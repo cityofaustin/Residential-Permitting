@@ -1,27 +1,38 @@
----
-title: WeBuildThis.City
-timezone: America/Chicago
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+# ----
+# Site
 
-'
-baseurl: 
-url: 
-twitter_username: jekyllrb
-github_username: jekyll
+title: WeBuildThis.City
+subtitle: Austin’s Residential Permitting Resource
+timezone: America/Chicago
+show_full_navigation: true
+baseurl:
+url:
 markdown: kramdown
-theme: minima
+description: 'The City of Austin’s Residential Permitting Resource'
+
+sass:
+    sass_dir: assets/_sass
+# -----
+# Build
+
+permalink: pretty
+
 gems:
-- jekyll-feed
+
 exclude:
-- Gemfile
-- Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+collections:
+  content:
+    output: true
+    permalink: /:path/
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
