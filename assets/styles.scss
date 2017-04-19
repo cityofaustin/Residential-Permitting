@@ -3,14 +3,20 @@
 # only Main files contain this front matter, not partials.
 ---
 
-// US Web Design Standards 0.12.1 -------------- //
+// Vendor  //
+
+@import '_uswds/lib/bourbon';
+@import '_uswds/lib/neat';
+@import '_uswds/lib/normalize';
+
+// Fellows USWDS Overrides
+@import "_fellows/_uswds-variables";
+
+// US Web Design Standards 0.12.1  //
 @import "_uswds/all";
 
 // Fellows Design Standards
-@import "variables";
-@import "mixins";
-@import "normalize";
-@import "typography";
-@import "layout";
-@import "tables";
-@import "code";
+@import "_fellows/all";
+
+// Permitting Site-Specific Styles
+@import "_site-specific/all";
