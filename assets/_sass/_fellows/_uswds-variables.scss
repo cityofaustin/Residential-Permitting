@@ -1,13 +1,8 @@
-// Paths
-$font-path:           '/assets/fonts/uswds' !default;
-$image-path:          '/assets/fonts/uswds/img' !default;
-
-
 // Typography
 $em-base:             10px;
-$base-font-size:      rem(17px);
+$base-font-size:      rem(16px);
 $small-font-size:     rem(14px);
-$lead-font-size:      rem(20px);
+$lead-font-size:      rem(22px);
 $title-font-size:     rem(52px);
 $h1-font-size:        rem(40px);
 $h2-font-size:        rem(30px);
@@ -19,17 +14,22 @@ $base-line-height:    1.5;
 $heading-line-height: 1.3;
 $lead-line-height:    1.7;
 
-$font-sans:           'Source Sans Pro', $helvetica;
-$font-serif:          'Merriweather', $georgia;
+// replace non-semantic font-naming
+$font-body:           'Source Sans Pro', $helvetica;
+$font-headlines:      'Merriweather', $georgia;
+
+// used in uswds
+$font-sans:           $font-headlines;
+$font-serif:          $font-body;
 
 $font-normal:         400;
 $font-bold:           700;
 
 
 // Color
-$color-primary:              #0071bc;
-$color-primary-darker:       #205493;
-$color-primary-darkest:      #112e51;
+$color-primary:              #474454;
+$color-primary-darker:       #0F0035;
+$color-primary-darkest:      #0F0035;
 
 $color-primary-alt:          #02bfe7;
 $color-primary-alt-dark:     #00a6d2;
@@ -82,6 +82,10 @@ $color-shadow:               rgba(#000, 0.3);
 $small-screen:      481px;
 $medium-screen:     600px;
 $large-screen:      1201px;
+
+// Relative font and image file paths
+$font-path:           '/assets/fonts/uswds';
+$image-path:          '/assets/fonts/uswds/img';
 
 
 // Magic Numbers

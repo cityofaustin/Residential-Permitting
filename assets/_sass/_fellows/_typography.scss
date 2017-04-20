@@ -1,0 +1,45 @@
+body {
+  color: $color-primary;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: $color-primary-darkest;
+}
+
+// Overrides USWDS Heading mixins
+h1 {
+  font-size: $h1-font-size;
+  font-weight: $font-bold;
+}
+
+h2 {
+  font-size: $h2-font-size;
+  font-weight: $font-bold;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  font-weight: $font-bold;
+}
+
+h4 {
+  font-size: $h4-font-size;
+  font-weight: $font-bold;
+}
+
+h5 {
+  font-size: $h5-font-size;
+  font-weight: $font-bold;
+}
+
+h6 {
+  font-family: $font-sans;
+  font-size: $h6-font-size;
+  font-weight: $font-normal;
+  text-transform: uppercase;
+}
+
+.lead {
+  font-size: $lead-font-size;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}

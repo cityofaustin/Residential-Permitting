@@ -1,0 +1,24 @@
+<div class="col-md-8">
+{% for department_listing in site.data.departments  %}
+{% assign department = department_listing[1] %}
+
+  <div class="row start-md center-xs">
+
+    <div class="col-xs-10 col-md-6">
+      <a href="{{ department.department_link }}">{{ department.department_name }}</a>
+      <p>{{ department.description }}</p>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <p>{{ department.phone }}</p>
+      <p>{{ department.physical_address | newline_to_br }}</p>
+      <p>
+        {% for periods in department.hours  %}
+          <em>{{ periods.period_name | newline_to_br }}</em><br />
+          {{ periods.period_time | newline_to_br }}<br />
+        {% endfor %}
+      </p>
+    </div>
+  </div>
+
+{% endfor %}
+</div>

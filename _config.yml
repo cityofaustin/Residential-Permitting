@@ -28,7 +28,9 @@ collections:
   content:
     output: true
     permalink: /:path/
-
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   -
