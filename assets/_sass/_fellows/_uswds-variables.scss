@@ -21,6 +21,7 @@ $font-headlines:      'Merriweather', $georgia;
 // used in uswds
 $font-sans:           $font-headlines;
 $font-serif:          $font-body;
+$font-monospace:      'Consolata', $monospace;
 
 $font-normal:         400;
 $font-bold:           700;
@@ -85,8 +86,8 @@ $large-screen:      1201px;
 
 // Relative font and image file paths
 $font-path:           '/assets/fonts/uswds';
-$image-path:          '/assets/fonts/uswds/img';
-
+$image-path:          '/assets/images/uswds';
+$site-image-path:     $image-path;
 
 // Magic Numbers
 $text-max-width:      53rem;
