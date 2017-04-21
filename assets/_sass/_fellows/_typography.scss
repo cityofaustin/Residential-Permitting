@@ -1,8 +1,10 @@
 body {
-  color: $color-primary;
+  color: $color-gray;
+  font-family: $font-body;
 }
 h1, h2, h3, h4, h5, h6 {
-  color: $color-primary-darkest;
+  color: $color-gray-dark;
+  font-family: $font-headlines;
 }
 
 // Overrides USWDS Heading mixins
@@ -18,21 +20,20 @@ h2 {
 
 h3 {
   font-size: $h3-font-size;
-  font-weight: $font-bold;
+  font-weight: $font-medium;
 }
 
 h4 {
   font-size: $h4-font-size;
-  font-weight: $font-bold;
+  font-weight: $font-medium;
 }
 
 h5 {
   font-size: $h5-font-size;
-  font-weight: $font-bold;
+  font-weight: $font-medium;
 }
 
 h6 {
-  font-family: $font-sans;
   font-size: $h6-font-size;
   font-weight: $font-normal;
   text-transform: uppercase;

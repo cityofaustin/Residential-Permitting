@@ -1,6 +1,9 @@
 ---
-title: Test formatting page / Styleguide
+title: Style Guide (work in progress)
 ---
+## Introduction
+
+This style guide for webuildthis.city is a work in progress based on the USWDS. All text is placeholder for now.
 
 ## Basic formatting
 
@@ -42,12 +45,12 @@ You can also make `inline code` to add code into other things.
 
 There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# This is an H1
+## This is an H2
+### This is an H3
+#### This is an H4
+##### This is an H5
+###### This is an H6
 
 <p class="usa-font-lead">Lead paragraphs are larger.</p>
 
@@ -115,19 +118,19 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
 <div class="usa-grid-full usa-color-row usa-primary-color-section">
   <div class="usa-color-square usa-color-primary">
     <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#005eff</p>
       <p class="usa-color-name">primary</p>
     </div>
   </div>
   <div class="usa-color-square usa-color-primary-darker usa-mobile-end-row">
     <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#0446cc</p>
       <p class="usa-color-name">primary-darker</p>
     </div>
   </div>
   <div class="usa-color-square usa-color-primary-darkest">
     <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#082e9a</p>
       <p class="usa-color-name">primary-darkest</p>
     </div>
   </div>
@@ -163,39 +166,6 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
 <h4 class="usa-heading">Secondary colors</h4>
 
 <p>These are accent colors to provide additional lightness and style to pages looking for a more modern flair. These colors should be used to highlight important features on a page, such as buttons, or for visual style elements, such as illustrations. They should be used sparingly and never draw the eye to more than one piece of information at a time.</p>
-
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-primary-alt">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-alt</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-primary-alt-darkest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-alt-darkest</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-primary-alt-dark">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-alt-dark</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-primary-alt-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-alt-light</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-primary-alt-lightest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-alt-lightest</p>
-  </div>
-</div>
 
 <div class="usa-grid-full usa-color-row">
   <div class="color-big">
@@ -238,47 +208,32 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
   <div class="color-big">
     <div class="usa-color-short usa-color-gray-dark">
     </div>
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#0f0035</p>
       <p class="usa-color-name">gray-dark</p>
   </div>
   <div class="color-small">
     <div class="usa-color-short usa-color-gray">
     </div>
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#474454</p>
       <p class="usa-color-name">gray</p>
   </div>
   <div class="color-small">
     <div class="usa-color-short usa-color-gray-light">
     </div>
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#716c87</p>
       <p class="usa-color-name">gray-light</p>
   </div>
   <div class="color-small">
     <div class="usa-color-short usa-color-gray-lighter">
     </div>
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#e7e6eB</p>
       <p class="usa-color-name">gray-lighter</p>
   </div>
   <div class="color-small">
     <div class="usa-color-short usa-color-gray-lightest">
     </div>
-      <p class="usa-color-hex">#TODO</p>
+      <p class="usa-color-hex">#f5f4f7</p>
       <p class="usa-color-name">gray-lightest</p>
-  </div>
-</div>
-
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-gray-warm-dark">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">gray-warm-dark</p>
-  </div>
-  <div class="color-small usa-end-row">
-    <div class="usa-color-short usa-color-gray-warm-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">gray-warm-light</p>
   </div>
 </div>
 
@@ -289,17 +244,44 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
       <p class="usa-color-hex">#TODO</p>
       <p class="usa-color-name">primary-darkest</p>
   </div>
-  <div class="color-small usa-end-row">
-    <div class="usa-color-short usa-color-gray-cool-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">gray-cool-light</p>
-  </div>
 </div>
 
 <h4 class="usa-heading">Tertiary colors</h4>
 
 <p>These colors are used primarily for content-specific needs, such as alerts and illustrations. They should never overpower the primary colors.</p>
+
+<div class="usa-grid-full usa-color-row">
+  <div class="color-big">
+    <div class="usa-color-short usa-color-barton">
+    </div>
+      <p class="usa-color-hex">#01875f</p>
+      <p class="usa-color-name">barton</p>
+  </div>
+  <div class="color-small">
+    <div class="usa-color-short usa-color-barton-dark">
+    </div>
+      <p class="usa-color-hex">#01694a</p>
+      <p class="usa-color-name">barton-dark</p>
+  </div>
+  <div class="color-small">
+    <div class="usa-color-short usa-color-barton-light">
+    </div>
+      <p class="usa-color-hex">#01eaa4</p>
+      <p class="usa-color-name">barton-light</p>
+  </div>
+  <div class="color-small">
+    <div class="usa-color-short usa-color-barton-lighter">
+    </div>
+      <p class="usa-color-hex">#99f7db</p>
+      <p class="usa-color-name">barton-lighter</p>
+  </div>
+  <div class="color-small">
+    <div class="usa-color-short usa-color-barton-lightest">
+    </div>
+      <p class="usa-color-hex">#e5fcf5</p>
+      <p class="usa-color-name">barton-lightest</p>
+  </div>
+</div>
 
 <div class="usa-grid-full usa-color-row">
   <div class="color-big">
@@ -328,67 +310,13 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
   </div>
 </div>
 
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-green">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">green</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-green-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">green-light</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-green-lighter">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">green-lighter</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-green-lightest usa-end-row">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">green-lightest</p>
-  </div>
-</div>
-
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-cool-blue">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">cool-blue</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-cool-blue-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">cool-blue-light</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-cool-blue-lighter">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">cool-blue-lighter</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-cool-blue-lightest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">cool-blue-lightest</p>
-  </div>
-</div>
-
 <h4 class="usa-heading">Special state colors</h4>
 
 <div class="usa-grid-full usa-color-row">
   <div class="color-big">
     <div class="usa-color-short usa-color-focus">
     </div>
-    <p class="usa-color-hex">#TODO</p>
+    <p class="usa-color-hex">#5b97ff</p>
     <p class="usa-color-name">focus</p>
   </div>
 </div>
@@ -397,7 +325,7 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
   <div class="color-big">
     <div class="usa-color-short usa-color-visited">
     </div>
-    <p class="usa-color-hex">#TODO</p>
+    <p class="usa-color-hex">#8800ff</p>
     <p class="usa-color-name">visited</p>
   </div>
 </div>
@@ -410,42 +338,17 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
   <button class="usa-button-active">Active</button>
   <button class="usa-button-hover">Hover</button>
 </div>
-<div class="button_wrapper">
-  <button class="usa-button-primary-alt">Default</button>
-  <button class="usa-button-primary-alt usa-button-active">Active</button>
-  <button class="usa-button-primary-alt usa-button-hover">Hover</button>
-</div>
 
 #### Secondary Buttons
-<div class="button_wrapper">
-  <button class="usa-button-secondary">Default</button>
-  <button class="usa-button-secondary usa-button-active">Active</button>
-  <button class="usa-button-secondary usa-button-hover">Hover</button>
-</div>
-
-<div class="button_wrapper">
-  <button class="usa-button-gray">Default</button>
-  <button class="usa-button-gray usa-button-active">Active</button>
-  <button class="usa-button-gray usa-button-hover">Hover</button>
-</div>
-
 <div class="button_wrapper">
   <button class="usa-button-outline" type="button">Default</button>
   <button class="usa-button-outline usa-button-active">Active</button>
   <button class="usa-button-outline usa-button-hover">Hover</button>
 </div>
 
-<div class="button_wrapper button_wrapper-dark">
-  <button class="usa-button-outline-inverse" type="button">Default</button>
-  <button class="usa-button-outline-inverse usa-button-active">Active</button>
-  <button class="usa-button-outline-inverse usa-button-hover">Hover</button>
-</div>
-
 #### Button Focus
 <div class="button_wrapper">
   <button class="usa-button-focus">Default</button>
-  <button class="usa-button-primary-alt usa-button-focus">Default</button>
-  <button class="usa-button-secondary usa-button-focus">Default</button>
 </div>
 
 #### Disabled Button
