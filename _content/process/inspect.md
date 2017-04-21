@@ -1,5 +1,7 @@
 ---
-title:
-category: Inspect
+title: Inspect
+categories:
+- Inspect
 order: 1
 ---
+
