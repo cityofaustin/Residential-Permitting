@@ -28,6 +28,9 @@ collections:
   content:
     output: true
     permalink: /:path/
+  departments:
+  glossary:
+  globals:
 
 defaults:
   -

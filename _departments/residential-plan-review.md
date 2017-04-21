@@ -1,7 +1,8 @@
-department_name: "Another Department name"
+---
+department_name: "Residential Plan Review"
 department_link: ~
 description: "Brief description of the department and why you’d go there. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
-phone: 512-978-5000
+phone: 512-978-4000
 email: ~
 hours:
   -
@@ -18,3 +19,4 @@ physical_address: |
     One Texas Center
     505 Barton Springs Road
     2nd floor
+---
