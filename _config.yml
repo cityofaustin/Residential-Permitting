@@ -6,6 +6,15 @@ collections:
     title: Content
     output: true
     permalink: "/:path/"
+  departments:
+    title: Departments
+    output: false
+  globals:
+    title: Globals
+    output: false
+  glossary:
+    title: Glossary
+    output: false
   posts:
     title: Posts
     output: true
@@ -19,30 +28,15 @@ defaults:
     layout: default
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
-baseurl:
-url:
+baseurl: 
+url: 
 markdown: kramdown
 description: The City of Austin’s Residential Permitting Resource
 sass:
   sass_dir: assets/_sass
 permalink: pretty
-gems:
+gems: 
 exclude:
 - Gemfile
 - Gemfile.lock
 - README.md
-
-collections:
-  content:
-    output: true
-    permalink: /:path/
-  departments:
-  glossary:
-  globals:
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default

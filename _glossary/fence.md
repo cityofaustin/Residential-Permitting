@@ -1,4 +1,5 @@
 ---
+title: Fence
 term: Fence
 short_definition: |
   A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.
