@@ -1,37 +1,33 @@
-# ----
-# Site
-
+---
 title: WeBuildThis.City
-subtitle: Austin’s Residential Permitting Resource
 timezone: America/Chicago
-show_full_navigation: true
-baseurl:
-url:
-markdown: kramdown
-description: 'The City of Austin’s Residential Permitting Resource'
-
-sass:
-    sass_dir: assets/_sass
-# -----
-# Build
-
-permalink: pretty
-
-gems:
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-
 collections:
   content:
+    title: Content
     output: true
-    permalink: /:path/
-
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
+- scope:
+    path: ''
+  values:
+    layout: default
+subtitle: Austin’s Residential Permitting Resource
+show_full_navigation: true
+baseurl: 
+url: 
+markdown: kramdown
+description: The City of Austin’s Residential Permitting Resource
+sass:
+  sass_dir: assets/_sass
+permalink: pretty
+gems: 
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md

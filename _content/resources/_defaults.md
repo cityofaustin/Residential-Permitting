@@ -1,5 +1,5 @@
 ---
-title:
-category:
+category: 
 order: 1
 ---
+

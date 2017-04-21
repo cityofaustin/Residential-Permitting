@@ -1,5 +1,7 @@
 ---
-title:
-category: Prepare
+title: Prepare
+categories:
+- Prepare
 order: 1
 ---
+
