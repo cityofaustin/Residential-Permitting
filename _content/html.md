@@ -1,6 +1,7 @@
 ---
 title: Style Guide (work in progress)
 ---
+
 ## Introduction
 
 This style guide for webuildthis.city is a work in progress based on the USWDS. All text is placeholder for now.
