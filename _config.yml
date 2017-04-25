@@ -30,20 +30,20 @@ _comments:
   department_name: The department's official name
   department_link: The link to the department's page on AustinTexas.gov
   phone: Please use the format 000-000-0000
-  email: 
+  email:
   period_name: e.g., "General questions" or "By appointment only"
   period_time_markdown: Open-Close days and times, new lines OK
   physical_address_markdown: Actual address for visitors, new lines OK
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
-baseurl: 
-url: 
+baseurl:
+url: http://alpha.webuildthis.city
 markdown: kramdown
 description: The City of Austin’s Residential Permitting Resource
 sass:
   sass_dir: assets/_sass
 permalink: pretty
-gems: 
+gems:
 exclude:
 - Gemfile
 - Gemfile.lock

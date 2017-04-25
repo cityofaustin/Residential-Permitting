@@ -1,7 +1,23 @@
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+
+  <title>{{ site.title }}</title>
+  <!-- Title  -->
+  <meta itemprop="name" content="{{ site.description }}">
+  <meta property="og:title" content="{{ site.description }}">
+
+  <!-- URL -->
+  <link itemprop="url" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+  <!-- Description -->
+  <meta name="description" content="{{ site.description }}">
+  <meta itemprop="description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.description }}">
+
 
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic|Inconsolata:400,700">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles.css">
