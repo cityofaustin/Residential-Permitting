@@ -8,12 +8,9 @@
     </div>
     <div class="col-xs-12 col-md-6">
       <p>{{ department.phone }}</p>
-      {{ department.physical_address_markdown  | newline_to_br  | markdownify | rtrim: '<p></p>' }}
+      {{ department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
       {% for periods in department.hours  %}
-      <p>
-        <em>{{ periods.period_name }}</em><br>
-        <span>{{ periods.period_time_markdown  | newline_to_br  | rtrim: '<p></p>' }}</span>
-      </p>
+        {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
       {% endfor %}
     </div>
   </div>
