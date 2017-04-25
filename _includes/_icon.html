@@ -1,0 +1,8 @@
+<object class="icon" type="image/svg+xml" data="{{ site.baseurl }}/assets/images/svg-icons/{{ include.icon }}.svg">
+  {% if include.context %}
+    aria-hidden="false">
+    <title>{{ include.context }}</title>
+  {% else %}
+    aria-hidden="true">
+  {% endif %}
+</object>
