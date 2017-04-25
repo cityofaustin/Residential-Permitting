@@ -13,9 +13,9 @@
 			<div class="row center-xs">
 
 				<div class="page-header col-xs-8">
-					<h1 class="editable">Contact Departments</h1>
+					<h1>{{ page.title }}</h1>
 					{% if page.subhead %}
-					<p class="lead editable">These are some of the departments that may be involved in your permitting process. For more detailed information, please visit each department&rsquo;s page link. How neat!</p>
+					<p class="lead">{{ page.subhead }}</p>
 					{% endif %}
 				</div>
 
@@ -23,7 +23,7 @@
 				  {% include {{ page._page-layout }} %}
 				{% endif %}
 
-				<article class="content start-xs col-xs-12 editable" data-cms-content-wrapper="/_layouts/default.html">
+				<article class="content start-xs col-xs-12 editable">
 					{{ content }}
 				</article>
 
