@@ -1,8 +1,13 @@
-<object class="icon" type="image/svg+xml" data="{{ site.baseurl }}/assets/images/svg-icons/{{ include.icon }}.svg">
+{% assign icon = site.icons | where:"name", include.icon  | first %}
+
+<svg class="icon" width="32" height="32" viewBox="0 0 32 32" preserveAspectRatio="xMinYMin"
   {% if include.context %}
     aria-hidden="false">
     <title>{{ include.context }}</title>
   {% else %}
     aria-hidden="true">
   {% endif %}
-</object>
+
+  {{ icon.content | default: "" }}
+
+</svg>

@@ -96,11 +96,20 @@ It's sometimes handy for breaking things up.
 
 ![Placeholder image of Bill Murray](http://www.fillmurray.com/200/300)
 
+
 ## Finally
 
 There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
 
 ---
+
+
+# Icons
+{% for icon in site.icons %}
+  {% include _icon.html %}
+{% endfor %}
+
+
 # USWDS Defaults
 
 The below will demonstrate the Fellows CSS, based on USWDS defaults:
@@ -536,8 +545,6 @@ This is a simple, minimalist color palette. Shades of blue dominate, providing a
     </button>
   </div>
 </form>
-
-
 
 
 
