@@ -46,3 +46,18 @@ h6 {
 }
 
 a:visited { color: $color-primary; }
+
+.content {
+  // any other children of the numbered list item
+  & > ol > li > * {
+    font-size: $base-font-size;
+    font-weight: $font-normal;
+  }
+    // the numbered list item and the list item's first paragraph
+  & > ol > li,
+  & > ol > li > p:first-child {
+    font-size: $h4-font-size;
+    font-weight: $font-bold;
+  }
+
+}
