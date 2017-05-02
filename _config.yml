@@ -19,8 +19,7 @@ collections:
   icons:
     title: icons
     output: true
-    permalink: /assets/images/:collection/:path
-
+    permalink: "/assets/images/:collection/:path"
 defaults:
 - scope:
     path: ''
@@ -30,7 +29,7 @@ defaults:
     path: ''
     type: icons
   values:
-    layout: 'svg'
+    layout: svg
 - scope:
     path: ''
     type: 'projects'
