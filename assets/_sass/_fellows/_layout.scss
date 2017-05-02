@@ -1,0 +1,56 @@
+$site-header-height: 6.0rem;
+
+.site-header {
+  background: $color-gray-lightest;
+  font-family: $font-sans;
+  .no-logo {
+    font-size: 1.1rem;
+    line-height: $site-header-height;
+    padding: $site-header-height / 4 0;
+  }
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      & > li {
+        margin: 0;
+        padding: 0 $site-header-height / 4;
+        list-style-type: none;
+        display: inline-block;
+        position: relative;
+        line-height: $site-header-height;
+        transition: background .25s;
+        span {}
+        .icon { width: 2rem; }
+        ul {
+          background: $color-gray-lightest;
+          position: absolute;
+          transition: top .25s;
+          left: 0;
+          min-width: 100%;
+          width: auto;
+          overflow: hidden;
+          transition: background .25s, max-height .25s;
+          max-height: 0;
+          li {
+            display: block;
+            line-height: $base-font-size;
+            padding: $site-header-height / 4;
+            white-space: nowrap;
+          }
+        }
+        &:hover,
+        ul:hover {
+          cursor: pointer;
+          background: $color-gray-lighter;
+        }
+        &:hover ul,
+        ul:hover {
+          // limit of 6 items in dropdown lists
+          max-height: 6 * $base-font-size ;
+          background: $color-gray-lighter;
+        }
+      }
+    }
+  }
+}

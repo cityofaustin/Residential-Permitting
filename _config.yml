@@ -1,6 +1,7 @@
 ---
 title: WeBuildThis.City
 timezone: America/Chicago
+locale: en
 collections:
   content:
     title: Content
@@ -9,23 +10,22 @@ collections:
   departments:
     title: Departments
     output: false
-  globals:
-    title: Globals
-    output: false
   glossary:
     title: Glossary
     output: false
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
+  projects:
+    title: Projects
     output: true
   icons:
     title: icons
     output: true
     permalink: /assets/images/:collection/:path
+
 defaults:
+- scope:
+    path: ''
+  values:
+    layout: 'default'
 - scope:
     path: ''
     type: icons
@@ -33,8 +33,15 @@ defaults:
     layout: 'svg'
 - scope:
     path: ''
+    type: 'projects'
   values:
-    layout: 'default'
+    layout: 'project'
+- scope:
+    path: '_content/resources'
+    type: 'content'
+  values:
+    in_resources_menu: false
+    in_permit_check_menu: false
 
 _comments:
   department_name: The department's official name

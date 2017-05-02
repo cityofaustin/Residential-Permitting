@@ -370,16 +370,14 @@ code {
 
 // External link styles
 
-[href^="http:"]:not([href*="standards.com"]),
-[href^="https:"]:not([href*="standards.com"]) {
+[data-external-link="true"] {
   @include external-link(external-link, external-link-hover);
 }
 
 .usa-button,
 .link-download,
 .media_link {
-  &[href^="http:"]:not([href*="standards.com"]),
-  &[href^="https:"]:not([href*="standards.com"]) {
+  &[data-external-link="true"] {
     &::after {
       display: none;
     }
@@ -388,8 +386,7 @@ code {
 
 .logo-links,
 .usa-disclaimer-stage {
-  [href^="http:"]:not([href*="standards.com"]),
-  [href^="https:"]:not([href*="standards.com"]) {
+  [data-external-link="true"] {
     &::after {
       display: none;
     }

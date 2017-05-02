@@ -1,10 +1,38 @@
 <header class="site-header">
   <div class="container container-fluid">
-    <div class="row center-xs">
-      <div class="col-xs-12">
-        <h1>
-          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-        </h1>
+    <div class="row">
+      <div class="col-xs-12 col-md-4">
+        <span class="no-logo">{{ site.data.labels.locales[site.locale].intro }}</span>
+      </div>
+      <div class="col-xs-12 col-md-8">
+        <nav>
+          <ul>
+            <li><a href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
+            <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul>
+                {% for project in site.projects limit: 6 %}
+                  <li><a href="{{ site.url }}/{{ project.url }}">{{ project.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+            <li><span>{{ site.data.labels.locales[site.locale].permit_check }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul>
+                {% assign permit_pages = site.content | where: 'in_permit_check_menu', true %}
+                  {% for page in permit_pages limit: 6 %}
+                  <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+            <li><span>{{ site.data.labels.locales[site.locale].resources }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul>
+                {% assign resource_pages = site.content | where: 'in_resources_menu', true %}
+                  {% for page in resource_pages limit: 6 %}
+                  <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+            <li><a href="{{ site.url }}/contact">{{ site.data.labels.locales[site.locale].contact }}</a></li>
+        </nav>
       </div>
     </div>
   </div>
