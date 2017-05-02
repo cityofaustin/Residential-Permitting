@@ -11,14 +11,29 @@ Before applying for a permit(s), it’s important to define your project, determ
 ### What is a shed?
 A simple, enclosed structure that is physically detached from your house that no one will be living in and that will be used for storage.
 
+
 ### Requirements for all sheds
 You may not need a permit, but you still need to follow a few zoning regulations to make sure there are no future issues with your shed. One way to ensure you won’t have code issues, is to purchase a pre made shed that you can move if you need to.
 
+
+---
+##### note from rudder: please ignore, working on a plugin
+{: .insert-glossary data-glossary-term="term"}
+
+<aside class="glossary">
+{% assign entry = site.glossary | where: 'term', 'fence'| first %}
+{{ entry.short_definition | markdownify }}
+</aside>
+---
+
 #### Easements
-When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
+<p class="insert-glossary-here"><span class="breakout">When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.</span><span class="glossary-aside">A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</span></p>
 
 #### Setbacks
-You may not build within 5 feet of the side border of your lot or within 10 feet of the rear border of your lot. If your shed will be less that 15 feet tall, then you may not build within 5 feet from both the side and rear borders of your lot.
+<p class="insert-glossary-here"><span class="breakout">You may not build within 5 feet of the side border of your lot or within 10 feet of the rear border of your lot. If your shed will be less that 15 feet tall, then you may not build within 5 feet from both the side and rear borders of your lot.</span><span class="glossary-aside">A setback is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</span></p>
+
+
+
 
 #### Impervious cover
 Typically, your impervious cover cannot exceed 40% of your property. Impervious cover restrictions are in place to prevent flooding.

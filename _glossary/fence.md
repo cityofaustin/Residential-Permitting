@@ -1,13 +1,14 @@
 ---
 title: Fence
-term: Fence
+term: fence
 short_definition: |
   A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.
 
+long_definition: |
   The City of Austin defines two fence types:
   * an **ornamental fence** is made of up 25% or less solid material, featuring an open design
   * a **solid fence** is built with more than 25% solid material
-long_definition: |
+
   A fence of any kind cannot be built in a floodplain. Contact the Watershed Protection Department to determine if there is floodplain on your property.
 
   An ornamental fence has no additional requirements or height restrictions.
@@ -19,7 +20,7 @@ long_definition: |
   >**Tip**
   >
   >Depending on its placement on your property, the grade of your land, and the types of properties that neighbor your own, a solid fence may have additional requirements. Bring a survey of your property and an outline of the project to the Service Center to receive additional guidance.
-source: 
+source:
 ---
 
 A fence of any kind cannot be built in a floodplain. Contact the Watershed Protection Department to determine if there is floodplain on your property.
