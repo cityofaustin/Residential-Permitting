@@ -134,35 +134,24 @@ See Examples
 
 Good Example | Bad Example
 
-3. Bring your Property Survey if possible [ACCORDION]
+#### 3. Bring your Property Survey if possible
 
 While your property survey, also known as a cadastral survey, isn’t required at consultation, it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
-Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
+* Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
+* Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.
+* Your impervious cover: impervious cover restrictions are in place to prevent flooding.
 
-[DEFINITION: A mandatory clear distance between a lot line and the buildable area of a lot.]
-
-Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.
-
-[DEFINITION: An area of a resident's lot that may be used by a government entity or neighbor but not by the resident.]
-
-Your impervious cover: impervious cover restrictions are in place to prevent flooding.
-
-[Definition: The total area of human made surfaces of a property that prevents water from being absorbed into the ground.]
-
-What if I can’t find my survey?
+##### What if I can’t find my survey?
 
 You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
 
-Local property records or engineering department
+* Local property records or engineering department
+* Local tax assessor or tax collector
+* Home lender or title company from your original purchase
+* Or, try asking your neighbors where they got theirs
 
-Local tax assessor or tax collector
-
-Home lender or title company from your original purchase
-
-Or, try asking your neighbors where they got theirs
-
-Remember, you survey is NOT required for consultation.
+Remember, you survey is not required for consultation.
 
 ### How to get a free in-person consultation
 
