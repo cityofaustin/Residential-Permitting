@@ -164,19 +164,16 @@ Or, try asking your neighbors where they got theirs
 
 Remember, you survey is NOT required for consultation.
 
-How to get a free in-person consultation
+### How to get a free in-person consultation
 
-There are two ways to sign up for a free 20-minute, in-person consultation:
+There are two ways to sign up for a free 20-minute, in-person consultation. Consultations are provided at [Residential Plan Review](/contact/) at the One Texas Center. You may:
 
-Consultations are provided at Residential Plan Review at the One Texas Center [INTERNAL LINK: contact page]. You may sign up in person at the QLess Kiosk at the Residential Plan Review Division
+* Sign up in person at the QLess Kiosk at the Residential Plan Review
+* Or you may save time by [joining the line remotely on the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). After filling out your name and number on the website, you will need to select Residential. Then select process and zoning questions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
 
-OR
+Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-You may save time by joining the line remotely on the QLess website [EXTERNAL LINK: https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812]. After filling out your name and number on the website, you will need to select Residential. Then select process and zoning questions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
-
-Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
-
-<br>After your consultation, feel free to return to the next section for further assistance on preparing your application [INTERNAL LINK: Apply shed tab]
+After your consultation, feel free to return to the next section for further assistance on preparing your application.
 
 ## Apply
 {: .step}
