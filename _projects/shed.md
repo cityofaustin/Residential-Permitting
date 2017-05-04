@@ -100,7 +100,7 @@ If you will be building near a protected tree, need a trade permit, or will be b
 
 ### Make the most out of your consultation
 
-Consultation is not where you submit your application. However, in order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your proposed project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF]
+Consultation is not where you submit your application. However, in order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your proposed project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
 
 #### 1. Collect the following information
 
