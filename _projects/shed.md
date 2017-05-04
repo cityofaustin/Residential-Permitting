@@ -99,3 +99,51 @@ Remember to leave ample time for this process. Residential Plan Review can get v
 
 ## Apply
 {: .step}
+
+## Review
+
+## Inspect
+
+Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
+
+### What inspections will I need?
+
+When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
+
+### Who can schedule inspections?
+
+Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
+
+### How do I schedule my inspections?
+
+Inspections can be scheduled one of three ways. [tab set]
+
+### Do I need to be home for my inspection?
+
+When you schedule your inspection, you will find out whether or not you need to be home. &nbsp;
+
+If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
+
+### What happens during inspection?
+
+Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
+
+* Framing checklist
+* Foundation checklist
+* Layout checklist
+
+Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
+
+### Final Inspection
+
+Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
+
+It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/resources/can-i-get-a-permit/).
+
+What if I fail my final inspection?
+
+Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection.
+
+You cannot pass inspection with an expired permit. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the Service Center on the first floor of the One Texas Center.
+
+Remember, you must pass your final inspection in order to close your permit(s).
