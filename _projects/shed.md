@@ -21,7 +21,7 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 ##### note from rudder: please ignore, working on a plugin
 {: .insert-glossary}
 
-<aside class="glossary">{% assign entry = site.glossary | where: 'term', 'fence'| first %} {{ entry.short_definition | markdownify }}</aside>
+<aside class="glossary"><p>A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</p></aside>
 
 ---
 
@@ -39,7 +39,7 @@ When there is an easement on your lot and you choose to build on the easement, y
 
 Typically, your impervious cover cannot exceed 40% of your property. Impervious cover restrictions are in place to prevent flooding.
 
-#### cr
+#### testing out some new stuff cr
 
 #### Do I need a building permit?
 
@@ -55,7 +55,7 @@ Permits are proof that changes on your property follow the City of Austin’s ru
 
    [link text here](#linkurlhere)
 
-2. You may need a consultation to determine your    shed requirements.
+2. You may need a consultation to determine your     shed requirements.
 
    While it is possible to prepare your application on your own, many residents prefer to come in for a consultation with one of our reviewers. At a consultation, the reviewer will be able to:
 
@@ -81,7 +81,7 @@ In order to make the most of your time in your consultation, it’s helpful to p
    * Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
    * Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.<!--  Unfortunately, you can't nest headings inside list items in markdown, so let's just bold this paragraph: -->
 
-   **What if I can't find my survey?**
+   **What if I can’t find my survey?**
 
    You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your: \* Local property records or engineering department \* Local tax assessor or tax collector \* Home lender or title company from your original purchase \* Or, try asking your neighbors where they got theirs. Remember, your survey is NOT required for consultation.
 
