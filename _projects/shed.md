@@ -102,7 +102,81 @@ If you will be building near a protected tree, need a trade permit, or will be b
 
 Consultation is not where you submit your application. However, in order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your proposed project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF]
 
-&nbsp;
+#### 1. Collect the following information
+
+* What is the address of where will you be building your shed?
+* What will you be using this shed for?
+* Will your shed:
+  * Be over 1 story?
+  * Be over 200 square feet (over 20 ft x 10 ft)?
+  * Be built in a floodplain?
+  * Have plumbing?
+  * Have a Heating, Ventilation, and Air Conditioning unit (HVAC)?
+  * Have electricity?
+
+#### 2. Draw a few simple sketches of your shed and property
+
+A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation.
+
+##### a. Where your shed will be on your property
+
+Sketch the layout of your property with any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
+
+See Examples
+
+Good Example | Bad Example
+
+##### b. What your shed will look like
+
+Sketch your proposed shed with its dimensions and any windows or doors.
+
+See Examples
+
+Good Example | Bad Example
+
+3. Bring your Property Survey if possible [ACCORDION]
+
+While your property survey, also known as a cadastral survey, isn’t required at consultation, it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
+
+Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
+
+[DEFINITION: A mandatory clear distance between a lot line and the buildable area of a lot.]
+
+Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.
+
+[DEFINITION: An area of a resident's lot that may be used by a government entity or neighbor but not by the resident.]
+
+Your impervious cover: impervious cover restrictions are in place to prevent flooding.
+
+[Definition: The total area of human made surfaces of a property that prevents water from being absorbed into the ground.]
+
+What if I can’t find my survey?
+
+You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
+
+Local property records or engineering department
+
+Local tax assessor or tax collector
+
+Home lender or title company from your original purchase
+
+Or, try asking your neighbors where they got theirs
+
+Remember, you survey is NOT required for consultation.
+
+How to get a free in-person consultation
+
+There are two ways to sign up for a free 20-minute, in-person consultation:
+
+Consultations are provided at Residential Plan Review at the One Texas Center [INTERNAL LINK: contact page]. You may sign up in person at the QLess Kiosk at the Residential Plan Review Division
+
+OR
+
+You may save time by joining the line remotely on the QLess website [EXTERNAL LINK: https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812]. After filling out your name and number on the website, you will need to select Residential. Then select process and zoning questions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
+
+Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
+
+<br>After your consultation, feel free to return to the next section for further assistance on preparing your application [INTERNAL LINK: Apply shed tab]
 
 ## Apply
 {: .step}
