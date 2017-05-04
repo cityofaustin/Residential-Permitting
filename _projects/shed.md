@@ -39,13 +39,25 @@ When there is an easement on your lot and you choose to build on the easement, y
 
 Typically, your impervious cover cannot exceed 40% of your property. Impervious cover restrictions are in place to prevent flooding.
 
-#### testing out some new stuff cr
+### Do I need a permit?
 
-#### Do I need a building permit?
+#### Building permits
 
-Your shed requires a building permit if it will: \* Be habitable \* Over 1 story \* Over 200 square feet \* Built in a floodplain \* Have plumbing
+Your shed requires a building permit if it will:
 
-One way to ensure you won’t have code issues, is to purchase a pre made shed that you can move if you need to.
+* Be over 1 story
+* Be over 200 square feet (over 20 ft x 10 ft)
+* Be built in a floodplain
+* Have plumbing
+* Have a Heating, Ventilation, and Air Conditioning unit (HVAC)
+
+#### Electric permits
+
+Having electricity in your shed does not require a building permit, however you must still get an electricity permit from the Service Center on the first floor of the One Texas Center.
+
+If your shed won’t otherwise require a building permit, this is known as a stand-alone electricity permit.
+
+If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit (also known as a trade permit).
 
 ### Yes, I do need a permit
 
@@ -118,7 +130,7 @@ Your plot plan must be drawn to scale either by hand or by using a CAD program a
 
 See Examples
 
-Good Example | Bad Example
+| Good Example | Bad Example |
 
 #### 3. Floor Plan
 
@@ -126,7 +138,7 @@ Your floor plan of your proposed shed must be drawn to scale either by hand or b
 
 See Examples
 
-Good Example | Bad Example
+| Good Example | Bad Example |
 
 #### 4. Elevation Plan
 
@@ -134,7 +146,7 @@ Your elevation plan of your proposed shed must be drawn to scale either by hand 
 
 See Examples
 
-Good Example | Bad Example
+| Good Example | Bad Example |
 
 #### Other commonly required documents
 
