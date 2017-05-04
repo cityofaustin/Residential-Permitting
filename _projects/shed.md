@@ -55,59 +55,54 @@ Your shed requires a building permit if it will:
 
 Having electricity in your shed does not require a building permit, however you must still get an electricity permit from the Service Center on the first floor of the One Texas Center.
 
-If your shed won’t otherwise require a building permit, this is known as a stand-alone electricity permit.
+* If your shed won’t otherwise require a building permit, this is known as a stand-alone electricity permit
+* If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit (also known as a trade permit)
 
-If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit (also known as a trade permit).
+#### Tree permits
 
-### Yes, I do need a permit
+If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 ft from the ground (diameter at breast height or DBH) is 19 in or more in diameter (59.6904 in around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 19 in or more in diameter and a heritage tree, then you may not be able to remove it.
+
+Learn more about protected trees [INTERNAL LINK: Can I remove that tree?] and constructions requirements.
+
+### Yes, I need a building permit
 
 Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code”, so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors.
 
-1. Make sure you can get a permit.
+#### Make sure you can get a permit
 
-   [link text here](#linkurlhere)
+If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
 
-2. You may need a consultation to determine your     shed requirements.
+#### You may need a consultation to determine your  shed requirements
 
-   While it is possible to prepare your application on your own, many residents prefer to come in for a consultation with one of our reviewers. At a consultation, the reviewer will be able to:
+While it is possible to prepare your application [INTERNAL LINK: Prepare shed tab] without consultation, many residents prefer to come in for a free 20-minute consultation with one of our reviewers before preparing to apply. At a consultation, the reviewer will be able to:
 
-   * Speak to the specific requirements of your project such as your: easements, setbacks, and impervious cover; whether or not your property is in a floodplain; historic review; and zoning.
+* Speak to the specific requirements of your project such as your: easements, setbacks, and impervious cover; whether or not your property is in a floodplain; historic review; and zoning. Be aware that based on this information, you may find in consultation that you cannot build your shed as planned.
+* Provide you with a list of the documents you will need to prepare for your application based on your project
+* And explain the next steps in your process
 
-   * Be aware that based on this information, you may find in consultation that you cannot build your shed as planned.
+#### You may need to hire a licensed professional
 
-   * Provide the necessary documents and a checklist
+Depending on the specifics of your shed, you may need to hire a licensed professional such as an architect, engineer, or surveyor to complete some required application materials.
 
-   * And explain the next steps in your process
+Find out which application materials may need to be prepared by a professional in the Apply section [internal anchor link].
 
-Depending on the specifics of your shed, you may need to hire a licensed professional engineer to complete some required application materials.
+##### What if I want to hire a contractor?
 
-### Prepare for your consultation
+Contractors are required to get permits for their work and should be getting any needed permits themselves. However, you want to make sure that you select a licensed contractor that will see that this is done properly.
 
-In order to make the most of your time in your consultation, it’s helpful to prepare some information about your property and your proposed project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on your plans. Use the instructions below or print and complete this in-person preparation worksheet.
+Check out the City of Austin’s [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
-1. Bring your Property Survey if possible
+### How much do building permits cost?
 
-   While your property survey, also known as a cadastral survey, isn’t required at consultation, it will give the reviewer a better sense of whether or not you can move forward as planned. It gives them insight into such details as:
+The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This includes the plan review, the permit, and fees.
 
-   * Your impervious cover: impervious cover restrictions are in place to prevent flooding.
-   * Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
-   * Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.<!--  Unfortunately, you can't nest headings inside list items in markdown, so let's just bold this paragraph: -->
+If you will be building near a protected tree, need a trade permit, or will be building a shed greater than 1750 square feet, then there will be additional charges.
 
-   **What if I can’t find my survey?**
+### Make the most out of your consultation
 
-   You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your: \* Local property records or engineering department \* Local tax assessor or tax collector \* Home lender or title company from your original purchase \* Or, try asking your neighbors where they got theirs. Remember, your survey is NOT required for consultation.
+Consultation is not where you submit your application. However, in order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your proposed project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF]
 
-2. Take note of the following
-   * What is the address of where will you be building your shed?
-   * What will you be using this shed for?
-   * Are there any other details in your design the reviewer may need to consider?
-3. Sketch out your property and proposed shed
-
-   A sketch will give the reviewer a clearer picture of your project and whether or not you can move forward as planned. You’ll want to bring two sketches to your consultation. \* A sketch of your property with all the existing structures (such as your house, pool, deck, driveway, etc.), your proposed shed where you envision building it, and the dimensions of all of these items including your lot. \* A sketch of your proposed shed with dimensions and square footage.
-
-### How To Get A Consultation
-
-Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend arriving as close to opening time as possible.
+&nbsp;
 
 ## Apply
 {: .step}
