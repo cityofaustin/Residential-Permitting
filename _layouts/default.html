@@ -1,29 +1,41 @@
 <!DOCTYPE html>
 
-<html>
+<html id="IAMDEFAULT">
 
 	{% include head.html %}
 
-	<body>
+	<body class="project-layout">
 
 	{% include site-header.html %}
 
 	<section class="main">
+		<div class="project-header">
+			<div class="container container-fluid center-xs">
+					<img class="project-graphic" src="{{ page.project-graphic }}" alt="{{ page.name }} graphic">
+					<h1>{{ page.title }}</h1>
+					<nav>
+						<a class="active" href="#{{ site.data.labels.locales[site.locale].project_step_1_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_1_title }}</a>
+						{% include _icon.html icon='arrow-long-right' %}
+						<a href="#{{ site.data.labels.locales[site.locale].project_step_2_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_2_title }}</a>
+						{% include _icon.html icon='arrow-long-right' %}
+						<a href="#{{ site.data.labels.locales[site.locale].project_step_3_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_3_title }}</a>
+						{% include _icon.html icon='arrow-long-right' %}
+						<a href="#{{ site.data.labels.locales[site.locale].project_step_4_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_4_title }}</a>
+						<span> | </span>
+						<a href="#{{ site.data.labels.locales[site.locale].resources | slugify }}">{{ page.name }} {{ site.data.labels.locales[site.locale].resources }}</a>
+					</nav>
+				</div>
+		</div>
 		<div class="container container-fluid">
 			<div class="row center-xs">
 
-				<div class="page-header col-xs-8">
-					<h1>{{ page.title }}</h1>
-					{% if page.subhead %}
-					<p class="lead">{{ page.subhead }}</p>
-					{% endif %}
-				</div>
+
 
 				{% if page._page-layout %}
 				  {% include {{ page._page-layout }} %}
 				{% endif %}
 
-				<article class="content start-xs col-xs-12">
+				<article class="content start-xs col-xs-12 col-sm-8">
 					{{ content }}
 				</article>
 
@@ -32,6 +44,5 @@
 	</section>
 
 	{% include footer.html %}
-	<script src="{{ site.url }}/assets/javascripts/application.js"></script>
 	</body>
 </html>

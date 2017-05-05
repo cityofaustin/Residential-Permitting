@@ -1,7 +1,8 @@
 ---
-# Javascipts!!!
+# Javascripts!
 ---
 
+var hi;
 // Vender JS
  -{% include_relative vendor/jquery.min.js %}
  -{% include_relative vendor/uswds.min.js %}
