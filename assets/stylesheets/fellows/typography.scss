@@ -1,0 +1,63 @@
+body {
+  color: $color-gray;
+  font-family: $font-body;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: $color-gray-dark;
+  font-family: $font-headlines;
+}
+
+// Overrides USWDS Heading mixins
+h1 {
+  font-size: $h1-font-size;
+  font-weight: $font-bold;
+}
+
+h2 {
+  font-size: $h2-font-size;
+  font-weight: $font-bold;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  font-weight: $font-medium;
+}
+
+h4 {
+  font-size: $h4-font-size;
+  font-weight: $font-medium;
+}
+
+h5 {
+  font-size: $h5-font-size;
+  font-weight: $font-medium;
+}
+
+h6 {
+  font-size: $h6-font-size;
+  font-weight: $font-normal;
+  text-transform: uppercase;
+}
+
+.lead {
+  font-size: $lead-font-size;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+a:visited { color: $color-primary; }
+
+.content {
+  // any other children of the numbered list item
+  & > ol > li > * {
+    font-size: $base-font-size;
+    font-weight: $font-normal;
+  }
+    // the numbered list item and the list item's first paragraph
+  & > ol > li,
+  & > ol > li > p:first-child {
+    font-size: $h4-font-size;
+    font-weight: $font-bold;
+  }
+
+}
