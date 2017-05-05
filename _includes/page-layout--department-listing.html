@@ -1,0 +1,40 @@
+<div class="col-md-8">
+{% for department in site.departments  %}
+  <div class="row start-md center-xs">
+
+    <div class="col-xs-10 col-md-6">
+      <p><a href="{{ department.department_link }}">{{ department.department_name }}</a><p>
+      <p>{{ department.description }}</p>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <div class="row">
+        <div class="col-xs-2">
+          <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
+        </div>
+        <div class="col-xs-10">
+          <p>{{ department.phone }}</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-2">
+          <p>{% include _icon.html icon='map-marker' context='Office Location' %}</p>
+        </div>
+        <div class="col-xs-10">
+          {{ department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-2">
+          <p>{% include _icon.html icon='clock' context='Office Hours' %}</p>
+        </div>
+        <div class="col-xs-10">
+          {% for periods in department.hours  %}
+            {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+</div>

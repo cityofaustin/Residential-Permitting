@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+
+	{% include head.html %}
+
+	<body>
+
+	{% include site-header.html %}
+
+	<section class="main">
+		<div class="container container-fluid">
+			<div class="row center-xs">
+
+				<div class="page-header col-xs-8">
+					<h1>{{ page.title }}</h1>
+					{% if page.subhead %}
+					<p class="lead">{{ page.subhead }}</p>
+					{% endif %}
+				</div>
+
+				{% if page._page-layout %}
+				  {% include {{ page._page-layout }} %}
+				{% endif %}
+
+				<article class="content start-xs col-xs-12">
+					{{ content }}
+				</article>
+
+			</div>
+		</div>
+	</section>
+
+	{% include footer.html %}
+	<script src="{{ relative }}assets/javascripts/application.js"></script>
+	</body>
+</html>
