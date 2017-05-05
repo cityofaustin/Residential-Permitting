@@ -7,11 +7,11 @@
       <div class="col-xs-12 col-md-8">
         <nav>
           <ul>
-            <li><a href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
+            <li><a href="{{ site.url }}">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% for project in site.projects limit: 6 %}
-                  <li><a href="{{ site.url }}/{{ project.url }}">{{ project.name }}</a></li>
+                  <li><a href="{{ site.url }}{{ project.url }}">{{ project.name }}</a></li>
                 {% endfor %}
               </ul>
             </li>
@@ -19,7 +19,7 @@
               <ul>
                 {% assign permit_pages = site.content | where: 'in_permit_check_menu', true %}
                   {% for page in permit_pages limit: 6 %}
-                  <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
@@ -27,11 +27,11 @@
               <ul>
                 {% assign resource_pages = site.content | where: 'in_resources_menu', true %}
                   {% for page in resource_pages limit: 6 %}
-                  <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
-            <li><a href="{{ site.url }}/contact">{{ site.data.labels.locales[site.locale].contact }}</a></li>
+            <li><a href="{{ site.url }}contact">{{ site.data.labels.locales[site.locale].contact }}</a></li>
         </nav>
       </div>
     </div>
