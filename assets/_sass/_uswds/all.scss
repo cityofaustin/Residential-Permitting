@@ -1,0 +1,42 @@
+// Vendor -------------- //
+// loaded in main styles.scss
+
+// @import '_uswds/lib/bourbon';
+// @import '_uswds/lib/neat';
+// @import '_uswds/lib/normalize';
+
+
+// Core -------------- //
+@import '_uswds/core/variables';
+@import '_uswds/core/fonts';
+@import '_uswds/core/base';
+@import '_uswds/core/grid';
+@import '_uswds/core/utilities';
+
+// Elements -------------- //
+// Styles basic HTML elements
+@import '_uswds/elements/buttons';
+@import '_uswds/elements/embed';
+@import '_uswds/elements/figure';
+@import '_uswds/elements/inputs';
+@import '_uswds/elements/labels';
+@import '_uswds/elements/list';
+@import '_uswds/elements/table';
+@import '_uswds/elements/typography';
+
+// Components -------------- //
+@import '_uswds/components/accordions';
+@import '_uswds/components/alerts';
+@import '_uswds/components/banner';
+@import '_uswds/components/footer';
+@import '_uswds/components/forms';
+@import '_uswds/components/graphic-list';
+@import '_uswds/components/header';
+@import '_uswds/components/hero';
+@import '_uswds/components/layout';
+@import '_uswds/components/media-block';
+@import '_uswds/components/navigation';
+@import '_uswds/components/search';
+@import '_uswds/components/section';
+@import '_uswds/components/sidenav';
+@import '_uswds/components/skipnav';

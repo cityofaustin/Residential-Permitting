@@ -1,27 +1,66 @@
 ---
 title: WeBuildThis.City
 timezone: America/Chicago
+locale: en
 collections:
-  posts:
-    title: Posts
+  content:
+    title: Content
     output: true
-  uploads:
-    title: Uploads
+    permalink: "/:path/"
+  departments:
+    title: Departments
+    output: false
+  glossary:
+    title: Glossary
+    output: false
+  projects:
+    title: Projects
     output: true
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  icons:
+    title: icons
+    output: true
+    permalink: "/assets/images/:collection/:path"
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: 'default'
+- scope:
+    path: ''
+    type: icons
+  values:
+    layout: svg
+- scope:
+    path: ''
+    type: 'projects'
+  values:
+    layout: 'project'
+- scope:
+    path: '_content/resources'
+    type: 'content'
+  values:
+    in_resources_menu: false
+    in_permit_check_menu: false
 
-'
-baseurl: 
-url: 
-twitter_username: jekyllrb
-github_username: jekyll
+_comments:
+  department_name: The department's official name
+  department_link: The link to the department's page on AustinTexas.gov
+  phone: Please use the format 000-000-0000
+  email:
+  period_name: e.g., "General questions" or "By appointment only"
+  period_time_markdown: Open-Close days and times, new lines OK
+  physical_address_markdown: Actual address for visitors, new lines OK
+subtitle: Austin’s Residential Permitting Resource
+show_full_navigation: true
+baseurl:
+url: http://alpha.webuildthis.city
 markdown: kramdown
-theme: minima
+description: The City of Austin’s Residential Permitting Resource
+sass:
+  sass_dir: assets/_sass
+permalink: pretty
 gems:
-- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
+- README.md
