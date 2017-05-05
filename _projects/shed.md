@@ -124,7 +124,7 @@ Sketch the layout of your property with any existing structures (such as your ho
 
 See Examples
 
-Good Example | Bad Example
+| Good Example | Bad Example |
 
 ##### b. What your shed will look like
 
@@ -132,7 +132,7 @@ Sketch your proposed shed with its dimensions and any windows or doors.
 
 See Examples
 
-Good Example | Bad Example
+| Good Example | Bad Example |
 
 #### 3. Bring your Property Survey if possible
 
