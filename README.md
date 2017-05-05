@@ -1,36 +1,49 @@
-## About
+# USWDS + Jekyll
 
-This is the new website of the Austin permitting resource tool, currently under active development. The project is being led by a team in the City's [Design, Technology, and Innovation Fellows program][dti].
+This is a boilerplate for using the [U.S. Web Design Standards](https://standards.usa.gov/) to build static websites and prototypes with [Jekyll](https://jekyllrb.com/). 
 
-We're using [sprints], and you're welcome to check out [our Trello board][trello].
+Before you begin here, get acquianted with documentation for both the U.S. Web Design Standards and Jeykll. 
+- [USWDS Documentation](https://standards.usa.gov/getting-started/)
+- [Jekyll Documentation](https://jekyllrb.com/docs/home/)
 
-[dti]: http://cityofaustin.github.io/innovation-fellows/
-[sprints]: https://en.wikipedia.org/wiki/Scrum_(software_development)
-[trello]: https://trello.com/b/0xJnolPW/we-build-this-city-active-sprint
+The U.S. Web Design Standards’ entire feature set is included. You can find code snippets to copy and paste in:
 
-## Architecture
+```
+assets/uswds/html
+```
 
-Much of this is to be determined; we're using [Jekyll][] as the static site generator and are investigating [GatherContent][] to use as the content editor.
+For Jekyll, there’s not much here since it’s up to you to build this out as you see fit. Only the example pages and posts have been removed. 
 
-[GatherContent]: https://gathercontent.com
-[jekyll]: https://jekyllrb.com
+## Included (Coming Soon)
+The following tools have been included to make front-end development easier. Read through their documentation. 
+- [Bourbon](http://bourbon.io) 
+- [Bourbon Neat](http://neat.bourbon.io/)
 
-## Getting Started
+## Dependencies (Coming Soon)
+You will need to install the following before you get started:
+- [Jekyll](https://jekyllrb.com/docs/installation/) 
+- [Sass](http://sass-lang.com/install)
 
-1. Clone the repo:
+## CSS
+Using Sass to write your CSS is highly recommended. Your main CSS file is `assets/stylesheets/application.scss` Do not write any CSS selectors on this page. Instead, link to them with `@import` statements. 
 
-        $ git clone https://github.com/cityofaustin/webuildthis.city.git
+The U.S. Web Design Standards CSS files are located in `assets/uswds/stylesheets`. You may use any Sass variables from the U.S. Web Design Standards in your project SCSS. To get familiar with the variables, you can read them in `assets/uswds/stylesheets/core/_variables.scss`
 
-2. Install deps:
+Your project CSS is located in  `assets/stylesheets/`. The `core`, `elements`, and `components` directories have been added to mirror U.S. Web Design Standards structure, but you may use whatever system you are comfortable with. 
 
-        $ bundle install
+## Javascript
+jQuery and the full USWDS JS file has been included. This can probably be improved a bit since both of these libraries will add significant weight and performance hits to your page. All JavaScript are imported and concatinated into a single file, `assets/javascripts/application.js`. Importants are handled with Jekyll’s `include_relative` method. Place your scripts in `assets/javascripts/scripts` and link to them in `assets/javascripts/application.js`. 
 
-3. Serve the Jekyll site(s):
+## How to run
+Using the command line, the following commands should be able to get you up and running. You will need to clone this repo, remove `origin` as a remote branch, and run on local host. 
 
-    `$ jekyll serve`.
+```
+$ git clone git@github.com:usds/uswds-jekyll.git
+$ cd uswds-jekyll
+$ git remote remove origin
+$ bundle install
+$ bundle exec jekyll serve
+```
 
-## Contributing
+When the application is running, you can view the site in the browser at http://localhost:4000
 
-Refer to the [Developer Guide][], particularly the Git workflow.
-
-[Developer Guide]: http://pages.austintexas.io/guides/developer-guide/
