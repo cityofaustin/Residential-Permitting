@@ -1,11 +1,88 @@
 {
-  "private": true,
+  "name": "uswds-docs",
+  "version": "1.0.0",
+  "description": "Website and documentation on using the U.S. Web Design Standards.",
   "scripts": {
+    "federalist": "gulp build",
+    "build": "gulp build && bundle exec jekyll build",
+    "build-css": "gulp sass",
+    "build-js": "gulp javascript",
+    "build-img": "gulp images",
+    "build-fonts": "gulp fonts",
+    "clean": "gulp clean-assets",
+    "lint": "gulp eslint scss-lint",
     "postinstall": "bundle",
-    "start": "bundle exec jekyll serve",
-    "build": "bundle exec jekyll build"
+    "prestart": "gulp build",
+    "start": "bundle exec jekyll serve --drafts --future",
+    "test": "npm run lint",
+    "watch": "nswatch"
   },
+  "watch": {
+    "./css/**/*.scss": [
+      "build-css"
+    ],
+    "./img": [
+      "build-img"
+    ],
+    "./js/**/*.js": [
+      "build-js"
+    ],
+    "./node_modules/uswds/src/stylesheets": [
+      "build-css"
+    ],
+    "./node_modules/uswds/src/fonts": [
+      "build-fonts"
+    ],
+    "./node_modules/uswds/src/img": [
+      "build-img"
+    ],
+    "./node_modules/uswds/src/js": [
+      "build-js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18F/web-design-standards-docs.git"
+  },
+  "author": "18F",
+  "contributors": [
+    "Erica Deahl <erica.deahl@gsa.gov>",
+    "Jeremia Kimelman <jeremia.kimelman@gsa.gov>",
+    "Julia Elman <julia.elman@gsa.gov>",
+    "Katherine Garklavs <katherine.garklavs@gsa.gov>",
+    "Marco Segreto <marco.segreto@gsa.gov>",
+    "Maya Benari <maya.ben-ari@gsa.gov>",
+    "Roger Steve Ruiz <roger.ruiz@gsa.gov>",
+    "Shawn Allen <shawn.allen@gsa.gov>",
+    "Will Sullivan <william.sullivan@gsa.gov>",
+    "Yoz Grahame <jeremy.grahame@gsa.gov>"
+  ],
+  "license": "SEE LICENSE in LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/18F/web-design-standards-docs/issues"
+  },
+  "homepage": "https://github.com/18F/web-design-standards-docs#readme",
   "dependencies": {
-    "uswds": "^0.13.1"
+    "browserify": "^13.0.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-scss-lint": "^0.3.9",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "jquery": "^2.2.0",
+    "merge-stream": "^1.0.0",
+    "node-notifier": "^4.6.0",
+    "normalize.css": "^3.0.3",
+    "nswatch": "^0.2.0",
+    "politespace": "^0.1.4",
+    "run-sequence": "^1.1.5",
+    "uswds": "1.1.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
