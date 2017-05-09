@@ -84,7 +84,9 @@ sass:
   load_paths:
     - css
     - assets/css
-    
+    - neat
+    - bourbon
+
 permalink: pretty
 exclude:
   - /node_modules/
