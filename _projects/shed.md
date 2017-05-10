@@ -16,7 +16,14 @@ A simple, enclosed structure that is physically detached from your house that no
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to ensure you won’t have code issues is to purchase a pre-made shed that is less than 200 square feet (less than 20 ft x 10 ft) that you can move if you need to.
 
-{% include glossary-aside.html term="fence" %}
+---
+
+##### note from rudder: please ignore, working on a plugin
+{: .insert-glossary}
+
+<aside class="glossary"><p>A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</p></aside>
+
+---
 
 #### Setbacks
 
