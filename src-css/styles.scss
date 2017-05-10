@@ -1,6 +1,9 @@
 ---
 # stylesheets
 ---
+
+$output-bourbon-deprecation-warnings: false !default;
+
 @import "bourbon";
 @import "neat";
 

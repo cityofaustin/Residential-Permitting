@@ -82,10 +82,10 @@ gems:
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   load_paths:
-    - css
-    - assets/css
+    - src-css
     - neat
     - bourbon
+    - assets/css
 
 permalink: pretty
 exclude:
@@ -94,7 +94,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - npm-debug.log
-  - /css
   - /screenshots
   - /sketch-files
   - ".ruby-version"
@@ -105,8 +104,9 @@ exclude:
   - LICENSE.md
   - README.md
   - config
-  - js
   - vendor
+  - /src-js
+  - /src-css
   - manifest.yml
   - node_modules
   - package.json

@@ -7,7 +7,7 @@ gulp.task('copy-doc-styles', function (done) {
 
   dutil.logMessage('copy-doc-styles', 'Copying Sass files from css/');
 
-  var stream = gulp.src('./css/**/*')
+  var stream = gulp.src('./src-css/**/*')
     .pipe(gulp.dest('assets/css/'));
 
   return stream;
@@ -33,7 +33,7 @@ gulp.task('scss-lint', function (done) {
   }
 
   return gulp.src([
-    './css/**/*.scss'
+    './src-css/**/*.scss'
     ])
     .pipe(linter({
       config: '.scss-lint.yml',

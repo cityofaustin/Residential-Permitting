@@ -18,13 +18,13 @@
     "watch": "nswatch"
   },
   "watch": {
-    "./css/**/*.scss": [
+    "./src-css/**/*.scss": [
       "build-css"
     ],
     "./img": [
       "build-img"
     ],
-    "./js/**/*.js": [
+    "./src-js/**/*.js": [
       "build-js"
     ],
     "./node_modules/uswds/src/stylesheets": [
