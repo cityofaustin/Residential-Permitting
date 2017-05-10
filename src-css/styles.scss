@@ -1,0 +1,14 @@
+---
+# stylesheets
+---
+
+$output-bourbon-deprecation-warnings: false !default;
+
+@import "bourbon";
+@import "neat";
+
+// Imports
+@import 'fellows/uswds-variables';
+@import 'vendor/uswds/uswds';
+@import 'fellows/all';
+@import 'permitting/all';

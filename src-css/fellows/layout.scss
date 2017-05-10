@@ -1,0 +1,99 @@
+$site-header-height: 6.0rem;
+
+.site-header {
+  background: $color-gray-lightest;
+  font-family: $font-sans;
+  .no-logo {
+    font-size: 1.1rem;
+    line-height: $site-header-height;
+    padding: $site-header-height / 4 0;
+  }
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      & > li {
+        margin: 0;
+        padding: 0 $site-header-height / 4;
+        list-style-type: none;
+        display: inline-block;
+        position: relative;
+        line-height: $site-header-height;
+        transition: background .25s;
+        span {}
+        .icon { width: 2rem; }
+        ul {
+          background: $color-gray-lightest;
+          position: absolute;
+          transition: top .25s;
+          left: 0;
+          min-width: 100%;
+          width: auto;
+          overflow: hidden;
+          transition: background .25s, max-height .25s;
+          max-height: 0;
+          li {
+            display: block;
+            line-height: $base-font-size;
+            padding: $site-header-height / 4;
+            white-space: nowrap;
+          }
+        }
+        &:hover,
+        ul:hover {
+          cursor: pointer;
+          background: $color-gray-lighter;
+        }
+        &:hover ul,
+        ul:hover {
+          // limit of 6 items in dropdown lists
+          max-height: 6 * $base-font-size ;
+          background: $color-gray-lighter;
+        }
+      }
+    }
+  }
+}
+
+.glossary-aside {
+  font-size: 1.3rem;
+  font-family: $font-sans;
+  border-style: solid;
+  border-color: $color-barton-light;
+  border-width: 0 0 0 2px;
+  padding:  1rem 0 1rem 2.5%;
+  max-width: 20%;
+  flex: 1 auto;
+  position: relative;
+  min-width: 12rem;
+  &:before,
+  &:after {
+    border-style: inherit;
+    border-color: inherit;
+    content: "";
+    width: 1rem;
+    position: absolute;
+    left: 0;
+  }
+  &:before {
+    border-width: 2px 0 0 0;
+    top: 0;
+  }
+  &:after {
+    border-width: 0 0 2px 0;
+    bottom: 0;
+  }
+}
+// todo: mobile
+.insert-glossary-here {
+  width: 130%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.breakout {
+  max-width: 75%;
+  flex: 1 auto;
+
+}
