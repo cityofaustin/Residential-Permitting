@@ -55,7 +55,7 @@ If your deck will require you to remove a tree (or perform construction near the
 
 Learn more about protected trees and construction requirements.
 
-### Yes, I need a building permit
+### I need a building permit
 
 Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors.
 
