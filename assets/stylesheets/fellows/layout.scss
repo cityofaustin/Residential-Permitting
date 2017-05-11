@@ -102,6 +102,7 @@ $site-header-height: 6.0rem;
 
 .photo-header {
   height: 340px;
+  position: relative;
   h1 {
     margin-top: 0;
     color: $color-white;
@@ -122,6 +123,36 @@ $site-header-height: 6.0rem;
     padding: 2em;
     width: 18em;
 
+  }
+  // we may want to use this elsewhere too!
+  .photo-credit {
+    position: absolute;
+    display: inline-block;
+    bottom: 0;
+    right: 0;
+    height: rem(30px);
+    background: rgba($color-gray-dark, .9);
+    padding: .5rem 1.25rem .5rem .5rem;
+    opacity: 0;
+    transition: opacity .5s;
+    p, a {
+      color: $color-white;
+      font-size: rem(12px);
+      margin: 0;
+      font-family: $font-sans;
+      display: inline-block;
+      font-weight: normal;
+    }
+    a {
+      text-decoration: underline;
+    }
+    svg {
+      width: 20px;
+      fill: $color-white;
+    }
+  }
+  &:hover {
+    .photo-credit { opacity: 1; }
   }
 }
 
