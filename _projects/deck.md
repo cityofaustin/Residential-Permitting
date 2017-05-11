@@ -117,7 +117,7 @@ To make the most of your free 20 minute in-person consultation, we suggest prepa
 Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
 {: .present-before-paste}
 
-Collect the following information:
+#### 1. Collect the following information:
 {: .present-before-paste}
 
 * What is the address where you will be building the deck?{: .present-before-paste}
@@ -131,7 +131,7 @@ Collect the following information:
 * Have electricity?{: .present-before-paste}
 * Be near a tree greater than 19 inches in diameter?{: .present-before-paste}
 
-#### Bring your property survey if possible
+#### 2. Bring your property survey if possible
 {: .present-before-paste}
 
 Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
@@ -147,19 +147,12 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 If you purchased your home after 1980, you likely would have received your survey when you purchased your home. If you can’t find it, or you don’t remember receiving it, check with your:
 {: .present-before-paste}
 
-Local property records or engineering department
-{: .present-before-paste}
+* Local property records or engineering department{: .present-before-paste}
+* Local tax assessor or local tax collector{: .present-before-paste}
+* Title or lending company from original purchase{: .present-before-paste}
+* Or, try asking your neighbors where they got theirs.{: .present-before-paste}
 
-Local tax assessor or local tax collector
-{: .present-before-paste}
-
-Title or lending company from original purchase
-{: .present-before-paste}
-
-Or, try asking your neighbors where they got theirs.
-{: .present-before-paste}
-
-Draw a few simple sketches of your deck and your property
+#### 3. Draw a few simple sketches of your deck and your property
 {: .present-before-paste}
 
 A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
