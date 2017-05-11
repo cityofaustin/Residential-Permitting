@@ -150,9 +150,9 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 If you purchased your home after 1980, you likely would have received your survey when you purchased your home. If you can’t find it, or you don’t remember receiving it, check with your:
 {: .present-before-paste}
 
-* Local property records or engineering department{: .present-before-paste}
-* Local tax assessor or local tax collector{: .present-before-paste}
-* Title or lending company from original purchase{: .present-before-paste}
+* Local property records or engineering department,{: .present-before-paste}
+* Local tax assessor or local tax collector,{: .present-before-paste}
+* Title or lending company from original purchase,{: .present-before-paste}
 * Or, try asking your neighbors where they got theirs.{: .present-before-paste}
 
 #### 3. Draw a few simple sketches of your deck and your property
@@ -212,7 +212,7 @@ Remember to leave ample time for this process. Residential Plan Review can get v
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
 {: .present-before-paste}
 
-Apply
+## Apply
 {: .present-before-paste}
 
 When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your shed.
