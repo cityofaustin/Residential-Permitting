@@ -380,82 +380,34 @@ When your application is approved, you or your hired professional will receive a
 Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
 {: .present-before-paste}
 
-Inspect
+## Inspect
 {: .present-before-paste}
 
 Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
 {: .present-before-paste}
 
-What inspections will I need?
+### What inspections will I need?
 {: .present-before-paste}
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 {: .present-before-paste}
 
-Who can schedule inspections?
+### Who can schedule inspections?
 {: .present-before-paste}
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
 {: .present-before-paste}
 
-How do I schedule my inspections?
+### How do I schedule my inspections?
 {: .present-before-paste}
 
 Inspections can be scheduled one of three ways.
 {: .present-before-paste}
 
-Online at Austin Build + Connect [EXTERNAL LINK]
+[need to insert tabbed options]
 {: .present-before-paste}
 
-In order to schedule your inspections through the portal, you must be a registered user. If you’re not already registered, you can register online.
-{: .present-before-paste}
-
-Click on "My Inspections" in the Menu option and follow the prompts.
-{: .present-before-paste}
-
-If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at dsdhelp@austintexas.gov [dsdhelp@austintexas.gov]
-{: .present-before-paste}
-
-In person at the Inspections Division [INTERNAL LINK to contacts page] on the 4th floor of the Texas One Center.
-{: .present-before-paste}
-
-Over the phone through our Interactive Voice Response System
-{: .present-before-paste}
-
-1. &nbsp;Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal. &nbsp;&nbsp;
-{: .present-before-paste}
-
-2. Call the IVR number: (512) 480-0623.
-{: .present-before-paste}
-
-3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection.
-{: .present-before-paste}
-
-If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout.
-{: .present-before-paste}
-
-If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection.
-{: .present-before-paste}
-
-Permits and approved plans must be on site at the time of the inspection.
-{: .present-before-paste}
-
-Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed. &nbsp;
-{: .present-before-paste}
-
-4. Enter your IVR PIN.
-{: .present-before-paste}
-
-5. Enter your ten-digit permit number.
-{: .present-before-paste}
-
-6. &nbsp;Enter the three-digit inspection code. Click here to View Inspection Type Codes.
-{: .present-before-paste}
-
-Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. Click here for a list of Inspectors Names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.
-{: .present-before-paste}
-
-Do I need to be home for my inspection?
+#### Do I need to be home for my inspection?
 {: .present-before-paste}
 
 When you schedule your inspection, you will find out whether or not you need to be home. &nbsp;
@@ -464,25 +416,20 @@ When you schedule your inspection, you will find out whether or not you need to 
 If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 {: .present-before-paste}
 
-What happens during inspection?
+#### What happens during inspection?
 {: .present-before-paste}
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
 {: .present-before-paste}
 
-Framing checklist
-{: .present-before-paste}
-
-Foundation checklist
-{: .present-before-paste}
-
-Layout checklist
-{: .present-before-paste}
+* Framing checklist.{: .present-before-paste}
+* Foundation checklist.{: .present-before-paste}
+* Layout checklist.{: .present-before-paste}
 
 Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
 {: .present-before-paste}
 
-Final Inspection
+### Final Inspection
 {: .present-before-paste}
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
@@ -491,7 +438,7 @@ Your project is complete once you pass your Final Inspection. Your inspector wil
 It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about open and expired permits.
 {: .present-before-paste}
 
-What if I fail my final inspection?
+#### What if I fail my final inspection?
 {: .present-before-paste}
 
 Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the Service Center at the One Texas Center.
