@@ -14,6 +14,9 @@ $site-header-height: 6.0rem;
     ul {
       margin: 0;
       padding: 0;
+      @media #{$md-viewport} {
+        text-align: right;
+      }
       & > li {
         margin: 0;
         padding: 0 $site-header-height / 4;
