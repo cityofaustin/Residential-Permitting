@@ -1,6 +1,21 @@
 <footer class="site-footer section--inverted">
   <div class="container container-fluid">
-    <div class="row center-xs">
+    <div class="row center-xs start-sm">
+      <div class="footer-logo col-xs-12 col-sm-6 col-md-3">
+        <img src="/assets/img/coa-austin-seal-white.png" alt="City of Austin Seal" />
+      </div>
+      {% for list in site.data.footer.footer_lists %}
+      <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
+        <h4>
+          <a class="footer-link-list-title" href="{{ list.list_title_link }}">{{ list.list_title }}</a>
+        </h4>
+        <ul>
+          {% for link in list.link_list %}
+          <li><a href="{{ link.page_link}}">{{ link.page_title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </footer>
