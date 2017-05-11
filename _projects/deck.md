@@ -297,6 +297,6 @@ It is important to close your permit(s) because if you do not, it may prevent yo
 
 #### What if I fail my final inspection?
 
-Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the Service Center at the One Texas Center.
+Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the [Service Center](/contact/) at the One Texas Center.
 
 Remember, you must pass your final inspection in order to close your permit(s).
