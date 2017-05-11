@@ -1,5 +1,9 @@
 ---
+title: Getting a Deck Permit in Austin, Texas
+
 name: Deck
+excerpt: A simple, enclosed structure that is physically detached from your house, that no one will be living in, and that will be used for storage.
+
 ---
 
 
