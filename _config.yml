@@ -35,7 +35,7 @@ defaults:
 - scope:
     path: ''
   values:
-    layout: 'default'
+    layout: 'page'
 - scope:
     path: ''
     type: icons
@@ -50,7 +50,7 @@ defaults:
     path: '_content/resources'
     type: 'content'
   values:
-    layout: 'default'
+    layout: 'page'
     in_resources_menu: false
     in_permit_check_menu: false
 - scope:
