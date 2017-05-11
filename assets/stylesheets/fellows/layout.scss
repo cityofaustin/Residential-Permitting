@@ -18,6 +18,7 @@ $site-header-height: 6.0rem;
         text-align: right;
       }
       & > li {
+        text-align: left;
         margin: 0;
         padding: 0 $site-header-height / 4;
         list-style-type: none;
