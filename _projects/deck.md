@@ -43,7 +43,7 @@ Your deck requires a building permit if it will:
 
 #### Electric Permits
 
-Having electricity in your shed does not require a building permit, however you must still get an stand-alone electric permit in person from the Service Center at One Texas Center.
+Having electricity in your shed does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 
 If your shed will require a building permit, the City will generate the electric permit with your building permit.
 
@@ -127,7 +127,7 @@ If you purchased your home after 1980, you likely would have received your surve
 
 #### 3. Draw a few simple sketches of your deck and your property
 
-A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
+A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give enough information so the reviewer can tell:
 
 ##### a. Where your deck will be on your property
 
@@ -148,7 +148,7 @@ There are two ways to sign up for your free 20-minute in-person consultation.
 * Sign up in person at the QLess Kiosk at the Residential Plan Review.&nbsp;
 * Join the line from the comfort of your own home by visiting the QLess website.
 
-If you choose to sign up remotely, on the QLess website, fill out your name and phone number, select Residential, and then select zoning and process questions. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or get help with any questions you may have.
+If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential, and then select zoning and process questions. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or get help with any questions you may have.
 
 All consultations take part at One Texas Center.
 
@@ -200,7 +200,7 @@ Your foundation plan must be drawn by a structural engineer.
 
 ### How Do I Submit My Application?
 
-Intake occurs at Residential Plan Review at the One Texas Center. You may:
+Intake occurs at [Residential Plan Review](/contact/) at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division.
 * Or you may save time by joining the line remotely on the QLess website. After filling out your name and number on the website, you will need to select Residential. Then select submissions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
@@ -209,7 +209,7 @@ Intake occurs at Residential Plan Review at the One Texas Center. You may:
 
 You will meet with a staff member who will do a completeness check using this completeness checklist.
 
-Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
+Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
 
 Once you apply, you will be in the Review process, and the reviewers will have 21 calendar days from the day your application goes into the system to send you required changes in the form of comments.
 
