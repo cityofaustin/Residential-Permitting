@@ -317,25 +317,20 @@ Remember to leave ample time for this process. Residential Plan Review can get v
 Once you apply, you will be in the Review process, and the reviewers will have 21 calendar days from the day your application goes into the system to send you required changes in the form of comments.
 {: .present-before-paste}
 
-Review
+## Review
 {: .present-before-paste}
 
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 {: .present-before-paste}
 
-Up to code
+* Up to code,{: .present-before-paste}
+* Safe for you, your guests, and your neighbors,{: .present-before-paste}
+* And long-lasting.{: .present-before-paste}
+
+### What is the review process?
 {: .present-before-paste}
 
-Safe for you, your guests, and your neighbors
-{: .present-before-paste}
-
-And long-lasting.
-{: .present-before-paste}
-
-What is the review process?
-{: .present-before-paste}
-
-1. A set of reviewers will have 21 days to look through your application and either approve it or attach comments
+#### 1. A set of reviewers will have 21 days to look through your application and either approve it or attach comments
 {: .present-before-paste}
 
 You can check the status of your permit application on Austin Build + Connect. To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
@@ -344,7 +339,7 @@ You can check the status of your permit application on Austin Build + Connect. T
 Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request sent a copy of any emails if this is the case.
 {: .present-before-paste}
 
-2. If you receive comments, your plans must be adjusted
+#### 2. If you receive comments, your plans must be adjusted
 {: .present-before-paste}
 
 Comments are sent in a Microsoft Word document via email.
@@ -356,7 +351,7 @@ If you need help understanding your comments, reference the Municipal Code and g
 If you have questions or concerns about your comments, you can reach out to the reviewer associated with the specific comments directly. This information will be located on your comment document.
 {: .present-before-paste}
 
-3. Submit updated plans
+#### 3. Submit updated plans
 {: .present-before-paste}
 
 Resubmission is done through the same process as your initial application submission.
@@ -365,13 +360,13 @@ Resubmission is done through the same process as your initial application submis
 After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
 {: .present-before-paste}
 
-4. This process will be repeated until all comments have been addressed and your application is approved.
+#### 4. This process will be repeated until all comments have been addressed and your application is approved.
 {: .present-before-paste}
 
 Most applications go through 2 rounds of review.
 {: .present-before-paste}
 
-What happens after my application is approved?
+### What happens after my application is approved?
 {: .present-before-paste}
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
