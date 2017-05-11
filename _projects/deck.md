@@ -297,6 +297,4 @@ Your reviewer will let you know why you did not pass. You must make any needed c
 
 Remember, you must pass your final inspection in order to close your permit(s).
 
-## #
-
 <br>&nbsp;
