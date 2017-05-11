@@ -234,7 +234,7 @@ Note that if you are not the applicant, meaning a hired professional submitted y
 
 Comments are sent in a Microsoft Word document via email.
 
-If you need help understanding your comments, reference the Municipal Code and glossary or speak with a professional.
+If you need help understanding your comments, reference the Municipal Code and [glossary](/resources/glossary/) or speak with a professional.
 
 If you have questions or concerns about your comments, you can reach out to the reviewer associated with the specific comments directly. This information will be located on your comment document.
 
@@ -275,7 +275,7 @@ Inspections can be scheduled one of three ways.
 
 #### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home. &nbsp;
+When you schedule your inspection, you will find out whether or not you need to be home.&nbsp;
 
 If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
