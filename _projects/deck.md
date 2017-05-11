@@ -38,8 +38,8 @@ Your deck requires a building permit if it will:
 * Be over 200 square feet (over 20 feet x 10 feet),
 * Be more than 30 inches above ground,
 * Have plumbing,
-* Have electric, or
-* Be built in a floodplain.
+* Have electric,
+* Or be built in a floodplain.
 
 #### Electric Permits
 
