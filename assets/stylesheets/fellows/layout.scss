@@ -3,6 +3,8 @@ $site-header-height: 6.0rem;
 .site-header {
   background: $color-gray-lightest;
   font-family: $font-sans;
+  z-index: 1;
+  position: relative; // for dropdown
   .no-logo {
     font-size: 1.1rem;
     line-height: $site-header-height;
