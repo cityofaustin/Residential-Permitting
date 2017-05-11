@@ -98,14 +98,14 @@ Keep in mind that the consultation is not where you officially submit your appli
 
 * What is the address where you will be building the deck?
 * Will your deck:
-* Be attached to your home?
-* Be accessed by a door?
-* Be smaller than 200 square feet?
-* Be built in a floodplain?
-* Be 30 inches or more above ground?
-* Be covered or uncovered?
-* Have electricity?
-* Be near a tree greater than 19 inches in diameter?
+  * Be attached to your home?
+  * Be accessed by a door?
+  * Be smaller than 200 square feet?
+  * Be built in a floodplain?
+  * Be 30 inches or more above ground?
+  * Be covered or uncovered?
+  * Have electricity?
+  * Be near a tree greater than 19 inches in diameter?
 
 #### 2. Bring your property survey if possible
 
@@ -157,24 +157,20 @@ After your consultation, feel free to return to the next section for further ass
 
 ## Apply
 
-
 When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your shed.
 
 Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, and they will let you know which documents your specific project requires. However, you will not submit your application in your consultation.
 
 ### What Documents Will I Need?
 
-
 All deck permits require:
 
 #### 1. Application
-
 
 * The Uncovered deck permit application can be filled out by either you or your architect or engineer.
 * The Covered deck permit application can be filled out by either you or your architect or engineer.
 
 #### 2. Plot Plan
-
 
 Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If applicable, include any power lines that run above your property.
 
@@ -217,7 +213,6 @@ Once you apply, you will be in the Review process, and the reviewers will have 2
 
 ## Review
 
-
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
 * Up to code,
@@ -226,16 +221,13 @@ After submitting your application, you enter into the review process. During rev
 
 ### What is the review process?
 
-
 #### 1. A set of reviewers will have 21 days to look through your application and either approve it or attach comments
-
 
 You can check the status of your permit application on Austin Build + Connect. To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
 Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request sent a copy of any emails if this is the case.
 
 #### 2. If you receive comments, your plans must be adjusted
-
 
 Comments are sent in a Microsoft Word document via email.
 
@@ -245,13 +237,11 @@ If you have questions or concerns about your comments, you can reach out to the 
 
 #### 3. Submit updated plans
 
-
 Resubmission is done through the same process as your initial application submission.
 
 After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
 
 #### 4. This process will be repeated until all comments have been addressed and your application is approved.
-
 
 Most applications go through 2 rounds of review.
 
@@ -297,17 +287,16 @@ Your inspector is a great source of information to answer questions about meetin
 
 ### Final Inspection
 
-
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
 It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about open and expired permits.
 
 #### What if I fail my final inspection?
 
-
 Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the Service Center at the One Texas Center.
 
 Remember, you must pass your final inspection in order to close your permit(s).
 
-###
+## #
+
 <br>&nbsp;
