@@ -4,6 +4,7 @@ name: Deck
 
 
 ## Define
+{: .step}
 
 Before you start building or apply for a permit(s), it’s important to define your project, &nbsp;determine if you need any permits, and organize information you will need for your consultation and application. Let’s start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -156,6 +157,7 @@ Remember to leave ample time for this process. [Residential Plan Review](/contac
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
 
 ## Apply
+{: .step}
 
 When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your shed.
 
@@ -212,6 +214,7 @@ Remember to leave ample time for this process. Residential Plan Review can get v
 Once you apply, you will be in the Review process, and the reviewers will have 21 calendar days from the day your application goes into the system to send you required changes in the form of comments.
 
 ## Review
+{: .step}
 
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
@@ -252,6 +255,7 @@ When your application is approved, you or your hired professional will receive a
 Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
 
 ## Inspect
+{: .step}
 
 Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
 
@@ -296,5 +300,3 @@ It is important to close your permit(s) because if you do not, it may prevent yo
 Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the Service Center at the One Texas Center.
 
 Remember, you must pass your final inspection in order to close your permit(s).
-
-<br>&nbsp;
