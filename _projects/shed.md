@@ -26,7 +26,6 @@ If your shed will be more than 15 ft tall, you may not build within 5 ft of the 
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
-{: .insert-glossary-here}
 
 #### Impervious cover
 
