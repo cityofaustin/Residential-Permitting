@@ -1,8 +1,8 @@
 ---
-title: Getting a Shed Permit in Austin, Texas
+title: Getting a Deck Permit in Austin, Texas
 
-name: Shed
-excerpt: A simple, enclosed structure that is physically detached from your house and that will be used for storage.
+name: Deck
+excerpt: A simple, enclosed structure that is physically detached from your house, that no one will be living in, and that will be used for storage.
 ---
 
 

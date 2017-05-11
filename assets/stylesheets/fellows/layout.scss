@@ -132,6 +132,9 @@ $site-header-height: 6.0rem;
     margin-top: 0;
   }
 }
+
+/* consider moving the following to shared "tile" styles? */
+
 .step-preview {
   margin-top: 4rem;
   margin-bottom: 8rem;
@@ -147,7 +150,7 @@ $site-header-height: 6.0rem;
     &:before,
     &:after {
       content: "";
-      border-top: 4px solid $color-gray-lightest;
+      border-top: $border-style-lightest-gray;
       width: 53%;
       display: block;
       position: absolute;
@@ -178,7 +181,7 @@ $site-header-height: 6.0rem;
     }
   }
   .step-index {
-    border: 4px solid $color-gray-dark;
+    border: $border-style-dark-gray;
     background: $color-white;
     border-radius: 100%;
     color: $color-gray-dark;
@@ -199,12 +202,60 @@ $site-header-height: 6.0rem;
     color: $color-gray;
   }
 }
+.project-block {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  .block-outline {
+    height: 100%;
+    margin: 0 .5rem;
+    position: relative;
+    .block-text {
+      padding: 2.5rem 2.5rem 3rem;
+    }
+    h3 {
+      font-size: rem(26px);
+      margin:0 0 .75rem;
+      color: $color-primary;
+    }
+    p {
+      font-size: rem(15px);
+      line-height: rem(21px);
+      font-family: $font-sans;
+      margin: 0;
+    }
+    .block-link {
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top:0;
+      left:0;
+      border: $border-style-lightest-gray;
+      transition: border-color .5s;
+      &:hover {
+        border-color:$color-barton-lighter;
+      }
+    }
+    .block-illustration {
+      width: 100%;
+      background-color: $color-barton-light;
+      height: 12rem;
+      svg {
+        fill: $color-gray-dark;
+        display: block;
+        height: 100%;
+        width: auto;
+        margin: auto auto;
+      }
+    }
+  }
+}
 
 .resource-block {
   margin-top: 1rem;
   margin-bottom: 1rem;
   .block-outline {
-    border: 4px solid $color-gray-lightest;
+    border: $border-style-lightest-gray;
     height: 100%;
     padding: 1.5rem 1.25rem;
     margin: 0 .5rem;
