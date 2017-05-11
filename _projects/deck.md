@@ -228,7 +228,7 @@ After submitting your application, you enter into the review process. During rev
 
 You can check the status of your permit application on Austin Build + Connect. To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request sent a copy of any emails if this is the case.
+Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case.
 
 #### 2. If you receive comments, your plans must be adjusted
 
