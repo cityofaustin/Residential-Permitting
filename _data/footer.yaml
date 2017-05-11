@@ -5,6 +5,8 @@ footer_lists:
     link_list:
       - page_title: Shed
         page_link: /projects/shed
+      - page_title: Deck
+        page_link: /projects/deck
   - list:
     list_title: Resources & Tools
     list_title_link: /resources
