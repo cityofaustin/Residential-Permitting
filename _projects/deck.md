@@ -139,7 +139,7 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 
 * Your setbacks: making sure you don’t build in your setbacks will avoid complications with the location of your deck.{: .present-before-paste}
 * Your easements: being aware of any easements on your property will prevent any potential issues in the future with your deck.{: .present-before-paste}
-* Your impervious cover: to help prevent rotect against flooding.{: .present-before-paste}
+* Your impervious cover: to help prevent protect against flooding.{: .present-before-paste}
 
 ##### What if I can’t find my survey?
 {: .present-before-paste}
@@ -158,7 +158,7 @@ If you purchased your home after 1980, you likely would have received your surve
 A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
 {: .present-before-paste}
 
-Where your deck will be on your property
+a. Where your deck will be on your property
 {: .present-before-paste}
 
 Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc If possible, including estimated square footage or dimensions will be helpful.
@@ -167,10 +167,7 @@ Sketch the layout of your property, and be sure to show any existing structures 
 See examples of property sketches:
 {: .present-before-paste}
 
-Good Example
-{: .present-before-paste}
-
-Bad Example
+Good Example / Bad Example
 {: .present-before-paste}
 
 What your deck will look like
