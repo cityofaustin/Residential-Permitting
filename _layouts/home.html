@@ -1,0 +1,83 @@
+---
+layout: default
+---
+<section class="photo-header" style="background-image: url('{{ page.header_photo }}')">
+	<div class="container container-fluid start-xs">
+    <div class="overlay">
+			<h1>{{ page.header_title }}</h1>
+      <h3>{{ page.header_subtitle }}</h3>
+    </div>
+	</div>
+</section>
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-12 col-sm-8">
+      <p class="lead">{{ page.header_excerpt }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+      <h2>{{ page.process_title }}</h2>
+      <p>{{ page.process_summary_markdown | markdownify }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% for step in page.process_steps %}
+    <div class="step-preview col-xs-10 col-sm-6 col-md-3">
+      <div class="step-flag">
+        <h3>{{ step.name }}</h3>
+        <p>{{ step.description }}</p>
+        <span class="step-index">{{ forloop.index }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+      <h2>{{ page.projects_title }}</h2>
+      <p>{{ page.projects_summary_markdown | markdownify }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% for project in site.projects %}
+    <div class="tile col-xs-10 col-sm-6 col-md-4{% cycle 'col-md-offset-2',nil %}">
+      <div class="project-illustration">
+        <svg src="{{ project.illustration }}"></svg>
+      </div>
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+      <a class="tile-link" href="{{ project.url }}"></a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 ">
+      <h2>{{ page.resources_title }}</h2>
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% for resource in page.resources_featured %}
+    <div class="resource-block col-xs-10 col-sm-6 col-md-3">
+      <div class="block-outline">
+        <h4><a href="{{ resource.url }}">{{ resource.name }}</a></h4>
+        <p>{{ resource.description }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+
+<article class="content start-xs col-xs-12 col-sm-8">
+  {{ content }}
+</article>
