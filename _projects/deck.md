@@ -212,7 +212,11 @@ Your floor plan of your proposed deck must be drawn to scale either by hand or b
 
 Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
 
+![](/uploads/versions/shed-elevationplan-good---x----1105-703x---.jpg)
+
 **Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-elevationplan-bad---x----1382-946x---.jpg)
 
 **Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
