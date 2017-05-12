@@ -141,6 +141,8 @@ Sketch the layout of your property, and be sure to show any existing structures 
 
 ![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)
 
+**Don't:***&nbsp;This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
+
 ##### b. What your deck will look like
 
 Sketch your proposed deck with its dimensions. Be sure to show it in relation to your home, note where it will attach to your home (if at all), and any doors that will open onto the deck.
