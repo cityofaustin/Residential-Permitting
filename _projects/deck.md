@@ -34,6 +34,8 @@ If there is an easement on your lot, and you choose to build a deck on that ease
 
 If your uncovered deck has drainage spaces between the deck boards and is located over a pervious surface, your deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding.
 
+*Impervious Cover Definition: The total area of human made surfaces of a property that prevents water from being absorbed into the ground.*
+
 ### Do I need a permit?
 
 #### Building Permits
@@ -46,6 +48,9 @@ Your deck requires a building permit if it will:
 * Have plumbing,
 * Have electric,
 * Or be built in a floodplain.
+  * *Floodplain definition: The area of land that will be underwater when a creek or lake rushes over its banks.*
+
+  * *How do I find out if I'm in a floodplain?: You can check if your home is in a floodplain by entering your property's address at&nbsp;*[*austintexas.gov/floodpro*](austintexas.gov/floodpro)*. If your Flood Zone says "Flood Zone: X," then you do not live in a floodplain.*
 
 #### Electric Permits
 
@@ -58,6 +63,8 @@ If the electricity in your shed will require changes to the main electrical mete
 #### Tree Permits
 
 If your deck will require you to remove a tree (or perform construction near the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a Tree Ordinance Review Application. If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
+
+*How do I calculate critical root zone?: The critical root zone is the diameter of the tree in inches, multiplied by 2, then converted into feet.*
 
 Learn more about protected trees and construction requirements.
 
