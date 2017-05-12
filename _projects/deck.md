@@ -196,11 +196,15 @@ Your plot plan must be drawn to scale either by hand or by using a CAD program a
 
 **Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
-3. Floor Plan
+#### 3. Floor Plan
 
 Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Include details such as any support beams and handrails on the plan.
 
+![](/uploads/versions/shed-floorplan-good---x----1500-1100x---.jpg)
+
 **Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-floorplan-bad---x----1500-1100x---.jpg)
 
 **Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
