@@ -45,11 +45,11 @@ Your deck requires a building permit if it will:
 
 #### Electric Permits
 
-Having electricity in your shed does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
+Having electricity on your deck does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 
-If your shed will require a building permit, the City will generate the electric permit with your building permit.
+If your deck will require a building permit, the City will generate the electric permit with your building permit.
 
-If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
+If the electricity in your deck will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree Permits
 
