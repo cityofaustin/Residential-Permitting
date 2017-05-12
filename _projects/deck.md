@@ -147,7 +147,11 @@ Sketch the layout of your property, and be sure to show any existing structures 
 
 Sketch your proposed deck with its dimensions. Be sure to show it in relation to your home, note where it will attach to your home (if at all), and any doors that will open onto the deck.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:***&nbsp;This sketch includes dimensions and clearly labeled windows, doors, and the landing.*
+
+![](/uploads/versions/shed-sketch-bad---x----735-456x---.jpg)
+
+**Don't:***&nbsp;This sketch needs to include labels and dimensions.*
 
 #### How to get a Free In-Person Consultation
 
