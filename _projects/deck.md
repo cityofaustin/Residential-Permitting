@@ -45,11 +45,11 @@ Your deck requires a building permit if it will:
 
 #### Electric Permits
 
-Having electricity on your deck does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
+Having electricity in your shed does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 
-If your deck will require a building permit, the City will generate the electric permit with your building permit.
+If your shed will require a building permit, the City will generate the electric permit with your building permit.
 
-If the electricity in your deck will require changes to the main electrical meter, a registered electrician must get the permit.
+If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree Permits
 
@@ -135,7 +135,11 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)
+
+> **Do:***&nbsp;The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
+
+![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)
 
 ##### b. What your deck will look like
 
@@ -147,7 +151,7 @@ See Examples: Good Example / Bad Example
 
 There are two ways to sign up for your free 20-minute in-person consultation.
 
-* Sign up in person at the QLess Kiosk at the Residential Plan Review.
+* Sign up in person at the QLess Kiosk at the Residential Plan Review.&nbsp;
 * Join the line from the comfort of your own home by visiting the QLess website.
 
 If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential, and then select zoning and process questions. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or get help with any questions you may have.
@@ -277,7 +281,7 @@ Inspections can be scheduled one of three ways.
 
 #### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home.
+When you schedule your inspection, you will find out whether or not you need to be home.&nbsp;
 
 If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
