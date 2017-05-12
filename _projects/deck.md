@@ -188,19 +188,29 @@ All deck permits require:
 
 Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If applicable, include any power lines that run above your property.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-plotplan-good---x----1500-1600x---.jpg)
 
-#### 3. Floor Plan
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-plotplan-bad---x----1278-1628x---.jpg)
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+3. Floor Plan
 
 Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Include details such as any support beams and handrails on the plan.
 
-See Examples: Good Example / Bad Example
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 4. Elevation Plan
 
 Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
 
-See Examples: Good Example / Bad Example
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 5. Foundation Plan
 
