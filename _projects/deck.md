@@ -28,6 +28,8 @@ No matter how tall your deck will be, you cannot build within 10 feet of the rea
 
 If there is an easement on your lot, and you choose to build a deck on that easement, you run the risk of being fined or having to demolish your deck if the city needs access to your easement.
 
+{% include glossary-aside.html term="easement" %}
+
 *Easements Definition: An area of a resident's lot that may be used or accessed by a government entity or neighbor but not by the resident.*
 
 #### Impervious Cover
