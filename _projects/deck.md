@@ -22,7 +22,7 @@ Whether your need a permit or not, there are still a few zoning regulations you 
 
 No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
-*Setbacks Definition: A setback is a mandatory clear distance between the lot line and the buildable area on that lot.*
+*{% include glossary-aside.html term="setback" %}*
 
 #### Easements
 
