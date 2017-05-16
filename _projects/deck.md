@@ -22,7 +22,7 @@ Whether your need a permit or not, there are still a few zoning regulations you 
 
 No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
-*{% include glossary-aside.html term="setback" %}*
+{% include glossary-aside.html term="setback" %}
 
 #### Easements
 
