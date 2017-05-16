@@ -841,3 +841,12 @@ $lg-viewport: "only screen and (min-width: 75em)";
     order: 1;
   }
 }
+
+
+.breakout-col-sm-8 {
+  @media #{$sm-viewport} {
+    width: 150%;
+    position: relative;
+    left: -25%;
+  }
+}
