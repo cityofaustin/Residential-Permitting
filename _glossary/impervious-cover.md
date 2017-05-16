@@ -1,10 +1,18 @@
 ---
-title: Easement
-term: easement
-short_definition: "An area of a resident's land that may be used by a government entity or neighbor. If there is an easement on your land, you may not build on it."
+title: Impervious cover
+term: Impervious cover
+short_definition: The total area of a property that prevents water from being absorbed into the ground.
 long_definition:
-source:
+source: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf","CodeNext 2M-1 p.15'
 ---
 
 
-Easements for public utilities and drainage ways shall be retained in all subdivisions in the widths and locations determined necessary by the single office. All easements shall be dedicated to public use for the named purpose and shall be aligned to minimize construction and future maintenance costs.
+Impervious cover refers to any type of human-made surface that doesn’t absorb rainfall.
+<br>
+<br>Surfaces that are considered impervious cover include rooftops, patios, driveways, sidewalks, roadways, parking lots, and some decks. Uncovered wooden decks and unpaved portions of driveways count as 50% impervious cover.
+<br>
+<br>Dependent on zoning designation, a certain percentage of impervious cover is permitted on a property. To calculate your impervious cover, determine the square footage of impervious surfaces on your property relative to the square footage of the property as a whole.
+<br>
+<br>Impervious cover does not include sidewalks or easements in the public right of way, water features such as ponds, fountains, and water detention basins, porous pavement, or access ramps.
+
+&nbsp;
