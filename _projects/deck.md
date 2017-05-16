@@ -30,8 +30,6 @@ If there is an easement on your lot, and you choose to build a deck on that ease
 
 {% include glossary-aside.html term="easement" %}
 
-*Easements Definition: An area of a resident's lot that may be used or accessed by a government entity or neighbor but not by the resident.*
-
 #### Impervious Cover
 
 If your uncovered deck has drainage spaces between the deck boards and is located over a pervious surface, your deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding.
