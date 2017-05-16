@@ -1,17 +1,13 @@
 require 'fastimage'
 
-class Jekyll::Dimensions < Liquid::Tag
-  def initialize(tag_name, markup, tokens)
-    if /(?<source>[^\s]+)/i =~ markup
-      @source = source
-    end
-    super
-  end
+module Jekyll
+  module DimensionsFilter
+    def dimensions(input)
 
-  def render(context)
-      source = @source
-      source_path = "./#{source}"
-      raise "#{source} is not readable" unless File.readable?(source_path)
+      site = @context.registers[:site]
+      source_path = site.in_source_dir(input)
+
+      raise "#{input} is not readable" unless File.readable?(source_path)
 
       size = FastImage.size(source_path)
       width = size[0]
@@ -20,10 +16,8 @@ class Jekyll::Dimensions < Liquid::Tag
 
       dims = "#{width}x#{height}"
       return dims
-
+    end
   end
 end
 
-
-
-Liquid::Template.register_tag('dimensions',   Jekyll::Dimensions)
+Liquid::Template.register_filter(Jekyll::DimensionsFilter)

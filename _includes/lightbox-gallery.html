@@ -1,7 +1,7 @@
 
 <div class="lightbox-gallery breakout-col-sm-8 row" itemscope itemtype="http://schema.org/ImageGallery">
   <figure class="col-md-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ include.do_image }}" itemprop="contentUrl" data-size="{% dimensions /assets/img/photos/homepage-header.jpg %}">
+      <a href="{{ include.do_image }}" itemprop="contentUrl" data-size="{{ include.do_image | dimensions }}">
           <img src="{{ include.do_image }}" itemprop="thumbnail" alt="{{ include.do_caption }}" />
       </a>
       <figcaption itemprop="caption description">
@@ -10,7 +10,7 @@
       </figcaption>
   </figure>
   <figure class="col-md-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ include.dont_image }}" itemprop="contentUrl" data-size="{% dimensions /assets/img/photos/homepage-header.jpg %}">
+      <a href="{{ include.dont_image }}" itemprop="contentUrl" data-size="{{ include.dont_image | dimensions }}">
           <img src="{{ include.dont_image }}" itemprop="thumbnail" alt="{{ include.dont_caption }}" />
       </a>
       <figcaption itemprop="caption description">
