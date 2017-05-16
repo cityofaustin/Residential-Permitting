@@ -21,11 +21,11 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 <aside class="glossary-aside">A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</aside>
 
-&nbsp;
-
 #### Setbacks
 
 If your shed will be more than 15 ft tall, you may not build within 5 ft of the side border of your lot or within 10 ft of the rear border of your lot. If your shed will be less than 15 ft tall, then you may not build within 5 ft from both the side and rear borders of your lot.
+
+
 
 #### Easements
 
@@ -120,7 +120,7 @@ Sketch the layout of your property with any existing structures (such as your ho
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light.  — Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Don't think about your errors or failures, otherwise you'll never do a thing. — Bill Murray" %}
 
 ##### b. What your shed will look like
 

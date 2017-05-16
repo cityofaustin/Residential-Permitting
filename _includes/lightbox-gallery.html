@@ -1,0 +1,28 @@
+
+<div class="lightbox-gallery breakout-col-sm-8 row" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure class="col-md-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ include.do_image }}" itemprop="contentUrl" data-size="{% dimensions /assets/img/photos/homepage-header.jpg %}">
+          <img src="{{ include.do_image }}" itemprop="thumbnail" alt="{{ include.do_caption }}" />
+      </a>
+      <figcaption itemprop="caption description">
+        <h6 class="do">{{ site.data.labels.locales[site.locale].lightbox_gallery_do }}</h6>
+        <p>{{ include.do_caption }}</p>
+      </figcaption>
+  </figure>
+  <figure class="col-md-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ include.dont_image }}" itemprop="contentUrl" data-size="{% dimensions /assets/img/photos/homepage-header.jpg %}">
+          <img src="{{ include.dont_image }}" itemprop="thumbnail" alt="{{ include.dont_caption }}" />
+      </a>
+      <figcaption itemprop="caption description">
+        <h6 class="dont">{{ site.data.labels.locales[site.locale].lightbox_gallery_dont }}</h6>
+        <p>{{ include.dont_caption }}</p>
+      </figcaption>
+  </figure>
+</div>
+
+
+<script>
+  $(document).ready(function(){
+    initPhotoSwipeFromDOM('.lightbox-gallery');
+  });
+</script>
