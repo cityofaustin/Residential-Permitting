@@ -235,6 +235,7 @@ $site-header-height: 6.0rem;
   p {
     font-style: italic;
     font-size: rem(15px);
+    line-height: rem(21px);
     margin-top: 0;
     color: $color-gray;
   }
@@ -268,9 +269,9 @@ $site-header-height: 6.0rem;
       top:0;
       left:0;
       border: $border-style-lightest-gray;
-      transition: border-color .5s;
+      transition: border-color .2s;
       &:hover {
-        border-color:$color-barton-lighter;
+        border-color:$color-gray-lighter;
       }
     }
     .block-illustration {
@@ -293,6 +294,9 @@ $site-header-height: 6.0rem;
   margin-bottom: 1rem;
   .block-outline {
     border: $border-style-lightest-gray;
+    transition: border-color .2s;
+    &:hover {
+      border-color:$color-gray-lighter;
     height: 100%;
     padding: 1.5rem 1.25rem;
     margin: 0 .5rem;
