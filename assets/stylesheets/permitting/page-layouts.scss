@@ -28,26 +28,31 @@
 
   .project-header {
     padding-top: 3rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1.5rem;
     box-shadow: $vertical-shadow;
     nav {
-      font-size: 1.3rem;
+      font-size: rem(13px);
+      letter-spacing: 1px;
       a {
-        font-family: $font-sans;
-        color: inherit;
-        text-transform: uppercase;
-        border-bottom: 5px solid transparent;
+        border-bottom: 4px solid transparent;
+        color: $color-gray-light;
         display: inline-block;
+        font-family: $font-sans;
+        font-weight: $font-medium;
+        text-transform: uppercase;
         text-decoration: none;
       }
       .active {
         border-bottom-color: $color-barton-light;
+        color: $color-gray-dark;
+        font-weight: $font-bold;
+        padding-bottom: rem(2px);
       }
       .icon {
-        width: 1.7rem;
-        height: 1.7rem;
+        width: rem(24px);
+        height: rem(24px);
         line-height: 1.7rem;
-        fill: $color-gray-light;
+        fill: $color-gray-lighter;
         margin: auto .7rem;
         display: inline-block;
       }
