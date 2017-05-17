@@ -4,8 +4,6 @@ name: Shed
 excerpt: 'A simple, enclosed structure that is physically detached from your house and that will be used for storage.'
 ---
 
-{% include _icon.html icon='shed' %}
-
 ## Define
 {: .step}
 
