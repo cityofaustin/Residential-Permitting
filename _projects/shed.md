@@ -221,6 +221,7 @@ Remember to leave ample time for this process. Residential Plan Review can get v
 Once you apply, you will be in the Review process [Internal link to Review: Shed section], and the reviewers will have 21 days from the day your application goes into the system to send you required changes in the form of comments.
 
 ## Review
+{: .step}
 
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
@@ -261,6 +262,7 @@ When your application is approved, you or your hired professional will receive a
 Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
 
 ## Inspect
+{: .step}
 
 Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
 
