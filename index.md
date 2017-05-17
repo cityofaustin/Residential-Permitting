@@ -21,7 +21,7 @@ process_steps:
     description: Get your work inspected by the city and close out your permit(s).
 projects_title: Projects
 projects_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
-resources_title: Homeowner Tools
+resources_title: 'Tools & Resources'
 resources_featured:
   - name: Can I open a permit?
     description: Make sure that you can get started on permitting a new project with the City.
