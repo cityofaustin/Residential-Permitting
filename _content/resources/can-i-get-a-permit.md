@@ -1,6 +1,6 @@
 ---
 title: Can I get a permit?
-in_permit_check_menu: true
+in_resources_menu: true
 ---
 
 
