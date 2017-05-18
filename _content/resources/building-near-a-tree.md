@@ -6,43 +6,52 @@ in_resources_menu: true
 
 The City of Austin has a strong interest in preserving the natural resources that make Austin the beautiful city that it is. So when starting a new project, you must consider any trees that may be affected by your work. This means protecting the larger trees and their roots.
 
-{% include glossary-aside.html term="impervious-cover" %}
+## Protected tree sizes
 
-* Building Permit (BP)
-* Mechanical Permit (MP)
-* Electrical Permit (EP)
-* Plumbing Permit (PP)
+Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a Tree Ordinance Review Application if your project:
 
-## When does my permit expire?
+* Requires you to remove a tree,
+* Requires construction near the critical root zone,
+* Involves a tree that is 4.5 feet from the ground or taller,
+* Or involves a tree that is 19 inches or more in diameter (59.6904 inches around).
 
-Permits have a 180-day lifespan: starting from the date your permit is issued and ending on the date of your final inspection, or 180 days after the most recent in-progress inspection. If your project has not been inspected by day 181, then your permit is expired.
+To calculate a tree’s diameter, measure the circumference of the tree at its widest point, usually at chest height, and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
-### How can I check for expired permits?
+## Digging into critical root zones
 
-You can visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to search for an expired permit.
+The critical root zone for a tree depends on the size of the tree itself. Larger, more established, trees will have larger critical root zones that you will need to consider when building around trees. Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
 
-## I have open or expired permits
+To understand where you can and cannot build around trees, imagine that there are three impact zones of development to think about before you start your project. For this example, we’re using a tree with a 20 inch diameter.
 
-There are two ways to resolve expired permits.
+### 1. ¼ Critical Root Zone&nbsp;
 
-### 1. Re-permit the project with a new permit application
+This first zone extends 5 feet out from the base of the tree on the ground level, and those roots make up a ¼ &nbsp;of the tree’s critical root zone. Your development cannot come within 5 feet of the tree or else it will damage the critical root zone.
 
-This is the best option if the old project will be impacted by the new project. For example, if you will be working on the same structure that has an expired permit, you will need a new permit. It is important to let the reviewer know you intend to resolve the expired permit under the “project description” of the new permit application.
+### 2. ½ Critical Root Zone:
 
-### 2. [Statement]
+This second zone begins at 5 feet and extends 10 feet from the base of the tree and 4 inches into the ground. From 5 to 10 feet of the base of the tree you cannot dig in deeper than 4 inches into the soil.
 
-If the new project does not impact the old project, or you want a separate inspection, you need to fill out two forms and include them with your new application:
+### 3. The Critical Root Zone
 
-* [Request for a Permit Extension, Withdrawal, or Reactivation](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Request_for_Permit_Extension__Withdrawal_or_Reactivation.pdf),
-* And [Acknowledgement of Expired Permits](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/acknowlege_expired_permits.pdf) form.
+This third zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
-Be sure to include the expired permit numbers and property address where necessary.
+Image: https://austintexas.gov/page/tree-natural-area-preservation-codes
 
-## What if I maxed out on impervious cover?
+## Heritage trees
 
-Some projects increase impervious cover like building a deck, a shed, or adding square footage to a current structure. If that sounds like your project, then you will need to schedule a free 20-minute in person consultation to review your options. They may be able to help you adjust your plans so that you meet the impervious cover limits.
+Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 19 inches or more in diameter and one of the following species, then you may not be able to remove it:
 
-If your project will not increase impervious cover, then your permit will most likely be approved.
+* All Oaks
+* Arizona Walnut
+* American Elm
+* Bald Cypress
+* Bigtooth Maple
+* Cedar Elm
+* Eastern Black Walnut
+* Pecan
+* Texas Ash
+* Texas Madrone
 
-<br>
+If the heritage tree is dead or it is a hazard to life or property, then you may be able to apply for a variance to have the heritage tree removed.
+
 <br>&nbsp;
