@@ -1,5 +1,74 @@
-.project-layout {
+/* PROJECT PAGES */
 
+.project-header {
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
+  box-shadow: $vertical-shadow;
+  nav {
+    font-size: rem(13px);
+    letter-spacing: 1px;
+    a {
+      border-bottom: 4px solid transparent;
+      color: $color-gray-light;
+      display: inline-block;
+      font-family: $font-sans;
+      font-weight: $font-medium;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+    .active {
+      border-bottom-color: $color-barton-light;
+      color: $color-gray-dark;
+      font-weight: $font-bold;
+      padding-bottom: rem(2px);
+    }
+    .icon {
+      width: rem(24px);
+      height: rem(24px);
+      line-height: 1.7rem;
+      fill: $color-gray-lighter;
+      margin: auto .7rem;
+      display: inline-block;
+    }
+    span {
+      margin: auto .7rem;
+      display: inline-block;
+    }
+  }
+}
+.project-layout {
+    // Just for project pages
+  h1 {
+    font-size: $h1-font-size;
+    font-weight: $font-bold;
+    width: 100%;
+  }
+
+  h2 {
+    font-size: $h2-font-size;
+    font-weight: $font-bold;
+  }
+
+  h3 {
+    font-size: $h3-font-size;
+    font-weight: $font-medium;
+  }
+
+  h4 {
+    font-size: $h4-font-size;
+    font-weight: $font-medium;
+  }
+
+  h5 {
+    font-size: $h5-font-size;
+    font-weight: $font-medium;
+  }
+
+  h6 {
+    font-size: $h6-font-size;
+    font-weight: $font-normal;
+    text-transform: uppercase;
+  }
   .step {
     padding-top: 2rem;
     text-align: center;
@@ -25,42 +94,14 @@
       content: "4"
     }
   }
+}
 
-  .project-header {
-    padding-top: 3rem;
-    padding-bottom: 1.5rem;
-    box-shadow: $vertical-shadow;
-    nav {
-      font-size: rem(13px);
-      letter-spacing: 1px;
-      a {
-        border-bottom: 4px solid transparent;
-        color: $color-gray-light;
-        display: inline-block;
-        font-family: $font-sans;
-        font-weight: $font-medium;
-        text-transform: uppercase;
-        text-decoration: none;
-      }
-      .active {
-        border-bottom-color: $color-barton-light;
-        color: $color-gray-dark;
-        font-weight: $font-bold;
-        padding-bottom: rem(2px);
-      }
-      .icon {
-        width: rem(24px);
-        height: rem(24px);
-        line-height: 1.7rem;
-        fill: $color-gray-lighter;
-        margin: auto .7rem;
-        display: inline-block;
-      }
-      span {
-        margin: auto .7rem;
-        display: inline-block;
-      }
-    }
+
+
+/* ARTICLE PAGES */
+.page-layout {
+  h1.page-title {
+    text-align: center;
+    width: 100%;
   }
-
 }

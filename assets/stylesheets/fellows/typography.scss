@@ -9,31 +9,26 @@ h1, h2, h3, h4, h5, h6 {
 
 // Overrides USWDS Heading mixins
 h1 {
-  font-size: $h1-font-size;
-  font-weight: $font-bold;
-}
-
-h2 {
   font-size: $h2-font-size;
   font-weight: $font-bold;
 }
 
-h3 {
+h2 {
   font-size: $h3-font-size;
   font-weight: $font-medium;
 }
 
-h4 {
+h3 {
   font-size: $h4-font-size;
   font-weight: $font-medium;
 }
 
-h5 {
+h4 {
   font-size: $h5-font-size;
   font-weight: $font-medium;
 }
 
-h6 {
+h5 {
   font-size: $h6-font-size;
   font-weight: $font-normal;
   text-transform: uppercase;
