@@ -8,20 +8,20 @@ footer_lists:
       - page_title: Deck
         page_link: /projects/deck
   - list:
-    list_title: Resources & Tools
+    list_title: 'Tools & Resources'
     list_title_link: /resources
     link_list:
       - page_title: Can I get a permit?
-        page_link: #
+        page_link:
       - page_title: Check my permit status
-        page_link: #
-      - page_title: Applications & Forms
-        page_link: #
+        page_link:
+      - page_title: 'Applications & Forms'
+        page_link:
       - page_title: Glossary
-        page_link: #
+        page_link:
   - list:
     list_title: Contact
     list_title_link: /contact
     link_list:
-      - page_title: Hours & locations
+      - page_title: 'Hours & locations'
         page_link: /contact

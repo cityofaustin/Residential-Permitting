@@ -15,14 +15,6 @@
                 {% endfor %}
               </ul>
             </li>
-            <li><span>{{ site.data.labels.locales[site.locale].permit_check }} {% include _icon.html icon='caret-down' context='More options' %}</span>
-              <ul>
-                {% assign permit_pages = site.content | where: 'in_permit_check_menu', true %}
-                  {% for page in permit_pages limit: 6 %}
-                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
             <li><span>{{ site.data.labels.locales[site.locale].resources }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% assign resource_pages = site.content | where: 'in_resources_menu', true %}
