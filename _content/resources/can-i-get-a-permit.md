@@ -4,7 +4,7 @@ in_resources_menu: true
 ---
 
 
-There are two things that can get in the way of you receiving a permit: expired permits and maxing out on impervious cover. *{% include glossary-aside.html term="impervious-cover" %}* If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
+There are two things that can get in the way of you receiving a permit: expired permits and maxing out on impervious cover. {% include glossary-aside.html term="impervious-cover" %} If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
 
 * Building Permit (BP)
 * Mechanical Permit (MP)
