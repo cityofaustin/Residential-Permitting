@@ -6,12 +6,12 @@ in_resources_menu: true
 
 There are two things that can get in the way of you receiving a permit: expired permits and maxing out on impervious cover. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
 
+{% include glossary-aside.html term="impervious-cover" %}
+
 * Building Permit (BP)
 * Mechanical Permit (MP)
 * Electrical Permit (EP)
 * Plumbing Permit (PP)
-
-{% include glossary-aside.html term="impervious-cover" %}
 
 ## When does my permit expire?
 
