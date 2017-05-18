@@ -2,38 +2,47 @@
 
 .project-header {
   padding-top: 3rem;
-  padding-bottom: 1.5rem;
+  h1 {
+    margin-bottom: 0;
+  }
+}
+.project-nav {
+  width: 100%;
+  padding: 1.65rem 0 1.5rem;
   box-shadow: $vertical-shadow;
-  nav {
-    font-size: rem(13px);
-    letter-spacing: 1px;
-    a {
-      border-bottom: 4px solid transparent;
-      color: $color-gray-light;
-      display: inline-block;
-      font-family: $font-sans;
-      font-weight: $font-medium;
-      text-transform: uppercase;
-      text-decoration: none;
-    }
-    .active {
-      border-bottom-color: $color-barton-light;
-      color: $color-gray-dark;
-      font-weight: $font-bold;
-      padding-bottom: rem(2px);
-    }
-    .icon {
-      width: rem(24px);
-      height: rem(24px);
-      line-height: 1.7rem;
-      fill: $color-gray-lighter;
-      margin: auto .7rem;
-      display: inline-block;
-    }
-    span {
-      margin: auto .7rem;
-      display: inline-block;
-    }
+  font-size: rem(13px);
+  letter-spacing: 1px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0; /* required */
+  background: #FFF;
+  z-index: 10;
+  a {
+    border-bottom: 4px solid transparent;
+    color: $color-gray-light;
+    display: inline-block;
+    font-family: $font-sans;
+    font-weight: $font-medium;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .active {
+    border-bottom-color: $color-barton-light;
+    color: $color-gray-dark;
+    font-weight: $font-bold;
+    padding-bottom: rem(2px);
+  }
+  .icon {
+    width: rem(24px);
+    height: rem(24px);
+    line-height: 1.7rem;
+    fill: $color-gray-lighter;
+    margin: auto .7rem;
+    display: inline-block;
+  }
+  span {
+    margin: auto .7rem;
+    display: inline-block;
   }
 }
 .project-layout {
