@@ -4,7 +4,7 @@ in_resources_menu: true
 ---
 
 
-There are two things that can get in the way of you receiving a permit: expired permits and maxing out on impervious cover. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
+The City of Austin has a strong interest in preserving the natural resources that make Austin the beautiful city that it is. So when starting a new project, you must consider any trees that may be affected by your work. This means protecting the larger trees and their roots.
 
 {% include glossary-aside.html term="impervious-cover" %}
 
@@ -45,5 +45,4 @@ Some projects increase impervious cover like building a deck, a shed, or adding 
 If your project will not increase impervious cover, then your permit will most likely be approved.
 
 <br>
-<br>
-<br>
+<br>&nbsp;
