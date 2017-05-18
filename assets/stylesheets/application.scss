@@ -1,6 +1,11 @@
 ---
 # Front Matter
 ---
+@import '../uswds/stylesheets/lib/bourbon';
+@import '../uswds/stylesheets/lib/neat';
+@import '../uswds/stylesheets/lib/normalize';
+
+@import "fellows/uswds-variables";
 
 // Import THe Web Design Standards
 @import "../uswds/stylesheets/all";

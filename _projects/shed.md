@@ -1,5 +1,7 @@
 ---
+title: 'Getting a Shed Permit in Austin, Texas'
 name: Shed
+excerpt: 'A simple, enclosed structure that is physically detached from your house and that will be used for storage.'
 ---
 
 
@@ -15,12 +17,14 @@ A simple, enclosed structure that is physically detached from your house that no
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to ensure you won’t have code issues is to purchase a pre-made shed that is less than 200 square feet (less than 20 ft x 10 ft) that you can move if you need to.
+{: .insert-glossary-here}
 
-{% include glossary-aside.html term="fence" %}
+<aside class="glossary-aside">A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</aside>
 
 #### Setbacks
 
 If your shed will be more than 15 ft tall, you may not build within 5 ft of the side border of your lot or within 10 ft of the rear border of your lot. If your shed will be less than 15 ft tall, then you may not build within 5 ft from both the side and rear borders of your lot.
+
 
 
 #### Easements
@@ -62,7 +66,7 @@ Permits are proof that changes on your property follow the City of Austin’s ru
 
 #### Make sure you can get a permit
 
-If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
+If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious cover, you may not be able to get a permit right away.
 
 #### You may need a consultation to determine your  shed requirements
 
@@ -116,7 +120,7 @@ Sketch the layout of your property with any existing structures (such as your ho
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light.  — Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Don't think about your errors or failures, otherwise you'll never do a thing. — Bill Murray" %}
 
 ##### b. What your shed will look like
 
