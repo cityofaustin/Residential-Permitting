@@ -1,5 +1,5 @@
 ---
-title: Can I get a permit?
+title: Building near a tree
 in_resources_menu: true
 ---
 
@@ -46,4 +46,4 @@ If your project will not increase impervious cover, then your permit will most l
 
 <br>
 <br>
-<br>&nbsp;
+<br>
