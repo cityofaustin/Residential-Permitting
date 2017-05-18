@@ -14,8 +14,6 @@ layout: default
 				<a href="#{{ site.data.labels.locales[site.locale].project_step_3_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_3_title }}</a>
 				{% include _icon.html icon='arrow-long-right' %}
 				<a href="#{{ site.data.labels.locales[site.locale].project_step_4_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_4_title }}</a>
-				<span> | </span>
-				<a href="#{{ site.data.labels.locales[site.locale].resources | slugify }}">{{ page.name }} {{ site.data.labels.locales[site.locale].resources }}</a>
 			</nav>
 		</div>
 </div>
@@ -26,7 +24,7 @@ layout: default
 		  {% include {{ page._page-layout }} %}
 		{% endif %}
 
-		<article class="content start-xs col-xs-12 col-sm-8">
+		<article class="content start-xs col-xs-12 col-sm-6">
 			{{ content }}
 		</article>
 
