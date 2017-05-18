@@ -6,7 +6,7 @@ header_title: Austin Approved
 header_subtitle: A Residential Permitting Resource
 header_photo: /assets/img/photos/homepage-header.jpg
 header_excerpt: The City of Austin helps guide residential development to promote safe and sustainable growth.
-header_photo_credit_name: Karl Metzelear /
+header_photo_credit_name: Karl Metzelear •
 header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_title: Process Overview
 process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are four key steps to getting a permit.'
