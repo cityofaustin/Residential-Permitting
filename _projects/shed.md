@@ -82,7 +82,7 @@ When there is an easement on your lot and you choose to build on the easement, y
 If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
 {: .insert-glossary-here}
 
-<aside class="glossary-aside"><h6 class="glossary-title"><a class="cc-active" href=""> Definition </a></h6></aside>
+<aside class="glossary-aside"><h6 class="glossary-title"><a href="/glossary/impervious-cover"> Definition </a></h6></aside>
 
 ---
 
