@@ -14,7 +14,7 @@ If you have already submitted your permit application, it typically takes 15 bus
 
 ## Check your permit status on Austin Build + Connect
 
-You can check the current status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you do not already have an Austin Build + Connect account, you must first create one. [insert sidebar: On the Austin Build + Connect homepage, select “Conduct business with City,” and then follow the prompt for a first time user. After creating your account, use the navigation located on the left hand side of the screen, and select “My Permits/Cases” from the menu.]
+You can check the current status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you do not already have an Austin Build + Connect account, you must first create one. On the Austin Build + Connect homepage, select “Conduct business with City,” and then follow the prompt for a first time user. After creating your account, use the navigation located on the left hand side of the screen, and select “My Permits/Cases” from the menu.
 
 Follow the prompts to check the status of your permit.
 
