@@ -3,7 +3,7 @@ title: Building Inspections
 department_name: Building Inspections
 department_link: 'http://austintexas.gov/page/building-inspections'
 description:
-phone: '311'
+phone: 512-978-4000
 email: building.inspections@austintexas.gov
 hours:
   - time_period_markdown: |-
