@@ -6,6 +6,7 @@ in_resources_menu: true
 
 The City of Austin has a strong interest in preserving the natural resources that make Austin the beautiful city that it is. So when starting a new project, you must consider any trees that may be affected by your work. This means protecting the larger trees and their roots.
 
+<hr>
 ## Protected tree sizes
 
 Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a Tree Ordinance Review Application if your project:
@@ -17,6 +18,7 @@ Certain tree sizes are protected in Austin and require a special permit to cut d
 
 To calculate a tree’s diameter, measure the circumference of the tree at its widest point, usually at chest height, and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
+<hr>
 ## Digging into critical root zones
 
 The critical root zone for a tree depends on the size of the tree itself. Larger, more established, trees will have larger critical root zones that you will need to consider when building around trees. Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
@@ -37,6 +39,7 @@ This third zone begins 20 feet from the base of the tree. &nbsp;You are free to 
 
 Image: https://austintexas.gov/page/tree-natural-area-preservation-codes
 
+<hr>
 ## Heritage trees
 
 Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 19 inches or more in diameter and one of the following species, then you may not be able to remove it:
@@ -53,5 +56,3 @@ Heritage trees are protected by the city of Austin in order to preserve the natu
 * Texas Madrone
 
 If the heritage tree is dead or it is a hazard to life or property, then you may be able to apply for a variance to have the heritage tree removed.
-
-<br>&nbsp;
