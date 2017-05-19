@@ -62,6 +62,8 @@ Similar projects that have the same requirements as a shed include: Greenhouses,
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
+> ###### I am an example blockquote title
+> I am  example blockquote copy. Make sure to leave an empty space after me.
 
 #### Setbacks
 
@@ -195,13 +197,9 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-<div class="lightbox-gallery breakout-col-sm-8 row" itemscope="" itemtype="http://schema.org/ImageGallery" data-pswp-uid="1"><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="do">Do</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Don't think about your errors or failures, otherwise you'll never do a thing. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="dont">Don't</h6><p>Don't think about your errors or failures, otherwise you'll never do a thing. &mdash; Bill Murray</p></figcaption></figure></div>
+{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray" %}
 
-<script>
-  $(document).ready(function(){
-    initPhotoSwipeFromDOM('.lightbox-gallery');
-  });
-</script>
+
 
 ##### b. What your shed will look like
 
@@ -394,9 +392,9 @@ It is important to close your permit(s) because if you do not, it may prevent yo
 
 #### What if I fail my final inspection?
 
-Your inspector will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. 
+Your inspector will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires.
 
-Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days. 
+Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
 If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the  [Service Center](/contact/) at One Texas Center. This requires a you to fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
