@@ -1,8 +1,8 @@
 ---
-title: Getting a Deck Permit in Austin, Texas
-
+title: 'Getting a Deck Permit in Austin, Texas'
 name: Deck
-excerpt: A simple, enclosed structure that is physically detached from your house, that no one will be living in, and that will be used for storage.
+excerpt: 'A platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging.'
+project-illustration: '/assets/img/projects/shed'
 
 ---
 
@@ -24,13 +24,19 @@ Whether your need a permit or not, there are still a few zoning regulations you 
 
 No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
+{% include glossary-aside.html term="setback" %}
+
 #### Easements
 
 If there is an easement on your lot, and you choose to build a deck on that easement, you run the risk of being fined or having to demolish your deck if the city needs access to your easement.
 
+{% include glossary-aside.html term="easement" %}
+
 #### Impervious Cover
 
 If your uncovered deck has drainage spaces between the deck boards and is located over a pervious surface, your deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding.
+
+{% include glossary-aside.html term="impervious-cover" %}
 
 ### Do I need a permit?
 
@@ -44,6 +50,9 @@ Your deck requires a building permit if it will:
 * Have plumbing,
 * Have electric,
 * Or be built in a floodplain.
+  * *Floodplain definition: The area of land that will be underwater when a creek or lake rushes over its banks.*
+
+  * *How do I find out if I'm in a floodplain?: You can check if your home is in a floodplain by entering your property's address at&nbsp;*[*austintexas.gov/floodpro*](austintexas.gov/floodpro)*. If your Flood Zone says "Flood Zone: X," then you do not live in a floodplain.*
 
 #### Electric Permits
 
@@ -56,6 +65,8 @@ If the electricity in your shed will require changes to the main electrical mete
 #### Tree Permits
 
 If your deck will require you to remove a tree (or perform construction near the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a Tree Ordinance Review Application. If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
+
+*How do I calculate critical root zone?: The critical root zone is the diameter of the tree in inches, multiplied by 2, then converted into feet.*
 
 Learn more about protected trees and construction requirements.
 
@@ -137,13 +148,23 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)
+
+> **Do:***&nbsp;The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
+
+![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)
+
+**Don't:***&nbsp;This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
 
 ##### b. What your deck will look like
 
 Sketch your proposed deck with its dimensions. Be sure to show it in relation to your home, note where it will attach to your home (if at all), and any doors that will open onto the deck.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:***&nbsp;This sketch includes dimensions and clearly labeled windows, doors, and the landing.*
+
+![](/uploads/versions/shed-sketch-bad---x----735-456x---.jpg)
+
+**Don't:***&nbsp;This sketch needs to include labels and dimensions.*
 
 #### How to get a Free In-Person Consultation
 
@@ -180,19 +201,37 @@ All deck permits require:
 
 Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If applicable, include any power lines that run above your property.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-plotplan-good---x----1500-1600x---.jpg)
+
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-plotplan-bad---x----1278-1628x---.jpg)
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 3. Floor Plan
 
 Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Include details such as any support beams and handrails on the plan.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-floorplan-good---x----1500-1100x---.jpg)
+
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-floorplan-bad---x----1500-1100x---.jpg)
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 4. Elevation Plan
 
 Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
 
-See Examples: Good Example / Bad Example
+![](/uploads/versions/shed-elevationplan-good---x----1105-703x---.jpg)
+
+**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+
+![](/uploads/versions/shed-elevationplan-bad---x----1382-946x---.jpg)
+
+**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 5. Foundation Plan
 

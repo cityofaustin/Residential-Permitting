@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
-  <title>{{ site.title }}</title>
+  <title>{{ page.title }} &mdash; {{ site.title }}</title>
   <!-- Title  -->
   <meta itemprop="name" content="{{ site.description }}">
   <meta property="og:title" content="{{ site.description }}">
@@ -21,6 +21,7 @@
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
   <link rel="stylesheet" href="{{ relative }}/assets/stylesheets/application.css">
+  <script src="{{ relative }}/assets/javascripts/application.js"></script>
 
 
   {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}

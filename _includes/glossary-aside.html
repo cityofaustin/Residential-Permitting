@@ -1,2 +1,11 @@
 {% assign term = site.glossary | where:"term", include.term  | first %}
-<aside class="glossary-aside">{{ term.short_definition }}</aside>
+<blockquote class="glossary-sidebar">
+  <h6 class="sidebar-title">
+    <a href="{{ term.url }}">
+      {{ site.data.labels.locales[site.locale].glossary_definition_header_prefix }}
+      {{ term.title }}
+      {{ site.data.labels.locales[site.locale].glossary_definition_header_suffix }}
+    </a>
+  </h6>
+  {{ term.short_definition }}
+</blockquote>

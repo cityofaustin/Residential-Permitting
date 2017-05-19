@@ -22,7 +22,8 @@ collections:
     output: false
   glossary:
     title: Glossary
-    output: false
+    output: true
+    permalink: "resources/:collection/:path"
   projects:
     title: Projects
     output: true
@@ -46,6 +47,11 @@ defaults:
     type: 'projects'
   values:
     layout: 'project'
+- scope:
+    path: ''
+    type: 'glossary'
+  values:
+    layout: 'glossary-entry'
 - scope:
     path: '_content/resources'
     type: 'content'

@@ -4,6 +4,7 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    fastimage (2.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     jekyll (3.3.0)
@@ -44,6 +45,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fastimage
   jekyll (= 3.3.0)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)

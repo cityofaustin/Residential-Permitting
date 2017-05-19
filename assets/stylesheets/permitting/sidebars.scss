@@ -1,0 +1,72 @@
+.project-layout,
+.page-layout {
+  blockquote {
+    font-size: 1.3rem;
+    font-family: $font-sans;
+    border-style: solid;
+    border-color: $color-barton-light;
+    border-width: 0 0 0 2px;
+    padding:  1rem 2rem;
+    margin: 2rem 0;
+    position: relative;
+    line-height: $heading-line-height;
+    &:before,
+    &:after {
+      border-style: inherit;
+      border-color: inherit;
+      content: "";
+      width: 1rem;
+      position: absolute;
+      left: 0;
+    }
+    &:before {
+      border-width: 2px 0 0 0;
+      top: 0;
+    }
+    &:after {
+      border-width: 0 0 2px 0;
+      bottom: 0;
+    }
+    p {
+      margin: 0;
+      line-height: inherit;
+    }
+    h6 {
+      text-transform: none;
+      font-weight: 500;
+      margin-top: 0;
+      a {
+        text-decoration: none;
+        color: inherit;
+        &:hover, &:active {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+@media #{$md-viewport} {
+  .project-layout,
+  .page-layout {
+    // only apply breakout styles once breakout class has been applied via JS
+    .breakout-sidebar {
+      width: 130%;
+      display: flex;
+      flex-flow: row wrap;
+      align-items: flex-start;
+      justify-content: space-between;
+      blockquote {
+        padding: 1.5rem 0 1.5rem 2.5%;
+        max-width: 20%;
+        flex: 1 auto;
+        min-width: 12rem;
+        margin: 0;
+      }
+      .original-paragraph {
+        max-width: 75%;
+        flex: 1 auto;
+      }
+    }
+  }
+}

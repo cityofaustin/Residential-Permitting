@@ -54,7 +54,7 @@ $color-gray-dark:            #0f0035;
 $color-gray:                 #474454;
 $color-gray-medium:          #716c87; // not referenced in the style guide so not defining for now
 $color-gray-light:           #716c87; // lightest gray that passes color contrast
-$color-gray-lighter:         #e7e6eB;
+$color-gray-lighter:         #d6d4dc;
 $color-gray-lightest:        #f5f4f7;
 
 $color-gray-warm-dark:       #494440;
@@ -88,7 +88,7 @@ $large-screen:      1201px;
 
 // Relative font and image file paths
 $font-path:           '/assets/fonts/uswds';
-$image-path:          '/assets/images/uswds';
+$image-path:          '/assets/uswds/images';
 $site-image-path:     $image-path;
 
 // Magic Numbers
