@@ -205,13 +205,16 @@
 /* PROJECT PAGES */
 
 .project-header {
+  background: $color-barton-light;
   padding-top: 3rem;
   h1 {
     margin-bottom: 0;
   }
   .project-illustration {
     width: 60%;
-    margin-top: 2rem;
+    margin-top: 3rem;
+    display: block;
+    margin: auto;
     @media #{$sm-viewport} {
       width: 30%;
     }
