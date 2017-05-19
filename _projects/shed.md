@@ -213,10 +213,11 @@ See Examples
 
 #### &nbsp;
 
-<hr>
+---
+
 ### How to get a free in-person consultation
 
-There are two ways to sign up for a free 20-minute, in-person consultation. 
+There are two ways to sign up for a free 20-minute, in-person consultation.
 
 * Sign up in person at the QLess Kiosk at the Residential Plan Review
 * Or you may save time by [joining the line remotely on the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). fter filling out your name and number on the website, you will need to select Residential-Zoning & Process Help. Then select Process/Application Guidance. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
@@ -232,7 +233,8 @@ When you’re preparing to apply for your permit, keep in mind that your applica
 
 Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, they will let you know which documents your specific project requires, and help you in filling out your application. However, you will not submit your application in your consultation.
 
-<hr>
+---
+
 ### What documents will I need?
 
 All shed building permit applications require:
@@ -241,7 +243,7 @@ All shed building permit applications require:
 
 The new construction/addition application is the appropriate application for a shed and can be filled out by either you or your architect, engineer, expeditor, or other designated representative.
 
-#### 2. Plot Plan
+#### 2. Plot plan
 
 Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Note that for a shed, you can draw your shed to scale on your survey. It's easier and helpful for reviewers!
 
@@ -249,27 +251,36 @@ See Examples
 
 | Good Example | Bad Example |
 
-#### 3. Floor Plan or Structural Verification Report
+#### 3. Floor plan or Structural Verification Report
 
-Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a Structural Verification Report from a licensed engineer or architect may be submitted in place of a floor plan.
+Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
+
+See Examples
+
+| Good Example | Bad Example |
+
+#### 4. Elevation plan
+
+Your elevation plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Note that for prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
 See Examples
 
 | Good Example | Bad Example |
 
-#### 4. Elevation Plan
+#### 5. Foundation plan
 
-Your elevation plan of your proposed shed must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
+Your foundation plan for your proposed shed must be drawn to scale either by hand or on the computer and must be prepared by a structural engineer. A foundation plan is required for all custom-built sheds. A foundation plan is also required for any types of foundations that require digging into the ground (excavating) or building a level surface (grading), such as a pier and beam foundation or a slab foundation. If you will be putting a prefabricated shed on a slab foundation, you will need a foundation plan.
 
-See Examples
+#### 6. BSPA form
 
-| Good Example | Bad Example |
+When applying for a building permit for a shed, a signed BSPA Form from [Austin Energy](/contact/) confirming your shed will not be too close to any power lines is required.
+
+#### &nbsp;
 
 #### Other commonly required documents
 
-* **Owner’s Authorization Form****:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required.
-* **Foundation Plan:** If your shed will be over 200 square feet, a foundation plan must be drawn by a structural engineer.
-* **Wind Bracing and Framing Plan:**&nbsp;If your shed will be over 500 square feet, you will need a wind bracing and framing plan drawn to IBC standards [Downloadable PDF] either by you or a structural engineer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a Structural Verification Report for you.
+* **Owner’s Authorization Form****:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
+* **Wind Bracing and Framing Plan:**&nbsp;If your shed will be over 500 square feet and custom build, you will need a wind bracing and framing plan drawn to IRC standards either by you, a structural engineer, an architect, or a certified building designer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) for you.
 
 ### How do I submit my application?
 
