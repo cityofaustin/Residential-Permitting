@@ -27,7 +27,6 @@ The critical root zone for a tree depends on the size of the tree itself. Larger
 
 To understand where you can and cannot build around trees, imagine that there are three impact zones of development to think about before you start your project. For this example, we’re using a tree with a 20 inch diameter.
 
-![](/assets/img/photos/critical-root-zone.svg)
 
 ### 1. ¼ Critical Root Zone&nbsp;
 
