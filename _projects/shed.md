@@ -351,26 +351,30 @@ Remember, permitting doesn’t stop when you get started. Your work must be insp
 
 Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
 
+
+<hr>
 ### What inspections will I need?
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 
+<hr>
 ### Who can schedule inspections?
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
 
+<hr>
 ### How do I schedule my inspections?
 
 Inspections can be scheduled one of three ways.
 
 <div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button><div id="by-phone" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li></ul></div></li></ul></div>
 
+<hr>
 ### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home. &nbsp;
+When you schedule your inspection, you will find out whether or not you need to be home. If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
-If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
-
+<hr>
 ### What happens during inspection?
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
@@ -381,7 +385,8 @@ Your inspector will inspect your work based on the approved building plans and t
 
 Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
 
-### Final Inspection
+<hr>
+### Final inspection
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
@@ -389,6 +394,10 @@ It is important to close your permit(s) because if you do not, it may prevent yo
 
 #### What if I fail my final inspection?
 
-Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the [Service Center](/contact/) at the One Texas Center.
+Your inspector will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. 
+
+Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days. 
+
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the  [Service Center](/contact/) at One Texas Center. This requires a you to fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).
