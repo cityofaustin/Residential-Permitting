@@ -2,6 +2,8 @@
 title: 'Getting a Deck Permit in Austin, Texas'
 name: Deck
 excerpt: 'A platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging.'
+project-illustration: '/assets/img/projects/shed'
+
 ---
 
 

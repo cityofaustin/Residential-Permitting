@@ -1,6 +1,6 @@
 ---
 title: Impervious cover
-term: impervious-cover
+term: impervious cover
 short_definition: The total area of a property that prevents water from being absorbed into the ground.
 long_definition:
 source: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf","CodeNext 2M-1 p.15'

@@ -22,7 +22,8 @@ collections:
     output: false
   glossary:
     title: Glossary
-    output: false
+    output: true
+    permalink: "/:collection/:path"
   projects:
     title: Projects
     output: true
