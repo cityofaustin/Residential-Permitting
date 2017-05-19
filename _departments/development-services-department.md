@@ -1,10 +1,10 @@
 ---
 title: Development Services Department
 department_name: Development Services Department
-department_link: 'http://austintexas.gov/page/building-inspections'
+department_link: 'http://www.austintexas.gov/department/development-services'
 description:
 phone: 512-978-4000
-email: building.inspections@austintexas.gov
+email: 'http://austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-
       *General*
