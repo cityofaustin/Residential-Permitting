@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="container container-fluid page-layout">
+  <div class="row center-xs">
+
+    <h1 class="page-title">{{ page.title }}</h1>
+    <article class="content start-xs col-xs-12 col-sm-6">
+      {% for term in site.glossary %}
+        <h3>
+          <a href="{{ term.url }}">
+            {{ term.title }}
+          </a>
+        </h3>
+        <p>
+          {{ term.short_definition }}
+        </p>
+        <hr>
+      {% endfor %}
+    </article>
+  </div>
+</div>
