@@ -282,20 +282,21 @@ When applying for a building permit for a shed, a signed BSPA Form from [Austin 
 * **Owner’s Authorization Form****:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
 * **Wind Bracing and Framing Plan:**&nbsp;If your shed will be over 500 square feet and custom build, you will need a wind bracing and framing plan drawn to IRC standards either by you, a structural engineer, an architect, or a certified building designer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) for you.
 
+<hr>
 ### How do I submit my application?
 
-Intake occurs at [Residential Plan Review](/contact/) at the One Texas Center. You may:
+Intake occurs at [Residential Plan Review](/contact/) at One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division
-* Or you may save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). After filling out your name and number on the website, you will need to select Residential. Then select submissions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
+* Or you may save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). After filling out your name and number on the website, you will need to select Residential-Permit Application Submittals. Then select New Application if this is the first time you’re submitting your application. If you’re submitting an update, then select update. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
 
 #### What happens at intake?
 
-You will meet with a staff member who will do a completeness check using this completeness checklist [Downloadable PDF: TBD].
+You will meet with a staff member who will do a completeness check using this completeness checklist (coming soon).
 
 Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-Once you apply, you will be in the Review process [Internal link to Review: Shed section], and the reviewers will have 21 days from the day your application goes into the system to send you required changes in the form of comments.
+Once you apply, you will be in the Review process.  Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
 
 ## Review
 {: .step}
