@@ -12,8 +12,8 @@ hours:
 
       &nbsp;
 physical_address_markdown: |-
-  **One Texas Center
-  <br>Austin Historic Preservation Office**
+  **One Texas Center**
+  <br>Austin Historic Preservation Office
   <br>505 Barton Springs Road
   <br>5th floor
 _hide_content: true
