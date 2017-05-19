@@ -25,19 +25,19 @@ resources_title: 'Tools & Resources'
 resources_featured:
   - name: Can I get a permit?
     description: Make sure that you can get started on permitting a new project with the City.
-    link: /resources/can-i-get-a-permit/
+    link: alpha.webuildthis.city/resources/can-i-get-a-permit/
   - name: Check my permit status
     description: Already applied for your new permit? Check its current status.
-    link: /resources/can-i-get-a-permit/
+    link: alpha.webuildthis.city/resources/can-i-get-a-permit/
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
-    link: /resources/applications-and-forms
+    link: alpha.webuildthis.city/resources/applications-and-forms
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
-    link: /resources/glossary
+    link: alpha.webuildthis.city/resources/glossary
   - name: Building near a tree
-    description:
-    link: /resources/building-near-a-tree/
+    description: This is an example description.
+    link: alpha.webuildthis.city/resources/building-near-a-tree/
 ---
 
 
