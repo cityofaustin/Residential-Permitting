@@ -821,8 +821,10 @@ a.pswp__share--download {
   }
   h6 {
     font-weight: bold;
-    padding-left: 0;
 		white-space: nowrap;
+		@media #{$md-viewport} {
+			padding-left: 0;
+		}
   }
 	.icon {
 		float: left;
