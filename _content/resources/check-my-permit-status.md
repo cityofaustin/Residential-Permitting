@@ -10,7 +10,7 @@ If you have already submitted your permit application, it typically takes 15 bus
 * On the phone,
 * Or by calling your reviewer.
 
-&lt;hr&gt;
+<hr>
 
 ## Check your permit status on Austin Build + Connect
 
@@ -20,7 +20,7 @@ Follow the prompts to check the status of your permit.
 
 Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case.
 
-&lt;hr&gt;
+<hr>
 
 ## Using an automated voice system over the phone
 
@@ -30,7 +30,7 @@ Call the City of Austin’s Interactive Voice Response System (IVR) to check you
 2. Call the IVR number: (512) 480-0623.
 3. Follow the prompts to check on the status of your inspection.
 
-&lt;hr&gt;
+<hr>
 
 ## Call your reviewer
 
