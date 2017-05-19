@@ -338,7 +338,8 @@ After you or your hired professional resubmit, you will receive either notice th
 
 Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
 
-<hr>
+---
+
 ### What happens after my application is approved?
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the [Service Center](/contact/) at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
