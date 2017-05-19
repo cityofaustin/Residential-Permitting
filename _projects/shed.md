@@ -175,7 +175,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/uploads/shed-plotplan-good.png" dont_image="/uploads/shed-plotplan-bad.jpg" do_caption="Do this for sure" dont_caption="Definitely don't do this." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Do this for sure" dont_caption="Definitely don't do this." %}
 
 ##### b. What your shed will look like
 
