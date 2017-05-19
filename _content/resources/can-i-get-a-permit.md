@@ -13,6 +13,7 @@ There are two things that can get in the way of you receiving a permit: expired 
 * Electrical Permit (EP)
 * Plumbing Permit (PP)
 
+<hr>
 ## When does my permit expire?
 
 Permits have a 180-day lifespan: starting from the date your permit is issued and ending on the date of your final inspection, or 180 days after the most recent in-progress inspection. If your project has not been inspected by day 181, then your permit is expired.
@@ -21,6 +22,7 @@ Permits have a 180-day lifespan: starting from the date your permit is issued an
 
 You can visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to search for an expired permit.
 
+<hr>
 ## I have open or expired permits
 
 There are two ways to resolve expired permits.
@@ -38,12 +40,9 @@ If the new project does not impact the old project, or you want a separate inspe
 
 Be sure to include the expired permit numbers and property address where necessary.
 
+<hr>
 ## What if I maxed out on impervious cover?
 
 Some projects increase impervious cover like building a deck, a shed, or adding square footage to a current structure. If that sounds like your project, then you will need to schedule a free 20-minute in person consultation to review your options. They may be able to help you adjust your plans so that you meet the impervious cover limits.
 
 If your project will not increase impervious cover, then your permit will most likely be approved.
-
-<br>
-<br>
-<br>&nbsp;
