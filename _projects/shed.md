@@ -301,15 +301,18 @@ Once you apply, you will be in the Review process.  Reviewers will either approv
 ## Review
 {: .step}
 
-After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
+After submitting your application and paying your invoice, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
-* Up to code
-* Safe for you, your guests, and your neighbors
-* And sustainable
+* Up to code,
+* Safe for you, your guests, and your neighbors,
+* And long-lasting.
 
+<hr>
 ### What is the review process?
 
-#### 1. A set of reviewers will have 21 days to look through your application and either approve it or attach comments
+#### 1. A set of reviewers will take about 15 business days to look through your application and either approve it or attach comments in a Master Comment Report
+
+Reviewers will be checking your plans for compliance against both the IRC (International Residential Code) and the LDC (Land Development Code).
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/login?reset=true&amp;t_loginAgain=1). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
