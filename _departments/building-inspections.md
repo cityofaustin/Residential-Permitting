@@ -8,7 +8,7 @@ email: building.inspections@austintexas.gov
 hours:
   - time_period_markdown: |-
       *General*
-      <br>Monday through Friday, 7:30am to 3:30am
+      <br>Monday through Friday, 7:30am to 3:30pm
 
       &nbsp;
 physical_address_markdown: |-
