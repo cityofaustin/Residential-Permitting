@@ -282,7 +282,8 @@ When applying for a building permit for a shed, a signed BSPA Form from [Austin 
 * **Owner’s Authorization Form****:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
 * **Wind Bracing and Framing Plan:**&nbsp;If your shed will be over 500 square feet and custom build, you will need a wind bracing and framing plan drawn to IRC standards either by you, a structural engineer, an architect, or a certified building designer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) for you.
 
-<hr>
+---
+
 ### How do I submit my application?
 
 Intake occurs at [Residential Plan Review](/contact/) at One Texas Center. You may:
@@ -296,7 +297,7 @@ You will meet with a staff member who will do a completeness check using this co
 
 Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-Once you apply, you will be in the Review process.  Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
+Once you apply, you will be in the Review process. Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
 
 ## Review
 {: .step}
@@ -307,34 +308,35 @@ After submitting your application and paying your invoice, you enter into the re
 * Safe for you, your guests, and your neighbors,
 * And long-lasting.
 
-<hr>
+---
+
 ### What is the review process?
 
 #### 1. A set of reviewers will take about 15 business days to look through your application and either approve it or attach comments in a Master Comment Report
 
-Reviewers will be checking your plans for compliance against both the IRC (International Residential Code) and the LDC (Land Development Code).
+Reviewers will be checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE).
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/login?reset=true&amp;t_loginAgain=1). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of  your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
+Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
-#### 2. If you receive comments, your plans must be adjusted
+#### 2. If you receive comments, your plans must be updated
 
-Comments are sent in a word document via email.
+Comments are sent in a Master Comment Report to the email provided on the application.
 
-If you need help understanding your comments, reference the Municipal Code [External Link to code] and [glossary](/resources/glossary/).
+If you need help understanding your comments, reference the Municipal Code and [glossary](/resources/glossary/) or speak with a professional.
 
-If you have questions or concerns about your comments, you can reach out to the reviewer associated with the specific comments directly. This information will be located on your comment document.
+If you have questions or concerns about your comments, reach out to the reviewer associated with the specific comments directly. Their contact information will be located on your comment document.
 
 #### 3. Submit updated plans
 
-Resubmission is done through the same process as your initial application submission [Internal link to How do I submit my application?]
+Resubmission is done through the same process as your initial application submission.
 
-After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
+After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments. Note that if you receive comments a second time, there is an additional $355.68 fee.
 
 #### 4. This process will be repeated until all comments have been addressed and your application is approved
 
-Most applications go through 2 rounds of review.
+Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
 
 ### What happens after my application is approved?
 
