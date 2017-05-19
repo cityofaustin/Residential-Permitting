@@ -7,8 +7,8 @@ phone: 512-474-2727
 email: 'http://www.austintexas.gov/email/stevesadowsky'
 hours:
   - time_period_markdown: |-
-      *Walk-in hours for submittal information and application intake​*
-      <br>Monday–Friday 8:00am–12:00pm
+      *Walk-In for submittal information and application intake​*
+      <br>Monday through Friday, 8:00am to12:00pm
 
       &nbsp;
 physical_address_markdown: |-
