@@ -185,13 +185,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-<div class="lightbox-gallery breakout-col-sm-8 row" itemscope="" itemtype="http://schema.org/ImageGallery" data-pswp-uid="1"><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="do">Do</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="dont">Don't</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure></div>
-
-<script>
-  $(document).ready(function(){
-    initPhotoSwipeFromDOM('.lightbox-gallery');
-  });
-</script>
+{% include lightbox-gallery.html do_image="/uploads/shed-plotplan-good.png" dont_image="/uploads/shed-plotplan-bad.jpg" do_caption="Do this for sure" dont_caption="Definitely don't do this." %}
 
 ##### b. What your shed will look like
 
