@@ -213,43 +213,45 @@ See Examples
 
 #### &nbsp;
 
+<hr>
 ### How to get a free in-person consultation
 
-There are two ways to sign up for a free 20-minute, in-person consultation. Consultations are provided at [Residential Plan Review](/contact/) at the One Texas Center. You may:
+There are two ways to sign up for a free 20-minute, in-person consultation. 
 
 * Sign up in person at the QLess Kiosk at the Residential Plan Review
-* Or you may save time by [joining the line remotely on the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). After filling out your name and number on the website, you will need to select Residential. Then select process and zoning questions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
+* Or you may save time by [joining the line remotely on the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). fter filling out your name and number on the website, you will need to select Residential-Zoning & Process Help. Then select Process/Application Guidance. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
 
-Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
+All consultations take part at [Residential Plan Review](/contact/) at One Texas Center. Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
 
 ## Apply
 {: .step}
 
-When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your shed.
+When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents that you will need to provide. The list of documents you will need depends on the specifics of your shed.
 
-Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation [INTERNAL ANCHOR LINK: Define&gt;Prepare for in-person consultation] as you prepare to apply, and they will let you know which documents your specific project requires. However, you will not submit your application in your consultation.
+Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, they will let you know which documents your specific project requires, and help you in filling out your application. However, you will not submit your application in your consultation.
 
+<hr>
 ### What documents will I need?
 
 All shed building permit applications require:
 
 #### 1. Application
 
-The new construction/addition application is the appropriate application for a shed and can be filled out by either you or your architect or engineer.
+The new construction/addition application is the appropriate application for a shed and can be filled out by either you or your architect, engineer, expeditor, or other designated representative.
 
 #### 2. Plot Plan
 
-Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor.
+Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Note that for a shed, you can draw your shed to scale on your survey. It's easier and helpful for reviewers!
 
 See Examples
 
 | Good Example | Bad Example |
 
-#### 3. Floor Plan
+#### 3. Floor Plan or Structural Verification Report
 
-Your floor plan of your proposed shed must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
+Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a Structural Verification Report from a licensed engineer or architect may be submitted in place of a floor plan.
 
 See Examples
 
