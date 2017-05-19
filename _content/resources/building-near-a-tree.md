@@ -10,7 +10,7 @@ The City of Austin has a strong interest in preserving the natural resources tha
 
 ## Protected tree sizes
 
-Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a Tree Ordinance Review Application if your project:
+Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) if your project:
 
 * Requires you to remove a tree,
 * Requires construction near the critical root zone,
@@ -23,7 +23,7 @@ To calculate a tree’s diameter, measure the circumference of the tree at its w
 
 ## Digging into critical root zones
 
-The critical root zone for a tree depends on the size of the tree itself. Larger, more established, trees will have larger critical root zones that you will need to consider when building around trees. Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
+The critical root zone for a tree depends on the size of the tree itself. Larger, more established trees will have larger critical root zones that you will need to consider when building around trees. Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
 
 To understand where you can and cannot build around trees, imagine that there are three impact zones of development to think about before you start your project. For this example, we’re using a tree with a 20 inch diameter.
 
