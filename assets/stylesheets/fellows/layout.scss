@@ -89,6 +89,18 @@ $site-header-height: 6.0rem;
     border-width: 0 0 2px 0;
     bottom: 0;
   }
+  .glossary-title {
+    text-transform: none;
+    font-weight: 500;
+    margin-top: 0;
+    a {
+      text-decoration: none;
+      color: inherit;
+      &:hover, &:active {
+        text-decoration: underline;
+      }
+    }
+  }
 }
 // todo: mobile
 .insert-glossary-here {
