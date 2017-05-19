@@ -49,57 +49,66 @@ tabs:
 
 Before applying for a permit(s), it’s important to define your project, determine if you need any permits, and organize information you will need for your consultation and application. Let’s start by making sure your definition of your project is the same as the City of Austin’s definition.
 
-<hr>
+---
+
 ### What is a shed?
 
-A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used primarily for storage. 
+A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used primarily for storage.
 
 Similar projects that have the same requirements as a shed include: Greenhouses, workshops, garages or carports, gazebos, and playhouses.
 
-<hr>
+---
+
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
 
 #### Setbacks
 
-If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line. {% include glossary-aside.html term="setback" %}
+If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
+{: .insert-glossary-here}
+
+<aside class="glossary-aside"><h6 class="glossary-title"><a href="/glossary/setback">Setback Definition </a></h6>The space between the border of a lot and the buildable area. That space typically cannot have anything built on it.</aside>
 
 #### Easements
 
-When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement. {% include glossary-aside.html term="easement" %}
+When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
+{: .insert-glossary-here}
+
+<aside class="glossary-aside"><h6 class="glossary-title"><a href="/glossary/easement">Easement Definition </a></h6>An area of a resident's land that may be used by a government entity or neighbor. If there is an easement on your land, you may not build on it.</aside>
 
 #### Impervious cover
 
-If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. {% include glossary-aside.html term="impervious cover" %}
+If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
+{: .insert-glossary-here}
 
+<aside class="glossary-aside"><h6 class="glossary-title"><a class="cc-active" href=""> Definition </a></h6></aside>
 
-<hr>
+---
+
 ### Do I need a permit?
 
 #### Building permits
 
 Your shed requires a building permit if any of the following:
 
-* Exceed 1 story 
-* Be over 200 square feet (for example, over 20 feet by 10 feet)
-* Be built in a floodplain
-* Have plumbing
-* Have Heating, Ventilation, and Air Conditioning unit (HVAC)
-
+* Exceed 1 story,
+* Be over 200 square feet (for example, over 20 feet by 10 feet),
+* Be built in a floodplain,
+* Have plumbing,
+* Have Heating, Ventilation, and Air Conditioning unit (HVAC).
 
 #### Electric permits
 
-Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the Service Center at One Texas Center.
+Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the [Service Center at One Texas Center](/contact/).
 
-* If your shed won’t otherwise require a building permit, this is known as a stand-alone electricity permit
-* If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit (also known as a trade permit)
+* If your shed will require a building permit, the City will generate the electric permit with your building permit.
+
+* If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree permits
 
-If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 ft from the ground (diameter at breast height or DBH) is 19 in or more in diameter (59.6904 in around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 19 in or more in diameter and a heritage tree, then you may not be able to remove it.
-
-Learn more about protected trees [INTERNAL LINK: Can I remove that tree?] and constructions requirements.
+If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 30 inches or more in diameter and a heritage tree, then you may not be able to remove it. [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
 
 ### Yes, I need a building permit
 
@@ -161,7 +170,13 @@ Sketch the layout of your property with any existing structures (such as your ho
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Don't think about your errors or failures, otherwise you'll never do a thing. &mdash; Bill Murray" %}
+<div class="lightbox-gallery breakout-col-sm-8 row" itemscope="" itemtype="http://schema.org/ImageGallery" data-pswp-uid="1"><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="do">Do</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Don't think about your errors or failures, otherwise you'll never do a thing. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="dont">Don't</h6><p>Don't think about your errors or failures, otherwise you'll never do a thing. &mdash; Bill Murray</p></figcaption></figure></div>
+
+<script>
+  $(document).ready(function(){
+    initPhotoSwipeFromDOM('.lightbox-gallery');
+  });
+</script>
 
 ##### b. What your shed will look like
 
@@ -319,7 +334,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-{% include tabs.html %}
+<div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button><div id="by-phone" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li></ul></div></li></ul></div>
 
 ### Do I need to be home for my inspection?
 
