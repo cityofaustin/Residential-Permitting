@@ -228,7 +228,7 @@
   letter-spacing: 1px;
   position: sticky;
   position: -webkit-sticky;
-  top: 0; /* required */
+  top: -1px; /* fix retina flicker */
   background: #FFF;
   z-index: 10;
   a {
