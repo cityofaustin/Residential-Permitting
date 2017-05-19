@@ -1,23 +1,22 @@
 ---
-title: Residential Plan Review
+title: Historic Preservation
 department_name: Residential Plan Review
-department_link: 'http://austintexas.gov/page/residential-building-review'
-description: Brief description of the department and why you’d go there. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+department_link: 'http://www.austintexas.gov/department/historic-preservation'
+description:
 phone: 512-978-4000
-email: ResidentialReview@austintexas.gov
+email: 'http://www.austintexas.gov/email/stevesadowsky'
 hours:
   - time_period_markdown: |-
-      *General Information Walk-In, Express, & Total Demolition*
-      <br>Monday, Wednesday, & Friday 8:00am–12:00pm
+      *Walk-in hours for submittal information and application intake​*
+      <br>Monday–Friday 8:00am–12:00pm
 
       &nbsp;
-  - time_period_markdown: |-
-      *Intake (Application Submittal)*
-      <br>Monday & Friday 8:00am–12:00pm
 physical_address_markdown: |-
-  **One Texas Center**
+  **One Texas Center
+  <br>Austin Historic Preservation Office**
   <br>505 Barton Springs Road
-  <br>2nd floor
+  <br>5th floor
 _hide_content: true
 ---
+
 
