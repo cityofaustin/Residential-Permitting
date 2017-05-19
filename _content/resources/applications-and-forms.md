@@ -4,7 +4,8 @@ in_resources_menu: true
 ---
 
 
-The Development Services Department has several forms and applications to streamline your permit application process. If you need more information on building a shed, [visit the shed project page](/projects/shed/).
+Permitting requires several forms and applications. Find the form or application you need quickly by referencing the list below.
 
-<hr>
+---
+
 *Applications and forms coming soon!*

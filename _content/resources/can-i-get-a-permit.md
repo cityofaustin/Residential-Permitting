@@ -4,9 +4,10 @@ in_resources_menu: true
 ---
 
 
-There are two things that can get in the way of you receiving a permit: expired permits and maxing out on impervious cover. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
+There are two things that can get in the way of you receiving a permit: an open or expired permit, maxing out on impervious cover, or both. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
+{: .insert-glossary-here}
 
-{% include glossary-aside.html term="impervious-cover" %}
+<aside class="glossary-aside"><h6 class="glossary-title"><a href="/glossary/impervious-cover">Impervious cover Definition </a></h6>The total area of a property that prevents water from being absorbed into the ground.</aside>
 
 * Building Permit (BP)
 * Mechanical Permit (MP)
@@ -17,7 +18,7 @@ There are two things that can get in the way of you receiving a permit: expired 
 
 ## When does my permit expire?
 
-Permits have a 180-day lifespan: starting from the date your permit is issued and ending on the date of your final inspection, or 180 days after the most recent in-progress inspection. If your project has not been inspected by day 181, then your permit is expired.
+Your permit will be open starting from the date your permit is issued and ending on the date of your final inspection. However, permits have a 180-day lifespan from the day they are issued or from the most recent in-progress inspection. If your project has not been inspected by day 181, or your permit has not been approved, then your permit is expired.
 
 ### How can I check for expired permits?
 
@@ -27,7 +28,7 @@ You can visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/pu
 
 ## I have open or expired permits
 
-There are two ways to resolve expired permits.
+There are two ways to resolve open or expired permits.
 
 ### 1. Re-permit the project with a new permit application
 

@@ -5,42 +5,21 @@ excerpt: 'A simple, enclosed structure that is physically detached from your hou
 project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
-    tab_content_markdown: >
-      * In order to schedule your inspections through the Austin Build + Connect
-      portal, you must be a registered user. If you’re not already registered,
-      you can register online.
-
-      * Click on "My Inspections" in the Menu option and follow the prompts
+    tab_content_markdown: |
+      * In order to schedule your inspections through the portal, you must be a registered user. If you’re not already registered, you can register online.
+      * Click on "My Inspections" in the Menu option and follow the prompts.
+      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
   - tab_title: In-person
-    tab_content_markdown: >
-      * In order to schedule your inspections through the Austin Build + Connect
-      portal, you must be a registered user. If you’re not already registered,
-      you can register online.
-
-      * Click on "My Inspections" in the Menu option and follow the prompts
-
-      * Click on "My Inspections" in the Menu option and follow the prompts
-
-      * If you are experiencing difficulty, you can call 512-978-4000 between the
-      hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help
+    tab_content_markdown: |
+      In person at the [Inspections Division](/contact) on the 4th floor of the Texas One Center.
   - tab_title: By Phone
-    tab_content_markdown: >
-      * In order to schedule your inspections through the Austin Build + Connect
-      portal, you must be a registered user. If you’re not already registered,
-      you can register online.
-
-      * Click on "My Inspections" in the Menu option and follow the prompts
-
-      * In order to schedule your inspections through the Austin Build + Connect
-      portal, you must be a registered user. If you’re not already registered,
-      you can register online.
-
-      * If you are experiencing difficulty, you can call 512-978-4000 between the
-      hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help
-
-      * In order to schedule your inspections through the Austin Build + Connect
-      portal, you must be a registered user. If you’re not already registered,
-      you can register online.
+    tab_content_markdown: |
+      1. Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.
+      2. Call the IVR number: (512) 480-0623.   
+      3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout. If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection. Permits and approved plans must be on site at the time of the inspection. Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed.   
+      4. Enter your IVR PIN.
+      5. Enter your ten-digit permit number.
+      6. Enter the three-digit inspection code. Click here to View Inspection Type Codes. Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. [Click here](#) for a list of inspectors' names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.
 ---
 
 
@@ -62,8 +41,10 @@ Similar projects that have the same requirements as a shed include: Greenhouses,
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
+
 > ###### I am an example blockquote title
-> I am  example blockquote copy. Make sure to leave an empty space after me.
+>
+> I am example blockquote copy. Make sure to leave an empty space after me.
 
 #### Setbacks
 
@@ -71,13 +52,11 @@ If your shed will be less than 15 feet tall, then you must keep 5 feet from both
 
 {% include glossary-aside.html term="setback" %}
 
-
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
 
 {% include glossary-aside.html term="easement" %}
-
 
 #### Impervious cover
 
@@ -178,7 +157,7 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 * Your easements: being aware of any easements on your property will prevent any potential issues in the future with your deck.
 * Your impervious cover: to help prevent flooding.
 
-##### What if I can't find my survey?
+##### What if I can’t find my survey?
 
 You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
 
@@ -196,9 +175,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray" %}
-
-
+{% include lightbox-gallery.html do_image="/uploads/shed-plotplan-good.png" dont_image="/uploads/shed-plotplan-bad.jpg" do_caption="Do this for sure" dont_caption="Definitely don't do this." %}
 
 ##### b. What your shed will look like
 
@@ -242,7 +219,7 @@ The new construction/addition application is the appropriate application for a s
 
 #### 2. Plot plan
 
-Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Note that for a shed, you can draw your shed to scale on your survey. It's easier and helpful for reviewers!
+Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Note that for a shed, you can draw your shed to scale on your survey. It’s easier and helpful for reviewers!
 
 See Examples
 
@@ -309,9 +286,9 @@ After submitting your application and paying your invoice, you enter into the re
 
 ### What is the review process?
 
-#### 1. A set of reviewers will take about 15 business days to look through your application and either approve it or attach comments in a Master Comment Report
+#### 1. Approval or Comments
 
-Reviewers will be checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE).
+A set of reviewers will be looking through your application and checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/login?reset=true&amp;t_loginAgain=1). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
@@ -331,7 +308,9 @@ Resubmission is done through the same process as your initial application submis
 
 After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments. Note that if you receive comments a second time, there is an additional $355.68 fee.
 
-#### 4. This process will be repeated until all comments have been addressed and your application is approved
+#### 4. Repeat if needed
+
+This process will be repeated until all comments have been addressed and your application is approved.
 
 Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
 
@@ -348,30 +327,33 @@ Remember, permitting doesn’t stop when you get started. Your work must be insp
 
 Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
 
+---
 
-<hr>
 ### What inspections will I need?
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 
-<hr>
+---
+
 ### Who can schedule inspections?
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
 
-<hr>
+---
+
 ### How do I schedule my inspections?
 
 Inspections can be scheduled one of three ways.
 
-<div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button><div id="by-phone" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li></ul></div></li></ul></div>
+{% include tabs.html %}
+---
 
-<hr>
 ### Do I need to be home for my inspection?
 
 When you schedule your inspection, you will find out whether or not you need to be home. If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
-<hr>
+---
+
 ### What happens during inspection?
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
@@ -382,7 +364,8 @@ Your inspector will inspect your work based on the approved building plans and t
 
 Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
 
-<hr>
+---
+
 ### Final inspection
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
@@ -395,6 +378,6 @@ Your inspector will let you know why you did not pass. You must make any needed 
 
 Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
-If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the  [Service Center](/contact/) at One Texas Center. This requires a you to fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/) at One Texas Center. This requires a you to fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).

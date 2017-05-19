@@ -18,7 +18,7 @@ You can check the current status of your permit by visiting [Austin Build + Conn
 
 Follow the prompts to check the status of your permit.
 
-Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case.
+Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 ---
 
@@ -34,6 +34,6 @@ Call the City of Austin’s Interactive Voice Response System (IVR) to check you
 
 ## Call your reviewer
 
-The second way to check your permit’s status is to call the reviewer who initially reviewed your permit application, or met with you during the free 20-minute in-person consultation.
+The third way to check your permit’s status is to call the reviewer who initially reviewed your permit application, or met with you during the free 20-minute in-person consultation.
 
 If you haven’t applied for a permit yet, make sure you can get one. If you have an open or expired permit, you will need to close it before moving forward with your project. To find out if you have an open or expired permit, click here to [learn if you can get a permit](/resources/can-i-get-a-permit/).
