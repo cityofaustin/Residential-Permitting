@@ -4,7 +4,11 @@ in_resources_menu: true
 ---
 
 
-If you have already submitted your permit application, it typically takes 15 business days for it to be reviewed. There are three ways to check your permit status: [insert tab set The public portal on Austin Build + Connect; on the phone; or by calling your reviewer].
+If you have already submitted your permit application, it typically takes 15 business days for it to be reviewed. There are three ways to check your permit status:
+
+* The public portal on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index),
+* On the phone,
+* Or by calling your reviewer.
 
 &lt;hr&gt;
 
@@ -25,6 +29,8 @@ Call the City of Austin’s Interactive Voice Response System (IVR) to check you
 1. To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up an authorization form at the Inspections Office at One Texas Center, or request a form by calling (512) 978-4000. Once you have completed the form, submit it to the Inspections Office and you will receive a PIN number.
 2. Call the IVR number: (512) 480-0623.
 3. Follow the prompts to check on the status of your inspection.
+
+&lt;hr&gt;
 
 ## Call your reviewer
 
