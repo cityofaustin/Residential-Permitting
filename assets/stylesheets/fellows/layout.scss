@@ -53,7 +53,7 @@ $site-header-height: 6.0rem;
         &:hover ul,
         ul:hover {
           // limit of 6 items in dropdown lists
-          max-height: 6 * $base-font-size ;
+          max-height: 6 * 3 * $base-font-size ; // > 28rem
           background: $color-gray-lighter;
         }
       }
