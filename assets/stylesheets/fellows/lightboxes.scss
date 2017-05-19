@@ -821,8 +821,20 @@ a.pswp__share--download {
   }
   h6 {
     font-weight: bold;
-    padding-right: 0;
+    padding-left: 0;
+		padding-right: 0;
   }
+	.icon {
+		float: left;
+		width: 1.9rem;
+		margin-right: 1rem;
+	}
+	.icon--check {
+		fill: $color-barton-light;
+	}
+	.icon--close {
+		fill: $color-secondary;
+	}
 }
 .lightbox-gallery {
   margin: 4rem 0;
