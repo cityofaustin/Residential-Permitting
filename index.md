@@ -36,7 +36,7 @@ resources_featured:
     description: Not sure what something means? Take a look in our glossary of terms.
     link: alpha.webuildthis.city/resources/glossary
   - name: Building near a tree
-    description: This is an example description.
+    description: "Have a tree on your property? Find out if it's protected by the City of Austin."
     link: alpha.webuildthis.city/resources/building-near-a-tree/
 ---
 
