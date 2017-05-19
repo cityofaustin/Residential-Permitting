@@ -28,7 +28,7 @@ resources_featured:
     link: /resources/can-i-get-a-permit/
   - name: Check my permit status
     description: Already applied for your new permit? Check its current status.
-    link: /resources/can-i-get-a-permit/
+    link: /resources/check-my-permit-status
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
     link: /resources/applications-and-forms
