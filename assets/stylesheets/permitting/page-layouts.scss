@@ -294,6 +294,9 @@
   .step {
     padding-top: 2rem;
     text-align: center;
+    // to keep sticky nav from overlapping top of anchored ID on in-page links
+    border-top: 5rem solid transparent;
+    margin-top: -5rem;
     &:before {
       display: block;
       font-size: $h3-font-size;
