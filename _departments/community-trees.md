@@ -1,21 +1,26 @@
 ---
-title: Historic Preservation
-department_name: Historic Preservation
-department_link: 'http://www.austintexas.gov/department/historic-preservation'
+title: Community Trees
+department_name: Community Trees
+department_link: 'http://www.austintexas.gov/department/city-arborist'
 description:
-phone: 512-474-2727
-email: 'http://www.austintexas.gov/email/stevesadowsky'
+phone: '311'
+email: 'http://www.austintexas.gov/email/cityarborist'
 hours:
-  - time_period_markdown: |-
-      *Walk-in hours for submittal information and application intake​*
-      <br>Monday–Friday 8:00am–12:00pm
+  - time_period_markdown: >-
+      *General Information Walk-In*
+
+      <br>Monday–Friday, 9:00am–12:00pm, 1st floor, Development Assistance
+      Center
+
+
 
       &nbsp;
+  - time_period_markdown: |-
+      *Tree Reviews, Submittals, & Fees*
+      <br>Monday–Friday, 7:45am–4:45pm, 4th floor
 physical_address_markdown: |-
   **One Texas Center**
-  <br>Austin Historic Preservation Office
   <br>505 Barton Springs Road
-  <br>5th floor
 _hide_content: true
 ---
 
