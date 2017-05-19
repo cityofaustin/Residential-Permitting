@@ -17,6 +17,8 @@ Certain tree sizes are protected in Austin and require a special permit to cut d
 * Involves a tree that is 4.5 feet from the ground or taller,
 * Or involves a tree that is 19 inches or more in diameter (59.6904 inches around).
 
+{% include glossary-aside.html term="critical-root-zone" %}
+
 To calculate a tree’s diameter, measure the circumference of the tree at its widest point, usually at chest height, and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
 ---
