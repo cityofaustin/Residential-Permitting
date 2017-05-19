@@ -17,7 +17,6 @@ tabs:
       1.  Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.   
 2. Call the IVR number: (512) 480-0623.
 3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. 
-
 ---
 
 
