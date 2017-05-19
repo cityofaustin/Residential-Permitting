@@ -49,17 +49,21 @@ tabs:
 
 Before applying for a permit(s), it’s important to define your project, determine if you need any permits, and organize information you will need for your consultation and application. Let’s start by making sure your definition of your project is the same as the City of Austin’s definition.
 
+<hr>
 ### What is a shed?
 
-A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used for storage.
+A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used primarily for storage. 
 
+Similar projects that have the same requirements as a shed include: Greenhouses, workshops, garages or carports, gazebos, and playhouses.
+
+<hr>
 ### Requirements for all sheds
 
-Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to ensure you won’t have code issues is to purchase a pre-made shed that is less than 200 square feet (less than 20 ft x 10 ft) that you can move if you need to.
+Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
 
 #### Setbacks
 
-If your shed will be more than 15 ft tall, you may not build within 5 ft of the side border of your lot or within 10 ft of the rear border of your lot. If your shed will be less than 15 ft tall, then you may not build within 5 ft from both the side and rear borders of your lot. {% include glossary-aside.html term="setback" %}
+If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line. {% include glossary-aside.html term="setback" %}
 
 #### Easements
 
@@ -67,23 +71,26 @@ When there is an easement on your lot and you choose to build on the easement, y
 
 #### Impervious cover
 
-Typically, your impervious cover cannot exceed 40% of your property. Impervious cover restrictions are in place to prevent flooding. {% include glossary-aside.html term="impervious cover" %}
+If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. {% include glossary-aside.html term="impervious cover" %}
 
+
+<hr>
 ### Do I need a permit?
 
 #### Building permits
 
-Your shed requires a building permit if it will:
+Your shed requires a building permit if any of the following:
 
-* Be over 1 story
-* Be over 200 square feet (over 20 ft x 10 ft)
+* Exceed 1 story 
+* Be over 200 square feet (for example, over 20 feet by 10 feet)
 * Be built in a floodplain
 * Have plumbing
-* Have a Heating, Ventilation, and Air Conditioning unit (HVAC)
+* Have Heating, Ventilation, and Air Conditioning unit (HVAC)
+
 
 #### Electric permits
 
-Having electricity in your shed does not require a building permit, however you must still get an electricity permit from the Service Center on the first floor of the One Texas Center.
+Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the Service Center at One Texas Center.
 
 * If your shed won’t otherwise require a building permit, this is known as a stand-alone electricity permit
 * If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit (also known as a trade permit)
