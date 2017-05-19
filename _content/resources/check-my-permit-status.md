@@ -18,7 +18,7 @@ You can check the current status of your permit by visiting [Austin Build + Conn
 
 Follow the prompts to check the status of your permit.
 
-Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case.
+Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 ---
 
