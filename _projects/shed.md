@@ -110,7 +110,8 @@ Having electricity in your shed does not require a building permit, however you,
 
 If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 30 inches or more in diameter and a heritage tree, then you may not be able to remove it. [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
 
-<hr>
+---
+
 ### Getting a building permit
 
 Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code”, so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors.
@@ -128,7 +129,8 @@ While it is possible to prepare your application without consultation, we strong
 * Provide you with a list of the documents you will need to prepare for your application based on your project,
 * And explain the next steps in your process.
 
-<hr>
+---
+
 ### Common shed considerations
 
 #### You may need to hire a licensed professional
@@ -142,17 +144,18 @@ Contractors are required to get permits for their work and are responsible for g
 Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 #### Do prefabricated sheds require a permit?
+
 A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?”
 
 #### How much do building permits cost?
 
 The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This includes the plan review, the permit itself, your inspections, and fees. If you will be building near a protected tree, need a trade permit, or will be building a shed greater than 1750 square feet, then there will be additional charges.
 
-<hr>
+---
+
 ### Get a free 20-minute in-person consultation
 
-In order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process. 
-Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet (coming soon).
+In order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process. Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet (coming soon).
 
 #### 1. Collect the following information
 
@@ -167,6 +170,7 @@ Keep in mind that the consultation is not where you officially submit your appli
   * And/or have electricity.
 
 #### 2. Bring your Property Survey if possible
+
 Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
 * Your setbacks: making sure you don’t build in your setbacks will prevent future complications with the placement of your shed.
@@ -174,18 +178,20 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 * Your impervious cover: to help prevent flooding.
 
 ##### What if I can't find my survey?
+
 You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
+
 * Home lender or title company from your original purchase,
 * Neighbors to find out where they got theirs,
-* Or, you can get a new survey. Find a surveyor through the Texas Board of Professional Land Surveying.
+* Or, you can get a new survey. [Find a surveyor through the Texas Board of Professional Land Surveying](http://txls.texas.gov).
 
-#### 2. Draw a few simple sketches of your shed and property
+#### 3. Draw a few simple sketches of your shed and property
 
-A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation.
+A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
 
 ##### a. Where your shed will be on your property
 
-Sketch the layout of your property with any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
+Sketch the layout of your property and be sure to show any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
 
 See Examples
 
@@ -205,24 +211,7 @@ See Examples
 
 | Good Example | Bad Example |
 
-#### 3. Bring your Property Survey if possible
-
-While your property survey, also known as a cadastral survey, isn’t required at consultation, it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
-
-* Your setbacks: ensuring you don’t build in your setbacks will prevent future complications with the placement of your shed.
-* Your easements: like setbacks, considering easements in the placement of your shed will prevent future issues.
-* Your impervious cover: impervious cover restrictions are in place to prevent flooding.
-
-##### What if I can’t find my survey?
-
-You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
-
-* Local property records or engineering department
-* Local tax assessor or tax collector
-* Home lender or title company from your original purchase
-* Or, try asking your neighbors where they got theirs
-
-Remember, you survey is not required for consultation.
+#### &nbsp;
 
 ### How to get a free in-person consultation
 
