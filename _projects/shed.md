@@ -5,45 +5,21 @@ excerpt: 'A simple, enclosed structure that is physically detached from your hou
 project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
-    tab_content_markdown: >
-      * In order to schedule your inspections through the portal, you must be
-      a registered user. If you’re not already registered, you can register
-      online. * Click on "My Inspections" in the Menu option and follow the
-      prompts. * If you are experiencing difficulty, you can call 512-978-4000
-      between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at
-      dsdhelp@austintexas.gov
+    tab_content_markdown: |
+      * In order to schedule your inspections through the portal, you must be a registered user. If you’re not already registered, you can register online.
+      * Click on "My Inspections" in the Menu option and follow the prompts.
+      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
   - tab_title: In-person
-    tab_content_markdown: >
-      In person at the Inspections Division [INTERNAL LINK to contacts page] on
-      the 4th floor of the Texas One Center.
+    tab_content_markdown: |
+      In person at the [Inspections Division](/contact) on the 4th floor of the Texas One Center.
   - tab_title: By Phone
-    tab_content_markdown: >
-      1.  Make sure you have your IVR personal identification number (PIN). To
-      get an IVR PIN, complete the form Inspection Agent Letter of Authorization
-      and Request for IVR PIN Number (PDF). You can also pick up a form at the
-      Inspections Office on the third floor of One Texas Center, 505 Barton
-      Springs Road, or request a form by calling (512) 978-4000. Upon completion,
-      submit the form to the Inspections Office and a PIN number will be assigned
-      upon submittal.    3. Choose among (1) Schedule Inspections (see
-      requirements below); (2) Obtains status on inspections, or (3) Cancel the
-      Inspection. If a building permit has been issued, it is subject to a #100
-      (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be
-      displayed on the permit printout. If a standalone electrical, mechanical,
-      or plumbing (trade) permit has been issued, it is subject to a rough and
-      final inspection. Permits and approved plans must be on site at the time of
-      the inspection. Inspections for Trade permits cannot be scheduled until the
-      building permit has been issued, all fees have been paid, and required
-      inspections (Pre-Construction and Building Layout) have been
-      performed.   4. Enter your IVR PIN. 5. Enter your ten-digit permit number.
-      6.  Enter the three-digit inspection code. Click here to View Inspection
-      Type Codes. Note: Inspections are usually performed within 24 hours after
-      scheduling, but an inspector's workload can delay a scheduled inspection
-      until the next business day or 48 hours after scheduling. If you have
-      a question about your inspection, you may contact your inspector. Click
-      here for a list of Inspectors Names and contact information. Calls to an
-      inspector may not be answered immediately because they are conducting an
-      inspection, or driving. Please leave a voicemail with your name, phone
-      number and address, and they will contact you.
+    tab_content_markdown: |
+      1. Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.
+      2. Call the IVR number: (512) 480-0623.   
+      3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout. If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection. Permits and approved plans must be on site at the time of the inspection. Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed.   
+      4. Enter your IVR PIN.
+      5. Enter your ten-digit permit number.
+      6. Enter the three-digit inspection code. Click here to View Inspection Type Codes. Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. [Click here](#) for a list of inspectors' names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.
 ---
 
 
@@ -385,8 +361,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-<div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li><p>In order to schedule your inspections online through <a href="https://abc.austintexas.gov/web/permit/index">Austin Build + Connect</a>, you must be a registered user. If you&rsquo;re not already registered, you can register online.</p></li><li><p>Click on "My Inspections" in the Menu option and follow the prompts.</p></li><li><p><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at dsdhelp@austintexas.gov</span></p></li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><p>Come by the <a href="/contact/">Inspections Division</a>&nbsp;at Texas One Center.</p></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button><ul><li class="tab">Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form <a href="http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/ivr-agent-authorization.pdf">Inspection Agent Letter of Authorization and Request for IVR PIN Number</a>. You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.</li><li class="tab">Call the IVR number: (512) 480-0623.</li><li class="tab">Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection.<ul><li>If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout.</li><li>If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection.</li><li>Permits and approved plans must be on site at the time of the inspection.</li><li>Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed. &nbsp;</li></ul></li><li>Enter your IVR PIN.</li><li>Enter your ten-digit permit number.</li><li>Enter the three-digit inspection code. Click here to View Inspection Type Codes.</li></ul></li></ul><div id="by-phone" class="usa-accordion-content tab-content tab" aria-hidden="true"><p>Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. Click here for a list of <a href="http://austintexas.gov/sites/default/files/files/Planning/Building_Inspection/staff_contacts.pdf">Inspectors' names and contact information</a>. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.</p></div></div>
-
+{% include tabs.html %}
 ---
 
 ### Do I need to be home for my inspection?
