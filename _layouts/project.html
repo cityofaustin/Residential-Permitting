@@ -4,29 +4,41 @@ layout: default
 
 <div class="project-header">
 	<div class="container container-fluid center-xs">
-			<img class="project-graphic" src="{{ page.project-graphic }}" alt="{{ page.name }} graphic">
-			<h1>{{ page.name }}</h1>
-			<nav>
-				<a class="active" href="#{{ site.data.labels.locales[site.locale].project_step_1_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_1_title }}</a>
-				{% include _icon.html icon='arrow-long-right' %}
-				<a href="#{{ site.data.labels.locales[site.locale].project_step_2_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_2_title }}</a>
-				{% include _icon.html icon='arrow-long-right' %}
-				<a href="#{{ site.data.labels.locales[site.locale].project_step_3_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_3_title }}</a>
-				{% include _icon.html icon='arrow-long-right' %}
-				<a href="#{{ site.data.labels.locales[site.locale].project_step_4_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_4_title }}</a>
-				<span> | </span>
-				<a href="#{{ site.data.labels.locales[site.locale].resources | slugify }}">{{ page.name }} {{ site.data.labels.locales[site.locale].resources }}</a>
-			</nav>
-		</div>
+		<object class="project-illustration" alt="{{ page.name }} illustration" data="{{ page.project-illustration }}.svg" type="image/svg+xml">
+		  <!-- TODO: See if necessary for browser support <img src="{{ page.project-illustration }}.jpg" /> -->
+		</object>
+	</div>
 </div>
-<div class="container container-fluid">
+<div class="project-title">
+	<div class="container container-fluid center-xs">
+		<h1>{{ page.name }}</h1>
+	</div>
+</div>
+<nav class="project-nav fixedsticky">
+	<div class="container container-fluid center-xs">
+		<a class="active" href="#{{ site.data.labels.locales[site.locale].project_step_1_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_1_title }}</a>
+		{% include _icon.html icon='arrow-long-right' %}
+		<a href="#{{ site.data.labels.locales[site.locale].project_step_2_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_2_title }}</a>
+		{% include _icon.html icon='arrow-long-right' %}
+		<a href="#{{ site.data.labels.locales[site.locale].project_step_3_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_3_title }}</a>
+		{% include _icon.html icon='arrow-long-right' %}
+		<a href="#{{ site.data.labels.locales[site.locale].project_step_4_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_4_title }}</a>
+	</div>
+</nav>
+<script>
+	$(document).ready(function(){
+		// polyfill for sad browsers
+		$('.project-nav').fixedsticky();
+	});
+</script>
+<div class="container container-fluid project-layout">
 	<div class="row center-xs">
 
 		{% if page._page-layout %}
 		  {% include {{ page._page-layout }} %}
 		{% endif %}
 
-		<article class="content start-xs col-xs-12 col-sm-8">
+		<article class="content start-xs col-xs-12 col-sm-6">
 			{{ content }}
 		</article>
 

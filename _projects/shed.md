@@ -2,6 +2,28 @@
 title: 'Getting a Shed Permit in Austin, Texas'
 name: Shed
 excerpt: 'A simple, enclosed structure that is physically detached from your house and that will be used for storage.'
+project-illustration: '/assets/img/projects/shed'
+#todo: make fallback PNG (if necessary for browser support)
+
+tabs:
+  - tab_title: "Online"
+    tab_content_markdown: |
+      * In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you’re not already registered, you can register online.
+      * Click on "My Inspections" in the Menu option and follow the prompts
+  - tab_title: "In-person"
+    tab_content_markdown: |
+      * In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you’re not already registered, you can register online.
+      * Click on "My Inspections" in the Menu option and follow the prompts
+      * Click on "My Inspections" in the Menu option and follow the prompts
+      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help
+  - tab_title: "By Phone"
+    tab_content_markdown: |
+      * In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you’re not already registered, you can register online.
+      * Click on "My Inspections" in the Menu option and follow the prompts
+      * In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you’re not already registered, you can register online.
+      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help
+      * In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you’re not already registered, you can register online.
+
 ---
 
 ## Define
@@ -16,23 +38,22 @@ A simple, enclosed structure that is physically detached from your house that no
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to ensure you won’t have code issues is to purchase a pre-made shed that is less than 200 square feet (less than 20 ft x 10 ft) that you can move if you need to.
-{: .insert-glossary-here}
 
-<aside class="glossary-aside">A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.</aside>
 
 #### Setbacks
 
 If your shed will be more than 15 ft tall, you may not build within 5 ft of the side border of your lot or within 10 ft of the rear border of your lot. If your shed will be less than 15 ft tall, then you may not build within 5 ft from both the side and rear borders of your lot.
-
-
+{% include glossary-aside.html term="setback" %}
 
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
+{% include glossary-aside.html term="easement" %}
 
 #### Impervious cover
 
 Typically, your impervious cover cannot exceed 40% of your property. Impervious cover restrictions are in place to prevent flooding.
+{% include glossary-aside.html term="impervious cover" %}
 
 ### Do I need a permit?
 
@@ -275,7 +296,10 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 ### How do I schedule my inspections?
 
-Inspections can be scheduled one of three ways. [tab set]
+Inspections can be scheduled one of three ways.
+
+{% include tabs.html %}
+
 
 ### Do I need to be home for my inspection?
 
