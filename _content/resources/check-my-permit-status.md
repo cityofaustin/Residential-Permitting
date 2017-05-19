@@ -26,12 +26,6 @@ Note that if you hired a professional such as a general contractor and they subm
 
 Call the City of Austin’s Interactive Voice Response System (IVR) to check your permit status. First, you will need an IVR personal identification number (PIN).
 
-1. To get an IVR PIN, complete
-2. and then this
-3. and this
-
-asjkasjk
-
 1. To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up an authorization form at the Inspections Office at One Texas Center, or request a form by calling (512) 978-4000. Once you have completed the form, submit it to the Inspections Office and you will receive a PIN number.
 2. Call the IVR number: (512) 480-0623.
 3. Follow the prompts to check on the status of your inspection.
