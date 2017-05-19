@@ -41,8 +41,6 @@ This second zone begins at 5 feet and extends 10 feet from the base of the tree 
 
 This third zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
-Image: https://austintexas.gov/page/tree-natural-area-preservation-codes
-
 ---
 
 ## Heritage trees
