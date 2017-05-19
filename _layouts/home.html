@@ -53,8 +53,9 @@ layout: default
     {% for project in site.projects %}
     <div class="project-block col-xs-10 col-sm-6 col-md-4">
       <div class="block-outline">
-        <div class="block-illustration">
-        </div>
+				<object class="block-illustration" alt="{{ project.name }} illustration" data="{{ project.project-illustration }}.svg" type="image/svg+xml">
+					<!-- TODO: See if necessary for browser support <img src="{{ project.project-illustration }}.jpg" /> -->
+				</object>
         <div class="block-text">
           <h3>{{ project.name }}</h3>
           <p>{{ project.excerpt }}</p>

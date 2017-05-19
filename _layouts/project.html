@@ -4,7 +4,9 @@ layout: default
 
 <div class="project-header">
 	<div class="container container-fluid center-xs">
-		<img class="project-graphic" src="{{ page.project-graphic }}" alt="{{ page.name }} graphic">
+		<object class="project-illustration" alt="{{ page.name }} illustration" data="{{ page.project-illustration }}.svg" type="image/svg+xml">
+		  <!-- TODO: See if necessary for browser support <img src="{{ page.project-illustration }}.jpg" /> -->
+		</object>
 		<h1>{{ page.name }}</h1>
 	</div>
 </div>
