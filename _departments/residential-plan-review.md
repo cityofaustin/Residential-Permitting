@@ -2,7 +2,7 @@
 title: Residential Plan Review
 department_name: Residential Plan Review
 department_link: 'http://austintexas.gov/page/residential-building-review'
-description: Brief description of the department and why you’d go there. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+description:
 phone: 512-978-4000
 email: ResidentialReview@austintexas.gov
 hours:
