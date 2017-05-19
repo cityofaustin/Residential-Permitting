@@ -316,7 +316,7 @@ Reviewers will be checking your plans for compliance against both the IRC (Inter
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/login?reset=true&amp;t_loginAgain=1). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request sent a copy of any emails if this is the case.
+Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of  your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 #### 2. If you receive comments, your plans must be adjusted
 
