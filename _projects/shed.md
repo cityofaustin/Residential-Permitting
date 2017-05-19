@@ -6,23 +6,44 @@ project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
     tab_content_markdown: >
-      * In order to schedule your inspections through the portal, you must be a registered user. If you’re not already registered, you can register online.
-      * Click on "My Inspections" in the Menu option and follow the prompts.
-      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at dsdhelp@austintexas.gov
+      * In order to schedule your inspections through the portal, you must be
+      a registered user. If you’re not already registered, you can register
+      online. * Click on "My Inspections" in the Menu option and follow the
+      prompts. * If you are experiencing difficulty, you can call 512-978-4000
+      between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at
+      dsdhelp@austintexas.gov
   - tab_title: In-person
     tab_content_markdown: >
-      In person at the Inspections Division [INTERNAL LINK to contacts page] on the 4th floor of the Texas One Center.
+      In person at the Inspections Division [INTERNAL LINK to contacts page] on
+      the 4th floor of the Texas One Center.
   - tab_title: By Phone
     tab_content_markdown: >
-      1.  Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.   
-      3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout.
-      If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection.
-      Permits and approved plans must be on site at the time of the inspection.
-      Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed.  
-      4. Enter your IVR PIN.
-      5. Enter your ten-digit permit number.
-      6.  Enter the three-digit inspection code. Click here to View Inspection Type Codes.
-      Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. Click here for a list of Inspectors Names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.
+      1.  Make sure you have your IVR personal identification number (PIN). To
+      get an IVR PIN, complete the form Inspection Agent Letter of Authorization
+      and Request for IVR PIN Number (PDF). You can also pick up a form at the
+      Inspections Office on the third floor of One Texas Center, 505 Barton
+      Springs Road, or request a form by calling (512) 978-4000. Upon completion,
+      submit the form to the Inspections Office and a PIN number will be assigned
+      upon submittal.    3. Choose among (1) Schedule Inspections (see
+      requirements below); (2) Obtains status on inspections, or (3) Cancel the
+      Inspection. If a building permit has been issued, it is subject to a #100
+      (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be
+      displayed on the permit printout. If a standalone electrical, mechanical,
+      or plumbing (trade) permit has been issued, it is subject to a rough and
+      final inspection. Permits and approved plans must be on site at the time of
+      the inspection. Inspections for Trade permits cannot be scheduled until the
+      building permit has been issued, all fees have been paid, and required
+      inspections (Pre-Construction and Building Layout) have been
+      performed.   4. Enter your IVR PIN. 5. Enter your ten-digit permit number.
+      6.  Enter the three-digit inspection code. Click here to View Inspection
+      Type Codes. Note: Inspections are usually performed within 24 hours after
+      scheduling, but an inspector's workload can delay a scheduled inspection
+      until the next business day or 48 hours after scheduling. If you have
+      a question about your inspection, you may contact your inspector. Click
+      here for a list of Inspectors Names and contact information. Calls to an
+      inspector may not be answered immediately because they are conducting an
+      inspection, or driving. Please leave a voicemail with your name, phone
+      number and address, and they will contact you.
 ---
 
 
@@ -44,28 +65,38 @@ Similar projects that have the same requirements as a shed include: Greenhouses,
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
+{: .breakout-sidebar}
 
 > ###### I am an example blockquote title
+>
 > I am example blockquote copy. Make sure to leave an empty space after me.
 
 #### Setbacks
 
 If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
+{: .breakout-sidebar}
 
-{% include glossary-aside.html term="setback" %}
+> ###### [Setback Definition](/resources/glossary/setback)
+>
+> {: .sidebar-title}The space between the border of a lot and the buildable area. That space typically cannot have anything built on it.
 
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
+{: .breakout-sidebar}
 
-{% include glossary-aside.html term="easement" %}
-
+> ###### [Easement Definition](/resources/glossary/easement)
+>
+> {: .sidebar-title}An area of a resident's land that may be used by a government entity or neighbor. If there is an easement on your land, you may not build on it.
 
 #### Impervious cover
 
 If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
+{: .breakout-sidebar}
 
-{% include glossary-aside.html term="impervious cover" %}
+> ###### [Impervious cover Definition](/resources/glossary/impervious-cover)
+>
+> {: .sidebar-title}The total area of a property that prevents water from being absorbed into the ground.
 
 ---
 
@@ -178,9 +209,13 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
+<div class="lightbox-gallery breakout-col-sm-8 row" itemscope="" itemtype="http://schema.org/ImageGallery" data-pswp-uid="1"><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="do">Do</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure><figure class="col-md-6" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"><a itemprop="contentUrl" data-size="1521x680" href="/assets/img/photos/homepage-header.jpg"><img itemprop="thumbnail" alt="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. — Bill Murray" src="/assets/img/photos/homepage-header.jpg" /> </a><figcaption itemprop="caption description"><h6 class="dont">Don't</h6><p>Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light. &mdash; Bill Murray</p></figcaption></figure></div>
 
-{% include lightbox-gallery.html do_image="/assets/img/photos/homepage-header.jpg" do_caption="Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bathed in this purple light.  — Bill Murray" dont_image="/assets/img/photos/homepage-header.jpg" dont_caption="Don't think about your errors or failures, otherwise you'll never do a thing. — Bill Murray" %}
-
+<script>
+  $(document).ready(function(){
+    initPhotoSwipeFromDOM('.lightbox-gallery');
+  });
+</script>
 
 ##### b. What your shed will look like
 
@@ -350,7 +385,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-<div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button><div id="by-phone" class="usa-accordion-content tab-content" aria-hidden="true"><ul><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>Click on &ldquo;My Inspections&rdquo; in the Menu option and follow the prompts</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li><li>If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help</li><li>In order to schedule your inspections through the Austin Build + Connect portal, you must be a registered user. If you&rsquo;re not already registered, you can register online.</li></ul></div></li></ul></div>
+<div class="breakout-tabs"><ul class="usa-accordion tabs"><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="true" aria-controls="online">Online</button><div id="online" class="usa-accordion-content tab-content" aria-hidden="false"><ul><li><p>In order to schedule your inspections online through Austin Build + Connect, you must be a registered user. If you&rsquo;re not already registered, you can register online.</p></li><li><p>Click on "My Inspections" in the Menu option and follow the prompts.</p></li><li><p><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at dsdhelp@austintexas.gov</span></p></li></ul></div></li><li class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="in-person">In-person</button><div id="in-person" class="usa-accordion-content tab-content" aria-hidden="true"><p>Come by the <a href="/contact/">Inspections Division</a>&nbsp;at Texas One Center.</p></div></li></ul><p class="tab"><button class="usa-accordion-button tab-button" aria-expanded="false" aria-controls="by-phone">By Phone</button></p><div id="by-phone" class="usa-accordion-content tab-content tab" aria-hidden="true"><ul><li>Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form <a href="http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/ivr-agent-authorization.pdf">Inspection Agent Letter of Authorization and Request for IVR PIN Number</a>. You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.</li><li>Call the IVR number: (512) 480-0623.</li><li>Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection.<ul><li>If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout.</li><li>If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection.</li><li>Permits and approved plans must be on site at the time of the inspection.</li><li>Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed. &nbsp;</li></ul></li><li>Enter your IVR PIN.</li><li>Enter your ten-digit permit number.</li><li>Enter the three-digit inspection code. Click here to View Inspection Type Codes.</li></ul><p>Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. Click here for a list of <a href="http://austintexas.gov/sites/default/files/files/Planning/Building_Inspection/staff_contacts.pdf">Inspectors' names and contact information</a>. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.</p></div></div>
 
 ---
 
