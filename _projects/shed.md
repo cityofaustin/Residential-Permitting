@@ -41,7 +41,6 @@ Similar projects that have the same requirements as a shed include: Greenhouses,
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
-{: .breakout-sidebar}
 
 > ###### I am an example blockquote title
 >
@@ -50,29 +49,20 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 #### Setbacks
 
 If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
-{: .breakout-sidebar}
 
-> ###### [Setback Definition](/resources/glossary/setback)
->
-> {: .sidebar-title}The space between the border of a lot and the buildable area. That space typically cannot have anything built on it.
+{% include glossary-aside.html term="setback" %}
 
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
-{: .breakout-sidebar}
 
-> ###### [Easement Definition](/resources/glossary/easement)
->
-> {: .sidebar-title}An area of a resident's land that may be used by a government entity or neighbor. If there is an easement on your land, you may not build on it.
+{% include glossary-aside.html term="easement" %}
 
 #### Impervious cover
 
 If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
-{: .breakout-sidebar}
 
-> ###### [Impervious cover Definition](/resources/glossary/impervious-cover)
->
-> {: .sidebar-title}The total area of a property that prevents water from being absorbed into the ground.
+{% include glossary-aside.html term="impervious cover" %}
 
 ---
 
