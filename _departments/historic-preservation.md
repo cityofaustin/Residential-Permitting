@@ -3,7 +3,7 @@ title: Historic Preservation
 department_name: Historic Preservation
 department_link: 'http://www.austintexas.gov/department/historic-preservation'
 description:
-phone: 512-978-4000
+phone: 512-474-2727
 email: 'http://www.austintexas.gov/email/stevesadowsky'
 hours:
   - time_period_markdown: |-
