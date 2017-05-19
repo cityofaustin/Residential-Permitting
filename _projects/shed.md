@@ -175,7 +175,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Do this for sure" dont_caption="Definitely don't do this." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don’t use any light-colored drawing utencils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
 
 ##### b. What your shed will look like
 
@@ -183,7 +183,7 @@ Sketch your proposed shed with its dimensions and any windows or doors.
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-sketch-good.png" dont_image="/assets/img/diagrams/shed-sketch-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements." %}
 
 #### &nbsp;
 
@@ -223,7 +223,7 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don’t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
 
 #### 3. Floor plan or Structural Verification Report
 
@@ -231,7 +231,7 @@ Your floor plan of your proposed shed must be drawn to scale either by hand or o
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-floorplan-good.png" dont_image="/assets/img/diagrams/shed-floorplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
 
 #### 4. Elevation plan
 
@@ -239,7 +239,7 @@ Your elevation plan of your proposed shed must be drawn to scale either by hand 
 
 See Examples
 
-| Good Example | Bad Example |
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-elevationplan-good.png" dont_image="/assets/img/diagrams/shed-elevationplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
 
 #### 5. Foundation plan
 

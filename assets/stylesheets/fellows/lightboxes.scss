@@ -822,7 +822,7 @@ a.pswp__share--download {
   h6 {
     font-weight: bold;
     padding-left: 0;
-		padding-right: 0;
+		white-space: nowrap;
   }
 	.icon {
 		float: left;
@@ -844,7 +844,10 @@ a.pswp__share--download {
       display: flex;
       flex-flow: column;
     }
-    img {display: block; }
+    img {
+			display: block;
+			border: 1px solid $color-gray-lightest;
+ 		}
 
   }
   figcaption {
