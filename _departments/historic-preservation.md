@@ -1,6 +1,6 @@
 ---
 title: Historic Preservation
-department_name: Residential Plan Review
+department_name: Historic Preservation
 department_link: 'http://www.austintexas.gov/department/historic-preservation'
 description:
 phone: 512-978-4000
