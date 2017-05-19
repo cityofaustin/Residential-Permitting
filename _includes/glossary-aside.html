@@ -1,6 +1,6 @@
 {% assign term = site.glossary | where:"term", include.term  | first %}
-<aside class="glossary-aside">
-  <h6 class="glossary-title">
+<blockquote class="glossary-sidebar">
+  <h6 class="sidebar-title">
     <a href="{{ term.url }}">
       {{ site.data.labels.locales[site.locale].glossary_definition_header_prefix }}
       {{ term.title }}
@@ -8,4 +8,4 @@
     </a>
   </h6>
   {{ term.short_definition }}
-</aside>
+</blockquote>

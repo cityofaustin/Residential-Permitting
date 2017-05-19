@@ -10,6 +10,9 @@ This style guide for webuildthis.city is a work in progress based on the USWDS. 
 
 Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
 
+> ###### I am an example blockquote title
+> I am  example blockquote copy. Make sure to leave an empty space after me.
+
 Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
 
 ## Lists
@@ -37,10 +40,6 @@ Paragraphs must be separated by a blank line. Basic formatting of *italics* and 
     Code blocks are very useful for developers and other people who look at code or other things that are written in plain text. As you can see, it uses a fixed-width font.
 
 You can also make `inline code` to add code into other things.
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
 
 ## Headings
 
