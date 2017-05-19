@@ -23,18 +23,21 @@ projects_title: Projects
 projects_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
 resources_title: 'Tools & Resources'
 resources_featured:
-  - name: Can I open a permit?
+  - name: Can I get a permit?
     description: Make sure that you can get started on permitting a new project with the City.
-    link:
+    link: /resources/can-i-get-a-permit/
   - name: Check my permit status
     description: Already applied for your new permit? Check its current status.
-    link:
+    link: /resources/check-my-permit-status
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
-    link:
+    link: /resources/applications-and-forms
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
-    link:
+    link: /resources/glossary
+  - name: Building near a tree
+    description: "Have a tree on your property? Find out if it's protected by the City of Austin."
+    link: /resources/building-near-a-tree/
 ---
 
 

@@ -6,9 +6,7 @@ layout: default
 
     <h1 class="page-title">{{ page.title }}</h1>
 
-    {% if page._page-layout %}
-      {% include {{ page._page-layout }} %}
-    {% endif %}
+    <p class="lead">{{ page.short_definition }}</p>
 
     <article class="content start-xs col-xs-12 col-sm-6">
       {{ content }} <br>

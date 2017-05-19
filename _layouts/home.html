@@ -77,7 +77,7 @@ layout: default
     {% for resource in page.resources_featured %}
     <div class="resource-block col-xs-10 col-sm-6 col-md-3">
       <div class="block-outline">
-        <h4><a href="{{ resource.url }}">{{ resource.name }}</a></h4>
+        <h4><a href="{{ resource.link }}">{{ resource.name }}</a></h4>
         <p>{{ resource.description }}</p>
       </div>
     </div>
@@ -87,5 +87,5 @@ layout: default
 
 
 <article class="content start-xs col-xs-12 col-sm-8">
-  {{ content }}
+  {{ content }} <br>
 </article>
