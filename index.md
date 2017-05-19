@@ -31,7 +31,7 @@ resources_featured:
     link: /resources/can-i-get-a-permit/
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
-    link:
+    link: /resources/applications-and-forms
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
     link: /resources/glossary
