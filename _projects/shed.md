@@ -5,21 +5,22 @@ excerpt: 'A simple, enclosed structure that is physically detached from your hou
 project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
-    tab_content_markdown: |
-      * In order to schedule your inspections through the portal, you must be a registered user. If you’re not already registered, you can register online.
+    tab_content_markdown: >
+      * In order to schedule your inspections through the portal, you must be
+      a registered user. If you’re not already registered, you can register
+      online.
+
       * Click on "My Inspections" in the Menu option and follow the prompts.
-      * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
+
+      * If you are experiencing difficulty, you can call 512-978-4000 between the
+      hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at
+      [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
   - tab_title: In-person
-    tab_content_markdown: |
-      In person at the [Inspections Division](/contact) on the 4th floor of the Texas One Center.
+    tab_content_markdown: >
+      In person at the [Inspections Division](/contact) on the 4th floor of the
+      Texas One Center.
   - tab_title: By Phone
-    tab_content_markdown: |
-      1. Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.
-      2. Call the IVR number: (512) 480-0623.   
-      3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout. If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection. Permits and approved plans must be on site at the time of the inspection. Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed.   
-      4. Enter your IVR PIN.
-      5. Enter your ten-digit permit number.
-      6. Enter the three-digit inspection code. Click here to View Inspection Type Codes. Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. [Click here](#) for a list of inspectors' names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.
+    tab_content_markdown: "1. Make sure you have your IVR personal identification number (PIN). To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up a form at the Inspections Office on the third floor of One Texas Center, 505 Barton Springs Road, or request a form by calling (512) 978-4000. Upon completion, submit the form to the Inspections Office and a PIN number will be assigned upon submittal.\n2. Call the IVR number: (512) 480-0623.   \n3. Choose among (1) Schedule Inspections (see requirements below); (2) Obtains status on inspections, or (3) Cancel the Inspection. If a building permit has been issued, it is subject to a #100 (Pre-Construction) and #101 (Building Lay-Out) inspection. This will be displayed on the permit printout. If a standalone electrical, mechanical, or plumbing (trade) permit has been issued, it is subject to a rough and final inspection. Permits and approved plans must be on site at the time of the inspection. Inspections for Trade permits cannot be scheduled until the building permit has been issued, all fees have been paid, and required inspections (Pre-Construction and Building Layout) have been performed.   \n4. Enter your IVR PIN.\n5. Enter your ten-digit permit number.\n6. Enter the three-digit inspection code. Click here to View Inspection Type Codes. Note: Inspections are usually performed within 24 hours after scheduling, but an inspector's workload can delay a scheduled inspection until the next business day or 48 hours after scheduling. If you have a question about your inspection, you may contact your inspector. [Click here](#) for a list of inspectors' names and contact information. Calls to an inspector may not be answered immediately because they are conducting an inspection, or driving. Please leave a voicemail with your name, phone number and address, and they will contact you.\n"
 ---
 
 
@@ -35,6 +36,10 @@ Before applying for a permit(s), it’s important to define your project, determ
 A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used primarily for storage.
 
 Similar projects that have the same requirements as a shed include: Greenhouses, workshops, garages or carports, gazebos, and playhouses.
+
+> ###### title pls
+>
+> text here
 
 ---
 
@@ -175,7 +180,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don’t use any light-colored drawing utencils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utencils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
 
 ##### b. What your shed will look like
 
@@ -183,7 +188,7 @@ Sketch your proposed shed with its dimensions and any windows or doors.
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-sketch-good.png" dont_image="/assets/img/diagrams/shed-sketch-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-sketch-good.png" dont_image="/assets/img/diagrams/shed-sketch-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
 
 #### &nbsp;
 
@@ -223,7 +228,7 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don’t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-plotplan-good.png" dont_image="/assets/img/diagrams/shed-plotplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
 
 #### 3. Floor plan or Structural Verification Report
 
@@ -231,7 +236,7 @@ Your floor plan of your proposed shed must be drawn to scale either by hand or o
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-floorplan-good.png" dont_image="/assets/img/diagrams/shed-floorplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-floorplan-good.png" dont_image="/assets/img/diagrams/shed-floorplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
 
 #### 4. Elevation plan
 
@@ -239,7 +244,7 @@ Your elevation plan of your proposed shed must be drawn to scale either by hand 
 
 See Examples
 
-{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-elevationplan-good.png" dont_image="/assets/img/diagrams/shed-elevationplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don’t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed-elevationplan-good.png" dont_image="/assets/img/diagrams/shed-elevationplan-bad.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
 
 #### 5. Foundation plan
 
@@ -345,8 +350,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-{% include tabs.html %}
----
+## {% include tabs.html %}
 
 ### Do I need to be home for my inspection?
 
