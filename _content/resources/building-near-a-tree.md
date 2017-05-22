@@ -12,10 +12,12 @@ The City of Austin has a strong interest in preserving the natural resources tha
 
 Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) if your project:
 
-* Requires you to remove a tree,
-* Requires construction near the critical root zone,
-* Involves a tree that is 4.5 feet from the ground or taller,
-* Or involves a tree that is 19 inches or more in diameter (59.6904 inches around).
+Involves a tree that is 19 inches or more in diameter ( 59.6904 inches around),
+
+And requires you to:
+
+* Remove the tree,
+* Or do work near the critical root zone.
 
 {% include glossary-aside.html term="critical-root-zone" %}
 
@@ -39,7 +41,7 @@ This first zone extends 5 feet out from the base of the tree on the ground level
 
 This second zone begins at 5 feet and extends 10 feet from the base of the tree and 4 inches into the ground. From 5 to 10 feet of the base of the tree you cannot dig in deeper than 4 inches into the soil.
 
-### 3. The Critical Root Zone
+### 3. The Full Critical Root Zone
 
 This third zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
