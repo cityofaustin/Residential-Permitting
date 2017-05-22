@@ -71,13 +71,13 @@ If you do not live in a floodplain, your impervious cover cannot exceed 45% of y
 
 #### Building permits
 
-Your shed requires a building permit if any of the following:
+Your shed will require a building permit if any of the following:
 
-* Exceed 1 story,
+* It will exceed 1 story,
 * Be over 200 square feet (for example, over 20 feet by 10 feet),
 * Be built in a floodplain,
 * Have plumbing,
-* Have Heating, Ventilation, and Air Conditioning unit (HVAC).
+* Have a Heating, Ventilation, and Air Conditioning unit (HVAC).
 
 #### Electric permits
 
