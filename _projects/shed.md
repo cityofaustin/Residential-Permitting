@@ -35,13 +35,7 @@ Before applying for a permit(s), it’s important to define your project, determ
 
 A simple, enclosed structure that is physically detached from your house that no one will be living in and will be used primarily for storage.
 
-![](/uploads/versions/screen-shot-2017-05-16-at-12-01-14-pm---x----982-917x---.png)
-
 Similar projects that have the same requirements as a shed include: Greenhouses, workshops, garages or carports, gazebos, and playhouses.
-
-> ###### title pls
->
-> text here
 
 ---
 
