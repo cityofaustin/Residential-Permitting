@@ -11,7 +11,9 @@
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% for project in site.projects limit: 6 %}
+                {% if project.visibility != "unlisted" %}
                   <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+                  {% endif %}
                 {% endfor %}
               </ul>
             </li>
