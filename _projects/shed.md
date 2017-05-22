@@ -174,15 +174,11 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property and be sure to show any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
 
-See Examples
-
 {% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_sketch-property_do.png" dont_image="/assets/img/diagrams/shed/shed_sketch-property_dont.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utencils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
 
 ##### b. What your shed will look like
 
 Sketch your proposed shed with its dimensions and any windows or doors.
-
-See Examples
 
 {% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_sketch_do.png" dont_image="/assets/img/diagrams/shed/shed_sketch_dont.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
 
