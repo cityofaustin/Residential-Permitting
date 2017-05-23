@@ -49,7 +49,7 @@ This third zone begins 20 feet from the base of the tree. &nbsp;You are free to 
 
 ## Heritage trees
 
-Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 19 inches or more in diameter and one of the following species, then you may not be able to remove it:
+Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 24 inches or more in diameter and one of the following species, then you may not be able to remove it:
 
 * All Oaks
 * Arizona Walnut
