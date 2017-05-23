@@ -2,7 +2,7 @@
 title: 'Getting a Deck Permit in Austin, Texas'
 name: Deck
 excerpt: 'A platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging.'
-project-illustration: '/assets/img/projects/shed'
+project-illustration: /assets/img/projects/shed
 visibility: unlisted
 ---
 
@@ -50,9 +50,15 @@ Your deck requires a building permit if it will:
 * Have plumbing,
 * Have electric,
 * Or be built in a floodplain.
-  * *Floodplain definition: The area of land that will be underwater when a creek or lake rushes over its banks.*
 
-  * *How do I find out if I'm in a floodplain?: You can check if your home is in a floodplain by entering your property's address at&nbsp;*[*austintexas.gov/floodpro*](austintexas.gov/floodpro)*. If your Flood Zone says "Flood Zone: X," then you do not live in a floodplain.*
+{% include glossary-aside.html term="floodplain" %}
+
+> ###### How do I find out if I'm in a floodplain?
+>
+> Using your address, check if your property is in a floodplain at austintexas.gov/floodpro/.
+>
+>
+> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 #### Electric Permits
 
