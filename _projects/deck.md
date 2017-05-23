@@ -70,11 +70,11 @@ If the electricity on your deck will require changes to the main electrical mete
 
 #### Tree Permits
 
-If you have to remove a tree that is 19 inches or more in diameter, which equals 59.6904 inches around, to build your deck, then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). To get the right diameter, measure the tree at 4.5 feet from the ground. If your tree is 19 inches or more in diameter, and also a heritage tree, then you may not be able to remove it.&nbsp;
+If you have to remove a tree that is 19 inches or more in diameter, which equals 59.6904 inches around, to build your deck, then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). To get the right diameter, measure the tree at 4.5 feet from the ground. If your tree is 24 inches or more in diameter, and also a heritage tree, then you may not be able to remove it.&nbsp;
 
 *How do I calculate critical root zone?: The critical root zone is the diameter of the tree in inches, multiplied by 2, then converted into feet.*
 
-Learn more about protected trees and construction requirements.
+Learn more about [protected trees and construction requirements](/resources/building-near-a-tree/).
 
 ### I need a building permit
 
@@ -114,7 +114,7 @@ If your project requires a trade permit like an electrical or plumbing permit, o
 
 To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process.
 
-Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
+Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet.
 
 #### 1. Collect the following information:
 
