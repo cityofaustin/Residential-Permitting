@@ -135,7 +135,7 @@ Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/
 
 #### Do prefabricated sheds require a permit?
 
-A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?”
+A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?” If you're going to build or pour a foundation (such as pier and beam or slab) for a prefabricated shed and your shed will not otherwise need a building permit, you will not need a permit.
 
 #### How much do building permits cost?
 
