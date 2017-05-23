@@ -17,7 +17,7 @@
       </figcaption>
   </figure>
   <figure class="col-md-6 lightbox-dont" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ dont_image_path }}" itemprop="contentUrl" data-size="{{ dont_image_path }}">
+      <a href="{{ dont_image_path }}" itemprop="contentUrl" data-size="{{ dont_image_path | dimensions }}">
           <img src="{{ dont_image_path }}" itemprop="thumbnail" alt="{{ include.dont_caption }}" />
       </a>
       <figcaption itemprop="caption description">
