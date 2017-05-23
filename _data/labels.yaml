@@ -18,7 +18,7 @@ locales:
     lightbox_gallery_do: "Do"
     lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix: ""
-    glossary_definition_header_suffix: "Definition"
+    glossary_definition_header_suffix: "definition"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
@@ -40,7 +40,7 @@ locales:
     project_step_4_title: "Inspeccionar"
     lightbox_gallery_do: "Si"
     lightbox_gallery_dont: "No"
-    glossary_definition_header_prefix: "Definición de"
+    glossary_definition_header_prefix: "definición de"
     glossary_definition_header_suffix: ""
 
   es_US:
