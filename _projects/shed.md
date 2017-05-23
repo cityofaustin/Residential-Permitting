@@ -79,6 +79,13 @@ Your shed will require a building permit if any of the following:
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC).
 
+> ###### How do I find out if I'm in a floodplain?
+>
+> Using your address, you can check whether or not your property is in a floodplain at [austintexas.gov/floodpro/](austintexas.gov/floodpro/)&nbsp;by clicking "I want to..." then "find floodplain information."
+>
+>
+> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
+
 #### Electric permits
 
 Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the [Service Center at One Texas Center](/contact/).
