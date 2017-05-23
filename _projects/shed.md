@@ -135,7 +135,7 @@ Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/
 
 #### Do prefabricated sheds require a permit?
 
-A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?” If you're going to build or pour a foundation (such as pier and beam or slab) for a prefabricated shed and your shed will not otherwise need a building permit, you will not need a permit.
+A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?” If you're going to build or pour a foundation (such as a concrete slab) for a prefabricated shed and your shed will not otherwise need a building permit, you will not need a permit.
 
 #### How much do building permits cost?
 
@@ -183,13 +183,13 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property and be sure to show any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
 
-{% include lightbox-gallery.html diagram="plot-plan" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_sketch-property_do.png" dont_image="/assets/img/diagrams/shed/shed_sketch-property_dont.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
 
 ##### b. What your shed will look like
 
 Sketch your proposed shed with its dimensions and any windows or doors.
 
-{% include lightbox-gallery.html diagram="sketch"  do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_sketch_do.png" dont_image="/assets/img/diagrams/shed/shed_sketch_dont.png" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
 
 #### &nbsp;
 
@@ -227,19 +227,19 @@ The new construction/addition application is the appropriate application for a s
 
 Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Note that for a shed, you can draw your shed to scale on your survey. It’s easier and helpful for reviewers!
 
-{% include lightbox-gallery.html diagram="plot-plan" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_plot-plan_do.png" dont_image="/assets/img/diagrams/shed/shed_plot-plan_dont.png" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
 
 #### 3. Floor plan or Structural Verification Report
 
 Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
 
-{% include lightbox-gallery.html diagram="floor-plan" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_floor-plan_do.png" dont_image="/assets/img/diagrams/shed/shed_floor-plan_dont.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
 
 #### 4. Elevation plan
 
 Your elevation plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Note that for prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
-{% include lightbox-gallery.html diagram="elevation-plan" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
+{% include lightbox-gallery.html do_image="/assets/img/diagrams/shed/shed_elevation-plan-do.png" dont_image="/assets/img/diagrams/shed/shed_elevation-plan-dont.png" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
 
 #### 5. Foundation plan
 
@@ -345,7 +345,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-{% include tabs.html %}
+## {% include tabs.html %}
 
 ### Do I need to be home for my inspection?
 
