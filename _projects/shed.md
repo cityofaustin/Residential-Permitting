@@ -76,10 +76,11 @@ Your shed will require a building permit if any of the following:
 * It will exceed 1 story,
 * Be over 200 square feet (for example, over 20 feet by 10 feet),
 * Be built in a floodplain,
-* Have plumbing,
-* Have a Heating, Ventilation, and Air Conditioning unit (HVAC).
 
 {% include glossary-aside.html term="floodplain" %}
+
+* Have plumbing,
+* Have a Heating, Ventilation, and Air Conditioning unit (HVAC).
 
 > ###### How do I find out if I'm in a floodplain?
 >
