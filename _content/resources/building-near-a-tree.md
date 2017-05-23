@@ -21,7 +21,7 @@ And requires you to:
 
 {% include glossary-aside.html term="critical-root-zone" %}
 
-To calculate a tree’s diameter, measure the circumference of the tree at its widest point, usually at chest height, and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
+To calculate a tree’s diameter, measure the circumference of the tree 4.5 feet above the ground (diameter at breast height or DBH), and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
 ---
 
