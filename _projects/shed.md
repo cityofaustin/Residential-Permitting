@@ -79,6 +79,8 @@ Your shed will require a building permit if any of the following:
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC).
 
+{% include glossary-aside.html term="floodplain" %}
+
 > ###### How do I find out if I'm in a floodplain?
 >
 > Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro/](austintexas.gov/floodpro/).
