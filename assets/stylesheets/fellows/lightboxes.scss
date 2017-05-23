@@ -828,7 +828,7 @@ a.pswp__share--download {
   }
 	.icon {
 		float: left;
-		width: 1.9rem;
+		height: 1.9rem;
 		margin-right: 1rem;
 	}
 	.icon--check {
@@ -845,6 +845,9 @@ a.pswp__share--download {
     @media #{$md-viewport} {
       display: flex;
       flex-flow: column;
+			a {
+				flex: 0 0 auto;
+			}
     }
     img {
 			display: block;

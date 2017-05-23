@@ -4,7 +4,7 @@
 {% capture dont_image_path %}/assets/img/diagrams/{{ project }}/{{ project }}_{{ diagram }}_dont.png{% endcapture %}
 
 <div class="lightbox-gallery breakout-col-sm-8 row" itemscope itemtype="http://schema.org/ImageGallery">
-  <figure class="col-md-6 lightbox-do" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <figure class="col-md-6 col-xs-12 lightbox-do" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ do_image_path }}" itemprop="contentUrl" data-size="{{ do_image_path | dimensions }}">
           <img src="{{ do_image_path }}" itemprop="thumbnail" alt="{{ include.do_caption }}" />
       </a>
@@ -16,7 +16,7 @@
         <p>{{ include.do_caption }}</p>
       </figcaption>
   </figure>
-  <figure class="col-md-6 lightbox-dont" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <figure class="col-md-6 col-xs-12 lightbox-dont" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ dont_image_path }}" itemprop="contentUrl" data-size="{{ dont_image_path | dimensions }}">
           <img src="{{ dont_image_path }}" itemprop="thumbnail" alt="{{ include.dont_caption }}" />
       </a>
