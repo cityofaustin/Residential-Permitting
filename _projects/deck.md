@@ -36,7 +36,7 @@ If there is an easement on your lot, and you choose to build a deck on that ease
 
 If your uncovered deck has drainage spaces between the deck boards and is located over a pervious surface, your deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding.
 
-{% include glossary-aside.html term="impervious-cover" %}
+{% include glossary-aside.html term="impervious cover" %}
 
 ### Do I need a permit?
 
