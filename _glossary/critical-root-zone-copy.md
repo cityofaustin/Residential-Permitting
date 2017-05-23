@@ -1,8 +1,8 @@
 ---
-title: Critical root zone
-term: critical-root-zone
-short_definition: "An area on the ground surrounding a tree, where water drips down from the tree's canopy down onto the tree's roots."
-long_definition:
+title: Floodplain
+term: Floodplain
+short_definition: The area of land that will be underwater when a creek or lake rushes over its banks.
+long_definition: The area of land that will be underwater when a creek or lake rushes over its banks.
 source:
 ---
 
