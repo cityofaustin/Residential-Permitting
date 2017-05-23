@@ -5,7 +5,7 @@ var initSidebars = function() {
     var newHTML = "<span class='original-paragraph'>" + attachTo.innerHTML + "</span>" + this.outerHTML;
     attachTo.className += " breakout-sidebar";
     attachTo.innerHTML = newHTML;
-    this.remove();
+    $(this).remove();
   });
 }
 $(document).ready(function(){
