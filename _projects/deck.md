@@ -14,11 +14,11 @@ Before you start building or apply for a permit(s), it’s important to define y
 
 ### What is a deck?
 
-A deck is a platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging.
+A deck is a platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging or gathering.
 
 ### Requirements for all decks
 
-Whether your need a permit or not, there are still a few zoning regulations you need to follow to make sure your deck follows the City of Austin’s code.
+Whether your need a permit or not, there are still a few zoning regulations you need to follow to make sure your deck follows the City of Austin’s code. After you've made sure your deck does not break any of the code regulations described below, you can find out if you need a permit.
 
 #### Setbacks
 
@@ -34,7 +34,7 @@ If there is an easement on your lot, and you choose to build a deck on that ease
 
 #### Impervious Cover
 
-If your uncovered deck has drainage spaces between the deck boards and is located over a pervious surface, your deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding.
+If your uncovered deck has drainage spaces between the deck boards and is located over a permeable surface, like your yard, the deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
 
 {% include glossary-aside.html term="impervious cover" %}
 
@@ -62,15 +62,15 @@ Your deck requires a building permit if it will:
 
 #### Electric Permits
 
-Having electricity in your shed does not require a building permit, however you must still get an stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
+Having electricity on your deck does not require a building permit. However, if you want to add an outlet to your deck, you will need a stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 
-If your shed will require a building permit, the City will generate the electric permit with your building permit.
+If your deck will require a building permit, the City will generate the electric permit with your building permit.
 
-If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
+If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree Permits
 
-If your deck will require you to remove a tree (or perform construction near the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a Tree Ordinance Review Application. If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
+If you have to remove a tree that is 19 inches or more in diameter, which equals 59.6904 inches around, to build your deck, then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). To get the right diameter, measure the tree at 4.5 feet from the ground. If your tree is 19 inches or more in diameter, and also a heritage tree, then you may not be able to remove it.&nbsp;
 
 *How do I calculate critical root zone?: The critical root zone is the diameter of the tree in inches, multiplied by 2, then converted into feet.*
 
@@ -78,18 +78,18 @@ Learn more about protected trees and construction requirements.
 
 ### I need a building permit
 
-Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors.
+Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.&nbsp;
 
 #### Make sure you can get a permit
 
-If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. If you have reached the maximum amount of impervious coverage, you may also be unable to get a permit right away.
+If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. If you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment, and instead will have to reconsider deck materials or design.
 
 #### You may need a consultation to determine your deck requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20-minute consultation with one of our reviewers before applying for their permit. During this consultation, the reviewer will be able to:
 
 * Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to build your deck as you originally planned.
-* Send home a list of documents you need to prepare for your application based on your specific project.
+* Give you a list of documents you need to prepare for your application based on your specific project.
 * Explain the next steps to apply for a deck permit.
 
 #### You may need to hire a licensed professional
@@ -106,9 +106,9 @@ Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/
 
 #### How much do building permits cost?
 
-The cost for permitting a deck is $X. This includes the plan review, the permit itself, your inspections, and fees.
+The cost for permitting a deck starts at $200, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
 
-If your project requires an electrical permit or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
+If your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
 
 ### Make the most out of your consultation
 
