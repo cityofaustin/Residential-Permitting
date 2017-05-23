@@ -18,7 +18,7 @@ A deck is a platform-like structure without walls, often made of planks, that no
 
 ### Requirements for all decks
 
-Whether your need a permit or not, there are still a few zoning regulations you need to follow to make sure your deck follows the City of Austin’s code. After you've made sure your deck does not break any of the code regulations described below, you can find out if you need a permit.
+Whether your project needs a permit or not, there are still a few zoning regulations you need to follow to make sure your deck follows the City of Austin’s code. After you've made sure your deck does not break any of the code regulations described below, you can find out if you need a permit.
 
 #### Setbacks
 
