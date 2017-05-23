@@ -98,7 +98,7 @@ Having electricity in your shed does not require a building permit, however you,
 
 #### Tree permits
 
-If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 30 inches or more in diameter and a heritage tree, then you may not be able to remove it. [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
+If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 24 inches or more in diameter and a heritage tree, then you may not be able to remove it. [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
 
 ---
 
@@ -189,7 +189,7 @@ Sketch the layout of your property and be sure to show any existing structures (
 
 Sketch your proposed shed with its dimensions and any windows or doors.
 
-{% include lightbox-gallery.html diagram="sketch"  do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
+{% include lightbox-gallery.html diagram="sketch" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
 
 #### &nbsp;
 
