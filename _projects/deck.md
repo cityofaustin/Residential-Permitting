@@ -1,7 +1,7 @@
 ---
 title: 'Getting a Deck Permit in Austin, Texas'
 name: Deck
-excerpt: 'A platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging.'
+excerpt: 'A platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging and gathering.'
 project-illustration: /assets/img/projects/shed
 visibility: unlisted
 ---
@@ -174,7 +174,7 @@ Sketch your proposed deck with its dimensions. Be sure to show it in relation to
 
 #### How to get a Free In-Person Consultation
 
-There are two ways to sign up for your free 20-minute in-person consultation.
+There are two ways to sign up for your free 20-minute in-person consultation, which takes place at One Texas Center.
 
 * Sign up in person at the QLess Kiosk at the Residential Plan Review.&nbsp;
 * Join the line from the comfort of your own home by visiting the QLess website.
@@ -190,7 +190,7 @@ After your consultation, feel free to return to the next section for further ass
 ## Apply
 {: .step}
 
-When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your shed.
+When you’re preparing to apply for your permit, keep in mind that your application is actually a packet made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your deck.
 
 Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, and they will let you know which documents your specific project requires. However, you will not submit your application in your consultation.
 
@@ -205,7 +205,7 @@ All deck permits require:
 
 #### 2. Plot Plan
 
-Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If applicable, include any power lines that run above your property.
+Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If you're hand drawing the plot plan, use graph paper to make it simple to draw to scale. If applicable, include any power lines that run above your property.
 
 ![](/uploads/versions/shed-plotplan-good---x----1500-1600x---.jpg)
 
@@ -217,7 +217,7 @@ Your plot plan must be drawn to scale either by hand or by using a CAD program a
 
 #### 3. Floor Plan
 
-Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Include details such as any support beams and handrails on the plan.
+Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make drawing to scale easy for your. Include details such as any support beams and handrails on the plan.
 
 ![](/uploads/versions/shed-floorplan-good---x----1500-1100x---.jpg)
 
@@ -229,7 +229,7 @@ Your floor plan of your proposed deck must be drawn to scale either by hand or b
 
 #### 4. Elevation Plan
 
-Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor.
+Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you're hand drawing the plan.
 
 ![](/uploads/versions/shed-elevationplan-good---x----1105-703x---.jpg)
 
@@ -260,7 +260,7 @@ You will meet with a staff member who will do a completeness check using this co
 
 Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
 
-Once you apply, you will be in the Review process, and the reviewers will have 21 calendar days from the day your application goes into the system to send you required changes in the form of comments.
+Once you apply, you will be in the Review process, and the reviewers will have 15 business days from the day your application goes into the system to send you required changes in the form of comments.
 
 ## Review
 {: .step}
@@ -273,7 +273,7 @@ After submitting your application, you enter into the review process. During rev
 
 ### What is the review process?
 
-#### 1. A set of reviewers will have 21 days to look through your application and either approve it or attach comments
+#### 1. A set of reviewers will have 15 business days to look through your application and either approve it or attach comments
 
 You can check the status of your permit application on Austin Build + Connect. To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
@@ -281,7 +281,7 @@ Note that if you are not the applicant, meaning a hired professional submitted y
 
 #### 2. If you receive comments, your plans must be adjusted
 
-Comments are sent in a Microsoft Word document via email.
+Comments from the reviewer are sent in a Microsoft Word document via email.
 
 If you need help understanding your comments, reference the Municipal Code and [glossary](/resources/glossary/) or speak with a professional.
 
@@ -301,12 +301,12 @@ Most applications go through 2 rounds of review.
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
 
-Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
+Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process. Your permit will be closed after the final inspection.&nbsp;
 
 ## Inspect
 {: .step}
 
-Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
+Inspections are required throughout your permitted project and when you're finished with the project. This is to make sure all of your work is safe, and that your deck will last a long time.
 
 ### What inspections will I need?
 
@@ -336,7 +336,7 @@ Your inspector will inspect your work based on the approved building plans and t
 * Foundation checklist.
 * Layout checklist.
 
-Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
+Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
 
 ### Final Inspection
 
