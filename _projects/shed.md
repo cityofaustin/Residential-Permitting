@@ -306,13 +306,13 @@ If you have questions or concerns about your comments, reach out to the reviewer
 
 Resubmission is done through the same process as your initial application submission.
 
-After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments. Note that if you receive comments a second time, there is an additional $355.68 fee.
+After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
 
 #### 4. Repeat if needed
 
 This process will be repeated until all comments have been addressed and your application is approved.
 
-Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
+Most applications go through 2 rounds of review. Note that if you receive comments a second time, there is an additional $355.68 fee.
 
 ---
 
