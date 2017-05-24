@@ -106,7 +106,7 @@ Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/
 
 #### How much do building permits cost?
 
-The cost for permitting a deck starts at $200, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
+The cost for permitting a deck starts at $584.48, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
 
 If your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
 
