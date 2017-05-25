@@ -5,9 +5,11 @@ in_resources_menu: true
 
 
 There are two things that can get in the way of you receiving a permit: an open or expired permit, maxing out on impervious cover, or both. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
-{: .insert-glossary-here}
 
-<aside class="glossary-definition"><h6 class="glossary-title"><a href="/glossary/impervious-cover">Impervious cover Definition </a></h6>The total area of a property that prevents water from being absorbed into the ground.</aside>
+> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+>
+> {% include glossary-definition.html term="impervious cover"%}
+
 
 * Building Permit (BP)
 * Mechanical Permit (MP)
