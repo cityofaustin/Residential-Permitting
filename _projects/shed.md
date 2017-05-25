@@ -51,19 +51,25 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
 
-{% include glossary-aside.html term="setback" %}
+> ###### What is a setback?
+>
+> {% include glossary-definition.html term="setback" %}
 
 #### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
 
-{% include glossary-aside.html term="easement" %}
+> ###### What is an easement?
+>
+> {% include glossary-definition.html term="easement" %}
 
 #### Impervious cover
 
 If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
 
-{% include glossary-aside.html term="impervious cover" %}
+> ###### What is impervious cover?
+>
+> {% include glossary-definition.html term="impervious cover" %}
 
 ---
 
@@ -79,14 +85,14 @@ Your shed will require a building permit if any of the following:
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 * Or be built in a floodplain.
 
-{% include glossary-aside.html term="floodplain" %}
-
 > ###### How do I find out if I'm in a floodplain?
 >
-> Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro/](austintexas.gov/floodpro/).
->
+> Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro/](austintexas.gov/floodpro/).>
 >
 > If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
+>
+> {% include glossary-definition.html term="floodplain" %}
+
 
 #### Electric permits
 

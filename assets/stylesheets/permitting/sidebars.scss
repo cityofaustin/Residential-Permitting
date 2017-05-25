@@ -62,6 +62,9 @@
         flex: 1 auto;
         min-width: 12rem;
         margin: 0;
+        p + p {
+          margin-top: 1rem;
+        }
       }
       .original-paragraph {
         max-width: 75%;
