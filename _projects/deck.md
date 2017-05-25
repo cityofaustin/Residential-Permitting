@@ -24,21 +24,21 @@ Whether your project needs a permit or not, there are still a few zoning regulat
 
 No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
-> ###### What is a setback?
+> ###### [What is a setback?](/resources/glossary/setback)
 > {% include glossary-definition.html term="setback" %}
 
 #### Easements
 
 If there is an easement on your lot, and you choose to build a deck on that easement, you run the risk of being fined or having to demolish your deck if the city needs access to your easement.
 
-> ###### What is an easement?
+> ###### [What is an easement?](/resources/glossary/easement)
 > {% include glossary-definition.html term="easement" %}
 
 #### Impervious Cover
 
 If your uncovered deck has drainage spaces between the deck boards and is located over a permeable surface, like your yard, the deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
 
-> ###### What is impervious cover?
+> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
 > {% include glossary-definition.html term="impervious cover" %}
 
 ### Do I need a permit?
@@ -55,9 +55,9 @@ Your deck requires a building permit if it will:
 * Or be built in a floodplain.
 
 
-> ###### How do I find out if I'm in a floodplain?
+> ###### [How do I find out if I'm in a floodplain?](/resources/glossary/floodplain)
 >
-> Using your address, check if your property is in a floodplain at austintexas.gov/floodpro/.
+> Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
 >
 > If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 >
