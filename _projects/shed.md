@@ -6,7 +6,7 @@ project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
     tab_content_markdown: >
-      * In order to schedule your inspections through the portal, you must be
+      * In order to schedule your inspections through the [Austin Build + Connect portal](https://abc.austintexas.gov/web/permit/index), you must be
       a registered user. If you’re not already registered, you can register
       online.
 
