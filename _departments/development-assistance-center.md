@@ -1,20 +1,28 @@
 ---
-title: Building Inspections
-department_name: Building Inspections
-department_link: 'http://austintexas.gov/page/building-inspections'
-description: 'The Building Inspection Division performs inspections to ensure construction is in compliance with applicable Building, Electrical, Plumbing, Mechanical, Energy and Zoning Codes for the benefit and safety of everyone.'
+title: Development Assistance Center
+department_name: Development Assistance Center
+department_link: 'http://www.austintexas.gov/department/development-assistance-center'
+description: 'The Development Assistance Center (DAC) provides consulting services for business and residential projects.  They will answer your questions, and make sure you understand the procedures and requirements that apply to your project.'
 phone: 512-978-4000
-email: building.inspections@austintexas.gov
+email: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-
-      *General*
-      <br>Monday through Friday, 7:30am to 3:30pm
-
-      &nbsp;
+      *Approved Site Plan Exemption Pick-up*
+      <br>Monday through Friday, 10am - 2pm
+      <br>&nbsp;
+  - time_period_markdown: |-
+      *Map/Document Sales*
+      <br>Monday through Friday, 9am - 3pm
+  - time_period_markdown: |-
+      *Planners/Consultation*
+      <br>Monday through Friday, 9am - 12:00pm
+  - time_period_markdown: |-
+      *Research*
+      <br>Monday through Friday, 9am - 2pm
 physical_address_markdown: |-
   **One Texas Center**
   <br>505 Barton Springs Road
-  <br>3rd floor
+  <br>1st floor
 _hide_content: true
 ---
 
