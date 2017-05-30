@@ -87,19 +87,39 @@ Having electricity on your deck does not require a building permit. However, you
 
 #### Tree Permits
 
-If you have to remove a tree that is 19 inches or more in diameter, which equals 59.6904 inches around, to build your deck, then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). To get the right diameter, measure the tree at 4.5 feet from the ground. If your tree is 24 inches or more in diameter, and also a heritage tree, then you may not be able to remove it.&nbsp;
+If you have any trees in your yard, you will first have to figure out their diameters. You can find the diameter of the tree by measuring the tree at 4.5 feet from the ground. But, not all trees grow straight up from the ground. Some grow on a slope, some trees lean to one side, and some branch out very near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf).
 
-*How do I calculate critical root zone?: The critical root zone is the diameter of the tree in inches, multiplied by 2, then converted into feet.*
+If your tree measures 19 inches or more in diameter, then it is a protected tree and requires a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you can start construction. You will also need to pay the applicable fee.
 
-Learn more about [protected trees and construction requirements](/resources/building-near-a-tree/).
+If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
 
-### I need a building permit
+Learn more about [protected trees and their construction requirements](/resources/building-near-a-tree/).
+
+### Getting a building permit
 
 Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.&nbsp;
+
+#### How much do building permits cost?
+
+The cost for permitting a deck starts at $584.48, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
+
+If your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
 
 #### Make sure you can get a permit
 
 If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. If you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment, and instead will have to reconsider deck materials or design.
+
+#### You may need to hire a licensed professional
+
+Depending on the specific plans for your deck, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
+
+Find out which application materials may need to be prepared by a licensed professional in the Apply section or during a consultation.
+
+##### What if I want to hire a contractor?
+
+Contractors are required to get permits for their work, and are responsible for getting any needed permits themselves with your written authorization. If you want to hire a contractor, it’s important that you work with a licensed contractor who will make sure this is done properly.
+
+Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 #### You may need a consultation to determine your deck requirements
 
@@ -109,25 +129,9 @@ It is possible to prepare your permit application without consulting with a revi
 * Give you a list of documents you need to prepare for your application based on your specific project.
 * Explain the next steps to apply for a deck permit.
 
-#### You may need to hire a licensed professional
-
-Depending on the specific plans for your deck, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
-
-Find out which application materials may need to be prepared by a licensed professional in the Apply section or during your consultation
-
-##### What if I want to hire a contractor?
-
-Contractors are required to get permits for their work, and are responsible for getting any needed permits themselves. If you want to hire a contractor, it’s important that you work with a licensed contractor who will make sure this is done properly.
-
-Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
-
-#### How much do building permits cost?
-
-The cost for permitting a deck starts at $584.48, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
-
-If your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
-
 ### Make the most out of your consultation
+
+All consultations take place at [Residential Plan Review](http://alpha.webuildthis.city/contact#residential-plan-review) at One Texas Center.
 
 To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process.
 
