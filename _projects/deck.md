@@ -212,7 +212,7 @@ After your consultation, feel free to return to the next section for further ass
 ## Apply
 {: .step}
 
-When you’re preparing to apply for your permit, keep in mind that your application is actually a packet made up of the paper application as well as some attached documents. The list of documents you will need depends on the specifics of your deck.
+When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents that you will need to provide. The list of documents you will need depends on the specifics of your deck.
 
 Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, and they will let you know which documents your specific project requires. However, you will not submit your application in your consultation.
 
@@ -222,12 +222,12 @@ All deck permits require:
 
 #### 1. Application
 
-* The Uncovered deck permit application can be filled out by either you or your architect or engineer.
+* The [Uncovered deck permit application](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/pool_app_AWU.pdf) can be filled out by either you or your architect or engineer.
 * The Covered deck permit application can be filled out by either you or your architect or engineer.
 
 #### 2. Plot Plan
 
-Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If you're hand drawing the plot plan, use graph paper to make it simple to draw to scale. If applicable, include any power lines that run above your property.
+Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If you’re hand drawing the plot plan, use graph paper to make it simple to draw to scale. If applicable, include any power lines that run above your property.
 
 ![](/uploads/versions/shed-plotplan-good---x----1500-1600x---.jpg)
 
@@ -239,7 +239,7 @@ Your plot plan must be drawn to scale either by hand or by using a CAD program a
 
 #### 3. Floor Plan
 
-Your floor plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make drawing to scale easy for your. Include details such as any support beams and handrails on the plan.
+Your floor plan of your proposed deck must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make drawing to scale easy for your. Include details such as any support beams and handrails on the plan.
 
 ![](/uploads/versions/shed-floorplan-good---x----1500-1100x---.jpg)
 
@@ -251,7 +251,7 @@ Your floor plan of your proposed deck must be drawn to scale either by hand or b
 
 #### 4. Elevation Plan
 
-Your elevation plan of your proposed deck must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you're hand drawing the plan.
+Your elevation plan of your proposed deck must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you’re hand drawing the elevation plan.
 
 ![](/uploads/versions/shed-elevationplan-good---x----1105-703x---.jpg)
 
@@ -274,15 +274,18 @@ Your foundation plan must be drawn by a structural engineer.
 Intake occurs at [Residential Plan Review](/contact/) at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division.
-* Or you may save time by joining the line remotely on the QLess website. After filling out your name and number on the website, you will need to select Residential. Then select submissions. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
+* Or you may save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
+  * After filling out your name and number on the website, you will need to select Residential-Permit Application Submittals.
+  * Then select New Application if this is the first time you’re submitting your application. If you’re submitting an update, then select update.
+  * You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
 
 #### What Happens at Intake?
 
-You will meet with a staff member who will do a completeness check using this completeness checklist.
+You will meet with a staff member who will do a completeness check using a completeness checklist.
 
-Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
+Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-Once you apply, you will be in the Review process, and the reviewers will have 15 business days from the day your application goes into the system to send you required changes in the form of comments.
+Once you apply, you will be in the Review process. &nbsp;Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
 
 ## Review
 {: .step}
@@ -295,29 +298,33 @@ After submitting your application, you enter into the review process. During rev
 
 ### What is the review process?
 
-#### 1. A set of reviewers will have 15 business days to look through your application and either approve it or attach comments
+#### 1. Approval or Comments
 
-You can check the status of your permit application on Austin Build + Connect. To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
+A set of reviewers will be looking through your application and checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case.
+You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
+
+Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of &nbsp;your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 #### 2. If you receive comments, your plans must be adjusted
 
-Comments from the reviewer are sent in a Microsoft Word document via email.
+Comments are sent in a Master Comment Report to the email provided on the application.
 
-If you need help understanding your comments, reference the Municipal Code and [glossary](/resources/glossary/) or speak with a professional.
+If you need help understanding your comments, reference the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/resources/glossary/) or speak with a professional.
 
 If you have questions or concerns about your comments, you can reach out to the reviewer associated with the specific comments directly. This information will be located on your comment document.
 
 #### 3. Submit updated plans
 
-Resubmission is done through the same process as your initial application submission.
+Resubmission is done through the same process as your initial [application submission](http://alpha.webuildthis.city/deck#how-do-i-submit-my-application?).
 
-After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
+After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments. Note that if you receive comments a second time, there is an additional $355.68 fee for a third round of review.
 
-#### 4. This process will be repeated until all comments have been addressed and your application is approved.
+#### 4. Repeat if needed
 
-Most applications go through 2 rounds of review.
+This process will be repeated until all comments have been addressed and your application is approved.
+
+Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
 
 ### What happens after my application is approved?
 
@@ -354,9 +361,9 @@ If you are not required to be home during your inspection, you must clearly post
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
 
-* Framing checklist.
-* Foundation checklist.
-* Layout checklist.
+* [Framing checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Framing.pdf).
+* [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
+* [Layout checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Layout.pdf).
 
 Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
 
@@ -364,10 +371,14 @@ Your inspector is a great source of information to answer questions about meetin
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
-It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about open and expired permits.
+It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/resources/can-i-get-a-permit/).
 
 #### What if I fail my final inspection?
 
-Your reviewer will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires. Since permits are only valid for 180 days, you may need to extend your building permit to make the required changes before it expires. This can be done at the [Service Center](/contact/) at the One Texas Center.
+Your inspector will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires.
+
+Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
+
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).
