@@ -25,6 +25,7 @@ Whether your project needs a permit or not, there are still a few zoning regulat
 No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
 > ###### [What is a setback?](/resources/glossary/setback)
+>
 > {% include glossary-definition.html term="setback" %}
 
 #### Easements
@@ -32,20 +33,30 @@ No matter how tall your deck will be, you cannot build within 10 feet of the rea
 If there is an easement on your lot, and you choose to build a deck on that easement, you run the risk of being fined or having to demolish your deck if the city needs access to your easement.
 
 > ###### [What is an easement?](/resources/glossary/easement)
+>
 > {% include glossary-definition.html term="easement" %}
 
 #### Impervious Cover
 
-If your uncovered deck has drainage spaces between the deck boards and is located over a permeable surface, like your yard, the deck should not cover more than 50% of the horizontal area. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
+Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
 
 > ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+>
 > {% include glossary-definition.html term="impervious cover" %}
+
+##### Uncovered Decks
+
+If your uncovered deck has spaces between the deck boards and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover for your lot.
+
+##### Covered Decks
+
+If you are covering your deck or there won’t be spaces between the boards, then 100% of the deck’s surface area will count towards the amount of impervious cover on your lot. If you max out your impervious cover, a reviewer can assist you in changing your deck design.
 
 ### Do I need a permit?
 
 #### Building Permits
 
-Your deck requires a building permit if it will:
+Your deck requires a building permit if it will be or have any of the following:
 
 * Be attached to your home,
 * Be over 200 square feet (over 20 feet x 10 feet),
@@ -54,22 +65,25 @@ Your deck requires a building permit if it will:
 * Have electric,
 * Or be built in a floodplain.
 
-
-> ###### [How do I find out if I'm in a floodplain?](/resources/glossary/floodplain)
+> ###### [What is a floodplain?](/resources/glossary/floodplain)
+>
+> {% include glossary-definition.html term="floodplain" %}
+>
+>
+> ###### How do I find out if I'm in a floodplain?
 >
 > Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
 >
-> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 >
-> {% include glossary-definition.html term="floodplain" %}
+> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 #### Electric Permits
 
-Having electricity on your deck does not require a building permit. However, if you want to add an outlet to your deck, you will need a stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
+Having electricity on your deck does not require a building permit. However, you still need an electric permit.
 
-If your deck will require a building permit, the City will generate the electric permit with your building permit.
-
-If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
+* If your deck will require a building permit, the City will generate the electric permit automatically with your building permit.
+* If you do not need a building permit but you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/) at One Texas Center.
+* If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree Permits
 
