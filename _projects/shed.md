@@ -82,9 +82,9 @@ Your shed will require a building permit if any of the following:
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 * Or be built in a floodplain.
 
-> ###### [What is a floodplain?](/resources/glossary/floodplain)
+> ###### What is a floodplain?
 >
-> {% include glossary-definition.html term="floodplain" %}
+> {% include glossary-definition.html term="floodplain" %} [Learn more](/resources/glossary/floodplain)
 >
 > ###### How do I find out if I'm in a floodplain?
 >
