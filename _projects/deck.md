@@ -312,7 +312,7 @@ If you have questions or concerns about your comments, you can reach out to the 
 
 #### 3. Submit updated plans
 
-Resubmission is done through the same process as your initial [application submission](http://alpha.webuildthis.city/deck#how-do-i-submit-my-application?).
+Resubmission is done through the same process as your initial [application submission](http://alpha.webuildthis.city/projects/deck#how-do-i-submit-my-application?).
 
 After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments. Note that if you receive comments a second time, there is an additional $355.68 fee for a third round of review.
 
