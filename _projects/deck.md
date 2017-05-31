@@ -70,7 +70,7 @@ Your deck requires a building permit if it will be or have any of the following:
 > {% include glossary-definition.html term="floodplain" %}
 >
 >
-> **How do I find out if I'm in a floodplain?**
+> How do I find out if I'm in a floodplain?
 >
 >
 > Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
