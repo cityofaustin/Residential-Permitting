@@ -176,13 +176,9 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
 
-![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)
+![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)**Do:***&nbsp;The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
 
-> **Do:***&nbsp;The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
-
-![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)
-
-**Don't:***&nbsp;This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
+![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)**Don't:***&nbsp;This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
 
 ##### b. What your deck will look like
 
