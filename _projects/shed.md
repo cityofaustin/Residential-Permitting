@@ -6,7 +6,8 @@ project-illustration: /assets/img/projects/shed
 tabs:
   - tab_title: Online
     tab_content_markdown: >
-      * In order to schedule your inspections through the [Austin Build + Connect portal](https://abc.austintexas.gov/web/permit/index), you must be
+      * In order to schedule your inspections through the [Austin Build + Connect
+      portal](https://abc.austintexas.gov/web/permit/index), you must be
       a registered user. If you’re not already registered, you can register
       online.
 
@@ -42,10 +43,6 @@ Similar projects that have the same requirements as a shed include: Greenhouses,
 ### Requirements for all sheds
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure there are no future code issues with your shed. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
-
-> ###### I am an example blockquote title
->
-> I am example blockquote copy. Make sure to leave an empty space after me.
 
 #### Setbacks
 
@@ -85,18 +82,22 @@ Your shed will require a building permit if any of the following:
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 * Or be built in a floodplain.
 
-> ###### [How do I find out if I'm in a floodplain?](/resources/glossary/floodplain)
+> ###### [What is a floodplain?](/resources/glossary/floodplain)
+>
+> {% include glossary-definition.html term="floodplain" %}
+>
+>
+> How do I find out if I'm in a floodplain?
+>
 >
 > Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
 >
-> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 >
-> {% include glossary-definition.html term="floodplain" %}
-
+> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 #### Electric permits
 
-Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the [Service Center at One Texas Center](/contact/).
+Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the [Service Center at One Texas Center](/contact/)[.](__notset__)
 
 * If your shed will require a building permit, the City will generate the electric permit with your building permit.
 
