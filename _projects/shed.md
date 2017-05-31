@@ -87,11 +87,9 @@ Your shed will require a building permit if any of the following:
 > {% include glossary-definition.html term="floodplain" %}
 >
 >
-> How do I find out if I'm in a floodplain?
->
+> ###### How do I find out if I'm in a floodplain?
 >
 > Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
->
 >
 > If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
