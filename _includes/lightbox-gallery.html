@@ -1,4 +1,4 @@
-{% assign project = page.name | slugify %}
+{% assign project = page.project | slugify %}
 {% assign diagram = include.diagram | slugify %}
 {% capture do_image_path   %}/assets/img/diagrams/{{ project }}/{{ project }}_{{ diagram }}_do.png{% endcapture %}
 {% capture dont_image_path %}/assets/img/diagrams/{{ project }}/{{ project }}_{{ diagram }}_dont.png{% endcapture %}

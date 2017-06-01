@@ -24,9 +24,6 @@ collections:
     title: Glossary
     output: true
     permalink: "resources/:collection/:path"
-  projects:
-    title: Projects
-    output: true
   icons:
     title: icons
     output: true
@@ -44,21 +41,26 @@ defaults:
     layout: svg
 - scope:
     path: ''
-    type: 'projects'
-  values:
-    layout: 'project'
-- scope:
-    path: ''
     type: 'glossary'
   values:
     layout: 'glossary-entry'
+- scope:
+    path: '_content'
+    type: 'content'
+  values:
+    in_resources_menu: false
+    in_projects_menu: false
+    in_permit_check_menu: false
+- scope:
+    path: '_content/projects'
+    type: 'content'
+  values:
+    layout: 'project'
 - scope:
     path: '_content/resources'
     type: 'content'
   values:
     layout: 'page'
-    in_resources_menu: false
-    in_permit_check_menu: false
 - scope:
     path: 'assets'
   values:
