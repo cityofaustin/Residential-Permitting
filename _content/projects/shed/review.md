@@ -2,6 +2,7 @@
 title:
 step: 4
 step_title: Review
+step_overview: A short description that shows up on the overview for this kind of project.
 project: shed
 ---
 

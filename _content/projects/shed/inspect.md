@@ -2,6 +2,7 @@
 title:
 step: 5
 step_title: Inspect
+step_overview: A short description that shows up on the overview for this kind of project.
 project: shed
 tabs:
   - tab_title: Online

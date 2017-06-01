@@ -285,6 +285,50 @@
     }
   }
 }
+
+.project-steps {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  .block-outline {
+    border: $border-style-lighter-gray;
+    height: 100%;
+    padding: 1.5rem 1.25rem;
+    margin: 0 .5rem;
+    h3 {
+      font-size: $h3-font-size;
+      margin:0 0 .5rem;
+      a {
+        text-decoration: none;
+      }
+    }
+    p {
+      font-size: rem(15px);
+      line-height: rem(21px);
+      font-family: $font-sans;
+      margin: 0;
+    }
+  }
+  .project-step-content {
+    .step-number {
+      text-align: center;
+      font-family: $font-sans;
+      &:before {
+        display: block;
+        font-size: $h3-font-size;
+        width: 2 * $h3-font-size;
+        height: 2 * $h3-font-size;
+        line-height:  2 * $h3-font-size;
+        border-radius: 100%;
+        border: 4px solid $color-black;
+        color: $color-black;
+        box-sizing: content-box;
+        margin: 1rem auto;
+        content: attr(data-number);
+      }
+    }
+  }
+}
+
 .project-prefooter {
   padding-bottom: 4rem;
 }

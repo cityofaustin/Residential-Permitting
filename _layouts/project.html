@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+{% capture all_content %}{{ page.collection }}{% endcapture %}
+
+{% if page.collection %}
+  {% assign this_project = site[all_content] | where: 'project', page.project | sort: 'step' %}
+{% endif %}
+
 {% include project-header.html %}
 
 {% include project-nav.html %}
@@ -9,32 +16,48 @@ layout: default
 <div class="container container-fluid project-layout">
 	<div class="row start-xs">
 		<article class="content start-xs col-xs-12 col-sm-offset-3 col-sm-6">
+
+		{% if url_final_segment == page.project %}
+			<h1 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h1>
+
+			{% for project_step in this_project %}
+			<div class="project-steps">
+				<div class="block-outline row">
+					<div class="project-step-content col-xs-3 center-xs">
+						<span data-number="{{ project_step.step }}" class="step-number"></span>
+					</div>
+					<div class="project-step-content col-xs-9">
+						<h3><a href="{{ project_step.url }}">{{ project_step.step_title }}</a></h3>
+						<p>{{ project_step.step_overview }}</p>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+
+		{% else %}
+
 			<h1 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h1>
 			{{ content }} <br>
+
+		{% endif %}
+
 		</article>
 	</div>
 </div>
 
-
-{% capture the_collection %}{{ page.collection }}{% endcapture %}
-
-{% if page.collection %}
-  {% assign document = site[the_collection] | where: 'project', page.project | sort: 'step' %}
-{% endif %}
-
-{% for links in document %}
-  {% if links.title == page.title %}
+{% for project_step in this_project %}
+  {% if project_step.title == page.title %}
     {% unless forloop.first %}
       {% assign prevurl = prev.url %}
       {% assign prevtitle = prev.title %}
     {% endunless %}
     {% unless forloop.last %}
-      {% assign next = document[forloop.index] %}
+      {% assign next = this_project[forloop.index] %}
       {% assign nexttitle = next.title %}
       {% assign nexturl = next.url %}
     {% endunless %}
   {% endif %}
-  {% assign prev = links %}
+  {% assign prev = project_step %}
 {% endfor %}
 
 <div class="container container-fluid project-prefooter">

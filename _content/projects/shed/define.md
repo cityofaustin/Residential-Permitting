@@ -2,6 +2,7 @@
 title:
 step: 1
 step_title: Define
+step_overview: A short description that shows up on the overview for this kind of project.
 project: shed
 ---
 
