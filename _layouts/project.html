@@ -2,45 +2,70 @@
 layout: default
 ---
 
-<div class="project-header">
-	<div class="container container-fluid center-xs">
-		<object class="project-illustration" alt="{{ page.name }} illustration" data="{{ page.project-illustration }}.svg" type="image/svg+xml">
-		  <!-- TODO: See if necessary for browser support <img src="{{ page.project-illustration }}.jpg" /> -->
-		</object>
-	</div>
-</div>
-<div class="project-title">
-	<div class="container container-fluid center-xs">
-		<h1>{{ page.name }}</h1>
-	</div>
-</div>
-<nav class="project-nav fixedsticky">
-	<div class="container container-fluid center-xs">
-		<a class="active" href="#{{ site.data.labels.locales[site.locale].project_step_1_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_1_title }}</a>
-		{% include _icon.html icon='arrow-long-right' %}
-		<a href="#{{ site.data.labels.locales[site.locale].project_step_2_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_2_title }}</a>
-		{% include _icon.html icon='arrow-long-right' %}
-		<a href="#{{ site.data.labels.locales[site.locale].project_step_3_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_3_title }}</a>
-		{% include _icon.html icon='arrow-long-right' %}
-		<a href="#{{ site.data.labels.locales[site.locale].project_step_4_title | slugify }}">{{ site.data.labels.locales[site.locale].project_step_4_title }}</a>
-	</div>
-</nav>
-<script>
-	$(document).ready(function(){
-		// polyfill for sad browsers
-		$('.project-nav').fixedsticky();
-	});
-</script>
+
+{% capture all_content %}{{ page.collection }}{% endcapture %}
+
+{% if page.collection %}
+  {% assign this_project = site[all_content] | where: 'project', page.project | sort: 'step' %}
+{% endif %}
+
+{% include project-header.html %}
+
+{% include project-nav.html %}
+
 <div class="container container-fluid project-layout">
 	<div class="row start-xs">
+		<article class="content start-xs col-xs-12 col-sm-offset-3 col-sm-6">
 
-		{% if page._page-layout %}
-		  {% include {{ page._page-layout }} %}
+		{% if url_final_segment == page.project %}
+			<h1 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h1>
+
+			{% for project_step in this_project %}
+			<div class="project-steps">
+				<div class="block-outline row">
+					<div class="project-step-content col-xs-3 center-xs">
+						<span data-number="{{ project_step.step }}" class="step-number"></span>
+					</div>
+					<div class="project-step-content col-xs-9">
+						<h3><a href="{{ project_step.url }}">{{ project_step.step_title }}</a></h3>
+						<p>{{ project_step.step_overview }}</p>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+
+		{% else %}
+
+			<h1 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h1>
+			{{ content }} <br>
+
 		{% endif %}
 
-		<article class="content start-xs col-xs-12 col-sm-offset-3 col-sm-6">
-			{{ content }} <br>
 		</article>
+	</div>
+</div>
 
+{% for project_step in this_project %}
+  {% if project_step.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevtitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = this_project[forloop.index] %}
+      {% assign nexttitle = next.title %}
+      {% assign nexturl = next.url %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = project_step %}
+{% endfor %}
+
+<div class="container container-fluid project-prefooter">
+	<div class="row start-xs">
+		<aside class="center-xs col-xs-12 col-sm-offset-3 col-sm-6">
+			{% if prevurl %}<a class="usa-button" href="{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }}: {{ prevtitle }}</a>{% endif %}<br />
+			{% if nexturl %}<a class="usa-button" href="{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }}: {{ nexttitle }}</a>{% endif %}
+			<a href="/"></a>
+		</aside>
 	</div>
 </div>
