@@ -1,7 +1,7 @@
 {% assign url_final_segment = page.url | split:'/' | last %}
 
 <nav class="project-nav fixedsticky">
-	<div class="container container-fluid center-xs">
+	<div class="container-fluid center-xs">
 		<a {% if url_final_segment == page.project %}class="active"{% endif %} href="/projects/{{ page.project }}">
 			{{ site.data.labels.locales[site.locale].project_overview_title }}
 		</a>
