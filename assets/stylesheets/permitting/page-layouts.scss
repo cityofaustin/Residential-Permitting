@@ -272,31 +272,21 @@
   }
 }
 .project-layout {
-  // Just for project pages
+  // Just in case an h1 slips in
   h1, h2 {
-   font-size: $h2-font-size;
+   font-size: $h2-font-size-alt;
    font-weight: $font-bold;
   }
-
+  // scale up font sizes for project page
   h3 {
-   font-size: $h3-font-size;
-   font-weight: $font-medium;
-  }
+    font-size: $h2-font-size;
+    color: $color-gray-dark;
 
+  }
   h4 {
-   font-size: $h4-font-size;
-   font-weight: $font-medium;
-  }
+    font-size: $h3-font-size;
+    color: $color-gray;
 
-  h5 {
-   font-size: $h5-font-size;
-   font-weight: $font-medium;
-  }
-
-  h6 {
-   font-size: $h6-font-size;
-   font-weight: $font-normal;
-   text-transform: uppercase;
   }
 
   .step-title {
