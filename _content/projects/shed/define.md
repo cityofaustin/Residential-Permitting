@@ -72,38 +72,41 @@ Your shed will require a building permit if any of the following:
 
 #### Electric permits
 
-Having electricity in your shed does not require a building permit, however you, if the property is your homestead, or your registered electrician must still get an stand-alone electric permit in person from the [Service Center at One Texas Center](/contact/)[.](__notset__)
+Having electricity in your shed does not require a building permit. However, you still need an electric permit.
 
-* If your shed will require a building permit, the City will generate the electric permit with your building permit.
-
+* If your shed will require a building permit, the City will generate the electric permit automatically with your building permit.
+* If you do not need a building permit but you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 * If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree permits
 
-If your shed will require you to remove a tree (or perform construction within the critical root zone) that when measured 4.5 feet from the ground (diameter at breast height or DBH) is 19 inches or more in diameter (59.6904 inches around), then you will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf). If your tree is 24 inches or more in diameter and a heritage tree, then you may not be able to remove it. [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
+If you have any trees in your yard, you will first have to figure out their diameters. You can find the diameter of the tree by measuring the tree at 4.5 feet from the ground. But, not all trees grow straight up from the ground. Some grow on a slope, some trees lean to one side, and some branch out very near the ground. If that sounds like one of your trees, use this diagram to measure your tree.
 
----
+If your tree measures 19 inches or more in diameter, then it is a protected tree and requires a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you can start construction. You will also need to pay the applicable fee.
+
+If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
+
+[Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
+
+&nbsp;
 
 ### Getting a building permit
 
 Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code”, so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors.
 
+#### How much do building permits cost?
+
+The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This includes the plan review, the permit itself, your inspections, and fees.
+
+If you will be building near a protected tree, need a trade permit, or will be building a shed greater than 1750 square feet, then there will be additional charges.
+
+#### Do prefabricated sheds require a permit?
+
+A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?” It’s also important to know that you do not need a permit to build or pour a foundation (such as pier and beam or concrete slab) for a prefabricated shed that otherwise doesn’t need a building permit.
+
 #### Make sure you can get a permit
 
 If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
-
-#### You may need a consultation to determine your shed requirements
-
-While it is possible to prepare your application without consultation, we strongly advise you to come in for a free 20-minute consultation with one of our reviewers before preparing your application. At a consultation, the reviewer will be able to:
-
-* Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to build your uncovered shed as you originally planned.
-* Answer any application questions,
-* Provide you with a list of the documents you will need to prepare for your application based on your project,
-* And explain the next steps in your process.
-
----
-
-### Common shed considerations
 
 #### You may need to hire a licensed professional
 
@@ -115,10 +118,13 @@ Contractors are required to get permits for their work and are responsible for g
 
 Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
-#### Do prefabricated sheds require a permit?
+#### You may need a consultation to determine your shed requirements
 
-A prefabricated shed may still require a permit. To determine if your prefabricated shed requires a permit, refer to “Do I need a permit?” If you're going to build or pour a foundation (such as pier and beam or slab) for a prefabricated shed and your shed will not otherwise need a building permit, you will not need a permit.
+While it is possible to prepare your application without consultation, we strongly advise you to come in for a free 20-minute consultation with one of our reviewers before preparing your application. At a consultation, the reviewer will be able to:
 
-#### How much do building permits cost?
+* Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to build your uncovered shed as you originally planned.
+* Answer any application questions,
+* Provide you with a list of the documents you will need to prepare for your application based on your project,
+* And explain the next steps in your process.
 
-The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This includes the plan review, the permit itself, your inspections, and fees. If you will be building near a protected tree, need a trade permit, or will be building a shed greater than 1750 square feet, then there will be additional charges.
+#### &nbsp;
