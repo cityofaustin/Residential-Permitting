@@ -2,11 +2,10 @@
 layout: default
 ---
 
-
 {% capture all_content %}{{ page.collection }}{% endcapture %}
 
 {% if page.collection %}
-  {% assign this_project = site[all_content] | where: 'project', page.project | sort: 'step' %}
+  {% assign this_project = site[all_content] | where: 'project_name', page.project_name | sort: 'step_number' %}
 {% endif %}
 
 {% include project-header.html %}
@@ -17,46 +16,46 @@ layout: default
 	<div class="row start-xs">
 		<article class="content start-xs col-xs-12 col-sm-offset-2 col-sm-8">
 
-		{% if url_final_segment == page.project %}
       <div class="center-xs">
-  			<h2 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h2>
-        <p class="lead">{{ page.intro }}</p>
-        <h2>{{ page.step_cards_title }}</h2>
-      </div>
-			{% for project_step in this_project %}
-        {% if project_step.step > 0 %}
-  			<div class="project-steps">
-  				<div class="block-outline row">
-  					<div data-number="{{ project_step.step }}" class="step-number"></div>
-  					<div class="project-step-content">
-  						<h3><a href="{{ project_step.url }}">{{ project_step.step_title }}</a></h3>
-  						<p>{{ project_step.step_overview }}</p>
-  					</div>
-  				</div>
-  			</div>
+  			<h2 data-number="{{ page.step_number }}" class="step-title">
+          {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
+        </h2>
+        {% if page.step_number == 0 %}
+          <p class="lead">{{ page.intro }}</p>
+          <h2>{{ page.step_cards_title }}</h2>
         {% endif %}
-			{% endfor %}
+      </div>
+      {% if page.step_number == 0 %}
+        {% for project_steps in site.data.labels.locales[site.locale].project_steps %}
+      		{% assign project = site.data.labels.locales[site.locale].project_steps[forloop.index0] %}
+      		{% if forloop.index0 > 0 %}
+          <div class="project-steps">
+            <div class="block-outline row">
+              <div data-number="{{ forloop.index0 }}" class="step-number"></div>
+              <div class="project-step-content">
+                <h3><a href="/projects/{{ page.project_name }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
+                <p>{{ project.step_description }}</p>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+      	{% endfor %}
+      {% endif %}
 
-		{% else %}
-
-			<h2 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h2>
-			{{ content }} <br>
-
-		{% endif %}
+      {{ content }} <br>
 
 		</article>
 	</div>
 </div>
-
 {% for project_step in this_project %}
-  {% if project_step.title == page.title %}
+  {% if project_step.step_number == page.step_number %}
     {% unless forloop.first %}
       {% assign prevurl = prev.url %}
-      {% assign prevtitle = prev.step_title %}
+      {% assign prevtitle = site.data.labels.locales[site.locale].project_steps[prev.step_number].step_name %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = this_project[forloop.index] %}
-      {% assign nexttitle = next.step_title %}
+      {% assign nexttitle = site.data.labels.locales[site.locale].project_steps[next.step_number].step_name %}
       {% assign nexturl = next.url %}
     {% endunless %}
   {% endif %}

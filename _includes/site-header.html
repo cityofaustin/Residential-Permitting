@@ -13,7 +13,7 @@
                 {% assign project_pages = site.content | where: 'in_projects_menu', true %}
                 {% for project in project_pages limit: 6 %}
                 {% if project.visibility != "unlisted" %}
-                  <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+                  <li><a href="{{ project.url }}">{{ project.project_name | capitalize }}</a></li>
                   {% endif %}
                 {% endfor %}
               </ul>

@@ -1,9 +1,7 @@
 ---
 title: Apply for a Shed Permit in Austin
-step: 3
-step_title: Apply
-step_overview: A short description that shows up on the overview for this kind of project.
-project: shed
+step_number: 3
+project_name: shed
 ---
 
 When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents that you will need to provide. The list of documents you will need depends on the specifics of your shed.

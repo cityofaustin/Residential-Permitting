@@ -1,9 +1,7 @@
 ---
 title: The Review process for a Shed Permit in Austin
-step: 4
-step_title: Review
-step_overview: A short description that shows up on the overview for this kind of project.
-project: shed
+step_number: 4
+project_name: shed
 ---
 
 After submitting your application and paying your invoice, you enter into the review process. During review, you and the city work together to make sure your plans are:

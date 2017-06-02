@@ -1,7 +1,7 @@
 ---
-title: Schedule inspections for a Shed Permit in Austin
+title: Schedule inspections for a Deck Permit in Austin
 step_number: 5
-project_name: shed
+project_name: deck
 tabs:
   - tab_title: Online
     tab_content_markdown: >
@@ -24,48 +24,39 @@ tabs:
 
 ---
 
-
-Inspections are required throughout your permitted project and when you’re finished to make sure all of your work is safe and sustainable.
-
----
+Inspections are required throughout your permitted project and when you're finished with the project. This is to make sure all of your work is safe, and that your deck will last a long time.
 
 ### What inspections will I need?
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 
----
-
 ### Who can schedule inspections?
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
-
----
 
 ### How do I schedule my inspections?
 
 Inspections can be scheduled one of three ways.
 
-{% include tabs.html %}
+[need to insert tabbed options]
 
-### Do I need to be home for my inspection?
+#### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home. If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
+When you schedule your inspection, you will find out whether or not you need to be home.&nbsp;
 
----
+If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
-### What happens during inspection?
+#### What happens during inspection?
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
 
-* Framing checklist
-* Foundation checklist
-* Layout checklist
+* [Framing checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Framing.pdf).
+* [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
+* [Layout checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Layout.pdf).
 
-Your inspector is a great source of information to answer questions about meeting your requirements and building your shed safely and sustainably.
+Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
 
----
-
-### Final inspection
+### Final Inspection
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
@@ -77,6 +68,6 @@ Your inspector will let you know why you did not pass. You must make any needed 
 
 Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
-If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/) at One Texas Center. This requires a you to fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).
