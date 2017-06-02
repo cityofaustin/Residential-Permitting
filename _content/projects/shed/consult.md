@@ -10,7 +10,10 @@ project: shed
 All consultations take place at [Residential Plan Review](/contact/) at One Texas Center.
 {: .present-before-paste}
 
-In order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process. Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet (coming soon).
+In order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process.
+{: .present-before-paste}
+
+Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet (coming soon).
 {: .present-before-paste}
 
 #### 1. Collect the following information:
