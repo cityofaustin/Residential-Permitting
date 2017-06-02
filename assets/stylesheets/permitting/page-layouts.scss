@@ -57,13 +57,19 @@
   }
 }
 
+.layout--home {
+  h2 {
+    font-size: $h2-font-size-alt;
+    font-weight: $font-bold;
+  }
+}
+
 /* consider moving the following to shared "tile" styles? */
 
 .step-preview {
   margin-top: 4rem;
   margin-bottom: 8rem;
   display: flex;
-  flex: 1;
   .step-flag {
     border: $border-style-lighter-gray;
     border-bottom-width: 0;
@@ -135,6 +141,7 @@
     height: 100%;
     margin: 0 .5rem;
     position: relative;
+    display: block;
     .block-text {
       padding: 2.5rem 2.5rem 3rem;
     }
@@ -179,18 +186,30 @@
     height: 100%;
     padding: 1.5rem 1.25rem;
     margin: 0 .5rem;
+    display: block;
+    text-decoration: none;
+    transition: border-color .5s;
+    &:hover, &:active {
+      border-color: $color-primary-darker;
+    }
     h4 {
       font-size: rem(15px);
       margin:0 0 .5rem;
-      a {
-        text-decoration: none;
-      }
+      color: $color-primary;
+      transition: color .5s;
+    }
+    &:hover h4, &:active h4 {
+      color: $color-primary-darker;
     }
     p {
       font-size: rem(15px);
       line-height: rem(21px);
       font-family: $font-sans;
       margin: 0;
+      color: $color-gray-dark;
+      &:hover, &:active, &:visited {
+        color: $color-gray-dark;
+      }
     }
   }
 }
