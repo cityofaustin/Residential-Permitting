@@ -38,6 +38,7 @@ resources_featured:
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
     link: /resources/glossary
+  - name: Expired Permits
+    description: Can we have a link to the expired permits page?
+    link: /resources/expired-permits
 ---
-
-
