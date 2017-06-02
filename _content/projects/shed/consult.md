@@ -7,48 +7,74 @@ project: shed
 ---
 
 
-After submitting your application and paying your invoice, you enter into the review process. During review, you and the city work together to make sure your plans are:
+Get a free 20-minute in-person consultation
 
-* Up to code,
-* Safe for you, your guests, and your neighbors,
-* And long-lasting.
+In order to make the most of your free 20 minute in-person consultation, it’s helpful to prepare some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process. Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet (coming soon).
 
----
+1. Collect the following information
 
-### What is the review process?
+What is the address of where will you be building your shed?
 
-#### 1. Approval or Comments
+What will you be using this shed for?
 
-A set of reviewers will be looking through your application and checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
+Decide whether your shed will:
 
-You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/login?reset=true&amp;t_loginAgain=1). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
+Be over 1 story,
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
+Be over 200 square feet (over 20 feet by 10 feet),
 
-#### 2. If you receive comments, your plans must be updated
+Be built in a floodplain,
 
-Comments are sent in a Master Comment Report to the email provided on the application.
+Have plumbing,
 
-If you need help understanding your comments, reference the Municipal Code and [glossary](/resources/glossary/) or speak with a professional.
+Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 
-If you have questions or concerns about your comments, reach out to the reviewer associated with the specific comments directly. Their contact information will be located on your comment document.
+And/or have electricity.
 
-#### 3. Submit updated plans
+2. Bring your Property Survey if possible
 
-Resubmission is done through the same process as your initial application submission.
+Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
-After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
+Your setbacks: making sure you don’t build in your setbacks will prevent future complications with the placement of your shed.
 
-#### 4. Repeat if needed
+Your easements: being aware of any easements on your property will prevent any potential issues in the future with your deck.
 
-This process will be repeated until all comments have been addressed and your application is approved.
+Your impervious cover: to help prevent flooding.
 
-Most applications go through 2 rounds of review. Note that if you receive comments a second time, there is an additional $355.68 fee.
+What if I can’t find my survey?
 
----
+You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
 
-### What happens after my application is approved?
+Home lender or title company from your original purchase,
 
-When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the [Service Center](/contact/) at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
+Neighbors to find out where they got theirs,
 
-Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
+Or, you can get a new survey. Find a surveyor through the Texas Board of Professional Land Surveying.
+
+3. Draw a few simple sketches of your shed and property
+
+A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
+
+a. Where your shed will be on your property
+
+Sketch the layout of your property and be sure to show any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
+
+{% include lightbox-gallery.html diagram="sketch-property" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, show new shed location on lot in relation to existing structures, have any measurements clearly labeled, draw and label any trees over 19 inches in diameter, and draw and label any concrete surfaces." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw crooked lines, leave out any existing structures, leave off any labels, or leave off any trees larger than 19 inches in diameter." %}
+
+b. What your shed will look like
+
+Sketch your proposed shed with its dimensions and any windows or doors.
+
+{% include lightbox-gallery.html diagram="sketch" do_caption="Make sure all markings are dark and clearly legible, draw lines and straight as possible, have measurements clearly labeled, draw and label any windows or doors, and note the height." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements." %}
+
+How to get a free in-person consultation
+
+There are two ways to sign up for a free 20-minute, in-person consultation.
+
+Sign up in person at the QLess Kiosk at the Residential Plan Review
+
+Or you may save time by joining the line remotely on the QLess website. fter filling out your name and number on the website, you will need to select Residential-Zoning & Process Help. Then select Process/Application Guidance. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
+
+All consultations take part at Residential Plan Review at One Texas Center. Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
+
+After your consultation, feel free to return to the next section for further assistance on preparing your application.
