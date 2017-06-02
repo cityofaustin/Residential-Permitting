@@ -378,6 +378,12 @@
 
 .project-prefooter {
   padding-bottom: 4rem;
+  .button-container > div {
+    @media (max-width: 480px) {
+      max-width: 100%;
+      flex-basis: 100%;
+    }
+  }
 }
 
 

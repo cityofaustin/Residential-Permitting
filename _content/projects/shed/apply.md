@@ -1,5 +1,5 @@
 ---
-title:
+title: Apply for a Shed Permit in Austin
 step: 3
 step_title: Apply
 step_overview: A short description that shows up on the overview for this kind of project.

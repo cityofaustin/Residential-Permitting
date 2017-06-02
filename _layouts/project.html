@@ -52,11 +52,11 @@ layout: default
   {% if project_step.title == page.title %}
     {% unless forloop.first %}
       {% assign prevurl = prev.url %}
-      {% assign prevtitle = prev.title %}
+      {% assign prevtitle = prev.step_title %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = this_project[forloop.index] %}
-      {% assign nexttitle = next.title %}
+      {% assign nexttitle = next.step_title %}
       {% assign nexturl = next.url %}
     {% endunless %}
   {% endif %}
@@ -65,10 +65,13 @@ layout: default
 
 <div class="container container-fluid project-prefooter">
 	<div class="row start-xs">
-		<aside class="center-xs col-xs-12 col-sm-offset-3 col-sm-6">
-			{% if prevurl %}<a class="usa-button" href="{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }}: {{ prevtitle }}</a>{% endif %}<br />
-			{% if nexturl %}<a class="usa-button" href="{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }}: {{ nexttitle }}</a>{% endif %}
-			<a href="/"></a>
+		<aside class="button-container center-xs start-sm col-xs-12 col-sm-offset-1 col-sm-10 row">
+      <div class="start-xs col-xs-6">
+			  {% if prevurl %}<a class="usa-button usa-button-outline" href="{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }} {{ prevtitle }}</a>{% endif %}<br />
+      </div>
+      <div class="end-xs col-xs-6">
+        {% if nexturl %}<a class="usa-button" href="{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ nexttitle }}</a>{% endif %}
+      </div>
 		</aside>
 	</div>
 </div>
