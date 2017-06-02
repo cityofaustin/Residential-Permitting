@@ -15,23 +15,26 @@ layout: default
 
 <div class="container container-fluid project-layout">
 	<div class="row start-xs">
-		<article class="content start-xs col-xs-12 col-sm-offset-3 col-sm-6">
+		<article class="content start-xs col-xs-12 col-sm-offset-2 col-sm-8">
 
 		{% if url_final_segment == page.project %}
-			<h1 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h1>
-
+      <div class="center-xs">
+  			<h2 data-number="{{ page.step }}" class="step-title">{{ page.step_title | capitalize }}</h2>
+        <p class="lead">{{ page.intro }}</p>
+        <h2>{{ page.step_cards_title }}</h2>
+      </div>
 			{% for project_step in this_project %}
-			<div class="project-steps">
-				<div class="block-outline row">
-					<div class="project-step-content col-xs-3 center-xs">
-						<span data-number="{{ project_step.step }}" class="step-number"></span>
-					</div>
-					<div class="project-step-content col-xs-9">
-						<h3><a href="{{ project_step.url }}">{{ project_step.step_title }}</a></h3>
-						<p>{{ project_step.step_overview }}</p>
-					</div>
-				</div>
-			</div>
+        {% if project_step.step > 0 %}
+  			<div class="project-steps">
+  				<div class="block-outline row">
+  					<div data-number="{{ project_step.step }}" class="step-number"></div>
+  					<div class="project-step-content">
+  						<h3><a href="{{ project_step.url }}">{{ project_step.step_title }}</a></h3>
+  						<p>{{ project_step.step_overview }}</p>
+  					</div>
+  				</div>
+  			</div>
+        {% endif %}
 			{% endfor %}
 
 		{% else %}
