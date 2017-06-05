@@ -8,12 +8,10 @@ email: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-
       *General Information and Walk-In:*
-
-      Monday through Friday, 8am to 3pm
+      <br>Monday through Friday, 8am to 3pm
   - time_period_markdown: |-
       *Cashier*:
-
-      Monday through Friday, 8am - 3pm
+      <br>Monday through Friday, 8am - 3pm
 physical_address_markdown: |-
   **One Texas Center**
   <br>505 Barton Springs Road
