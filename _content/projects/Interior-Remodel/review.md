@@ -1,7 +1,7 @@
 ---
 title: The Review Process for an Interior Remodel Permit in Austin
 step_number: 4
-project_name: interior remodel
+project_name: interior-remodel
 ---
 
 
@@ -19,7 +19,7 @@ A set of reviewers will be looking through your application and checking your pl
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
-Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of &nbsp;your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
+Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of  your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 #### 2. If you receive comments, your plans must be adjusted
 
@@ -45,4 +45,4 @@ Most applications go through 2 rounds of review. After a second round of review,
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
 
-Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process. Your permit will be closed after the final inspection.&nbsp;
+Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process. Your permit will be closed after the final inspection.
