@@ -38,7 +38,7 @@ Anyone associated with the permit can schedule an inspection: the general contra
 
 Inspections can be scheduled one of three ways.
 
-[need to insert tabbed options]
+{% include tabs.html %}
 
 #### Do I need to be home for my inspection?
 
