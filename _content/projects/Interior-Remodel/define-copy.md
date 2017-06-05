@@ -107,39 +107,43 @@ If your project includes extending any rooms out into your yard, you will need t
 
 #### Floodplain
 
-Before any construction can begin, you will need to determine if your home is in a floodplain because that may affect how much you can alter your home’s design. You can also do this by visiting austintexas.gov/floodpro. Enter your address and if your Flood Zone says, “Flood Zone: X,” then you DO NOT live in a floodplain.
+Before any construction can begin, you will need to determine if your home is in a floodplain because that may affect how much you can alter your home’s design. You can also do this by visiting [austintexas.gov/floodpro](austintexas.gov/floodpro). Enter your address and if your Flood Zone says, “Flood Zone: X,” then you DO NOT live in a floodplain.
 
-Getting a permit
+###### [What is a floodplain?](/resources/glossary/floodplain)
 
-How much do building permits cost?
+{% include glossary-definition.html term="floodplain" %}
+
+### Getting a permit
+
+#### How much do building permits cost?
 
 The cost for permitting an interior remodeling project is X, depending on the specifics of your scope. This includes the plan review, the permit itself, your inspections, and fees.
 
 There will be additional charges if your project requires a trade permit like an electrical or plumbing permit, you are building near a tree, or your home is in a historic neighborhood. Your reviewer can explain the costs during your in-person consultation.
 
-Make sure you can get a permit
+#### Make sure you can get a permit
 
-If your property currently has an open or expired permit, you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
+If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
 
-Trees
+##### Trees
 
 If you have any trees over 19 inches in diameter, you will need to have your project reviewed by a city arborist. This is to make sure the Critical Root Zone is not damaged by any of the equipment as it is brought in to remodel your home.
 
-Learn more about protected trees and their construction requirements.
+[Learn more about protected trees and their construction requirements](/resources/building-near-a-tree/).
 
-You may need to hire a licensed professional
+##### You may need to hire a licensed professional
 
 Depending on the specific plans for your remodeling or addition project, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
 
 Find out which application materials may need to be prepared by a licensed professional in the Apply section or during your consultation
 
-What if I want to hire a contractor?
+##### What if I want to hire a contractor?
 
 Contractors are required to get permits for their work, and are responsible for getting any needed permits themselves. If you want to hire a contractor, it’s important that you work with a licensed contractor who will make sure this is done properly.
 
-Check out our tips for selecting a contractor.
+[Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
-You may need a consultation to determine your project requirements
+#### You may need a consultation to determine your project requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20-minute consultation with one of our reviewers before applying for their permit. During this consultation, the reviewer will be able to:
 
