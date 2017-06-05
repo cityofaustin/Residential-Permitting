@@ -7,7 +7,7 @@ phone: 512-978-4000
 email: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-
-      *General information and Walk-In:*
+      *General Information and Walk-In:*
 
       Monday through Friday, 8am to 3pm
   - time_period_markdown: |-
