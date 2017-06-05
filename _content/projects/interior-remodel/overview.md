@@ -5,7 +5,7 @@ project_name: interior-remodel
 in_projects_menu: true
 step_number: 0
 intro: some introductory text here
-step_cards_title: Interior Remodel process
+step_cards_title: Interior Remodel Process
 permalink: /projects/interior-remodel/
 ---
 
