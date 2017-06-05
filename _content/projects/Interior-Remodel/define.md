@@ -46,6 +46,8 @@ Small changes in your home are eligible for express permits. Applying for an exp
 
 It’s important to remember that any smoke detectors and carbon monoxide alarms must meet code requirements, no matter what type of project you are doing.
 
+Learn more about express permits.
+
 #### Interior Remodel Project
 
 An interior remodel only affects the inside of your home, with the exception of changing doors and windows. If your project includes at least one of the following, then you will need to apply for an interior remodel permit:
@@ -123,7 +125,7 @@ There will be additional charges if your project requires a trade permit like an
 
 #### Make sure you can get a permit
 
-If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and  you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
+If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
 
 ##### Trees
 
