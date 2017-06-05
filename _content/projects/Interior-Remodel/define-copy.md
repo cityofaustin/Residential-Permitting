@@ -7,195 +7,156 @@ project_name: interior model
 
 Before you start building or apply for a permit(s), it’s important to define your project, determine if you need any permits, and organize information you will need for your consultation and application. Let’s start by making sure your definition of your project is the same as the City of Austin’s definition.
 
-### What is a deck?
+What is an interior remodel?
 
-A deck is a platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging or gathering.
+An interior remodel is the process of fixing or updating appearance or functionality within an existing home without adding or removing square footage to your home.
 
-### Requirements for all decks
+Do I need a permit?
 
-Whether your project needs a permit or not, there are still a few zoning regulations you need to follow to make sure your deck follows the City of Austin’s code. After you've made sure your deck does not break any of the code regulations described below, you can find out if you need a permit.
+Building Permits
 
-#### Setbacks
+Depending on what you want to do, there is a spectrum of permits that your project can fall into: No permit, an express permit, an interior remodel permit or a new addition permit. You may also need to apply for a trade permit if you will be working with electric, plumbing or HVAC.
 
-No matter how tall your deck will be, you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
+Not all cosmetic work requires a permit
 
-> ###### [What is a setback?](/resources/glossary/setback)
->
-> {% include glossary-definition.html term="setback" %}
+There are certain home improvement projects that can be completed without needing a permit. You won’t need a permit or an inspection if you will only be:
 
-#### Easements
+Replacing or switching out finishes or fixtures such as: flooring, tile, countertops, cabinets, painting walls, light fixtures, toilets or sinks,
 
-If there is an easement on your lot, and you choose to build a deck on that easement, you run the risk of being fined or having to demolish your deck if the city needs access to your easement.
+Removing less than 32 square feet sheetrock,
 
-> ###### [What is an easement?](/resources/glossary/easement)
->
-> {% include glossary-definition.html term="easement" %}
+Or adding non-metal roofing, such as shingles.
 
-#### Impervious Cover
+SPECTRUM Diagram? Table?:
 
-Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
+Express Permits
 
-> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
->
-> {% include glossary-definition.html term="impervious cover" %}
+Small changes in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely. If your project does not go beyond any of the following, then you can get an express permit:
 
-##### Uncovered Decks
+Adding or removing siding on the outside of your home
 
-If your uncovered deck has spaces between the deck boards and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover for your lot.
+Adding or removing brick
 
-##### Covered Decks
+Adding or removing insulation
 
-If you are covering your deck or there won’t be spaces between the boards, then 100% of the deck’s surface area will count towards the amount of impervious cover on your lot. If you max out your impervious cover, a reviewer can assist you in changing your deck design.
+Replacing windows with windows of the same size
 
-### Do I need a permit?
+Replacing exterior doors with doors of the same size
 
-#### Building Permits
+Repairing more than 32 square feet of drywall
 
-Your deck requires a building permit if it will be or have any of the following:
+Removing drywall or insulation to evaluate or observe the home-structure
 
-* Be attached to your home,
-* Be over 200 square feet (over 20 feet x 10 feet),
-* Be more than 30 inches above ground,
-* Have plumbing,
-* Have electric,
-* Or be built in a floodplain.
+Roof repair to the extent of replacing decking boards
 
-> ###### [What is a floodplain?](/resources/glossary/floodplain)
->
-> {% include glossary-definition.html term="floodplain" %}
->
->
-> ###### **How do I find out if I'm in a floodplain?**
->
-> Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
->
->
-> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
+Foundation repair as long as it does not increase impervious cover
 
-#### Electric Permits
+Bathroom and kitchen remodels
 
-Having electricity on your deck does not require a building permit. However, you still need an electric permit.
+Converting bathtubs and showers
 
-* If your deck will require a building permit, the City will generate the electric permit automatically with your building permit.
-* If you do not need a building permit but you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
-* If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
+Plumbing fixtures cannot be added or relocated
 
-#### Tree Permits
+Walls cannot be relocated or removed
 
-If you have any trees in your yard, you will first have to figure out their diameters. You can find the diameter of the tree by measuring the tree at 4.5 feet from the ground. But, not all trees grow straight up from the ground. Some grow on a slope, some trees lean to one side, and some branch out very near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf).
+Only the drywall surrounding the bathtub, shower or sink can be removed
 
-If your tree measures 19 inches or more in diameter, then it is a protected tree and requires a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you can start construction. You will also need to pay the applicable fee.
+It’s important to remember that any smoke detectors and carbon monoxide alarms must meet code requirements, no matter what type of project you are doing.
 
-If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
+Interior Remodel Project
 
-Learn more about [protected trees and their construction requirements](/resources/building-near-a-tree/).
+An interior remodel only affects the inside of your home, with the exception of changing doors and windows. If your project includes at least one of the following, then you will need to apply for an interior remodel permit:
 
-### Getting a building permit
+Moving fixture locations,
 
-Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.
+Moving an interior wall,
 
-#### How much do building permits cost?
+Changing an exterior wall, such as adding a window or door, or changing a window size.
 
-The cost for permitting a deck starts at $584.48, depending on the specifics of your deck. This includes the plan review, the permit itself, your inspections, and fees.
+Your interior remodel may need a demolition permit, particularly if you are moving or changing an interior wall, or changing a window shape. Extra consideration will be taken when changing a load-bearing wall or support in your home.
 
-If your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree, there will be additional charges. Your reviewer can explain the costs during your consultation.
+New Addition Permit
 
-#### Make sure you can get a permit
+New addition permits are required if you are changing the footprint of your home, either by expanding a room, or converting a garage into a living or sleeping space. Other examples include:
 
-If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. If you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment, and instead will have to reconsider deck materials or design.
+Adding any square footage (air conditioned or un air conditioned) to your home,
 
-#### You may need to hire a licensed professional
+Converting inhabitable space into habitable space,
 
-Depending on the specific plans for your deck, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
+Or moving an exterior wall.
 
-Find out which application materials may need to be prepared by a licensed professional in the Apply section or during a consultation.
+As with interior remodel, you may need a demolition permit if you are tearing down an exterior wall. Another thing to note is that if your room has a window AC unit, the room is still considered airconditioned.
 
-##### What if I want to hire a contractor?
+Trade Permits
 
-Contractors are required to get permits for their work, and are responsible for getting any needed permits themselves with your written authorization. If you want to hire a contractor, it’s important that you work with a licensed contractor who will make sure this is done properly.
+Trade permits refer to what goes on behind the walls: electrical wiring, plumbing, and heating and cooling. Because the work is so specialized, you will need a trade permit if your project includes:
 
-Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
+Adding or moving an electrical outlet or fixture,
 
-#### You may need a consultation to determine your deck requirements
+Installing HVAC,
+
+Moving or adding a plumbing utility,
+
+Or installing a new hot water heater.
+
+If you are installing or replacing your hot water heater, your contractor is responsible for getting the required permit for that project.
+
+Common Zoning Considerations for New Additions
+
+Below are some terms that you may hear throughout this process, especially if you are applying for a new addition permit. Use this section to familiarize yourself with the terms. They will help make sense of the zoning regulations you need to follow to make sure your addition follows the City of Austin’s code. After you’ve made sure your project does not break any of the code regulations described below, you can find out how to get a permit.
+
+Setbacks
+
+If your project includes extending any rooms out into your yard, keep in mind that you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
+
+Easements
+
+If there is an easement on your lot, and you choose to extend a wall into that easement, you run the risk of being fined or having to demolish it if the city needs access to your easement.
+
+Impervious Cover
+
+If your project includes extending any rooms out into your yard, you will need to make sure you do not max out on your impervious cover limit. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
+
+Floodplain
+
+Before any construction can begin, you will need to determine if your home is in a floodplain because that may affect how much you can alter your home’s design. You can also do this by visiting austintexas.gov/floodpro. Enter your address and if your Flood Zone says, “Flood Zone: X,” then you DO NOT live in a floodplain.
+
+Getting a permit
+
+How much do building permits cost?
+
+The cost for permitting an interior remodeling project is X, depending on the specifics of your scope. This includes the plan review, the permit itself, your inspections, and fees.
+
+There will be additional charges if your project requires a trade permit like an electrical or plumbing permit, you are building near a tree, or your home is in a historic neighborhood. Your reviewer can explain the costs during your in-person consultation.
+
+Make sure you can get a permit
+
+If your property currently has an open or expired permit, you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
+
+Trees
+
+If you have any trees over 19 inches in diameter, you will need to have your project reviewed by a city arborist. This is to make sure the Critical Root Zone is not damaged by any of the equipment as it is brought in to remodel your home.
+
+Learn more about protected trees and their construction requirements.
+
+You may need to hire a licensed professional
+
+Depending on the specific plans for your remodeling or addition project, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
+
+Find out which application materials may need to be prepared by a licensed professional in the Apply section or during your consultation
+
+What if I want to hire a contractor?
+
+Contractors are required to get permits for their work, and are responsible for getting any needed permits themselves. If you want to hire a contractor, it’s important that you work with a licensed contractor who will make sure this is done properly.
+
+Check out our tips for selecting a contractor.
+
+You may need a consultation to determine your project requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20-minute consultation with one of our reviewers before applying for their permit. During this consultation, the reviewer will be able to:
 
-* Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to build your deck as you originally planned.
-* Give you a list of documents you need to prepare for your application based on your specific project.
-* Explain the next steps to apply for a deck permit.
+Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to complete your remodel as you originally planned.
 
-### Make the most out of your consultation
+Give you a list of documents you need to prepare for your application based on your specific project.
 
-All consultations take place at [Residential Plan Review](/contact/) at One Texas Center.
-
-To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process.
-
-Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet.
-
-#### 1. Collect the following information:
-
-* What is the address where you will be building the deck?
-* Will your deck:
-  * Be attached to your home?
-  * Be accessed by a door?
-  * Be smaller than 200 square feet?
-  * Be built in a floodplain?
-  * Be 30 inches or more above ground?
-  * Be covered or uncovered?
-  * Have electricity?
-  * Be near a tree greater than 19 inches in diameter?
-
-#### 2. Bring your property survey if possible
-
-Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
-
-* Your setbacks: making sure you don’t build in your setbacks will avoid complications with the location of your deck.
-* Your easements: being aware of any easements on your property will also help you avoid complications with the location of your deck.
-* Your impervious cover: impervious cover is regulated to help prevent flooding.
-
-##### What if I can’t find my survey?
-
-If you purchased your home after 1980, you likely would have received your survey when you purchased your home. If you can’t find it, or you don’t remember receiving it, check with your:
-
-* Home lender or title company from your original purchase,
-* Neighbors to find out where they got theirs,
-* Or, you can get a new survey.
-
-Find a surveyor through the [The Texas Board of Professional Land Surveying](txls.texas.gov).
-
-#### 3. Draw a few simple sketches of your deck and your property
-
-A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give enough information so the reviewer can tell:
-
-##### a. Where your deck will be on your property
-
-Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
-
-![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)**Do:*** The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
-
-![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)**Don't:*** This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
-
-##### b. What your deck will look like
-
-Sketch your proposed deck with its dimensions. Be sure to show it in relation to your home, note where it will attach to your home (if at all), and any doors that will open onto the deck.
-
-![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:*** This sketch includes dimensions and clearly labeled windows, doors, and the landing.*
-
-![](/uploads/versions/shed-sketch-bad---x----735-456x---.jpg)
-
-**Don't:*** This sketch needs to include labels and dimensions.*
-
-#### How to get a Free In-Person Consultation
-
-All consultations take place at [Residential Plan Review](/contact/) at One Texas Center.
-
-There are two ways to sign up for your free 20-minute in-person consultation.
-
-* Sign up in person at the QLess Kiosk at Residential Plan Review.
-* Or you may save time by joining the line remotely on [the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
-
-If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, leave the line, or get help with any questions you may have.
-
-Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend joining the line remotely on the QLess website or arriving as close to opening time as possible to sign up in person.
-
-After your consultation, feel free to return to the next section for further assistance on preparing your application.
+Explain the next steps to apply for a permit.
