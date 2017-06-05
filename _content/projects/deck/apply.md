@@ -1,5 +1,5 @@
 ---
-title: 'Apply for a Deck permit in Austin, Texas'
+title: 'Apply for a Deck Permit in Austin, Texas'
 step_number: 3
 project_name: deck
 ---
