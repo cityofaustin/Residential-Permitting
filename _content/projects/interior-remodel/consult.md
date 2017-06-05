@@ -11,11 +11,16 @@ To make the most of your free 20 minute in-person consultation, we suggest prepa
 Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
 {: .present-before-paste}
 
-### 1. Collect the following information for your interior remodel and new addition free 20-minute consultations:
+### 1. Collect the following information:
 
-* Plot plan,
-* Floor plan,
-* And any structural drawings
+For your interior remodel and new addition have answers for the following questions:
+
+* Are you moving any interior walls?
+* Are you adding or removing any square footage to or from your home?
+* Do you have any [trees larger than 19 inches in diameter](/resources/building-near-a-tree/)?
+* Are you demolishing any walls?
+* Are you changing or adding electrical wiring, plumbing, or heating and cooling system?
+* Is your home more than 40 years old?&nbsp;
 
 ### 2. Bring your property survey if possible
 
