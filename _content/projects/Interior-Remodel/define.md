@@ -1,7 +1,7 @@
 ---
 title: 'Define your Interior Remodel in Austin, Texas'
 step_number: 1
-project_name: interior remodel
+project_name: interior-remodel
 ---
 
 
@@ -123,7 +123,7 @@ There will be additional charges if your project requires a trade permit like an
 
 #### Make sure you can get a permit
 
-If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
+If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and  you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
 
 ##### Trees
 
