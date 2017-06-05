@@ -101,7 +101,7 @@ If there is an easement on your lot, and you choose to extend a wall into that e
 
 If your project includes extending any rooms out into your yard, you will need to make sure you do not max out on your impervious cover limit. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
 
-> ###### [What is an impervious cover?](/resources/glossary/easement)
+> ###### [What is an impervious cover?](/resources/glossary/impervious cover)
 >
 > {% include glossary-definition.html term="impervious cover" %}
 
