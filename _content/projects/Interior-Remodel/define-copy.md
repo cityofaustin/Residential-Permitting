@@ -85,13 +85,25 @@ Below are some terms that you may hear throughout this process, especially if yo
 
 If your project includes extending any rooms out into your yard, keep in mind that you cannot build within 10 feet of the rear border of your lot, or within 5 feet of the side borders of your lot.
 
+> ###### [What is a setback?](/resources/glossary/setback)
+>
+> {% include glossary-definition.html term="setback" %}
+
 #### Easements
 
 If there is an easement on your lot, and you choose to extend a wall into that easement, you run the risk of being fined or having to demolish it if the city needs access to your easement.
 
+> ###### [What is an easement?](/resources/glossary/easement)
+>
+> {% include glossary-definition.html term="easement" %}
+
 #### Impervious Cover
 
 If your project includes extending any rooms out into your yard, you will need to make sure you do not max out on your impervious cover limit. Impervious cover restrictions are in place to prevent flooding during and after heavy rains.
+
+> ###### [What is an impervious cover?](/resources/glossary/easement)
+>
+> {% include glossary-definition.html term="impervious cover" %}
 
 #### Floodplain
 
