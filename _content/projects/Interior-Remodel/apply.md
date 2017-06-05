@@ -1,7 +1,7 @@
 ---
 title: 'Apply for an Interior Remodel Permit in Austin, Texas'
 step_number: 3
-project_name: interior remodel
+project_name: interior-remodel
 ---
 
 
