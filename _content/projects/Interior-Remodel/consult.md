@@ -1,7 +1,7 @@
 ---
 title: 'Get a Consultation for an Interior Remodel in Austin, Texas'
 step_number: 2
-project_name: interior remodel
+project_name: interior-remodel
 ---
 
 
@@ -77,7 +77,7 @@ See examples of project sketches:
 There are two ways to sign up for your free 20-minute in-person consultation, which takes place at One Texas Center.
 {: .present-before-paste}
 
-* Sign up in person at the QLess Kiosk at the Residential Plan Review. &nbsp;
+* Sign up in person at the QLess Kiosk at the Residential Plan Review.
 * Join the line from the comfort of your own home by visiting the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 If you choose to sign up remotely, on the QLess website, fill out your name and phone number, select Residential, and then select zoning and process questions. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or get help with any questions you may have.
