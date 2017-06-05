@@ -1,6 +1,6 @@
 ---
-title: Austin Water Utility
-department_name: Austin Water Utility
+title: Austin Water
+department_name: Austin Water
 department_link: 'http://www.austintexas.gov/department/water'
 description: 'Austin Water Utility provides reliable, safe, and sustainable water services to Austin residents.'
 phone: 512-494-9400
