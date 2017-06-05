@@ -15,23 +15,9 @@ hours:
 
       Monday through Friday, 8am - 3pm
 physical_address_markdown: |-
-  Mailing:
-  <br>**City of Austin - Austin Energy - Customer Care Contact Center**
-
-  721 Barton Springs Road
-  <br>Austin, TX
-  <br>78704-1194
-
-  Walk-in Service:
-  <br>**Utility Customer Service Center (East Branch)**
-  <br>Rosewood-Zaragosa Center
-  <br>2800 Webberville Road
-  <br>Austin, TX
-  <br>78702
-
-  **Utility Customer Service Center (North Branch)**
-  <br>8716 Research Blvd., Suite 115
-  <br>Austin, TX 78758
+  **One Texas Center**
+  <br>505 Barton Springs Road
+  <br>1st Floor
 _hide_content: true
 ---
 
