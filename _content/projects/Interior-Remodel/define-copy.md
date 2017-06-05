@@ -1,8 +1,7 @@
 ---
-title: Define your Deck Project in Austin, Texas
+title: 'Define your Interior Remodel in Austin, Texas'
 step_number: 1
-project_name: deck
-
+project_name: interior model
 ---
 
 
@@ -78,7 +77,7 @@ Your deck requires a building permit if it will be or have any of the following:
 Having electricity on your deck does not require a building permit. However, you still need an electric permit.
 
 * If your deck will require a building permit, the City will generate the electric permit automatically with your building permit.
-* If you do not need a building permit but you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/) at One Texas Center.
+* If you do not need a building permit but you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/) at One Texas Center.
 * If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
 
 #### Tree Permits
@@ -93,7 +92,7 @@ Learn more about [protected trees and their construction requirements](/resource
 
 ### Getting a building permit
 
-Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.&nbsp;
+Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.
 
 #### How much do building permits cost?
 
@@ -172,19 +171,19 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
 
-![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)**Do:***&nbsp;The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
+![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)**Do:*** The sketch clearly shows labels, dimensions, existing structures, and the location of the proposed shed.*
 
-![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)**Don't:***&nbsp;This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
+![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)**Don't:*** This sketch needs more detail—it should be drawn to scale, it needs dimensions, and setbacks need to be indicated.*
 
 ##### b. What your deck will look like
 
 Sketch your proposed deck with its dimensions. Be sure to show it in relation to your home, note where it will attach to your home (if at all), and any doors that will open onto the deck.
 
-![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:***&nbsp;This sketch includes dimensions and clearly labeled windows, doors, and the landing.*
+![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:*** This sketch includes dimensions and clearly labeled windows, doors, and the landing.*
 
 ![](/uploads/versions/shed-sketch-bad---x----735-456x---.jpg)
 
-**Don't:***&nbsp;This sketch needs to include labels and dimensions.*
+**Don't:*** This sketch needs to include labels and dimensions.*
 
 #### How to get a Free In-Person Consultation
 
@@ -192,7 +191,7 @@ All consultations take place at [Residential Plan Review](/contact/) at One Texa
 
 There are two ways to sign up for your free 20-minute in-person consultation.
 
-* Sign up in person at the QLess Kiosk at Residential Plan Review.&nbsp;
+* Sign up in person at the QLess Kiosk at Residential Plan Review.
 * Or you may save time by joining the line remotely on [the QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, leave the line, or get help with any questions you may have.
