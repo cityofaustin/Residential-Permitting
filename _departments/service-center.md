@@ -11,7 +11,7 @@ hours:
       <br>Monday through Friday, 8:00 am to 3:00 pm
   - time_period_markdown: |-
       *Cashier*
-      <br>Monday through Friday, 8:00 am - 3:00 pm
+      <br>Monday through Friday, 8:00 am to 3:00 pm
 physical_address_markdown: |-
   **One Texas Center**
   <br>505 Barton Springs Road
