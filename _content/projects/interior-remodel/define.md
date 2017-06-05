@@ -84,7 +84,7 @@ There will be additional charges if your project requires a trade permit like an
 
 If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and &nbsp;you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
 
-##### You may need to hire a licensed professional
+#### You may need to hire a licensed professional
 
 Depending on the specific plans for your remodeling or addition project, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
 
