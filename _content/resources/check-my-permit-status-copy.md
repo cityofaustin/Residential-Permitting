@@ -1,39 +1,50 @@
 ---
-title: Check my permit status
+title: Express Permits
 in_resources_menu: true
 ---
 
 
-If you have already submitted your permit application, it typically takes 15 business days for it to be reviewed. There are three ways to check your permit status:
+Some projects are simple enough that they qualify for express permits.
 
-* The public portal on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index),
-* On the phone,
-* Or by calling your reviewer.
+### What is an express permit?
 
----
+A residential express permit is issued when the scope of work does not change the footprint of the home, require demolition of walls, or require any electrical or plumbing work.
 
-## Check your permit status on Austin Build + Connect
+#### Can I get an express permit?
 
-You can check the current status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you do not already have an Austin Build + Connect account, you must first create one. On the Austin Build + Connect homepage, select “Conduct business with City,” and then follow the prompt for a first time user. After creating your account, use the navigation located on the left hand side of the screen, and select “My Permits/Cases” from the menu.
+Small changes in your home can make a big difference, like replacing a drafty old window with one that is energy efficient. Applying for an express permit will help make sure it’s done safely.
 
-Follow the prompts to check the status of your permit.
+If your project does not go beyond any of the following, then you can get an express permit:
 
-Note that if you hired a professional such as a general contractor and they submitted your permit application, then they will be receiving your approval or any comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
+* Adding or removing siding on the outside of your home
+* Adding or removing brick
+* Adding or removing insulation
+* Replacing windows with windows of the same size
+* Replacing exterior doors with doors of the same size
+* Repairing more than 32 square feet of drywall
+* Removing drywall or insulation to evaluate or observe the home-structure
+* Roof repair to the extent of replacing decking boards
+* Foundation repair as long as it does not increase impervious cover
+* Bathroom and kitchen remodels
+  * Converting bathtubs and showers
+  * Plumbing fixtures cannot be added or relocated
+  * Walls cannot be relocated or removed
+  * Only the drywall surrounding the bathtub, shower or sink can be removed
 
----
+It’s important to remember that any smoke detectors and carbon monoxide alarms must meet code requirements, no matter what type of project you are doing.
 
-## Using an automated voice system over the phone
+#### How much does an express permit cost?
 
-Call the City of Austin’s Interactive Voice Response System (IVR) to check your permit status. First, you will need an IVR personal identification number (PIN).
+An express permit costs $6.50. However, there are some factors that could increase the cost.
 
-1. To get an IVR PIN, complete the form Inspection Agent Letter of Authorization and Request for IVR PIN Number (PDF). You can also pick up an authorization form at the Inspections Office at One Texas Center, or request a form by calling (512) 978-4000. Once you have completed the form, submit it to the Inspections Office and you will receive a PIN number.
-2. Call the IVR number: (512) 480-0623.
-3. Follow the prompts to check on the status of your inspection.
+If your home is more than 40 years old, your project may trigger a historic review. There are three different fees involved if that happens, which will cost $575.
 
----
+Depending on the scope of your project, you will need a tree permit review and inspection if there are trees larger than 19 inches in diameter. The tree permit review and inspection costs $311. Even if you are only doing interior work, this inspection will make sure that the tree’s roots are not damaged by bringing in any equipment.
 
-## Call your reviewer
+Finally, any subsequent updates to your plans will cost $105 to review.
 
-The third way to check your permit’s status is to call the reviewer who initially reviewed your permit application, or met with you during the free 20-minute in-person consultation.
+#### How do I get an express permit?
 
-If you haven’t applied for a permit yet, make sure you can get one. If you have an open or expired permit, you will need to close it before moving forward with your project. To find out if you have an open or expired permit, click here to [learn if you can get a permit](/resources/can-i-get-a-permit/).
+To get an express permit, you will need to fill out the [Residential Express Permit Application](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Express_Permit_Application.pdf). Make sure you sign the permit application if you are the homeowner, even if you will be contracting out the work.
+
+Also be sure to pay any fees due when you turn in your completed express permit application.
