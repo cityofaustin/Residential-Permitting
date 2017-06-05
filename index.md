@@ -32,15 +32,15 @@ resources_featured:
   - name: Building near a tree
     description: "Have a tree on your property? Find out if it's protected by the City of Austin."
     link: /resources/building-near-a-tree/
+  - name: Express Permits
+    description: Some projects are simple enough that they qualify for express permits.
+    link: /resources/express-permits
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
     link: /resources/applications-and-forms
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
     link: /resources/glossary
-  - name: Express Permits
-    description: Some projects are simple enough that they qualify for express permits.
-    link: /resources/express-permits
 ---
 
 
