@@ -1,9 +1,10 @@
 ---
-title: Apply for your Deck Project in Austin, Texas
+title: 'Apply for a Deck permit in Austin, Texas'
 step_number: 3
 project_name: deck
-
 ---
+
+
 When you’re preparing to apply for your permit, keep in mind that your application is made up of the paper application as well as some attached documents that you will need to provide. The list of documents you will need depends on the specifics of your deck.
 
 Remember, you can meet with one of our reviewers for a free 20-minute, in-person consultation as you prepare to apply, and they will let you know which documents your specific project requires. However, you will not submit your application in your consultation.
@@ -23,11 +24,11 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 ![](/uploads/versions/shed-plotplan-good---x----1500-1600x---.jpg)
 
-**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Do:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 ![](/uploads/versions/shed-plotplan-bad---x----1278-1628x---.jpg)
 
-**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Don't:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 3. Floor Plan
 
@@ -35,11 +36,11 @@ Your floor plan of your proposed deck must be drawn to scale either by hand or o
 
 ![](/uploads/versions/shed-floorplan-good---x----1500-1100x---.jpg)
 
-**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Do:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 ![](/uploads/versions/shed-floorplan-bad---x----1500-1100x---.jpg)
 
-**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Don't:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 4. Elevation Plan
 
@@ -47,11 +48,11 @@ Your elevation plan of your proposed deck must be drawn to scale either by hand 
 
 ![](/uploads/versions/shed-elevationplan-good---x----1105-703x---.jpg)
 
-**Do:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Do:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 ![](/uploads/versions/shed-elevationplan-bad---x----1382-946x---.jpg)
 
-**Don't:***&nbsp;Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
+**Don't:*** Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.*
 
 #### 5. Foundation Plan
 
@@ -77,4 +78,4 @@ You will meet with a staff member who will do a completeness check using a compl
 
 Remember to leave ample time for this process. [Residential Plan Review](/contact/) can get very busy and wait times can reach an hour or more. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-Once you apply, you will be in the Review process. &nbsp;Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
+Once you apply, you will be in the Review process.  Reviewers will either approve your application or send your required changes in the form of comments. This process typically takes about 15 business days.
