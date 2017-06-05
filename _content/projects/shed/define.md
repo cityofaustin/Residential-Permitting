@@ -25,9 +25,9 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
 
-> ###### [What is a setback?](/resources/glossary/setback)
+> ###### What is a setback?
 >
-> {% include glossary-definition.html term="setback" %}
+> {% include glossary-definition.html term="setback" %} [Learn more](/resources/glossary/setback).
 
 #### Easements
 
