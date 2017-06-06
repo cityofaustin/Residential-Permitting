@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% capture all_content %}{{ page.collection }}{% endcapture %}
+{% capture all_projects %}{{ page.collection }}{% endcapture %}
 
 {% if page.collection %}
-  {% assign this_project = site[all_content] | where: 'project_name', page.project_name | sort: 'step_number' %}
+  {% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
 {% endif %}
 
 {% include project-header.html %}
@@ -33,7 +33,7 @@ layout: default
             <div class="block-outline row">
               <div data-number="{{ forloop.index0 }}" class="step-number"></div>
               <div class="project-step-content">
-                <h3><a href="/projects/{{ page.project_name }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
+                <h3><a href="/projects/{{ page.project_name | slugify }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
                 <p>{{ project.step_description }}</p>
               </div>
             </div>

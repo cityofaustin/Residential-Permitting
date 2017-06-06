@@ -3,13 +3,13 @@
 	{% for project_steps in site.data.labels.locales[site.locale].project_steps %}
 		{% assign project_step = site.data.labels.locales[site.locale].project_steps[forloop.index0].step_name %}
 		{% if forloop.first %}
-			<a {% if page.step_number == forloop.index0 %}class="active"{% endif %} href="/projects/{{ page.project_name }}/">
+			<a {% if page.step_number == forloop.index0 %}class="active"{% endif %} href="/projects/{{ page.project_name | slugify }}/">
 				{{ project_step }}
 			</a>
 			<span> | </span>
 		{% else %}
 			{% include _icon.html icon='arrow-long-right' %}
-			<a {% if page.step_number == forloop.index0 %}class="active"{% endif %} href="/projects/{{ page.project_name }}/{{ project_step | slugify }}">
+			<a {% if page.step_number == forloop.index0 %}class="active"{% endif %} href="/projects/{{ page.project_name | slugify }}/{{ project_step | slugify }}">
 				{{ forloop.index0 }}. {{ project_step }}
 			</a>
 		{% endif %}

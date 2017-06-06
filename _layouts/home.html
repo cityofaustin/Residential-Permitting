@@ -50,12 +50,12 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-		{% assign project_pages = site.content | where: 'in_projects_menu', true %}
+		{% assign project_pages = site.projects | where: 'in_projects_menu', true %}
 		{% for project in project_pages limit: 6 %}
 		{% if project.visibility != "unlisted" %}
     <div class="project-block col-xs-10 col-sm-6 col-md-4">
       <div class="block-outline">
-				<object class="block-illustration" alt="{{ project.project_name }} illustration" data="/assets/img/projects/{{ project.project_name }}.svg" type="image/svg+xml">
+				<object class="block-illustration" alt="{{ project.project_name | capitalize }} illustration" data="/assets/img/projects/{{ project.project_name  | slugify }}.svg" type="image/svg+xml">
 					<!-- TODO: See if necessary for browser support <img src="{{ project.project-illustration }}.jpg" /> -->
 				</object>
         <div class="block-text">

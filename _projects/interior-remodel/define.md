@@ -1,7 +1,7 @@
 ---
 title: 'Define your Interior Remodel in Austin, Texas'
 step_number: 1
-project_name: interior-remodel
+project_name: interior remodel
 ---
 
 
