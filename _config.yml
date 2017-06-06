@@ -39,13 +39,6 @@ defaults:
   values:
     layout: 'page'
 
-# to export svg icons, optional
-- scope:
-    path: ''
-    type: icons
-  values:
-    layout: svg
-
 # for js, which is concatenating via jekyll
 - scope:
     path: 'assets'
