@@ -17,6 +17,10 @@ collections:
     title: Content
     output: true
     permalink: "/:path/"
+  projects:
+    title: Projects
+    output: true
+    permalink: "projects/:path/"
   departments:
     title: Departments
     output: false
@@ -34,46 +38,80 @@ defaults:
     path: ''
   values:
     layout: 'page'
+
+# to export svg icons, optional
 - scope:
     path: ''
     type: icons
   values:
     layout: svg
+
+# for js, which is concatenating via jekyll
+- scope:
+    path: 'assets'
+  values:
+    layout: empty
+
+# for glossary entries
 - scope:
     path: ''
     type: 'glossary'
   values:
     layout: 'glossary-entry'
+    # sets up multiselect related terms for cloudcannon editor
+    collections:
+      - glossary
+    _comments:
+      term: lowercase with spaces
+      short_definition: (required)
+      long_definition_markdown: (required)
+      source: Related Code?
+      glossary: Other words commonly confused with this term
+
+# for all content
 - scope:
     path: '_content'
     type: 'content'
   values:
+    layout: 'page'
     in_resources_menu: false
     in_projects_menu: false
     in_permit_check_menu: false
+    _comments:
+
+# for project pages
 - scope:
-    path: '_content/projects'
-    type: 'content'
+    path: '_projects'
+    type: 'projects'
   values:
     layout: 'project'
+    _comments:
+
+# for resource pages
 - scope:
     path: '_content/resources'
     type: 'content'
   values:
     layout: 'page'
-- scope:
-    path: 'assets'
-  values:
-    layout: false
+    _comments:
 
+# for department listings
+- scope:
+    path: ''
+    type: departments
+  values:
+    _comments:
+      department_name: The department's official name
+      department_link: The url to the department's page on AustinTexas.gov
+      phone: Please use the format 000-000-0000
+      email: office@austintexas.gov
+      period_name: e.g., "General questions" or "By appointment only"
+      period_time_markdown: Open-Close days and times, new lines OK
+      physical_address_markdown: Actual address for visitors, new lines OK
+
+# for all pages
 _comments:
-  department_name: The department's official name
-  department_link: The link to the department's page on AustinTexas.gov
-  phone: Please use the format 000-000-0000
-  email:
-  period_name: e.g., "General questions" or "By appointment only"
-  period_time_markdown: Open-Close days and times, new lines OK
-  physical_address_markdown: Actual address for visitors, new lines OK
+  title: Title for this page (shows up in SEO) (required)
 
 description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource

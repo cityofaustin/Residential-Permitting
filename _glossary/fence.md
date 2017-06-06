@@ -4,7 +4,7 @@ term: fence
 short_definition: |
   A fence is an upright structure, railing, or barrier that includes supporting posts and encloses an area of property.
 
-long_definition: |
+long_definition_markdown: |
   The City of Austin defines two fence types:
   * an **ornamental fence** is made of up 25% or less solid material, featuring an open design
   * a **solid fence** is built with more than 25% solid material

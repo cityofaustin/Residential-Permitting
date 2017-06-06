@@ -1,7 +1,7 @@
 ---
 title: 'Get a Consultation for an Interior Remodel in Austin, Texas'
 step_number: 2
-project_name: interior-remodel
+project_name: interior remodel
 ---
 
 
