@@ -21,8 +21,8 @@ layout: default
           {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
         </h2>
         {% if page.step_number == 0 %}
-          <p class="lead">{{ page.intro }}</p>
-          <h2>{{ page.step_cards_title }}</h2>
+          <p class="lead">{{ page.overview_of_steps_description }}</p>
+          <h2>{{ page.overview_of_steps_title }}</h2>
         {% endif %}
       </div>
       {% if page.step_number == 0 %}
