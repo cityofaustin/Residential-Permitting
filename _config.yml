@@ -89,6 +89,7 @@ defaults:
     path: ''
     type: departments
   values:
+    _hide_content: true
     _comments:
       department_name: The department's official name
       department_link: The url to the department's page on AustinTexas.gov
