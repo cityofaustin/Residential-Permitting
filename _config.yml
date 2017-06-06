@@ -28,10 +28,6 @@ collections:
     title: Glossary
     output: true
     permalink: "resources/:collection/:path"
-  icons:
-    title: icons
-    output: true
-    permalink: "/assets/images/:collection/:path"
 
 defaults:
 - scope:
