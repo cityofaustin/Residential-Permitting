@@ -79,6 +79,13 @@ defaults:
   values:
     layout: 'project'
     _comments:
+      excerpt: Shows up on homepage. Only use on overview page
+      project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
+      in_projects_menu: Should this show up in the header navigation and homepage? Ony use on overview page
+      step_number: Order the pages of the project here, starting with 0 for overview
+      overview_of_steps_title: Only use on overview page
+      overview_of_steps_description: Only use on overview page
+      permalink: The relative URL of the project's folder, ie "/projects/project-folder/". Only use on overview page
 
 # for resource pages
 - scope:

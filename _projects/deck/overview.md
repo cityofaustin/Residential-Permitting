@@ -4,7 +4,7 @@ excerpt: 'A platform-like structure without walls, often made of planks, that no
 project_name: deck
 in_projects_menu: true
 step_number: 0
-intro: "some introductory text here"
-step_cards_title: Deck process
+overview_of_steps_title: Deck process
+overview_of_steps_description: "some introductory text here"
 permalink: "/projects/deck/"
 ---
