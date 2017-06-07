@@ -8,10 +8,10 @@ email: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-
       *Approved Site Plan Exemption Pick-up*
-      <br>Monday through Friday, 10am - 2pm
+      <br>Monday through Friday, 10am to 2pm
   - time_period_markdown: |-
       *Map/Document Sales*
-      <br>Monday through Friday, 9am - 3pm
+      <br>Monday through Friday, 9am to 3pm
   - time_period_markdown: |-
       *Planners/Consultation*
       <br>Monday through Friday, 9am - 12:00pm
