@@ -8,10 +8,10 @@ email:
 hours:
   - time_period_markdown: |-
       *General Hours*
-      <br>Monday through Friday, 8am - 5pm
+      <br>Monday through Friday, 8am to 5pm
   - time_period_markdown: |-
       *Utility Reviews and General Information Walk-In*
-      <br>Monday through Friday - 8am - 11:30am
+      <br>Monday through Friday, 8am to 11:30am
 physical_address_markdown: |-
   **Austin Water Main Building**
   <br>625 E. 10th St.,
