@@ -14,10 +14,10 @@ hours:
       <br>Monday through Friday, 9am to 3pm
   - time_period_markdown: |-
       *Planners/Consultation*
-      <br>Monday through Friday, 9am - 12:00pm
+      <br>Monday through Friday, 9am to 12:00pm
   - time_period_markdown: |-
       *Research*
-      <br>Monday through Friday, 9am - 2pm
+      <br>Monday through Friday, 9am to 2pm
 physical_address_markdown: |-
   **One Texas Center**
   <br>505 Barton Springs Road
