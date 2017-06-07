@@ -8,23 +8,22 @@ email: customercare@coautilities.com
 hours:
   - time_period_markdown: |-
       *Austin Energy Utility Reviews and General Information Walk-In*
-      <br>Monday through Friday, 8am - 12pm
-      <br>and
-      <br>1pm - 2:30pm
+      <br>Monday through Friday, 8am to 12pm and 1pm to 2:30pm
 
       *Second Wednesday of each month*
-      <br>9am - 12:00pm
-      <br>and
-      <br>1pm - 2:30pm
-  - time_period_markdown: '*Utility Customer Service Center (East Branch)*Monday through Friday, 7:45 a.m. to 4:30 p.m'
-  - time_period_markdown: '*Utility Customer Service Center (North Branch)*Monday through Friday, 7:45 a.m. to 5:00 p.m.'
+      <br>9am to 12:00pm and 1pm to 2:30pm
+  - time_period_markdown: |-
+      *Utility Customer Service Center (East Branch)&nbsp;*
+      <br>Monday through Friday, 7:45am to 4:30pm
+  - time_period_markdown: |-
+      *Utility Customer Service Center (North Branch)*
+      <br>Monday through Friday, 7:45 am to 5:00 pm
 physical_address_markdown: |-
   Walk-in Service:
   <br>**Utility Customer Service Center (East Branch)**
   <br>Rosewood-Zaragosa Center
   <br>2800 Webberville Road
-  <br>Austin, TX
-  <br>78702
+  <br>Austin, TX 78702
 
   **Utility Customer Service Center (North Branch)**
   <br>8716 Research Blvd., Suite 115
@@ -36,6 +35,5 @@ mailing_address_markdown: |-
   721 Barton Springs Road
   <br>Austin, TX
   <br>78704-1194
-
 _hide_content: true
 ---
