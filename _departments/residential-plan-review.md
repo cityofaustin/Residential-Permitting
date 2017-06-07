@@ -9,8 +9,6 @@ hours:
   - time_period_markdown: |-
       *General Information Walk-In, Express, & Total Demolition*
       <br>Monday, Wednesday, & Friday, 8:00am to 12:00pm
-
-      &nbsp;
   - time_period_markdown: |-
       *Intake (Application Submittal)*
       <br>Monday & Friday, 8:00am to 12:00pm
@@ -20,4 +18,3 @@ physical_address_markdown: |-
   <br>2nd floor
 _hide_content: true
 ---
-

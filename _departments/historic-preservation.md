@@ -9,8 +9,6 @@ hours:
   - time_period_markdown: |-
       *Walk-In for submittal information and application intake​*
       <br>Monday through Friday, 8:00am to 12:00pm
-
-      &nbsp;
 physical_address_markdown: |-
   **One Texas Center**
   <br>Austin Historic Preservation Office
@@ -18,5 +16,3 @@ physical_address_markdown: |-
   <br>5th floor
 _hide_content: true
 ---
-
-

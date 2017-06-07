@@ -9,8 +9,6 @@ hours:
   - time_period_markdown: |-
       *General Hours*
       <br>Monday through Friday, 8am - 5pm
-
-      &nbsp;
   - time_period_markdown: |-
       *Utility Reviews and General Information Walk-In*
       <br>Monday through Friday - 8am - 11:30am
@@ -20,5 +18,3 @@ physical_address_markdown: |-
   <br>Austin, TX 78701
 _hide_content: true
 ---
-
-

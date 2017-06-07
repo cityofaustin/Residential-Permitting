@@ -19,13 +19,6 @@ hours:
   - time_period_markdown: '*Utility Customer Service Center (East Branch)*Monday through Friday, 7:45 a.m. to 4:30 p.m'
   - time_period_markdown: '*Utility Customer Service Center (North Branch)*Monday through Friday, 7:45 a.m. to 5:00 p.m.'
 physical_address_markdown: |-
-  Mailing:
-  <br>**City of Austin - Austin Energy - Customer Care Contact Center**
-
-  721 Barton Springs Road
-  <br>Austin, TX
-  <br>78704-1194
-
   Walk-in Service:
   <br>**Utility Customer Service Center (East Branch)**
   <br>Rosewood-Zaragosa Center
@@ -36,7 +29,13 @@ physical_address_markdown: |-
   **Utility Customer Service Center (North Branch)**
   <br>8716 Research Blvd., Suite 115
   <br>Austin, TX 78758
+mailing_address_markdown: |-
+  Mailing:
+  <br>**City of Austin - Austin Energy - Customer Care Contact Center**
+
+  721 Barton Springs Road
+  <br>Austin, TX
+  <br>78704-1194
+
 _hide_content: true
 ---
-
-
