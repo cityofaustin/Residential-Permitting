@@ -6,12 +6,12 @@ description: "The Community Tree Preservation Division's mission is to protect, 
 phone: '311'
 email: 'http://www.austintexas.gov/email/cityarborist'
 hours:
-  - time_period_markdown: >-
+  - time_period_markdown: |-
       *General Information Walk-In*
-      <br>Monday–Friday, 9:00am–12:00pm, 1st floor, Development Assistance Center
+      <br>Monday through Friday, 9:00am to 12:00pm, 1st floor, Development Assistance Center
   - time_period_markdown: |-
       *Tree Reviews, Submittals, & Fees*
-      <br>Monday–Friday, 7:45am–4:45pm, 4th floor
+      <br>Monday through Friday, 7:45am to 4:45pm, 4th floor
 physical_address_markdown: |-
   **One Texas Center**
   <br>505 Barton Springs Road
