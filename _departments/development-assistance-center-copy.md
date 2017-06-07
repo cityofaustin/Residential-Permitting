@@ -9,7 +9,6 @@ hours:
   - time_period_markdown: |-
       *Approved Site Plan Exemption Pick-up*
       <br>Monday through Friday, 10am - 2pm
-      <br>&nbsp;
   - time_period_markdown: |-
       *Map/Document Sales*
       <br>Monday through Friday, 9am - 3pm
@@ -25,5 +24,3 @@ physical_address_markdown: |-
   <br>1st floor
 _hide_content: true
 ---
-
-
