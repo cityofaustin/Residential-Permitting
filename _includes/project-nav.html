@@ -8,7 +8,9 @@
 			</a>
 			<span> | </span>
 		{% else %}
-			{% include _icon.html icon='arrow-long-right' %}
+			{% if forloop.index0 > 1 %}
+				{% include _icon.html icon='arrow-long-right' %}
+			{% endif %}
 			<a {% if page.step_number == forloop.index0 %}class="active"{% endif %} href="/projects/{{ page.project_name | slugify }}/{{ project_step | slugify }}">
 				{{ forloop.index0 }}. {{ project_step }}
 			</a>
