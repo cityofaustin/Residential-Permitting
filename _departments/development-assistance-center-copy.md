@@ -19,8 +19,8 @@ hours:
       *Research*
       <br>Monday through Friday, 9am to 2pm
 physical_address_markdown: |-
-  **One Texas Center**
-  <br>505 Barton Springs Road
-  <br>1st floor
+  **One Texas Center, 1st floor**
+  <br>505 Barton Springs Road​
+  <br>Austin, TX 78704
 _hide_content: true
 ---
