@@ -34,8 +34,8 @@
 
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
-  <link rel="stylesheet" href="{{ relative }}/assets/stylesheets/application.css">
-  <script src="{{ relative }}/assets/javascripts/application.js"></script>
+  <link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/application.css">
+  <script src="{{ site.url }}/assets/javascripts/application.js"></script>
 
 
   {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
