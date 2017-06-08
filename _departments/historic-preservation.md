@@ -10,9 +10,9 @@ hours:
       *Walk-In for submittal information and application intake​*
       <br>Monday through Friday, 8:00am to 12:00pm
 physical_address_markdown: |-
-  **One Texas Center**
+  **One Texas Center, 5th floor**
   <br>Austin Historic Preservation Office
   <br>505 Barton Springs Road
-  <br>5th floor
+  <br>​Austin, TX 78704
 _hide_content: true
 ---
