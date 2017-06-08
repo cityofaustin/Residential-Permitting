@@ -115,7 +115,7 @@ subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+favicon_path: "/assets/favicons/"
 
 # Build settings
 markdown: kramdown
