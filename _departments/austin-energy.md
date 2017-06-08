@@ -28,12 +28,6 @@ physical_address_markdown: |-
   **Utility Customer Service Center (North Branch)**
   <br>8716 Research Blvd., Suite 115
   <br>Austin, TX 78758
-mailing_address_markdown: |-
-  Mailing:
-  <br>**City of Austin - Austin Energy - Customer Care Contact Center**
-
-  721 Barton Springs Road
-  <br>Austin, TX
-  <br>78704-1194
+mailing_address_markdown:
 _hide_content: true
 ---
