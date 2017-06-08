@@ -5,7 +5,7 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview_of_steps_description: "An official website of the City of Austin."
+    intro: "An official website of the City of Austin."
     projects: "Projects"
     resources: "Resources"
     home: "Home"
