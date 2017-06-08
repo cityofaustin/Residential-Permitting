@@ -50,19 +50,22 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-    {% for project in site.projects %}
+		{% assign project_pages = site.projects | where: 'in_projects_menu', true %}
+		{% for project in project_pages limit: 6 %}
+		{% if project.visibility != "unlisted" %}
     <div class="project-block col-xs-10 col-sm-6 col-md-4">
       <div class="block-outline">
-				<object class="block-illustration" alt="{{ project.name }} illustration" data="{{ project.project-illustration }}.svg" type="image/svg+xml">
+				<object class="block-illustration" alt="{{ project.project_name | capitalize }} illustration" data="/assets/img/projects/{{ project.project_name  | slugify }}.svg" type="image/svg+xml">
 					<!-- TODO: See if necessary for browser support <img src="{{ project.project-illustration }}.jpg" /> -->
 				</object>
         <div class="block-text">
-          <h3>{{ project.name }}</h3>
+          <h3>{{ project.project_name | capitalize }}</h3>
           <p>{{ project.excerpt }}</p>
         </div>
         <a class="block-link" href="{{ project.url }}"></a>
       </div>
     </div>
+		{% endif %}
     {% endfor %}
   </div>
 </section>
@@ -75,12 +78,12 @@ layout: default
   </div>
   <div class="row center-xs">
     {% for resource in page.resources_featured %}
-    <div class="resource-block col-xs-10 col-sm-6 col-md-3">
-      <div class="block-outline">
-        <h4><a href="{{ resource.link }}">{{ resource.name }}</a></h4>
+    <div class="resource-block col-xs-10 col-sm-6 col-md-4">
+			<a href="{{ resource.link }}" class="block-outline">
+        <h4>{{ resource.name }}</h4>
         <p>{{ resource.description }}</p>
       </div>
-    </div>
+		</a>
     {% endfor %}
   </div>
 </section>

@@ -9,16 +9,17 @@ footer_lists:
     list_title: 'Tools & Resources'
     list_title_link: /resources
     link_list:
+      - page_title: Applications & forms
+        page_link: /resources/applications-and-forms
+      - page_title: Building near a tree
+        page_link: /resources/building-near-a-tree
       - page_title: Can I get a permit?
         page_link: /resources/can-i-get-a-permit
       - page_title: Check my permit status
         page_link: /resources/check-my-permit-status
-      - page_title: Applications & forms
-        page_link: /resources/applications-and-forms
       - page_title: Glossary
         page_link: /resources/glossary
-      - page_title: Building near a tree
-        page_link: /resources/building-near-a-tree
+
         
   - list:
     list_title: Contact

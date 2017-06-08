@@ -47,8 +47,8 @@
     a {
       text-decoration: underline;
     }
-    svg {
-      width: 20px;
+    .icon {
+      height: 20px;
       fill: $color-white;
     }
   }
@@ -57,17 +57,26 @@
   }
 }
 
+.layout--home {
+  h2 {
+    font-size: $h2-font-size-alt;
+    font-weight: $font-bold;
+  }
+}
+
 /* consider moving the following to shared "tile" styles? */
 
 .step-preview {
   margin-top: 4rem;
   margin-bottom: 8rem;
-
+  display: flex;
   .step-flag {
     border: $border-style-lighter-gray;
     border-bottom-width: 0;
     position: relative;
-    height: 100%;
+    flex-direction: column;
+    display: flex;
+    flex: 1;
     padding: rem(40px) 10% .5rem;
     margin: 0 .5rem;
     &:before,
@@ -132,6 +141,7 @@
     height: 100%;
     margin: 0 .5rem;
     position: relative;
+    display: block;
     .block-text {
       padding: 2.5rem 2.5rem 3rem;
     }
@@ -176,24 +186,39 @@
     height: 100%;
     padding: 1.5rem 1.25rem;
     margin: 0 .5rem;
+    display: block;
+    text-decoration: none;
+    transition: border-color .5s;
+    &:hover, &:active {
+      border-color: $color-primary-darker;
+    }
     h4 {
       font-size: rem(15px);
       margin:0 0 .5rem;
-      a {
-        text-decoration: none;
-      }
+      color: $color-primary;
+      transition: color .5s;
+    }
+    &:hover h4, &:active h4 {
+      color: $color-primary-darker;
     }
     p {
       font-size: rem(15px);
       line-height: rem(21px);
       font-family: $font-sans;
       margin: 0;
+      color: $color-gray-dark;
+      &:hover, &:active, &:visited {
+        color: $color-gray-dark;
+      }
     }
   }
 }
 
 
 /* Page sections */
+.content {
+  text-align: left;
+}
 
 .page-section {
   h2 {
@@ -206,9 +231,6 @@
 .project-header {
   background: $color-barton-light;
   padding-top: 3rem;
-  h1 {
-    margin-bottom: 0;
-  }
   .project-illustration {
     width: 60%;
     margin-top: 3rem;
@@ -217,6 +239,14 @@
     @media #{$sm-viewport} {
       width: 30%;
     }
+  }
+}
+.project-title {
+  h1 {
+    margin-bottom: 0;
+    font-size: $h1-font-size;
+    font-weight: $font-bold;
+    width: 100%;
   }
 }
 .project-nav {
@@ -254,44 +284,31 @@
     display: inline-block;
   }
   span {
-    margin: auto .7rem;
+    margin: auto 1rem;
     display: inline-block;
+    color: $color-gray-lighter;
+    font-size: rem(20px);
   }
 }
 .project-layout {
-    // Just for project pages
-  h1 {
-    font-size: $h1-font-size;
-    font-weight: $font-bold;
-    width: 100%;
+  // Just in case an h1 slips in
+  h1, h2 {
+   font-size: $h2-font-size-alt;
+   font-weight: $font-bold;
   }
-
-  h2 {
-    font-size: $h2-font-size;
-    font-weight: $font-bold;
-  }
-
+  // scale up font sizes for project page
   h3 {
-    font-size: $h3-font-size;
-    font-weight: $font-medium;
-  }
+    font-size: $h2-font-size;
+    color: $color-gray-dark;
 
+  }
   h4 {
-    font-size: $h4-font-size;
-    font-weight: $font-medium;
+    font-size: $h3-font-size;
+    color: $color-gray;
+
   }
 
-  h5 {
-    font-size: $h5-font-size;
-    font-weight: $font-medium;
-  }
-
-  h6 {
-    font-size: $h6-font-size;
-    font-weight: $font-normal;
-    text-transform: uppercase;
-  }
-  .step {
+  .step-title {
     padding-top: 2rem;
     text-align: center;
     // to keep sticky nav from overlapping top of anchored ID on in-page links
@@ -307,20 +324,67 @@
       border: 4px solid $color-barton-light;
       box-sizing: content-box;
       margin: 1rem auto;
-      content: "1";
-    }
-    &:nth-of-type(2):before {
-      content: "2"
-    }
-    &:nth-of-type(3):before {
-      content: "3"
-    }
-    &:nth-of-type(4):before {
-      content: "4"
+      content: attr(data-number);
     }
   }
 }
 
+.project-steps {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  .block-outline {
+    border: $border-style-lighter-gray;
+    height: 100%;
+    padding: 1.5rem 1.25rem;
+    margin: 0 .5rem;
+    h3 {
+      font-size: $h3-font-size;
+      margin:0 0 .5rem;
+      a {
+        text-decoration: none;
+      }
+    }
+    p {
+      font-size: rem(15px);
+      line-height: rem(21px);
+      font-family: $font-sans;
+      margin: 0;
+    }
+  }
+  .step-number {
+    text-align: center;
+    font-family: $font-sans;
+    width: 7rem;
+    &:before {
+      display: block;
+      font-size: $h3-font-size;
+      width: 1.65 * $h3-font-size;
+      height: 1.65 * $h3-font-size;
+      line-height:  1.65 * $h3-font-size;
+      border-radius: 100%;
+      border: 4px solid $color-black;
+      color: $color-black;
+      box-sizing: content-box;
+      margin: 0 auto;
+      content: attr(data-number);
+      font-weight: bold;
+    }
+  }
+  .project-step-content {
+    flex: 1;
+    padding: 1rem;
+  }
+}
+
+.project-prefooter {
+  padding-bottom: 4rem;
+  .button-container > div {
+    @media (max-width: 480px) {
+      max-width: 100%;
+      flex-basis: 100%;
+    }
+  }
+}
 
 
 /* ARTICLE PAGES */
@@ -328,5 +392,15 @@
   h1.page-title {
     text-align: center;
     width: 100%;
+  }
+}
+
+/* CONTACT PAGE */
+.layout--contact {
+  .department-listing {
+    margin-bottom: 5rem;
+  }
+  .department-name {
+    margin-top: 1rem;
   }
 }

@@ -27,7 +27,7 @@ $site-header-height: 6.0rem;
         line-height: $site-header-height;
         transition: background .25s;
         span {}
-        .icon { width: 2rem; }
+        .icon { height: 2rem; }
         ul {
           background: $color-gray-lightest;
           position: absolute;

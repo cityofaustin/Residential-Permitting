@@ -2,15 +2,13 @@
 title: Residential Plan Review
 department_name: Residential Plan Review
 department_link: 'http://austintexas.gov/page/residential-building-review'
-description:
+description: 'The Residential Plan Review Division reviews new construction, additions, and interior remodel projects for homes on one lot.'
 phone: 512-978-4000
 email: ResidentialReview@austintexas.gov
 hours:
   - time_period_markdown: |-
       *General Information Walk-In, Express, & Total Demolition*
       <br>Monday, Wednesday, & Friday, 8:00am to 12:00pm
-
-      &nbsp;
   - time_period_markdown: |-
       *Intake (Application Submittal)*
       <br>Monday & Friday, 8:00am to 12:00pm
@@ -20,4 +18,3 @@ physical_address_markdown: |-
   <br>2nd floor
 _hide_content: true
 ---
-

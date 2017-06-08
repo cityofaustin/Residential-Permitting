@@ -12,14 +12,16 @@ The City of Austin has a strong interest in preserving the natural resources tha
 
 Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) if your project:
 
-* Requires you to remove a tree,
-* Requires construction near the critical root zone,
-* Involves a tree that is 4.5 feet from the ground or taller,
-* Or involves a tree that is 19 inches or more in diameter (59.6904 inches around).
+Involves a tree that is 19 inches or more in diameter ( 59.6904 inches around),
 
-{% include glossary-aside.html term="critical-root-zone" %}
+And requires you to:
 
-To calculate a tree’s diameter, measure the circumference of the tree at its widest point, usually at chest height, and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
+* Remove the tree,
+* Or do work near the critical root zone.
+
+{% include glossary-definition.html term="critical-root-zone" %}
+
+To calculate a tree’s diameter, measure the circumference of the tree 4.5 feet above the ground (diameter at breast height or DBH), and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
 ---
 
@@ -39,7 +41,7 @@ This first zone extends 5 feet out from the base of the tree on the ground level
 
 This second zone begins at 5 feet and extends 10 feet from the base of the tree and 4 inches into the ground. From 5 to 10 feet of the base of the tree you cannot dig in deeper than 4 inches into the soil.
 
-### 3. The Critical Root Zone
+### 3. The Full Critical Root Zone
 
 This third zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
@@ -47,7 +49,7 @@ This third zone begins 20 feet from the base of the tree. &nbsp;You are free to 
 
 ## Heritage trees
 
-Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 19 inches or more in diameter and one of the following species, then you may not be able to remove it:
+Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 24 inches or more in diameter and one of the following species, then you may not be able to remove it:
 
 * All Oaks
 * Arizona Walnut

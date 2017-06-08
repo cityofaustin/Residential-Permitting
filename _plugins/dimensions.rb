@@ -5,8 +5,8 @@ module Jekyll
     def dimensions(input)
 
       site = @context.registers[:site]
-      source_path = site.in_source_dir(input)
-
+      source_path = File.join(site.source, input)
+      
       raise "#{input} is not readable" unless File.readable?(source_path)
 
       size = FastImage.size(source_path)

@@ -821,8 +821,22 @@ a.pswp__share--download {
   }
   h6 {
     font-weight: bold;
-    padding-right: 0;
+		white-space: nowrap;
+		@media #{$md-viewport} {
+			padding-left: 0;
+		}
   }
+	.icon {
+		float: left;
+		height: 1.9rem;
+		margin-right: 1rem;
+	}
+	.icon--check {
+		fill: $color-barton-light;
+	}
+	.icon--close {
+		fill: $color-secondary;
+	}
 }
 .lightbox-gallery {
   margin: 4rem 0;
@@ -831,8 +845,14 @@ a.pswp__share--download {
     @media #{$md-viewport} {
       display: flex;
       flex-flow: column;
+			a {
+				flex: 0 0 auto;
+			}
     }
-    img {display: block; }
+    img {
+			display: block;
+			border: 1px solid $color-gray-lightest;
+ 		}
 
   }
   figcaption {

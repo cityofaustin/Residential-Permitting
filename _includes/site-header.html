@@ -1,5 +1,5 @@
 <header class="site-header">
-  <div class="container container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-md-4">
         <span class="no-logo">{{ site.data.labels.locales[site.locale].intro }}</span>
@@ -10,8 +10,11 @@
             <li><a href="/">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% for project in site.projects limit: 6 %}
-                  <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+                {% assign project_pages = site.projects | where: 'in_projects_menu', true %}
+                {% for project in project_pages limit: 6 %}
+                {% if project.visibility != "unlisted" %}
+                  <li><a href="{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+                  {% endif %}
                 {% endfor %}
               </ul>
             </li>

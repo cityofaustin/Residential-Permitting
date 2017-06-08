@@ -1,0 +1,12 @@
+<div class="project-header">
+	<div class="container container-fluid center-xs">
+		<object class="project-illustration" alt="{{ page.project_name | capitalize }} illustration" data="/assets/img/projects/{{ page.project_name | slugify }}.svg" type="image/svg+xml">
+		  <!-- TODO: See if necessary for browser support <img src="{{ page.project-illustration }}.jpg" /> -->
+		</object>
+	</div>
+</div>
+<div class="project-title">
+	<div class="container container-fluid center-xs">
+		<h1>{{ page.project_name | titlecase }}</h1>
+	</div>
+</div>

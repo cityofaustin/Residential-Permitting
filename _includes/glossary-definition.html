@@ -1,0 +1,2 @@
+{% assign term = site.glossary | where:"term", include.term  | first %}
+{{ term.short_definition }}
