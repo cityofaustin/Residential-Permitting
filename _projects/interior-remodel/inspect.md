@@ -54,7 +54,7 @@ Your inspector will inspect your work based on the approved building plans and t
 * [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
 * [Layout checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Layout.pdf).
 
-Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
+Your inspector is a great source of information to answer questions about meeting your building and safety requirements.
 
 ### Final Inspection
 
