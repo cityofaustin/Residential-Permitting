@@ -30,14 +30,16 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-    {% for step in page.process_steps %}
-    <div class="step-preview col-xs-10 col-sm-6 col-md-3">
+	  {% for step in site.data.labels.locales[site.locale].project_steps %}
+		{% if forloop.index0 > 0 %}
+    <div class="step-preview col-xs-10 col-md-2">
       <div class="step-flag">
-        <h3>{{ step.name }}</h3>
-        <p>{{ step.description }}</p>
-        <span class="step-index">{{ forloop.index }}</span>
+        <h3>{{ step.step_name }}</h3>
+        <span class="step-index">{{ forloop.index0 }}</span>
       </div>
+			<p>{{ step.step_description }}</p>
     </div>
+		{% endif %}
     {% endfor %}
   </div>
 </section>
