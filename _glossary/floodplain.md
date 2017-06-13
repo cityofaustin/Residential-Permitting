@@ -7,4 +7,4 @@ source:
 ---
 
 
-Coming soon.
+You can find out if your home is in a floodplain by visiting [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). Enter your address and if your Flood Zone says, “Flood Zone: X,” then you DO NOT live in a floodplain.
