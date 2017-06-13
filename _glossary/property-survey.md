@@ -8,7 +8,7 @@ glossary:
 ---
 
 
-Property surveys are helpful in figuring out where your property lines start and stop. With that information, you can find the setbacks are on your property and determine where you can build on your land.
+Property surveys are helpful in figuring out where your property lines start and stop. With that information, you can find where the setbacks are located on your property, whether there are any easements on your property, and determine where you can build on your land.
 
 There are few ways you can find your property survey if you have lost the survey provided to you when you bought your home:
 
