@@ -319,11 +319,15 @@
 
 /* CONTACT PAGE */
 .layout--contact {
-  .department-listing {
-    margin-bottom: 5rem;
-  }
-  .department-name {
-    margin-top: 1rem;
+  .department-details {
+    .icon {
+      background: $color-gray-lighter;
+      border-radius: 100%;
+      width: 32px;
+      height: 32px;
+      padding: 3px;
+      margin-right: 5px;
+    }
   }
 }
 
