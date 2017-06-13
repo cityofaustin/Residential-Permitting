@@ -239,30 +239,6 @@
     // to keep sticky nav from overlapping top of anchored ID on in-page links
     border-top: 5rem solid transparent;
     margin-top: -5rem;
-    &.numbered:before {
-      display: block;
-      font-size: $h3-font-size;
-      width: 2 * $h3-font-size;
-      height: 2 * $h3-font-size;
-      line-height:  2 * $h3-font-size;
-      border-radius: 100%;
-      border: 4px solid $color-barton-light;
-      box-sizing: content-box;
-      margin: 1rem auto;
-      content: attr(data-number);
-    }
-    .icon {
-      display: block;
-      font-size: $h3-font-size;
-      width: 2.5 * $h3-font-size;
-      height: 2.5 * $h3-font-size;
-      line-height:  2.5 * $h3-font-size;
-      padding: .5 * $h3-font-size;
-      border-radius: 100%;
-      border: 4px solid $color-barton-light;
-      margin: 1rem auto;
-      content: attr(data-number);
-    }
   }
 }
 
@@ -292,6 +268,7 @@
     text-align: center;
     font-family: $font-sans;
     width: 7rem;
+    // consider refactoring into .circled with a modifier
     &:before {
       display: block;
       font-size: $h3-font-size;
@@ -347,5 +324,37 @@
   }
   .department-name {
     margin-top: 1rem;
+  }
+}
+
+/* GLOSSARY INDEX */
+
+.term {
+  padding-top: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 4rem;
+  border-bottom: $color-gray-lighter 1px solid;
+}
+
+
+/* Circled characters for steps and glossary */
+.circled {
+  color: $color-gray-dark;
+  display: block;
+  font-size: $h2-font-size;
+  font-weight: 500;
+  font-family: $font-sans;
+  text-align: center;
+  width: 1.85 * $h3-font-size;
+  height: 1.85 * $h3-font-size;
+  line-height:  1.85 * $h3-font-size;
+  border-radius: 100%;
+  border: 4px solid $color-barton-light;
+  box-sizing: content-box;
+  margin: 4rem auto 1rem;
+  padding: .75rem;
+  .icon {
+    height: 100%;
   }
 }

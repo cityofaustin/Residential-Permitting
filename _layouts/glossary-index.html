@@ -3,20 +3,43 @@ layout: default
 ---
 <div class="container container-fluid page-layout">
   <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="lead">{{ page.lead }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+    <article class="content start-xs col-xs-12 col-sm-10 col-md-8">
 
-    <h1 class="page-title">{{ page.title }}</h1>
-    <article class="content start-xs col-xs-12 col-sm-6">
+      {% assign lastletter = "" %}
+
       {% for term in site.glossary %}
-        <h3>
-          <a href="{{ term.url }}">
-            {{ term.title }}
-          </a>
-        </h3>
-        <p>
-          {{ term.short_definition }}
-        </p>
-        <hr>
+
+        {% assign tmpletter = term.title | slice: 0 | upcase %}
+
+        {% if tmpletter != lastletter %}
+        <div id="{{ tmpletter }}" class="row start-sm alpha">
+          <span class="circled">{{ tmpletter }}</span>
+        </div>
+        {% endif %}
+
+
+        <div id="{{ term.title | slugify }}" class="row start-sm term">
+          <h4 class="col-sm-3">{{ term.title }}</h4>
+          <div class="term-definition col-sm-9">
+            <p>
+              {{ term.short_definition }}
+            </p>
+            <h5><a class="read-more" href="{{ term.url }}">
+              {{ site.data.labels.locales[site.locale].glossary_link_prefix }}{{ term.title | downcase }}
+            </a></h5>
+          </div>
+        </div>
+
+      {% assign lastletter = tmpletter %}
+
       {% endfor %}
+
     </article>
   </div>
 </div>

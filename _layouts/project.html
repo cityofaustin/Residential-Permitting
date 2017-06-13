@@ -18,14 +18,15 @@ layout: default
 
       <div class="center-xs">
         {% if page.step_number == 0 %}
+          <span class="circled">{% include _icon.html icon="list" context="Project Overview" %}</span>
           <h2 class="step-title">
-            {% include _icon.html icon="list" context="Project Overview" %}
             {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
           </h2>
           <p class="lead">{{ page.overview_of_steps_description }}</p>
           <h3>{{ page.overview_of_steps_title }}</h3>
         {% else %}
-          <h2 data-number="{{ page.step_number }}" class="step-title numbered">
+          <span class="circled">{{ page.step_number }}</span>
+          <h2 class="step-title">
             {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
           </h2>
         {% endif %}
