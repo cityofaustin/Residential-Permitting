@@ -1,6 +1,6 @@
 ---
-title: Term Definition
-term: term
+title: Property Survey
+term: property survey
 short_definition: coming soon
 long_definition_markdown: '""'
 source: Austin City Development Code
