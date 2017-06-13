@@ -328,7 +328,15 @@
 .page-layout {
   h1.page-title {
     text-align: center;
+    margin-top: 10rem;
     width: 100%;
+    &:after {
+      border-bottom: 8px solid $color-barton-light;
+      content: "";
+      display: block;
+      width: 4rem;
+      margin: 1.5rem auto;
+    }
   }
 }
 
