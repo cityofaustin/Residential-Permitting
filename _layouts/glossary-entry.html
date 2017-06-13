@@ -6,10 +6,32 @@ layout: default
 
     <h1 class="page-title">{{ page.title }}</h1>
 
-    <p class="lead">{{ page.short_definition }}</p>
-
     <article class="content start-xs col-xs-12 col-sm-6">
       {{ content }} <br>
+
+      {% if page.sources.size > 0 %}
+        <h5>{{ site.data.labels.locales[site.locale].glossary_source_title }}</h5>
+        {% for source in page.sources %}
+          <a href="{{ source.link }}" target="_blank">{{ source.name | rstrip }}</a>{% if forloop.length > 1 and forloop.last == false  %}, {% endif %}
+        {% endfor %}
+      {% endif %}
+
+      {% if page.glossary.size > 0 %}
+        <hr>
+        <div class="row center-xs">
+          <h6>{{ site.data.labels.locales[site.locale].glossary_related_terms_title }}</h6>
+        </div>
+        <div class="row center-xs">
+          {% for term in page.glossary %}
+          <div class="resource-tile col-xs-10 col-sm-6">
+      			<a href="{{ site.url }}/glossary/{{ term | slugify }}" class="tile-outline">
+              {{ term | deslugify | capitalize }}
+            </a>
+          </div>
+          {% endfor %}
+
+        </div>
+      {% endif %}
     </article>
   </div>
 </div>
