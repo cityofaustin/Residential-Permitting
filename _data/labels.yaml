@@ -35,6 +35,8 @@ locales:
     glossary_related_terms_title: "Commonly Confused Terms"
     glossary_source_title: "Source"
     glossary_link_prefix: "Read more about "
+    resource_download_link_prefix: "Download "
+    resource_last_revision_prefix: "Last updated "
     lightbox_gallery_do: "Do"
     lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix: ""

@@ -329,12 +329,17 @@
 
 /* GLOSSARY INDEX */
 
-.term {
+.index-item {
   padding-top: 4rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
   padding-bottom: 4rem;
   border-bottom: $color-gray-lighter 1px solid;
+  h5 {
+    font-size: rem(14px);
+    margin-bottom: 2rem;
+    color: $color-gray-light;
+  }
 }
 
 

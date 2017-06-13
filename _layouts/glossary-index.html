@@ -9,7 +9,7 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-    <article class="content start-xs col-xs-12 col-sm-10 col-md-8">
+    <article class="content start-sm center-xs col-xs-12 col-sm-10 col-md-8">
 
       {% assign lastletter = "" %}
 
@@ -18,19 +18,19 @@ layout: default
         {% assign tmpletter = term.title | slice: 0 | upcase %}
 
         {% if tmpletter != lastletter %}
-        <div id="{{ tmpletter }}" class="row start-sm alpha">
+        <div id="{{ tmpletter }}" class="row start-sm center-xs  alpha">
           <span class="circled">{{ tmpletter }}</span>
         </div>
         {% endif %}
 
 
-        <div id="{{ term.title | slugify }}" class="row start-sm term">
-          <h4 class="col-sm-3">{{ term.title }}</h4>
-          <div class="term-definition col-sm-9">
+        <div id="{{ term.title | slugify }}" class="row start-sm center-xs index-item">
+          <h4 class="col-sm-3 col-xs-10">{{ term.title }}</h4>
+          <div class="term-definition col-sm-9 col-xs-10">
             <p>
               {{ term.short_definition }}
             </p>
-            <h5><a class="read-more" href="{{ term.url }}">
+            <h5><a class="read-more" href="{{ site.url }}{{ term.url }}">
               {{ site.data.labels.locales[site.locale].glossary_link_prefix }}{{ term.title | downcase }}
             </a></h5>
           </div>

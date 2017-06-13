@@ -37,8 +37,13 @@ button,
   text-decoration: none;
   width: 100%;
 
+
   @include media($small-screen) {
     width: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
   }
 
   &:hover,

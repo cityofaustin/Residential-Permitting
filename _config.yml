@@ -28,6 +28,8 @@ collections:
     title: Glossary
     output: true
     permalink: "resources/:collection/:path"
+  library:
+    output: false
 
 defaults:
 - scope:

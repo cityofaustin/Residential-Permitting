@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="container container-fluid page-layout">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="lead">{{ page.lead }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+    <article class="content center-xs start-sm col-xs-12 col-sm-10 col-md-8">
+
+      {% assign lastletter = "" %}
+
+      {% for document in site.library %}
+
+        {% assign tmpletter = document.title | slice: 0 | upcase %}
+
+        {% if tmpletter != lastletter %}
+        <div id="{{ tmpletter }}" class="row center-xs start-sm alpha">
+          <span class="circled">{{ tmpletter }}</span>
+        </div>
+        {% endif %}
+
+
+        <div id="{{ document.title | slugify }}" class="row center-xs start-sm index-item">
+          <h4 class="col-sm-4 col-xs-10">{{ document.title }}</h4>
+          <div class="term-definition col-sm-8 col-xs-10">
+            <p>
+              {{ document.description }}
+            </p>
+            <h5><i>{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }}{{ document.date | date: "%B %d, %Y" }}</i></h5>
+
+            <a class="usa-button usa-button-outline read-more" data-doctype="{{ document.document_type }}" target="_blank" href="{{ site.url }}{{ document.file_path }}">
+              {{ site.data.labels.locales[site.locale].resource_download_link_prefix }}{{ document.title | downcase }}
+            </a>
+          </div>
+        </div>
+
+      {% assign lastletter = tmpletter %}
+
+      {% endfor %}
+
+    </article>
+  </div>
+</div>
