@@ -17,12 +17,17 @@ layout: default
 		<article class="content start-xs col-xs-12 col-sm-offset-2 col-sm-8">
 
       <div class="center-xs">
-  			<h2 data-number="{{ page.step_number }}" class="step-title">
-          {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
-        </h2>
         {% if page.step_number == 0 %}
+          <h2 class="step-title">
+            {% include _icon.html icon="list" context="Project Overview" %}
+            {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
+          </h2>
           <p class="lead">{{ page.overview_of_steps_description }}</p>
-          <h2>{{ page.overview_of_steps_title }}</h2>
+          <h3>{{ page.overview_of_steps_title }}</h3>
+        {% else %}
+          <h2 data-number="{{ page.step_number }}" class="step-title numbered">
+            {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
+          </h2>
         {% endif %}
       </div>
       {% if page.step_number == 0 %}
