@@ -4,6 +4,10 @@ $button-stroke: inset 0 0 0 2px;
 
 // Buttons
 
+.button-row {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 /* stylelint-disable selector-no-qualifying-type */
 .usa-button,
 .usa-button-primary,

@@ -6,7 +6,7 @@
       </div>
       <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
         <h4>
-          <a class="footer-link-list-title" href="{{ site.url }}projects">{{ site.data.labels.locales[site.locale].projects }}</a>
+          <a class="footer-link-list-title" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].projects }}</a>
         </h4>
         <ul>
           {% assign project_pages = site.projects | where: 'in_menu', true %}
@@ -18,7 +18,7 @@
 
       <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
         <h4>
-          <a class="footer-link-list-title" href="{{ site.url }}resources">{{ site.data.labels.locales[site.locale].resources }}</a>
+          <a class="footer-link-list-title" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].resources }}</a>
         </h4>
         <ul>
           {% assign resource_pages = site.content | where: 'in_menu', true %}
@@ -34,7 +34,7 @@
         </h4>
         <ul>
           {% for link in site.data.footer.last_footer_list_link_list %}
-          <li><a href="{{ link.page_link}}">{{ link.page_title }}</a></li>
+          <li><a href="{{ link.page_link }}">{{ link.page_title }}</a></li>
           {% endfor %}
         </ul>
       </div>

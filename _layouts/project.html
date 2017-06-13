@@ -30,7 +30,7 @@ layout: default
       		{% assign project = site.data.labels.locales[site.locale].project_steps[forloop.index0] %}
       		{% if forloop.index0 > 0 %}
           <div class="project-steps">
-            <div class="block-outline row">
+            <div class="tile-outline row">
               <div data-number="{{ forloop.index0 }}" class="step-number"></div>
               <div class="project-step-content">
                 <h3><a href="/projects/{{ page.project_name | slugify }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
