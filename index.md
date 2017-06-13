@@ -10,11 +10,11 @@ header_photo_credit_name: Karl Metzelear •
 header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_title: Process Overview
 process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are four key steps to getting a permit.'
-projects_title: Projects
+projects_title: Featured Projects
 projects_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
 projects_button_text: View all projects
 limit_projects_to: 6
-resources_title: 'Tools & Resources'
+resources_title: Residential Toolkit
 resources_featured:
   - name: Can I get a permit?
     description: Make sure that you can get started on permitting a new project with the City.
@@ -35,3 +35,5 @@ resources_featured:
     description: Not sure what something means? Take a look in our glossary of terms.
     link: /resources/glossary
 ---
+
+
