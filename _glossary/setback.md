@@ -10,3 +10,9 @@ glossary:
 
 
 The area between the Buildable Area on a lot and a lot line. The mandatory clear distance between a lot line and a building.
+
+If you are building a structure taller than 15 feet, then the setback distance between that structure and your rear border is 10 feet. If your structure is less than 15 feet tall, then the rear setback is 5 feet.
+
+The setback is 15 feet from your structure to the side border of your yard if it faces the street. If the side border does not face the street, then the setback is 5 feet from your structure to the side border.
+
+The front yard setback is 25 feet, starting at the front of your home and extending to the front border of your property. You can refer to your property survey to learn where the setbacks are on your property.
