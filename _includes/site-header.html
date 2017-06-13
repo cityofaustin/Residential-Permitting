@@ -10,17 +10,15 @@
             <li><a href="/">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% assign project_pages = site.projects | where: 'in_projects_menu', true %}
+                {% assign project_pages = site.projects | where: 'in_menu', true %}
                 {% for project in project_pages limit: 6 %}
-                {% if project.visibility != "unlisted" %}
                   <li><a href="{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
-                  {% endif %}
                 {% endfor %}
               </ul>
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].resources }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% assign resource_pages = site.content | where: 'in_resources_menu', true %}
+                {% assign resource_pages = site.content | where: 'in_menu', true %}
                   {% for page in resource_pages limit: 6 %}
                   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}

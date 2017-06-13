@@ -1,6 +1,6 @@
 ---
 title: Express Permits
-in_resources_menu: true
+in_menu: true
 ---
 
 

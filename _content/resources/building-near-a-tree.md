@@ -1,6 +1,6 @@
 ---
 title: Building near a tree
-in_resources_menu: true
+in_menu: true
 ---
 
 

@@ -63,9 +63,7 @@ defaults:
     type: 'content'
   values:
     layout: 'page'
-    in_resources_menu: false
-    in_projects_menu: false
-    in_permit_check_menu: false
+    in_menu: false
     _comments:
 
 # for project pages
@@ -77,7 +75,7 @@ defaults:
     _comments:
       excerpt: Shows up on homepage. Only use on overview page
       project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
-      in_projects_menu: Should this show up in the header navigation and homepage? Ony use on overview page
+      in_menu: Should this show up in the header navigation and homepage? Ony use on overview page
       step_number: Order the pages of the project here, starting with 0 for overview
       overview_of_steps_title: Only use on overview page
       overview_of_steps_description: Only use on overview page
