@@ -46,6 +46,6 @@ Most applications go through 2 rounds of review. Note that if you receive commen
 
 ### What happens after my application is approved?
 
-When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the [Service Center](/contact/) at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
+When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the [Service Center](/contact/#service-center) at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
 
 Remember, permitting doesn’t stop when you get started. Your work must be inspected throughout your process and when you’re finished in order to close any permits.
