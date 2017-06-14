@@ -118,6 +118,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_path: "/assets/favicons/"
 
 # Build settings
+incremental: true
 markdown: kramdown
 gems:
   - jekyll-feed
