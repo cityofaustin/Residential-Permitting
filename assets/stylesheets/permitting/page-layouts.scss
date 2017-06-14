@@ -217,28 +217,20 @@
 }
 .project-layout {
   // Just in case an h1 slips in
-  h1, h2 {
-   font-size: $h2-font-size-alt;
-   font-weight: $font-bold;
-  }
-  // scale up font sizes for project page
-  h3 {
+  h1 {
     font-size: $h2-font-size;
+    font-weight: 500;
     color: $color-gray-dark;
-
   }
-  h4 {
-    font-size: $h3-font-size;
-    color: $color-gray;
-
-  }
-
+  
   .step-title {
     padding-top: 2rem;
     text-align: center;
     // to keep sticky nav from overlapping top of anchored ID on in-page links
     border-top: 5rem solid transparent;
     margin-top: -5rem;
+    font-size: $h2-font-size-alt;
+    font-weight: $font-bold;
   }
 }
 
