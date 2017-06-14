@@ -70,3 +70,18 @@
     }
   }
 }
+
+@media #{$lg-viewport} {
+  .project-layout,
+  .page-layout {
+    .breakout-sidebar {
+      width: 150%;
+      blockquote {
+        max-width: 30%;
+      }
+      .original-paragraph {
+        max-width: 66%;
+      }
+    }
+  }
+}
