@@ -74,12 +74,11 @@
     border-bottom-width: 0;
     position: relative;
     padding: rem(40px) 10% rem(20px);
-    margin: 0 .5rem 6rem;
+    margin: 0 auto 6rem;
+    max-width: 200px;
     &:before,
     &:after {
-      @media #{$md-viewport} {
-        content: "";
-      }
+      content: "";
       border-top: $border-style-lighter-gray;
       width: 59%;
       display: block;
@@ -222,7 +221,7 @@
     font-weight: 500;
     color: $color-gray-dark;
   }
-  
+
   .step-title {
     padding-top: 2rem;
     text-align: center;
