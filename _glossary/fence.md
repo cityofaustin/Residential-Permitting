@@ -7,7 +7,7 @@ long_definition_markdown: >-
 
   <br>
 
-  <br>a decoratitve fence is made of up 25% or less solid material and uses an
+  <br>a decorative fence is made of up 25% or less solid material and uses an
   open design
 
   <br>
