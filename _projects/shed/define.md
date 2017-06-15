@@ -86,6 +86,7 @@ If your tree is 19 inches or more in diameter and also a heritage tree, then you
 
 [Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
 
+---
 
 ## Getting a building permit
 
@@ -105,6 +106,8 @@ A prefabricated shed may still require a permit. To determine if your prefabrica
 
 If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
 
+---
+
 ## You may need to hire a licensed professional
 
 Depending on the specifics of your shed, you may need to hire a licensed professional such as an architect, engineer, surveyor, or tradesmen to complete some required application materials. Find out which application materials may need to be prepared by a professional in the Apply section or during your consultation.
@@ -114,6 +117,8 @@ Depending on the specifics of your shed, you may need to hire a licensed profess
 Contractors are required to get permits for their work and are responsible for getting any needed permits themselves with your written authorization. If you want to hire a contractor, it’s important that you select a contractor who will make sure this is done properly.
 
 Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
+
+---
 
 ## You may need a consultation to determine your shed requirements
 
