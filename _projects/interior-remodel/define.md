@@ -55,7 +55,7 @@ A new addition permit is required if you are changing the footprint of your home
 * Converting inhabitable space into habitable space,
 * Or moving an exterior wall.
 
-As with interior remodel, you may need a demolition permit if you are tearing down an exterior wall. Another thing to note is that if your room has a window AC unit, the room is still considered air conditioned.
+As with interior remodel, you may need a demolition permit if you are tearing down an exterior wall.&nbsp;
 
 If this sounds like your project, [schedule a consultation](/projects/interior-remodel/consult/) to review any zoning consideration that will affect your project.
 
@@ -96,7 +96,7 @@ If your property currently has an [open or expired permit](/resources/can-i-get-
 
 ## You may need to hire a licensed professional
 
-Depending on the specific plans for your remodeling or addition project, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
+Depending on the specific plans for your remodeling project, you may need to hire a licensed professional such as an engineer, architect or surveyor to complete certain parts of the application.
 
 Find out which application materials may need to be prepared by a licensed professional in the Apply section or during your consultation
 
@@ -115,5 +115,3 @@ It is possible to prepare your permit application without consulting with a revi
 Give you personalized property information you will need to fill out your application. Depending on the information learned during your consultation, you may not be able to complete your remodel as you originally planned.
 
 Give you a list of documents you need to prepare for your application based on your specific project.
-
-Explain the next steps to apply for a permit.
