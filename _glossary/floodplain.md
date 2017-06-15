@@ -1,7 +1,7 @@
 ---
 title: Floodplain
 term: floodplain
-short_definition: The area of land that will be underwater when a creek or lake rushes over its banks.
+short_definition: The area of low land near a creek or lake that floods after rain or when water overflows.
 long_definition_markdown: The area of land that will be underwater when a creek or lake rushes over its banks.
 source:
 ---
