@@ -1,7 +1,7 @@
 ---
 title: Property Survey
 term: property survey
-short_definition: 'The exact amount of land that belongs to a homeowner, measuring from each boundary line around the property.'
+short_definition: The exact amount of land that belongs to a homeowner. Property surveys are measured by surveyors and include the land within property lines.
 long_definition_markdown: '""'
 source: Austin City Development Code
 glossary:
