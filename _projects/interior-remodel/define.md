@@ -24,7 +24,7 @@ Depending on what you want to do, there is a spectrum of permits that your proje
 There are certain home improvement projects that can be completed without needing a permit. You won’t need a permit or an inspection if you will only be:
 
 * Replacing or switching out finishes or fixtures such as: flooring, tile, countertops, cabinets, painting walls, light fixtures, toilets or sinks,
-* Removing less than 32 square feet sheetrock,
+* Removing less than 32 square feet of sheetrock,
 * Or adding non-metal roofing, such as shingles.
 
 ### Express Permit
