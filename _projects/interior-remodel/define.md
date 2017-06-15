@@ -19,19 +19,19 @@ An interior remodel is the process of fixing or updating appearance or functiona
 
 Depending on what you want to do, there is a spectrum of permits that your project can fall into: No permit, an express permit, an interior remodel permit or a new addition permit. You may also need to apply for a trade permit if you will be working with electric, plumbing or HVAC.
 
-You can change your project plan before you apply if it still meets the requirements for a simpler permit. &nbsp;
+You can change your project plan before you apply as long as it still meets the requirements for a simpler permit. You may also be able to change your project plan so that you don't need a permit, if you can simplify your project enough.&nbsp;&nbsp;
 
 ### Not all cosmetic work requires a permit
 
 There are certain home improvement projects that can be completed without needing a permit. You won’t need a permit or an inspection if you will only be:
 
-* Replacing or switching out finishes or fixtures such as: flooring, tile, countertops, cabinets, painting walls, light fixtures, toilets or sinks,
-* Removing less than 32 square feet of sheetrock,
+* Replacing finishes or fixtures such as: flooring, tile, countertops, cabinets, painting walls, light fixtures, toilets or sinks,
+* Removing or repairing less than 32 square feet of drywall,
 * Or adding non-metal roofing, such as shingles.
 
 ### Express Permit
 
-Small changes such as moving electric or plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
+Small changes such as converting a bathtub to shower or vice-versa without moving any plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
 
 [Figure out if your project qualifies for an express permit](/resources/express-permits/).
 
