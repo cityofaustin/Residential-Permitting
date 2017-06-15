@@ -1,8 +1,8 @@
 ---
-title: Addition
-term: addition
-short_definition: Adding to or expanding a part of a building to create a vertical or horizontal extension.
-long_definition_markdown: Enlarging or expanding any new portion of a structure to create a vertical or horizontal extension.
+title: Adjacent
+term: adjacent
+short_definition: Buildings that share a common lot line.
+long_definition_markdown:
 source: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'
 glossary:
 ---
