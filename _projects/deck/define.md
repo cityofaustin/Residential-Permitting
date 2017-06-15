@@ -102,7 +102,7 @@ Learn more about [protected trees and their construction requirements](/resource
 
 ## Getting a building permit
 
-Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.&nbsp;
+Permits are proof that changes on your property follow the City of Austin’s rules or are “up to code,” so you can be sure that whatever changes you make are safe for you, your guests, and your neighbors. The same process for submitting a permit application applies whether your deck will be covered or uncovered.
 
 ### How much do building permits cost?
 
