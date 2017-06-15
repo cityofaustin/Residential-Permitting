@@ -20,6 +20,8 @@ A set of reviewers will be looking through your application and checking your pl
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
 
+You can search for expired permits by selecting "Public Search," and then entering the property address, date range, or permit case/type and hitting submit.&nbsp;
+
 Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
 ### 2. If you receive comments, your plans must be adjusted
