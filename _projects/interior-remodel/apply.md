@@ -17,17 +17,15 @@ Remember, you can meet with one of our reviewers in their office for a free 20-m
 
 The interior remodel application can be filled out by either you or your architect or engineer.
 
-The new addition can be filled out by either you or your architect or engineer.
-
 Demolition application if you are tearing down walls, or will be changing any windows or doors. The demolition application can be filled out by either you or your architect or engineer.
 
 ### 2. Plot Plan
 
-Your plot plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If you’re hand drawing the plot plan, use graph paper to make it simple to draw to scale. If applicable, include any power lines that run above your property.
+Your plot plan must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, a surveyor, or an expeditor. If you’re hand drawing the plot plan, use graph paper to make it simple to draw to scale. If applicable, include any power lines that run above your property.
 
 ### 3. Floor Plan
 
-Your floor plan of your proposed project must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages, because if the reviewers can’t understand the drawings, your project will be reject.
+Your floor plan of your proposed project must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages, because if the reviewers can’t understand the drawings, your project will be reject.
 
 Use a separate page for:
 
@@ -37,7 +35,7 @@ Use a separate page for:
 
 ### 4. Elevation Plan
 
-Your elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you’re hand drawing the elevation plan.
+Your elevation plan of your proposed addition or extension must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you’re hand drawing the elevation plan.
 
 ### 5. Structural Drawings
 
@@ -49,11 +47,11 @@ Your foundation plan must be drawn by a structural engineer.
 
 ### Other Commonly Requested Documents
 
-* **Owner’s Authorization Form**: If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required.
+* **Owner’s Authorization Form**: If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
 * **Certified Tax Certificate or Warranty Deed**: If you owe any taxes, you will have to pay those before a permit is approved.
 * **Austin Water Utility Form**: Required if you are increasing the number or bathrooms or performing any work that will promote you to the next water meter size, such as moving from 3 to 3.5 bathrooms.
 * **Homeowners authorization letter**: However, there is also a space for the homeowner’s signature on the application in lieu of letter.
-* **S.M.A.R.T. Housing Project Information**: If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
+* **S.M.A.R.T. Housing Project Information**: If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building. You were likely told that your home was part of the S.M.A.R.T. Housing initiative when you purchased it.
 * **Demolition Application**: This is only necessary if you will be changing any walls in your home, extending a room past the current footprint of your home, or adding any windows or doors. If you need a demolition application, you will also need:
   * A survey or plot plan (you can use the same one as your interior remodel or new addition application).
   * To have it signed by the owner and notarized.
