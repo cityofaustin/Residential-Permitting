@@ -74,7 +74,7 @@ It is important to close your permit(s) because if you do not, it may prevent yo
 
 #### What if I don't pass my final inspection?
 
-Your inspector will let you know why you did not pass. Reasons you may not have passed your inspection are:
+Your inspector will let you know why you did not pass. You may not have passed your inspection because:
 
 * You didn't do everything you needed to do in order to pass, like following the reviewer's comments,
 * Or you did something that was not included in the plans.
