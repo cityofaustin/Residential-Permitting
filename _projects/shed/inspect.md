@@ -13,7 +13,7 @@ tabs:
       * Click on "My Inspections" in the Menu option and follow the prompts.
 
       * If you are experiencing difficulty, you can call 512-978-4000 between the
-      hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at
+      hours of 7:45am and 4:45pm, or e-mail DSD Help at
       [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
   - tab_title: In-person
     tab_content_markdown: >
