@@ -12,9 +12,9 @@ After submitting your application and paying your invoice, you enter into the re
 
 ---
 
-### What is the review process?
+## What is the review process?
 
-#### 1. Approval or Comments
+### 1. Approval or Comments
 
 A set of reviewers will be looking through your application and checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
 
@@ -22,7 +22,7 @@ You can check the status of your permit application on [Austin Build + Connect](
 
 Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
-#### 2. If you receive comments, your plans must be updated
+### 2. If you receive comments, your plans must be updated
 
 Comments are sent in a Master Comment Report to the email provided on the application.
 
@@ -30,13 +30,13 @@ If you need help understanding your comments, reference the Municipal Code and [
 
 If you have questions or concerns about your comments, reach out to the reviewer associated with the specific comments directly. Their contact information will be located on your comment document.
 
-#### 3. Submit updated plans
+### 3. Submit updated plans
 
 Resubmission is done through the same process as your initial application submission.
 
 After you or your hired professional resubmit, you will receive either notice that your plans have been approved or you will receive new comments.
 
-#### 4. Repeat if needed
+### 4. Repeat if needed
 
 This process will be repeated until all comments have been addressed and your application is approved.
 
@@ -44,7 +44,7 @@ Most applications go through 2 rounds of review. Note that if you receive commen
 
 ---
 
-### What happens after my application is approved?
+## What happens after my application is approved?
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the [Service Center](/contact/#service-center) at One Texas Center. Your permit must be posted somewhere visible on your work site, and then you may begin your project!
 
