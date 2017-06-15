@@ -29,19 +29,19 @@ Inspections are required throughout your permitted project and when you’re fin
 
 ---
 
-### What inspections will I need?
+## What inspections will I need?
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 
 ---
 
-### Who can schedule inspections?
+## Who can schedule inspections?
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
 
 ---
 
-### How do I schedule my inspections?
+## How do I schedule my inspections?
 
 Inspections can be scheduled one of three ways.
 
@@ -53,7 +53,7 @@ When you schedule your inspection, you will find out whether or not you need to 
 
 ---
 
-### What happens during inspection?
+## What happens during inspection?
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
 
@@ -65,13 +65,13 @@ Your inspector is a great source of information to answer questions about meetin
 
 ---
 
-### Final inspection
+## Final inspection
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
 It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/resources/can-i-get-a-permit/).
 
-#### What if I fail my final inspection?
+### What if I fail my final inspection?
 
 Your inspector will let you know why you did not pass. You must make any needed changes and reschedule your final inspection before your permit expires.
 
