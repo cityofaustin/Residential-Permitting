@@ -47,7 +47,7 @@ Your foundation plan for your proposed shed must be drawn to scale either by han
 
 ### 6. BSPA form
 
-When applying for a building permit for a shed, a signed [BSPA Form](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/bspa.pdf) from [Austin Energy](/contact/) confirming your shed will not be too close to any power lines is required.
+When applying for a building permit for a shed, a signed [BSPA Form](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/bspa.pdf) from [Austin Energy](/contact/austin-energy) confirming your shed will not be too close to any power lines is required.
 
 ### &nbsp;
 
@@ -60,7 +60,7 @@ When applying for a building permit for a shed, a signed [BSPA Form](https://www
 
 ## How do I submit my application?
 
-Intake occurs at [Residential Plan Review](/contact/) at One Texas Center. You may:
+Intake occurs at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division
 * Or you may save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812). After filling out your name and number on the website, you will need to select Residential-Permit Application Submittals. Then select New Application if this is the first time you’re submitting your application. If you’re submitting an update, then select update. You will be sent a text with your estimated service time, and you can follow the text prompts to receive status updates, leave the line, or get help.
