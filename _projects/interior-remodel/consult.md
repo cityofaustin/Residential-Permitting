@@ -9,7 +9,9 @@ To make the most of your free 20 minute in-person consultation, we suggest prepa
 
 Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
 
-### 1. Collect the following information:
+---
+
+## 1. Collect the following information:
 
 For your interior remodel and new addition have answers for the following questions:
 
@@ -20,7 +22,9 @@ For your interior remodel and new addition have answers for the following questi
 * Are you changing or adding electrical wiring, plumbing, or heating and cooling system?
 * Is your home more than 40 years old?&nbsp;
 
-### 2. Bring your property survey if possible
+---
+
+## 2. Bring your property survey if possible
 
 Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
@@ -28,7 +32,7 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 * Your easements: being aware of any easements on your property will prevent any potential issues in the future with your project.
 * Your impervious cover: to help prevent flooding.
 
-#### What if I can’t find my survey?
+### What if I can’t find my survey?
 
 If you purchased your home after 1980, you likely would have received your survey when you purchased your home. If you can’t find it, or you don’t remember receiving it, check with your:
 
@@ -37,7 +41,9 @@ If you purchased your home after 1980, you likely would have received your surve
 * Title or lending company from original purchase,
 * Or, try asking your neighbors where they got theirs.
 
-### 3. Draw a few simple sketches of your property or home interior
+---
+
+## 3. Draw a few simple sketches of your property or home interior
 
 A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring three simple sketches of the floor plan, plot plan, or both to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
 
@@ -65,9 +71,11 @@ See examples of project sketches:
 
 [Good Example / Bad Example]
 
-### How to get a Free In-Person Consultation
+---
 
-All consultations take place at&nbsp;[Residential Plan Review](/contact/)&nbsp;at One Texas Center.
+## How to get a Free In-Person Consultation
+
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)at One Texas Center.
 
 There are two ways to sign up for your free 20-minute in-person consultation:
 
