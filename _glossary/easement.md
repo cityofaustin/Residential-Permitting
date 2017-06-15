@@ -1,14 +1,13 @@
 ---
 title: Easement
 term: easement
-short_definition: "An area of a resident's land that may be used by a government entity or neighbor. If there is an easement on your land, you may not build on it."
+short_definition: "An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on an easement if it is on your property."
 long_definition_markdown:
 sources:
-  - name: "First source"
-    link: "http://linkhere"
-  - name: "Second source"
-    link: "http://linkhere"
-
+  - name: First source
+    link: 'http://linkhere'
+  - name: Second source
+    link: 'http://linkhere'
 glossary:
   - setback
 ---
