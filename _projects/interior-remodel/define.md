@@ -19,6 +19,8 @@ An interior remodel is the process of fixing or updating appearance or functiona
 
 Depending on what you want to do, there is a spectrum of permits that your project can fall into: No permit, an express permit, an interior remodel permit or a new addition permit. You may also need to apply for a trade permit if you will be working with electric, plumbing or HVAC.
 
+You can change your project plan before you apply if it still meets the requirements for a simpler permit. &nbsp;
+
 ### Not all cosmetic work requires a permit
 
 There are certain home improvement projects that can be completed without needing a permit. You won’t need a permit or an inspection if you will only be:
@@ -29,7 +31,7 @@ There are certain home improvement projects that can be completed without needin
 
 ### Express Permit
 
-Small changes such as replacing or switching out fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
+Small changes such as moving electric or plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
 
 [Figure out if your project qualifies for an express permit](/resources/express-permits/).
 
@@ -82,7 +84,7 @@ If you have any trees over 19 inches in diameter, you will need to have your pro
 
 ### How much do building permits cost?
 
-The cost for permitting an interior remodeling project is X, depending on the specifics of your scope. This includes the plan review, the permit itself, your inspections, and fees.
+The cost for permitting an interior remodeling project starts at $200, depending on the specifics of your scope. This includes the plan review, the permit itself, your inspections, and fees.
 
 There will be additional charges if your project requires a trade permit like an electrical or plumbing permit, you are building near a tree, or your home is in a historic neighborhood. Your reviewer can explain the costs during your in-person consultation.
 
