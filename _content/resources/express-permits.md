@@ -21,7 +21,7 @@ If your project does not go beyond any of the following, then you can get an exp
 * Adding or removing insulation
 * Replacing windows with windows of the same size
 * Replacing exterior doors with doors of the same size
-* Repairing more than 32 square feet of drywall
+* Removing or repairing more than 32 square feet of drywall
 * Removing drywall or insulation to evaluate or observe the home-structure
 * Roof repair to the extent of replacing decking boards
 * Foundation repair as long as it does not increase impervious cover
