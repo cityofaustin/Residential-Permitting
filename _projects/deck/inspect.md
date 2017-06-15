@@ -13,7 +13,7 @@ tabs:
       * Click on "My Inspections" in the Menu option and follow the prompts.
 
       * If you are experiencing difficulty, you can call 512-978-4000 between the
-      hours of 7:45 a.m. and 4:45 p.m., or e-mail DSD Help at
+      hours of 7:45am and 4:45pm, or e-mail DSD Help at
       [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
   - tab_title: In-person
     tab_content_markdown: >
@@ -26,27 +26,35 @@ tabs:
 
 Inspections are required throughout your permitted project and when you're finished with the project. This is to make sure all of your work is safe, and that your deck will last a long time.
 
-### What inspections will I need?
+---
+
+## What inspections will I need?
 
 When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
 
-### Who can schedule inspections?
+---
+
+## Who can schedule inspections?
 
 Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
 
-### How do I schedule my inspections?
+---
+
+## How do I schedule my inspections?
 
 Inspections can be scheduled one of three ways.
 
 {% include tabs.html %}
 
-#### Do I need to be home for my inspection?
+### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home.&nbsp;
+When you schedule your inspection, you will find out whether or not you need to be home.
 
 If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
-#### What happens during inspection?
+---
+
+## What happens during inspection?
 
 Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
 
@@ -56,7 +64,9 @@ Your inspector will inspect your work based on the approved building plans and t
 
 Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
 
-### Final Inspection
+---
+
+## Final Inspection
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
