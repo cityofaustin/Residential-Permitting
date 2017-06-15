@@ -2,15 +2,13 @@
 title: The Review process for a Deck Permit in Austin
 step_number: 4
 project_name: deck
-
 ---
 
 
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
 * Up to code,
-* Safe for you, your guests, and your neighbors,
-* And long-lasting.
+* And safe for you, your guests, and your neighbors.
 
 ---
 
@@ -21,6 +19,8 @@ After submitting your application, you enter into the review process. During rev
 A set of reviewers will be looking through your application and checking your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
 
 You can check the status of your permit application on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). To check your permit status, you must create an Austin Build + Connect account and select “My Permits/Cases” from the left side menu.
+
+You can search for expired permits by selecting "Public Search," and then entering the property address, date range, or permit case/type and hitting submit.
 
 Note that if you are not the applicant, meaning a hired professional submitted your application, the hired professional will be receiving the approval of your permit application or any review comments. You can request to be sent a copy of any emails if this is the case, or you can simply have your authorized applicant forward them to you.
 
