@@ -1,15 +1,13 @@
 ---
-title: Define your Deck Project in Austin, Texas
+title: 'Define your Deck Project in Austin, Texas'
 step_number: 1
 project_name: deck
-
 ---
 
 
 Before you start building or apply for a permit(s), it’s important to define your project, determine if you need any permits, and organize information you will need for your consultation and application. Let’s start by making sure your definition of your project is the same as the City of Austin’s definition.
 
 ---
-
 
 ## What is a deck?
 
@@ -82,11 +80,11 @@ Your deck requires a building permit if it will be or have any of the following:
 
 ### Electric Permits
 
-Having electricity on your deck does not require a building permit. However, you still need an electric permit.
+Having electricity on your deck requires an electric permit.
 
-* If your deck will require a building permit, the City will generate the electric permit automatically with your building permit.
-* If you do not need a building permit but you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/#service-contact) at One Texas Center.
+* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/#service-contact) at One Texas Center.
 * If the electricity on your deck will require changes to the main electrical meter, a registered electrician must get the permit.
+* If your deck will require a building permit, the City will generate the electric permit automatically with your building permit.
 
 ### Tree Permits
 
