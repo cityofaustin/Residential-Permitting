@@ -70,11 +70,11 @@ Your shed will require a building permit if any of the following:
 
 ### Electric permits
 
-Having electricity in your shed does not require a building permit. However, you still need an electric permit.
+Having electricity in your shed requires an electric permit.
 
-* If your shed will require a building permit, the City will generate the electric permit automatically with your building permit.
-* If you do not need a building permit but you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/#service-center) at One Texas Center.
+* If you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/#service-center) at One Texas Center.
 * If the electricity in your shed will require changes to the main electrical meter, a registered electrician must get the permit.
+* If your shed will require a building permit, the City will generate the electric permit automatically with your building permit.
 
 ### Tree permits
 
