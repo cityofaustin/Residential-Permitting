@@ -30,15 +30,15 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 2. If possible, bring your property survey
 
-> ###### [What is a property survey?](/resources/glossary/property-survey)
->
-> {% include glossary-definition.html term="property survey" %}
-
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
 * Your setbacks: making sure you don’t build in your setbacks limits complications with the location of your deck.
 * Your easements: being aware of any easements on your property will also help avoid complications with the location of your deck.
 * Your impervious cover: impervious cover is regulated to help prevent flooding.
+
+> ###### [What is a property survey?](/resources/glossary/property-survey)
+>
+> {% include glossary-definition.html term="property survey" %}
 
 ### What if I don't have my survey?
 
