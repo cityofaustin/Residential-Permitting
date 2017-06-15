@@ -11,6 +11,8 @@ To make the most of your free 20 minute in-person consultation, we suggest prepa
 
 Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet.
 
+---
+
 ## 1. Collect the following information:
 
 * What is the address where you will be building the deck?
@@ -23,6 +25,8 @@ Keep in mind that the consultation is not where you officially submit your appli
   * Be covered or uncovered?
   * Have electricity?
   * Be near a tree greater than 19 inches in diameter?
+
+---
 
 ## 2. Bring your property survey if possible
 
@@ -41,6 +45,8 @@ If you purchased your home after 1980, you likely would have received your surve
 * Or, you can get a new survey.
 
 Find a surveyor through the [The Texas Board of Professional Land Surveying](txls.texas.gov).
+
+---
 
 ## 3. Draw a few simple sketches of your deck and your property
 
