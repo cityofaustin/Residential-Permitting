@@ -53,12 +53,6 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 * The proposed new walls,
 * And, any walls you will be tearing down.
 
-Sketch the layout of your property if doing a new addition, and be sure to show any existing structures like your home, a pool, a shed, your driveway, etc. If possible, including estimated square footage or dimensions will be helpful.
-
-See examples of property sketches:
-
-[Good Example / Bad Example]
-
 Use a separate page for each sketch:
 
 * What your interior currently looks like, including any windows and doors in the room
@@ -75,7 +69,7 @@ See examples of project sketches:
 
 ## How to get a Free In-Person Consultation
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)at One Texas Center.
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. You can have up to 3 free 20-minute in-person consultations.
 
 There are two ways to sign up for your free 20-minute in-person consultation:
 
