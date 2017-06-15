@@ -78,6 +78,6 @@ Your inspector will let you know why you did not pass. You must make any needed 
 
 Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
-If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).
