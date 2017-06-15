@@ -7,7 +7,7 @@ project_name: deck
 
 There are a few things to keep in mind as you're getting ready to apply for your permit. You will need to provide both the paper application and some additional documents. The documents you need to submit with your application will depend on the type of deck you want to build.
 
-Anyone applying for a permit can meet with one of our reviewers for a free 20-minute, in-person consultation. During the consultation, the reviewer will tell you which documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
+Anyone applying for a permit can meet with one of our reviewers for a free 20-minute in-person consultation. During the consultation, the reviewer will tell you which documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
 
 ---
 
