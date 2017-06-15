@@ -49,8 +49,6 @@ Your foundation plan for your proposed shed must be drawn to scale either by han
 
 When applying for a building permit for a shed, a signed [BSPA Form](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/bspa.pdf) from [Austin Energy](/contact/#austin-energy) confirming your shed will not be too close to any power lines is required.
 
-### &nbsp;
-
 ### Other commonly required documents
 
 * [**Owner’s Authorization Form**](https://www.aiaaustin.org/sites/default/files/coaownersletter-1.pdf)**:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
