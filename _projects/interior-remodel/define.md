@@ -47,6 +47,7 @@ Examples of projects that qualify for an interior remodel permit include:
 
 * Kitchen remodels,
 * Bathroom remodels,
+  * Removing drywall in bathrooms beyond just what surrounds the bathtub or shower,
 * Adding a window or door where one did not originally exist,
 * Or making a window bigger.
 
