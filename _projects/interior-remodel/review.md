@@ -8,8 +8,7 @@ project_name: interior remodel
 After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
 
 * Up to code,
-* Safe for you, your guests, and your neighbors,
-* And long-lasting.
+* And safe for you, your guests, and your neighbors.
 
 ---
 
