@@ -39,7 +39,7 @@ Small changes such as converting a bathtub to shower or vice-versa without movin
 
 An interior remodel only affects the inside of your home, with the exception of changing doors and windows. If your project includes at least one of the following, then you will need to apply for an interior remodel permit:
 
-* Moving fixture locations,
+* Moving electric or plumbing fixture locations,
 * Moving an interior wall,
 * Changing an exterior wall, such as adding a window or door, or changing a window size.
 
