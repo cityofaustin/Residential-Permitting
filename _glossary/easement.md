@@ -2,12 +2,14 @@
 title: Easement
 term: easement
 short_definition: "An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on an easement if it is on your property."
-long_definition_markdown:
+long_definition_markdown: "An area of a resident's land that may be used by a government entity or neighbor to access public utilities and drainage ways.These areas may not be built on and should be kept public."
 sources:
-  - name: First source
-    link: 'http://linkhere'
+  - name: Muni Code
+    link: 'https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT30AUTRCOSURE_CH30-2SURE_ART3PLRE_DIV1PRMAEAAL_S30-2-132EAAL'
   - name: Second source
     link: 'http://linkhere'
+  - name:
+    link:
 glossary:
   - setback
 ---
