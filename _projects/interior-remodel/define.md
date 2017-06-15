@@ -43,6 +43,13 @@ An interior remodel only affects the inside of your home, with the exception of 
 * Moving an interior wall,
 * Changing an exterior wall, such as adding a window or door, or changing a window size.
 
+Examples of projects that qualify for an interior remodel permit include:
+
+* Kitchen remodels,
+* Bathroom remodels,
+* Adding a window or door where one did not originally exist,
+* Or making a window bigger.
+
 Your interior remodel may need a demolition permit, particularly if you are moving or changing an interior wall, or changing a window shape. Extra consideration will be taken when changing a load-bearing wall or support in your home.
 
 ### New Addition Permit
