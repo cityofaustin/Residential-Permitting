@@ -1,7 +1,7 @@
 ---
-title: Schedule Inspections for an Interior Remodeling Permit in Austin
+title: Schedule inspections for a Deck Permit in Austin
 step_number: 5
-project_name: interior remodel
+project_name: deck
 tabs:
   - tab_title: Online
     tab_content_markdown: >
