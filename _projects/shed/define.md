@@ -10,13 +10,27 @@ table_of_contents:
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
-      If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line. [Learn more about setbacks](/resources/glossary/setback).
+      If your shed will be less than 15 feet tall, then you must keep 5 feet from
+      both your side and rear property lines clear. You may not build within
+      these spaces. If you shed will be more than 15 feet tall, then you must
+      keep 10 feet from your rear property line clear and 5 feet from your side
+      property line clear, and you may not build within these spaces. There is
+      also a 25 foot setback from your front property line. [Learn more about
+      setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >
-      When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement. [Learn more about easements](/resources/glossary/easements).
+      When there is an easement on your lot and you choose to build on the
+      easement, you run the risk of future fines or possible demolishment of your
+      shed if the city needs to access your easement. [Learn more about
+      easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
     tab_content_markdown: >
-        If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. [Learn more about impervious cover](/resources/glossary/impervious-cover).
+      If you do not live in a floodplain, your impervious cover cannot exceed 45%
+      of your property. If you do live in a floodplain, your impervious cover
+      cannot exceed 10% of your property. Impervious cover restrictions are in
+      place to make sure a significant amount of water is making it back into the
+      soil and to prevent flooding. [Learn more about impervious
+      cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -71,7 +85,7 @@ Having electricity in your shed requires an electric permit.
 
 ### Tree permits
 
-If you have any trees in your yard, you will first have to figure out their diameters. You can find the diameter of the tree by measuring the tree at 4.5 feet from the ground. But, not all trees grow straight up from the ground. Some grow on a slope, some trees lean to one side, and some branch out very near the ground. If that sounds like one of your trees, use this diagram to measure your tree.
+If you have any trees in your yard, you will first have to figure out their diameters. You can find the diameter of the tree by measuring the tree at 4.5 feet from the ground. But, not all trees grow straight up from the ground. Some grow on a slope, some trees lean to one side, and some branch out very near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf).
 
 If your tree measures 19 inches or more in diameter, then it is a protected tree and requires a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you can start construction. You will also need to pay the applicable fee.
 
