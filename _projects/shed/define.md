@@ -8,18 +8,9 @@ table_of_contents:
   - Determine if you will need any additional permits such as a trade or tree permit.
   - Determine if you can get a permit.
 tabs:
-  - tab_title: Online
+  - tab_title: Setbacks
     tab_content_markdown: >
-      * In order to schedule your inspections through the [Austin Build + Connect
-      portal](https://abc.austintexas.gov/web/permit/index), you must be
-      a registered user. If you’re not already registered, you can register
-      online.
-
-      * Click on "My Inspections" in the Menu option and follow the prompts.
-
-      * If you are experiencing difficulty, you can call 512-978-4000 between the
-      hours of 7:45am and 4:45pm, or e-mail DSD Help at
-      [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
+      If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
   - tab_title: In-person
     tab_content_markdown: >
       In person at [Building Inspections](/contact/#building-inspections) at One
