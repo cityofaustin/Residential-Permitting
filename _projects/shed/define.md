@@ -38,8 +38,6 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 {% include tabs.html %}
 
-{% include lightbox.html diagram="easement-setback-impervious-cover" %}
-
 ---
 
 ## Do I need a permit?
