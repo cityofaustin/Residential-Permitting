@@ -24,7 +24,6 @@ And requires you to:
 To calculate a tree’s diameter, measure the circumference of the tree 4.5 feet above the ground (diameter at breast height or DBH), and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
 
 > ##### What is a critical root zone?
-> {: .present-before-paste}
 >
 > {% include glossary-definition.html term="critical-root-zone" %}
 
@@ -78,6 +77,5 @@ If the heritage tree is dead or it is a hazard to life or property, then you may
 If you have a heritage tree in your yard, you will need to contact the [city arborists](/contact/#community-trees) about your project.&nbsp;
 
 > ##### What if my tree is a heritage species but not 24 inches in diameter?
-> {: .present-before-paste}
 >
 > Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations only.
