@@ -64,16 +64,11 @@ Your shed will require a building permit if any of the following:
 * Be over 200 square feet (for example, over 20 feet by 10 feet),
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
-* Or be built in a floodplain.
+* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain. 
 
-> ###### What is a floodplain?
+> ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
->
->
-> ###### How do I find out if I'm in a floodplain?
->
-> Using your address, check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 ### Electric permits
 
