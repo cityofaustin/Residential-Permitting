@@ -8,6 +8,6 @@ file_path: /assets/img/diagrams/shed/shed-layout-sketch.png
 ---
 
 
-###### Shed layout sketch
+###### Sample Layout Sketch
 
 * Caption coming soon
