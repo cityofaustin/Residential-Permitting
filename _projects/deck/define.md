@@ -5,25 +5,13 @@ project_name: deck
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
-      Regardless of how tall your deck is, you can't build it within 10 feet of
-      the rear border or within 5 feet of the side borders of your lot. [Learn
-      more about setbacks](/resources/glossary/setback).
+      Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >
-      The city will need to access any easements on your lot. You may be fined or
-      asked to demolish your deck if you choose to build it on an easement.
-      [Learn more about easements](/resources/glossary/easements).
+      The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
     tab_content_markdown: >
-      Impervious cover restrictions are put in place to prevent flooding during
-      and after heavy rains. If your deck is uncovered, has spaces between the
-      planks, and is located over a permeable surface like grass, then only half
-      of the deck’s surface area will affect the total amount of impervious cover
-      on your property. If you are covering your deck or there won’t be spaces
-      between the planks, then 100% of the deck’s surface area will count towards
-      the amount of impervious cover on your property. A reviewer can help you
-      change your deck design if you max out your impervious cover.[Learn more
-      about impervious cover](/resources/glossary/impervious-cover).
+        Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover.[Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -56,19 +44,11 @@ Your deck requires a building permit if it will be or have any of the following:
 * Be more than 30 inches above ground,
 * Have plumbing,
 * Have electric,
-* Or be built in a floodplain.
+* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain. 
 
 > ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
->
->
-> ###### **How do I find out if I'm in a floodplain?**
->
-> Use your address to check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
->
->
-> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 ### Electric Permits
 
@@ -80,7 +60,7 @@ Having electricity on your deck requires an electric permit.
 
 ### Tree Permits
 
-Measure the diameters of any trees in your yard. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf)[&nbsp;take a measurement](__notset__).
+Measure the diameters of any trees in your yard. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf)take a measurement.
 
 Any trees that measure 19 inches or more in diameter are protected tree and require getting a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you start construction. You will need to pay an additional fee.
 
