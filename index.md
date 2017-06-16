@@ -15,6 +15,7 @@ projects_summary_markdown: Have a particular project in mind? Check out our deta
 projects_button_text: View all projects
 limit_projects_to: 6
 resources_title: Residential Toolkit
+resources_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
 resources_featured:
   - name: Can I get a permit?
     description: Make sure that you can get started on permitting a new project with the City.
