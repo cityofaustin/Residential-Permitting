@@ -6,5 +6,5 @@ project: shed
 plan_type: property-sketch
 file_path: /assets/img/diagrams/shed/shed-property-sketch.png
 ---
-###### Shed property sketch
+###### Sample Property Sketch
 * Caption coming soon
