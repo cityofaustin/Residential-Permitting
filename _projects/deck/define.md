@@ -11,7 +11,7 @@ tabs:
       The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
     tab_content_markdown: >
-        Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. [Learn more about impervious cover](/resources/glossary/impervious-cover).
+        Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover.[Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -30,14 +30,6 @@ A deck is a platform-like structure without walls, often made of planks, that no
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. You can find out if you need a permit after you make sure your deck doesn't break any of the code regulations described below.
 
 {% include tabs.html %}
-
-#### Uncovered Decks
-
-If your uncovered deck has spaces between the planks and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property.
-
-#### Covered Decks
-
-If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover.
 
 ---
 
