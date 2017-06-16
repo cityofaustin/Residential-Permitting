@@ -14,16 +14,19 @@ The City of Austin has a strong interest in preserving the natural resources tha
 
 Certain tree sizes are protected in Austin and require a special permit to cut down. You will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) if your project:
 
-Involves a tree that is 19 inches or more in diameter ( 59.6904 inches around),
+Involves a tree of any species that is 19 inches or more in diameter ( 59.6904 inches around),
 
 And requires you to:
 
 * Remove the tree,
 * Or do work near the critical root zone.
 
-{% include glossary-definition.html term="critical-root-zone" %}
-
 To calculate a tree’s diameter, measure the circumference of the tree 4.5 feet above the ground (diameter at breast height or DBH), and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not regulated.
+
+> ##### What is a critical root zone?
+> {: .present-before-paste}
+>
+> {% include glossary-definition.html term="critical-root-zone" %}
 
 ---
 
@@ -57,7 +60,7 @@ The ½ critical root zone or the yellow zone in this example lies between 5 feet
 
 ## Heritage trees
 
-Heritage trees are protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 24 inches or more in diameter and one of the following species, then you may not be able to remove it:
+Heritage trees are highly protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 24 inches or more in diameter and one of the following species, then navigating the critical root zone may be difficult due to its size and you may not be able to remove it:
 
 * All Oaks
 * Arizona Walnut
@@ -71,3 +74,10 @@ Heritage trees are protected by the city of Austin in order to preserve the natu
 * Texas Madrone
 
 If the heritage tree is dead or it is a hazard to life or property, then you may be able to apply for a variance to have the heritage tree removed.
+
+If you have a heritage tree in your yard, you will need to contact the city arborists about your project.&nbsp;
+
+> ##### What if my tree is a heritage species but not 24 inches in diameter?
+> {: .present-before-paste}
+>
+> Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations.
