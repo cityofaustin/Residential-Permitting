@@ -32,6 +32,10 @@ Your property survey, also called a cadastral survey, isn’t required during th
 * Easements: be aware of any easements on your property to prevent any future issues with your project.
 * Impervious cover: helps prevent flooding.
 
+> ##### What is a property survey?
+>
+> {% include glossary-definition.html term="property survey" %}
+
 ### What if I can’t find my survey?
 
 If you purchased your home after 1980, you probably received your survey when you purchased it. If you can’t find it, or you don’t remember receiving it, check with your:
