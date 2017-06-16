@@ -24,65 +24,65 @@ tabs:
 ---
 
 
-Inspections are required throughout your permitted project and when you're finished with the project. This is to make sure all of your work is safe, and that your deck will last a long time.
+Inspections are required during the process of building your permitted project and when the project is finished. Inspections make sure your work is safe and that your deck lasts a long time.
 
 ---
 
 ## What inspections will I need?
 
-When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
+A list of required inspections specific to your project will be printed on the back of the permit you receive.
 
 ---
 
 ## Who can schedule inspections?
 
-Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
+Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if they are listed as the general contractor on the permit), the trade contractor, or their official agents.
 
 ---
 
 ## How do I schedule my inspections?
 
-Inspections can be scheduled one of three ways.
+Inspections can be scheduled three ways.&nbsp;
 
 {% include tabs.html %}
 
 ### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home.
+You will be told whether you need to be home when you schedule your inspection.
 
-If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
+If you don't need to be home during your inspection, make sure your permitted plans and permit are clearly posted for your inspector to see.
 
 ---
 
 ## What happens during inspection?
 
-Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
+The inspector will go through checklists and check your work to make sure it follows the approved building plans. Inspectors also identify any improvements that need to be made to your project.
 
 * [Framing checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Framing.pdf).
 * [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
 * [Layout checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Layout.pdf).
 
-Your inspector is a great source of information to answer questions about meeting your requirements and building a safe and long-lasting deck.
+Your inspector is available to answer any questions you have about meeting your requirements and building a safe and long-lasting deck.
 
 ---
 
 ## Final Inspection
 
-Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
+Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy while they are on your property or when they return to their office. This means your permit is now closed and marked as complete in city records.
 
-It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
+It is very important to close your permit(s). Permits that aren't closed may prevent you or people interested in buying your home from receiving permits on your property in the future. Learn more about [open and expired permits](/resources/can-i-get-a-permit/).
 
 ### What if I don't pass my final inspection?
 
-Your inspector will let you know why you did not pass. You may not have passed your inspection because:
+Your inspector will let you know why you did not pass your final inspection. You may not have passed your inspection because:
 
-* You didn't do everything you needed to do in order to pass, like following the reviewer's comments,
-* Or you did something that was not included in the plans.
+* You didn't do everything you needed to in order to pass, like following the reviewer's comments,
+* You did something that was not included in the plans.
 
 You must make any needed changes and reschedule your final inspection before your permit expires.
 
-Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
+Permits are only valid for 180 days. However, permits are extended for an additional 180 days each time you get an inspection and work is done on the project.
 
-If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes take longer than 180 days to make, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. You will need to fill out a Permit Extension/withdrawal/activation form. You can only get this type of extension one time.
 
 Remember, you must pass your final inspection in order to close your permit(s).
