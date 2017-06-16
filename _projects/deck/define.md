@@ -44,18 +44,11 @@ Your deck requires a building permit if it will be or have any of the following:
 * Be more than 30 inches above ground,
 * Have plumbing,
 * Have electric,
-* Or be built in a floodplain.
+* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain. 
 
 > ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
->
->
-> ###### **How do I find out if I'm in a floodplain?**
->
-> Use your address to check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
->
-> If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
 ### Electric Permits
 
