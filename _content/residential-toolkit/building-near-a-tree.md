@@ -3,7 +3,6 @@ title: Building near a tree
 in_toolkit_menu: true
 lead: This is a lead
 menu_sort_order: 3
-
 ---
 
 
@@ -38,15 +37,15 @@ To understand where you can and cannot build around trees, imagine that there ar
 
 ### 1. ¼ Critical Root Zone&nbsp;
 
-This first zone extends 5 feet out from the base of the tree on the ground level, and those roots make up a ¼ &nbsp;of the tree’s critical root zone. Your development cannot come within 5 feet of the tree or else it will damage the critical root zone.
+The ¼ critical root zone or the red zone in this example extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You cannot dig in this zone, because it will damage the trees roots.
 
 ### 2. ½ Critical Root Zone:
 
-This second zone begins at 5 feet and extends 10 feet from the base of the tree and 4 inches into the ground. From 5 to 10 feet of the base of the tree you cannot dig in deeper than 4 inches into the soil.
+The ½ critical root zone or the yellow zone in this example lies between 5 feet from the base of the tree and 10 feet from the base of the tree. You cannot dig in deeper than 4 inches into the soil in this zone.&nbsp;
 
 ### 3. The Full Critical Root Zone
 
-This third zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
+The full zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
 ---
 
