@@ -29,10 +29,6 @@ A deck is a platform-like structure without walls, often made of planks, that no
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. You can find out if you need a permit after you make sure your deck doesn't break any of the code regulations described below.
 
-### Setbacks
-
-Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot.
-
 {% include tabs.html %}
 
 #### Uncovered Decks
