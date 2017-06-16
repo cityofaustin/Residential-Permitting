@@ -1,7 +1,7 @@
 ---
-title: The Review Process for an Interior Remodel Permit in Austin
+title: The Review process for a Deck Permit in Austin
 step_number: 4
-project_name: interior remodel
+project_name: deck
 ---
 
 
