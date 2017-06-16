@@ -65,10 +65,7 @@ Your deck requires a building permit if it will be or have any of the following:
 >
 > ###### **How do I find out if I'm in a floodplain?**
 >
-> Use your address to check if your property is in a floodplain at&nbsp;
->
-> <font color="#4a4a4a"><u>guarantee</u></font>[.gov/floodpro](http://austintexas.gov/floodpro/).
->
+> Use your address to check if your property is in a floodplain at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/).
 >
 > If your Flood Zone says “Flood Zone: X,” then you DO NOT live in a floodplain.
 
