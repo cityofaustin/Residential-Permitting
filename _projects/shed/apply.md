@@ -3,10 +3,9 @@ title: Apply for a Shed Permit in Austin
 step_number: 3
 project_name: shed
 table_of_contents:
-  - "Apply for the type of permit your project requires: express, interior remodel, or new addition."
+  - Get the application you need to apply for the type of permit your project requires.
   - Gather the documents and plans you will need to submit with your permit application.
   - Learn what other documents are commonly requested and determine if they apply to you.
-
 ---
 
 
@@ -57,7 +56,7 @@ When applying for a building permit for a shed, a signed [BSPA Form](https://www
 ### Other commonly required documents
 
 * [**Owner’s Authorization Form**](https://www.aiaaustin.org/sites/default/files/coaownersletter-1.pdf)**:** If one of your specialists, such as an engineer or an architect, is submitting your application, they will need your authorization to do so, and this form will be required. This form is only required if you are not signing the application.
-* **Wind Bracing and Framing Plan:**&nbsp;If your shed will be over 500 square feet and custom build, you will need a wind bracing and framing plan drawn to IRC standards either by you, a structural engineer, an architect, or a certified building designer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) for you.
+* **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom build, you will need a wind bracing and framing plan drawn to IRC standards either by you, a structural engineer, an architect, or a certified building designer. Note that if you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) for you.
 
 ---
 
