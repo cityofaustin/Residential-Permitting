@@ -7,6 +7,15 @@ table_of_contents:
   - Find out if you need a permit and what kind.
   - Determine if you will need any additional permits such as a trade or tree permit.
   - Determine if you can get a permit.
+tabs:
+  - tab_title: Setbacks
+    tab_content_markdown: >
+      If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line.
+  - tab_title: Easements
+    tab_content_markdown: >
+      When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
+  - tab_title: Impervious Cover
+    If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.\n"
 ---
 
 
