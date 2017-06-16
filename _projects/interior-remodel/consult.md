@@ -5,28 +5,28 @@ project_name: interior remodel
 ---
 
 
-To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer beforehand. This information will allow the reviewer to know what kinds of permits you may need based on what you want to do. The more information your reviewer is able to see before you apply, the more time it will save you during the application process.
+To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer ahead of time. This information allows the reviewer to know what kinds of permits you need depending on what you want to do. The more information you give the reviewer before you apply, the more time you will save during the application process.
 
-Keep in mind that the consultation is not where you officially submit your application for the permit, but it is a way to save you time and energy during the process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
+Keep in mind that the consultation is not where you officially submit the application for your permit. Consultations save you time and energy during the permitting process. Use the instructions below or print and complete this consultation prep worksheet [Downloadable PDF].
 
 ---
 
 ## 1. Collect the following information:
 
-For your interior remodel and new addition have answers for the following questions:
+Make sure can answer the following questions regarding your interior remodel and new additions.
 
 * Are you moving any interior walls?
-* Are you adding or removing any square footage to or from your home?
-* Do you have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
+* Are you adding to or removing any square footage from your home?
+* Does your property have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
 * Are you demolishing any walls?
-* Are you changing or adding electrical wiring, plumbing, or heating and cooling system?
+* Are you changing or adding electrical wiring, plumbing, or a heating and cooling system?
 * Is your home more than 40 years old?&nbsp;
 
 ---
 
 ## 2. Bring your property survey if possible
 
-Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
+You don't need to bring your property survey, also called a cadastral survey, to your consultation. Bringing it will help the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
 * Your setbacks: making sure you don’t build in your setbacks will avoid complications with the location of your project.
 * Your easements: being aware of any easements on your property will prevent any potential issues in the future with your project.
