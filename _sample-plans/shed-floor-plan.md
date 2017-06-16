@@ -6,11 +6,13 @@ project: shed
 plan_type: floor-plan
 file_path: /assets/img/diagrams/shed/shed-floor-plan.png
 ---
-#### Sample Floor Plan
-* Make sure all markings are dark and clearly legible
-* Clearly note and draw to scale
-* Draw straight lines
-* Have measurements clearly labeled
-* Draw and label any windows or doors
-* Label wall and window thickness
-* Clearly label any utilities
+#### Your floor plan must include:
+* Each floor with labeled rooms, closets, and bathrooms
+* Square footage of rooms and residence
+* Existing / New walls
+* Location of plumbing fixtures, appliances, fireplace
+* Window size and type (slider, pop-out) and sill height
+* Door size and type and direction of door swing
+* Comment about smoke detectors must be present
+* Drawing scale
+
