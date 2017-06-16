@@ -52,13 +52,13 @@ A sketch will give the reviewer a clearer picture of your project and help deter
 
 Sketch the layout of your property and be sure to show any existing structures (such as your house, pool, driveway, deck, etc.) and your shed. Including the estimated dimensions or square footage of these structures would also be helpful.
 
-{% include lightbox.html diagram="property-sketch" %}
+{% include lightbox.html diagram="shed-property-sketch" %}
 
 ### b. What your shed will look like
 
 Sketch your proposed shed with its dimensions and any windows or doors.
 
-{% include lightbox.html diagram="layout-sketch" %}
+{% include lightbox.html diagram="-shed-layout-sketch" %}
 
 ## How to get a free in-person consultation
 
