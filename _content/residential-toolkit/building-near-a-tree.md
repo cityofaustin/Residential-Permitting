@@ -80,4 +80,4 @@ If you have a heritage tree in your yard, you will need to contact the city arbo
 > ##### What if my tree is a heritage species but not 24 inches in diameter?
 > {: .present-before-paste}
 >
-> Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations.
+> Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations only.
