@@ -7,12 +7,12 @@ plan_type: elevation-plan
 file_path: /assets/img/diagrams/shed/shed-elevation.png
 ---
 #### Caption Title
-1. Make sure all markings are dark and clearly legible
-1. Clearly note and draw to scale
-1. Draw straight lines
-1. Draw and label any windows or doors
-1. Make note of multi-story structures
-1. Show any overhang
-1. Label siding
-1. Show all four sides
-1. Clearly label any utilities
+* Make sure all markings are dark and clearly legible
+* Clearly note and draw to scale
+* Draw straight lines
+* Draw and label any windows or doors
+* Make note of multi-story structures
+* Show any overhang
+* Label siding
+* Show all four sides
+* Clearly label any utilities
