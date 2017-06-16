@@ -75,7 +75,7 @@ Heritage trees are highly protected by the city of Austin in order to preserve t
 
 If the heritage tree is dead or it is a hazard to life or property, then you may be able to apply for a variance to have the heritage tree removed.
 
-If you have a heritage tree in your yard, you will need to contact the city arborists about your project.&nbsp;
+If you have a heritage tree in your yard, you will need to contact the [city arborists](/contact/#community-trees) about your project.&nbsp;
 
 > ##### What if my tree is a heritage species but not 24 inches in diameter?
 > {: .present-before-paste}
