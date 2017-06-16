@@ -34,7 +34,7 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 ### 3. Floor plan or Structural Verification Report
 
-Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. If you’re hand drawing your floor plan, use graph paper to make drawing to scale easy.&nbsp;
+Your floor plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect, engineer, or expeditor. If you’re hand drawing your floor plan, use graph paper to make drawing to scale easy.
 
 For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
 
