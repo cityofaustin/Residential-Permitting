@@ -215,6 +215,8 @@
   }
 }
 .project-layout {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
   // Just in case an h1 slips in
   h1 {
     font-size: $h2-font-size;
@@ -233,55 +235,31 @@
   }
 }
 
-.project-steps {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  .tile-outline {
-    border: $border-style-lighter-gray;
-    height: 100%;
-    padding: 1.5rem 1.25rem;
-    margin: 0 .5rem;
-    h3 {
-      font-size: $h3-font-size;
-      margin:0 0 .5rem;
-      a {
-        text-decoration: none;
-      }
-    }
-    p {
-      font-size: rem(15px);
-      line-height: rem(21px);
-      font-family: $font-sans;
-      margin: 0;
-    }
+.project-overview {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  h2 {
+    margin-top: 0;
   }
-  .step-number {
-    text-align: center;
-    font-family: $font-sans;
-    width: 7rem;
-    // consider refactoring into .circled with a modifier
-    &:before {
+  li {
+    list-style-type: none;
+    position: relative;
+    .icon {
+      position: absolute;
+      width: rem(24px);
+      height: rem(24px);
+      fill: $color-barton-light;
       display: block;
-      font-size: $h3-font-size;
-      width: 1.65 * $h3-font-size;
-      height: 1.65 * $h3-font-size;
-      line-height:  1.65 * $h3-font-size;
-      border-radius: 100%;
-      border: 4px solid $color-black;
-      color: $color-black;
-      box-sizing: content-box;
-      margin: 0 auto;
-      content: attr(data-number);
-      font-weight: bold;
+      left: rem(-32px);
     }
   }
-  .project-step-content {
-    flex: 1;
-    padding: 1rem;
+  &.odd {
+    background: $color-gray-lightest;
   }
 }
 
 .project-prefooter {
+  margin-top: 4rem;
   padding-bottom: 4rem;
   .button-container > div {
     @media (max-width: 480px) {

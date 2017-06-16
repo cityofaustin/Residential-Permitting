@@ -2,6 +2,10 @@
 title: The Review process for a Shed Permit in Austin
 step_number: 4
 project_name: shed
+table_of_contents:
+  - Learn about the review process.
+  - Learn what to do if you receive any comments and need to resubmit your application a second time.
+
 ---
 
 

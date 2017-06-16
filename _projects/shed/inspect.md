@@ -2,6 +2,11 @@
 title: Schedule inspections for a Shed Permit in Austin
 step_number: 5
 project_name: shed
+table_of_contents:
+  - Determine that inspections are required throughout your project.
+  - Learn how to schedule your inspections either online, in-person or by phone.
+  - Schedule final inspection and make any required changes before your permit expires.
+
 tabs:
   - tab_title: Online
     tab_content_markdown: >

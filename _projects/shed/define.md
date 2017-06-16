@@ -2,6 +2,12 @@
 title: Define your Shed Project in Austin
 step_number: 1
 project_name: shed
+table_of_contents:
+  - Define the scope of your shed project.
+  - Find out if your shed will need a permit.
+  - Determine if you will need any additional permits such as a trade or tree permit.
+  - Determine if you can get a permit.
+
 ---
 
 
