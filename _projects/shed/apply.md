@@ -30,7 +30,7 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 > Note that for a shed, you can draw your shed to scale on your survey. It’s easier and helpful for reviewers!
 
-{% include lightbox.html plan="plot-plan" %}
+{% include lightbox.html diagram="plot-plan" %}
 
 ### 3. Floor plan or Structural Verification Report
 
@@ -38,13 +38,13 @@ Your floor plan of your proposed shed must be drawn to scale either by hand or o
 
 For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
 
-{% include lightbox.html plan="floor-plan" %}
+{% include lightbox.html diagram="floor-plan" %}
 
 ### 4. Elevation plan
 
 Your elevation plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Note that for prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
-{% include lightbox.html plan="elevation-plan" %}
+{% include lightbox.html diagram="elevation-plan" %}
 
 ### 5. Foundation plan
 
