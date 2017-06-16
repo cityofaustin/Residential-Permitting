@@ -30,6 +30,8 @@ collections:
     permalink: "resources/:collection/:path"
   library:
     output: false
+  sample-plans:
+    output: false
 
 defaults:
 - scope:
@@ -105,6 +107,22 @@ defaults:
       contact_form_url: Only a link to a contact form http://www.austintexas.gov/email/
       period_name: e.g., "General questions" or "By appointment only"
       period_time_markdown: Open-Close days and times, new lines OK
+
+# for document and plan libraries
+- scope:
+    path: ''
+    type: sample-plans
+  values:
+    _comments:
+      title: Title of this Plan
+      description: Brief description of this form or document
+      date: 2017-06-14
+      project: shed
+      file_path: /assets/img/diagrams/project/plan.png
+    plan_type:
+      - floor-plan
+      - elevation-plan
+      - plot-plan
 
 # for all pages
 _comments:

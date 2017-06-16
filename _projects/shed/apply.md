@@ -25,7 +25,7 @@ Your plot plan must be drawn to scale either by hand or on the computer and can 
 
 > Note that for a shed, you can draw your shed to scale on your survey. It’s easier and helpful for reviewers!
 
-{% include lightbox-gallery.html diagram="plot-plan" do_caption="Make sure all markings are dark and clearly legible, clearly note and draw to scale, make note of true north, draw straight lines, show new shed location on lot in relation to existing structures, draw and label all setbacks and easements, make note of multi-story structures, show the roof overhang with a dotted line, have all measurements clearly labeled, draw and label any trees over 19 inches in diameter, label any utilities, draw and label any concrete surfaces, label street name in front property, and put your address at the bottom." dont_caption="Make sure you don&rsquo;t use any light-colored drawing utensils, draw structures or plot not to scale, leave off the scale or north orientation, draw crooked lines, leave out any existing structures, leave off any labels, leave off overhang, leave off setback or easements, leave off your address or street, or leave off any trees larger than 19 inches in diameter." %}
+{% include lightbox.html plan="plot-plan" %}
 
 ### 3. Floor plan or Structural Verification Report
 
@@ -33,13 +33,13 @@ Your floor plan of your proposed shed must be drawn to scale either by hand or o
 
 For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
 
-{% include lightbox-gallery.html diagram="floor-plan" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label wall and window thickness, and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, or leave out wall and window thickness." %}
+{% include lightbox.html plan="floor-plan" %}
 
 ### 4. Elevation plan
 
 Your elevation plan of your proposed shed must be drawn to scale either by hand or on the computer and can be prepared by you, your architect or engineer, or an expeditor. Note that for prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
-{% include lightbox-gallery.html diagram="elevation-plan" do_caption="Make sure all markings are dark and clearly legible, draw straight lines, clearly note and draw to scale, have measurements clearly labeled, draw and label any windows or doors, label siding, show any overhang, show all four sides and clearly label any utilities." dont_caption="Make sure you don&rsquo;t leave off any labels of windows or doors, leave off any shed measurements, leave out utilities, forget to include or draw to scale, draw crooked lines, leave off the roof or show all four sides." %}
+{% include lightbox.html plan="elevation-plan" %}
 
 ### 5. Foundation plan
 

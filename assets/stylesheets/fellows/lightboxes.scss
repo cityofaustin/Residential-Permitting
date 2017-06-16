@@ -803,11 +803,9 @@ a.pswp__share--download {
 /* gallery thumbnails */
 .pswp__caption .pswp__caption__center,
 .lightbox-gallery figcaption {
-  display: table-row;
   background: $color-gray-lightest;
   padding: 1em 1.5em;
   p, h6 {
-    display: table-cell;
     margin: 0;
     padding: inherit;
   }
@@ -842,20 +840,60 @@ a.pswp__share--download {
   margin: 4rem 0;
   figure {
     margin: 1rem 0;
-    @media #{$md-viewport} {
+    @media #{$sm-viewport} {
       display: flex;
-      flex-flow: column;
-			a {
-				flex: 0 0 auto;
-			}
-    }
-    img {
-			display: block;
-			border: 1px solid $color-gray-lightest;
- 		}
+		}
 
+    flex-flow: row;
+		a {
+			flex: 0 0 auto;
+			border: 1px solid $color-gray-lightest;
+			align-items: center;
+			display: flex;
+		}
   }
+  img {
+		display: block;
+		}
+
   figcaption {
     flex: 1;
+		h1, h2, h3, h4, h5, h6 {
+			font-size: rem(15px);
+			color: $color-gray-dark;
+			text-transform: none;
+			font-weight: 500;
+			margin-bottom: 1.5rem;
+			margin-top: 0;
+		}
+		p, li {
+			font-family: $font-sans;
+			color: $color-gray;
+			font-size: rem(15px);
+			line-height: 2.1rem;
+			margin-bottom: 1.5rem;
+		}
+		ul, ol {
+			margin-left: 0rem;
+			li {
+				padding-left: 1.25rem;
+			}
+		}
+		ul li {
+			position: relative;
+			list-style-type: none;
+			&:before {
+				content: "";
+				width: 24px;
+				height: 24px;
+				display: block;
+				position: absolute;
+				left: -30px;
+				top: 0;
+				background-image: url("../img/check.svg");
+				background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" preserveAspectRatio="xMinYMin"><path fill="#{$color-barton-light}" d="M25.18,12.39l-8.89,8.89L14.61,23a1.19,1.19,0,0,1-1.67,0l-1.67-1.67L6.82,16.84a1.19,1.19,0,0,1,0-1.67L8.5,13.49a1.19,1.19,0,0,1,1.67,0l3.61,3.62L21.83,9A1.19,1.19,0,0,1,23.5,9l1.67,1.67a1.19,1.19,0,0,1,0,1.67Z"/></svg>');
+				background-position: center center;
+			}
+		}
   }
 }
