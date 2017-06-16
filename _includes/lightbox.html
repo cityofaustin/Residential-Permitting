@@ -12,13 +12,13 @@
   </figure>
 </div>
 
-  {% unless lightbox_flag == true %}
-    <script>
-      $(document).ready(function(){
-        initPhotoSwipeFromDOM('.lightbox-gallery');
-      });
-    </script>
-    {% assign lightbox_flag = true %}
-  {% endunless %}
+{% unless lightbox_flag == true %}
+<script>
+  $(document).ready(function(){
+    initPhotoSwipeFromDOM('.lightbox-gallery');
+  });
+</script>
+{% assign lightbox_flag = true %}
+{% endunless %}
 
 {% endif %}
