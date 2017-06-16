@@ -27,13 +27,13 @@ If your shed will be less than 15 feet tall, then you must keep 5 feet from both
 
 > ###### What is a setback?
 >
-> {% include glossary-definition.html term="setback" %} [Learn more](/resources/glossary/setback).
+> {% include glossary-definition.html term="setback" %} [Learn more](/residential-toolkit/glossary/setback).
 
 ### Easements
 
 When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement.
 
-> ###### [What is an easement?](/resources/glossary/easement)
+> ###### [What is an easement?](/residential-toolkit/glossary/easement)
 >
 > {% include glossary-definition.html term="easement" %}
 
@@ -41,7 +41,7 @@ When there is an easement on your lot and you choose to build on the easement, y
 
 If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding.
 
-> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+> ###### [What is impervious cover?](/residential-toolkit/glossary/impervious-cover)
 >
 > {% include glossary-definition.html term="impervious cover" %}
 
@@ -61,7 +61,7 @@ Your shed will require a building permit if any of the following:
 
 > ###### What is a floodplain?
 >
-> {% include glossary-definition.html term="floodplain" %} [Learn more](/resources/glossary/floodplain)
+> {% include glossary-definition.html term="floodplain" %} [Learn more](/residential-toolkit/glossary/floodplain)
 >
 >
 > ###### How do I find out if I'm in a floodplain?
@@ -84,7 +84,7 @@ If your tree measures 19 inches or more in diameter, then it is a protected tree
 
 If your tree is 19 inches or more in diameter and also a heritage tree, then you may not be able to remove it.
 
-[Learn more about protected trees and construction requirements](/resources/building-near-a-tree/).
+[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
 
 ---
 
@@ -104,7 +104,7 @@ A prefabricated shed may still require a permit. To determine if your prefabrica
 
 ### Make sure you can get a permit
 
-If your property has any [open or expired permits](/resources/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
+If your property has any [open or expired permits](/residential-toolkit/can-i-get-a-permit/) or is at its max impervious coverage, you may not be able to get a permit right away.
 
 ---
 

@@ -23,7 +23,7 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot.&nbsp;
 
-> ###### [What is a setback?](/resources/glossary/setback)
+> ###### [What is a setback?](/residential-toolkit/glossary/setback)
 >
 > {% include glossary-definition.html term="setback" %}
 
@@ -31,7 +31,7 @@ Regardless of how tall your deck is, you can't build it within 10 feet of the re
 
 The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement.
 
-> ###### [What is an easement?](/resources/glossary/easement)
+> ###### [What is an easement?](/residential-toolkit/glossary/easement)
 >
 > {% include glossary-definition.html term="easement" %}
 
@@ -39,7 +39,7 @@ The city will need to access any easements on your lot. You may be fined or aske
 
 Impervious cover restrictions are put in place to prevent flooding during and after heavy rains.
 
-> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+> ###### [What is impervious cover?](/residential-toolkit/glossary/impervious-cover)
 >
 > {% include glossary-definition.html term="impervious cover" %}
 
@@ -66,7 +66,7 @@ Your deck requires a building permit if it will be or have any of the following:
 * Have electric,
 * Or be built in a floodplain.
 
-> ###### [What is a floodplain?](/resources/glossary/floodplain)
+> ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
 >
@@ -96,7 +96,7 @@ Any trees that measure 19 inches or more in diameter are protected tree and requ
 
 You may not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.
 
-Learn more about [protected trees and their construction requirements](/resources/building-near-a-tree/).
+Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
 ---
 
@@ -112,7 +112,7 @@ There will be additional fees if your project requires a trade permit like an el
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an [open or expired permit](/resources/can-i-get-a-permit/). You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your deck materials or design.
+You may not be able to get a new permit right away if your property currently has an [open or expired permit](/residential-toolkit/can-i-get-a-permit/). You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your deck materials or design.
 
 ---
 

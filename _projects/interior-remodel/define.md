@@ -33,7 +33,7 @@ There are certain home improvement projects that can be completed without needin
 
 Small changes such as converting a bathtub to shower or vice-versa without moving any plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
 
-[Figure out if your project qualifies for an express permit](/resources/express-permits/).
+[Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits/).
 
 ### Interior Remodel Permit
 
@@ -84,7 +84,7 @@ If you are installing or replacing your hot water heater, your contractor is res
 
 If you have any trees over 19 inches in diameter, you will need to have your project reviewed by a city arborist. This is to make sure the Critical Root Zone is not damaged by any of the equipment as it is brought in to remodel your home.
 
-[Learn more about protected trees and their construction requirements](/resources/building-near-a-tree/).
+[Learn more about protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
 ---
 
@@ -98,7 +98,7 @@ There will be additional charges if your project requires a trade permit like an
 
 ### Make sure you can get a permit
 
-If your property currently has an [open or expired permit](/resources/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
+If your property currently has an [open or expired permit](/residential-toolkit/can-i-get-a-permit/), you may not be able to get a new permit right away. Also, if you are expanding your footprint, and you have reached the maximum amount of impervious coverage, you may also be unable to get a permit at that moment. Instead, you will need to reconsider your project’s design.
 
 ---
 

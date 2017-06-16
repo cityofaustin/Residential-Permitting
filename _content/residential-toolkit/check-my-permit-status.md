@@ -36,4 +36,4 @@ Call the City of Austin’s Interactive Voice Response System (IVR) to check you
 
 The third way to check your permit’s status is to call the reviewer who initially reviewed your permit application, or met with you during the free 20-minute in-person consultation.
 
-If you haven’t applied for a permit yet, make sure you can get one. If you have an open or expired permit, you will need to close it before moving forward with your project. To find out if you have an open or expired permit, click here to [learn if you can get a permit](/resources/can-i-get-a-permit/).
+If you haven’t applied for a permit yet, make sure you can get one. If you have an open or expired permit, you will need to close it before moving forward with your project. To find out if you have an open or expired permit, click here to [learn if you can get a permit](/residential-toolkit/can-i-get-a-permit/).

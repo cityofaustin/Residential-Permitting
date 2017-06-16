@@ -28,7 +28,7 @@ Note that if you are not the applicant, meaning a hired professional submitted y
 
 Comments are sent in a Master Comment Report to the email provided on the application.
 
-If you need help understanding your comments, reference the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/resources/glossary/) or speak with a professional.
+If you need help understanding your comments, reference the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/residential-toolkit/glossary/) or speak with a professional.
 
 If you have questions or concerns about your comments, you can reach out to the reviewer associated with the specific comments directly. This information will be located on your comment document.
 

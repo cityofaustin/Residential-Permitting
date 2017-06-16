@@ -7,7 +7,7 @@ locales:
   en: &DEFAULT_EN
     intro: "An official website of the City of Austin."
     projects: "Projects"
-    resources: "Resources"
+    resources: "Residential Toolkit"
     home: "Home"
     contact: "Contact"
     permit_check: "Permit Check"

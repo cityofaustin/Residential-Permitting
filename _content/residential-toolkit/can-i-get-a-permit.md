@@ -6,7 +6,7 @@ in_menu: true
 
 There are two things that can get in the way of you receiving a permit: an open or expired permit, maxing out on impervious cover, or both. If you have an expired permit, and it falls into the following permit types, you will need to get it resolved before you can move forward with your project:
 
-> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+> ###### [What is impervious cover?](/residential-toolkit/glossary/impervious-cover)
 >
 > {% include glossary-definition.html term="impervious cover"%}
 

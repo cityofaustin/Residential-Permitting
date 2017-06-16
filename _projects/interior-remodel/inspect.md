@@ -70,7 +70,7 @@ Your inspector is a great source of information to answer questions about meetin
 
 Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
 
-It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/resources/can-i-get-a-permit/).
+It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
 
 #### What if I don't pass my final inspection?
 

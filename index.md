@@ -18,22 +18,20 @@ resources_title: Residential Toolkit
 resources_featured:
   - name: Can I get a permit?
     description: Make sure that you can get started on permitting a new project with the City.
-    link: /resources/can-i-get-a-permit/
+    link: /residential-toolkit/can-i-get-a-permit/
   - name: Check my permit status
     description: Already applied for your new permit? Check its current status.
-    link: /resources/check-my-permit-status
+    link: /residential-toolkit/check-my-permit-status
   - name: Building near a tree
     description: "Have a tree on your property? Find out if it's protected by the City of Austin."
-    link: /resources/building-near-a-tree/
+    link: /residential-toolkit/building-near-a-tree/
   - name: Express Permits
     description: Some projects are simple enough that they qualify for express permits.
-    link: /resources/express-permits
+    link: /residential-toolkit/express-permits
   - name: 'Applications & forms'
     description: Quickly find a specific application or form.
-    link: /resources/applications-and-forms
+    link: /residential-toolkit/applications-and-forms
   - name: Glossary
     description: Not sure what something means? Take a look in our glossary of terms.
-    link: /resources/glossary
+    link: /residential-toolkit/glossary
 ---
-
-

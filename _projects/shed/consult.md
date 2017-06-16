@@ -27,9 +27,9 @@ Keep in mind that the consultation is not where you officially submit your appli
 
 Your property survey, also known as a cadastral survey, isn’t required at consultation, but it will give the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
 
-* Your [setbacks](/resources/glossary/setback): making sure you don’t build in your setbacks will prevent future complications with the placement of your shed.
-* Your [easements](/resources/glossary/easement): being aware of any easements on your property will prevent any potential issues in the future with your deck.
-* Your [impervious cover](/resources/glossary/impervious-cover): to help prevent flooding.
+* Your [setbacks](/residential-toolkit/glossary/setback): making sure you don’t build in your setbacks will prevent future complications with the placement of your shed.
+* Your [easements](/residential-toolkit/glossary/easement): being aware of any easements on your property will prevent any potential issues in the future with your deck.
+* Your [impervious cover](/residential-toolkit/glossary/impervious-cover): to help prevent flooding.
 
 ### What if I can’t find my survey?
 

@@ -36,7 +36,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 * Your easements: being aware of any easements on your property will also help avoid complications with the location of your deck.
 * Your impervious cover: impervious cover is regulated to help prevent flooding.
 
-> ###### [What is a property survey?](/resources/glossary/property-survey)
+> ###### [What is a property survey?](/residential-toolkit/glossary/property-survey)
 >
 > {% include glossary-definition.html term="property survey" %}
 

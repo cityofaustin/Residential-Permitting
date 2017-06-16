@@ -17,7 +17,7 @@ For your interior remodel and new addition have answers for the following questi
 
 * Are you moving any interior walls?
 * Are you adding or removing any square footage to or from your home?
-* Do you have any [trees larger than 19 inches in diameter](/resources/building-near-a-tree/)?
+* Do you have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
 * Are you demolishing any walls?
 * Are you changing or adding electrical wiring, plumbing, or heating and cooling system?
 * Is your home more than 40 years old?&nbsp;
