@@ -6,7 +6,7 @@ project: shed
 plan_type: plot-plan
 file_path: /assets/img/diagrams/shed/shed-plot-plan.png
 ---
-###### Caption Title
+###### Sample Plot Plan
 * Make sure all markings are dark and clearly legible
 * Clearly note and draw to scale
 * Make note of true north
