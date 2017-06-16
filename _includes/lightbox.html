@@ -3,8 +3,8 @@
 {% if plan != nil %}
 <div class="lightbox-gallery breakout-col-sm-8 row" itemscope itemtype="http://schema.org/ImageGallery">
   <figure class="lightbox" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a class="col-sm-7 col-xs-12 " href="{{ plan.file_path }}" itemprop="contentUrl" data-size="{{ plan.file_path | dimensions }}">
-          <img src="{{ plan.file_path }}" itemprop="thumbnail" alt="{{ plan.title }}" />
+      <a class="col-sm-7 col-xs-12 " href="{{ site.url }}{{ plan.file_path }}" itemprop="contentUrl" data-size="{{ site.url }}{{ plan.file_path | dimensions }}">
+          <img src="{{ site.url }}{{ plan.file_path }}" itemprop="thumbnail" alt="{{ plan.title }}" />
       </a>
       <figcaption class="col-xs-12 col-sm-5" itemprop="caption description">
         {{ plan.content | markdownify }}
@@ -12,13 +12,13 @@
   </figure>
 </div>
 
-{% unless lightbox_flag == true %}
-  <script>
-    $(document).ready(function(){
-      initPhotoSwipeFromDOM('.lightbox-gallery');
-    });
-  </script>
-  {% assign lightbox_flag = true %}
+  {% unless lightbox_flag == true %}
+    <script>
+      $(document).ready(function(){
+        initPhotoSwipeFromDOM('.lightbox-gallery');
+      });
+    </script>
+    {% assign lightbox_flag = true %}
   {% endunless %}
 
 {% endif %}

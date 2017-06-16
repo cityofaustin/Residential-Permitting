@@ -42,6 +42,44 @@
   }
 }
 
+.plan-tile {
+  margin: 1rem auto 1.5rem;
+  .tile-outline {
+    height: 100%;
+    margin: 0 .5rem;
+    position: relative;
+    display: block;
+    border: $border-style-lighter-gray;
+    transition: border-color .5s;
+    text-decoration: none;
+    &:hover {
+      border-color:$color-barton-lighter;
+    }
+    .tile-text {
+      padding: 2.5rem;
+      background: $color-gray-lightest;
+    }
+    h4 {
+      margin:0 0 .75rem;
+    }
+    p {
+      font-size: rem(15px);
+      line-height: rem(21px);
+      font-family: $font-sans;
+      margin: 0;
+    }
+
+    .block-illustration {
+      width: 100%;
+      height: auto;
+      padding: 1rem;
+    }
+  }
+  .lightbox-caption {
+    display: none;
+  }
+}
+
 .resource-tile {
   margin-top: 1rem;
   margin-bottom: 1rem;

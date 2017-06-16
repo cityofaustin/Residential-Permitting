@@ -39,7 +39,7 @@ layout: default
             <div class="tile-outline row">
               <div data-number="{{ forloop.index0 }}" class="step-number"></div>
               <div class="project-step-content">
-                <h3><a href="/projects/{{ page.project_name | slugify }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
+                <h3><a href="{{ site.url }}/projects/{{ page.project_name | slugify }}/{{ project.step_name | slugify }}">{{ project.step_name }}</a></h3>
                 <p>{{ project.step_description }}</p>
               </div>
             </div>
@@ -72,10 +72,10 @@ layout: default
 	<div class="row start-xs">
 		<aside class="button-container center-xs start-sm col-xs-12 col-sm-offset-1 col-sm-10 row">
       <div class="start-xs col-xs-6">
-			  {% if prevurl %}<a class="usa-button usa-button-outline" href="{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }} {{ prevtitle }}</a>{% endif %}<br />
+			  {% if prevurl %}<a class="usa-button usa-button-outline" href="{{ site.url }}{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }} {{ prevtitle }}</a>{% endif %}<br />
       </div>
       <div class="end-xs col-xs-6">
-        {% if nexturl %}<a class="usa-button" href="{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ nexttitle }}</a>{% endif %}
+        {% if nexturl %}<a class="usa-button" href="{{ site.url }}{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ nexttitle }}</a>{% endif %}
       </div>
 		</aside>
 	</div>
