@@ -1,7 +1,7 @@
 ---
-title: Schedule Inspections for an Interior Remodeling Permit in Austin
+title: Schedule inspections for a Shed Permit in Austin
 step_number: 5
-project_name: interior remodel
+project_name: shed
 tabs:
   - tab_title: Online
     tab_content_markdown: >
