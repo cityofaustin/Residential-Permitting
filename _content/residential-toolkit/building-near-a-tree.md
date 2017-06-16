@@ -1,6 +1,8 @@
 ---
 title: Building near a tree
 in_menu: true
+lead: This is a lead
+
 ---
 
 

@@ -20,6 +20,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
+    jekyll-last-modified-at (1.0.1)
+      jekyll (~> 3.3)
+      posix-spawn (~> 0.3.9)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -33,6 +36,7 @@ GEM
     minima (2.0.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.13)
     public_suffix (2.0.3)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
@@ -48,6 +52,7 @@ DEPENDENCIES
   fastimage
   jekyll (= 3.3.0)
   jekyll-feed (~> 0.6)
+  jekyll-last-modified-at
   minima (~> 2.0)
 
 RUBY VERSION

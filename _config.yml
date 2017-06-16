@@ -79,7 +79,7 @@ defaults:
     _comments:
       project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
       step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
-      table_of_contents: The sub-steps of each major step, which show up on overview. 
+      table_of_contents: The sub-steps of each major step, which show up on overview.
 # for resource pages
 - scope:
     path: '_content/resources'
@@ -134,6 +134,7 @@ favicon_path: "/assets/favicons/"
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-last-modified-at
 
 # We specify the directory for Jekyll so we can use @imports.
 sass:
