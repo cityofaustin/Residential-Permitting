@@ -67,7 +67,9 @@ defaults:
     type: 'content'
   values:
     layout: 'page'
-    in_menu: false
+    in_resources_menu: false
+    in_toolkit_menu: false
+    menu_sort_order: 10
     _comments:
 
 # for project pages
@@ -76,6 +78,8 @@ defaults:
     type: 'projects'
   values:
     layout: 'project'
+    in_projects_menu: false
+    menu_sort_order: 10
     _comments:
       project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
       step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
@@ -122,6 +126,7 @@ defaults:
 # for all pages
 _comments:
   title: Title for this page (shows up in SEO) (required)
+  menu_sort_order: Order this page shows up in any nav menus
 
 description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource

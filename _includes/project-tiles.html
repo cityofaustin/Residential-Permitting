@@ -1,4 +1,4 @@
-{% assign project_pages = site.projects | where: 'in_menu', true %}
+{% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
 {% for project in project_pages limit: limit %}
 <div class="project-tile col-xs-10 col-sm-6 col-md-4">
   <div class="tile-outline">

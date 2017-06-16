@@ -4,39 +4,35 @@
       <div class="footer-logo col-xs-12 col-sm-6 col-md-3">
         <img src="/assets/img/coa-austin-seal-white.png" alt="City of Austin Seal" />
       </div>
-      <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
-        <h4>
-          <a class="footer-link-list-title" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].projects }}</a>
-        </h4>
-        <ul>
-          {% assign project_pages = site.projects | where: 'in_menu', true %}
-          {% for project in project_pages limit: 6 %}
-            <li><a href="{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
 
       <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
-        <h4>
-          <a class="footer-link-list-title" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].resources }}</a>
-        </h4>
-        <ul>
-          {% assign resource_pages = site.content | where: 'in_menu', true %}
-            {% for page in resource_pages limit: 6 %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- TODO: Find a different way to group final list items in footer -->
-      <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
-        <h4>
-          <a class="footer-link-list-title" href="{{ site.data.footer.last_footer_list_title_link }}">{{ site.data.footer.last_footer_list_title }}</a>
-        </h4>
-        <ul>
-          {% for link in site.data.footer.last_footer_list_link_list %}
-          <li><a href="{{ link.page_link }}">{{ link.page_title }}</a></li>
-          {% endfor %}
-        </ul>
+        <h4><a class="footer-link-list-title" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].projects }}</a></h4>
+          <ul>
+            {% for project in project_pages limit: 3 %}
+              <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+            {% endfor %}
+            <li><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].projects }}</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
+          <h4><a class="footer-link-list-title" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].toolkit }}</a></h4>
+          <ul>
+            {% for page in toolkit_pages limit: 3 %}
+              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+            <li><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].toolkit }}</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
+          <h4><a class="footer-link-list-title" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].resources }}</a></h4>
+          <ul>
+            {% for page in resource_pages limit: 3 %}
+              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+            <li><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].resources }}</a></li>
+          </ul>
       </div>
     </div>
   </div>

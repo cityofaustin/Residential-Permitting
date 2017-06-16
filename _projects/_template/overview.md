@@ -2,7 +2,8 @@
 title: Project Permit Overview
 excerpt: ''
 project_name: project
-in_menu: false
+in_projects_menu: false
+menu_sort_order: 10
 step_number: 0
 overview_of_steps_description: "some introductory text here"
 permalink: "/projects/project-folder/"

@@ -1,3 +1,8 @@
+{% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+{% assign toolkit_pages = site.content | where: 'in_toolkit_menu', true | sort: "menu_sort_order"%}
+{% assign resource_pages = site.content | where: 'in_resources_menu', true | sort: "menu_sort_order" %}
+
+
 <header class="site-header">
   <div class="container-fluid">
     <div class="row">
@@ -7,24 +12,32 @@
       <div class="col-xs-12 col-md-8">
         <nav>
           <ul>
-            <li><a href="/">{{ site.data.labels.locales[site.locale].home }}</a></li>
+            <li><a href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% assign project_pages = site.projects | where: 'in_menu', true %}
-                {% for project in project_pages limit: 6 %}
-                  <li><a href="{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+                {% for project in project_pages limit: 3 %}
+                  <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
+                <li><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].projects }}</a></li>
+              </ul>
+            </li>
+            <li><span>{{ site.data.labels.locales[site.locale].toolkit }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul>
+                  {% for page in toolkit_pages limit: 3 %}
+                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                {% endfor %}
+                <li><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].toolkit }}</a></li>
               </ul>
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].resources }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% assign resource_pages = site.content | where: 'in_menu', true %}
-                  {% for page in resource_pages limit: 6 %}
-                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                {% for page in resource_pages limit: 3 %}
+                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
+                <li><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }}{{ site.data.labels.locales[site.locale].resources }}</a></li>
               </ul>
             </li>
-            <li><a href="/contact">{{ site.data.labels.locales[site.locale].contact }}</a></li>
+          </ul>
         </nav>
       </div>
     </div>

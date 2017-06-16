@@ -1,7 +1,8 @@
 ---
 title: Building near a tree
-in_menu: true
+in_toolkit_menu: true
 lead: This is a lead
+menu_sort_order: 3
 
 ---
 

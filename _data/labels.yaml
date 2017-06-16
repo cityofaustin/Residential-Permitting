@@ -7,10 +7,11 @@ locales:
   en: &DEFAULT_EN
     intro: "An official website of the City of Austin."
     projects: "Projects"
-    resources: "Residential Toolkit"
+    resources: "Resources"
+    toolkit: "Residential Toolkit"
     home: "Home"
-    contact: "Contact"
     permit_check: "Permit Check"
+    view_all_prefix: "View all "
     project_steps:
       - step_name: "Overview"
         step_slug: "overview"
@@ -57,7 +58,6 @@ locales:
     projects: "Proyectos"
     resources: "Recursos"
     home: "Inicio"
-    contact: "Contacto"
     permit_check: "Permiso de verificación"
     projects:
       - step_name: "Sinopsis"

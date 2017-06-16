@@ -1,6 +1,7 @@
 ---
 title: Check my permit status
-in_menu: true
+in_toolkit_menu: true
+menu_sort_order: 2
 ---
 
 
