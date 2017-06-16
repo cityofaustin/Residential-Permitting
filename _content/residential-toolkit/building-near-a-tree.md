@@ -29,23 +29,29 @@ To calculate a tree’s diameter, measure the circumference of the tree 4.5 feet
 
 ## Digging into critical root zones
 
-The critical root zone for a tree depends on the size of the tree itself. Larger, more established trees will have larger critical root zones that you will need to consider when building around trees. Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
+The critical root zone for a tree depends on the size of the tree itself. Larger, more established trees will have larger critical root zones that you will need to consider when building around trees.
+
+Even if your completed project will not be within 10 feet of the tree, construction equipment may be brought in that could affect the health of the tree. For example, a large truck like a cement truck could damage the root system by driving over the roots that are just 4 inches under the ground.
 
 To understand where you can and cannot build around trees, imagine that there are three impact zones of development to think about before you start your project. For this example, we’re using a tree with a 20 inch diameter.
 
+> ##### How do I calculate the critical root zone?
+>
+> The critical root zone in feet is equal to the diameter of the tree in inches. For example, a tree with a diameter of 20 inches has a critical root zone of 20 feet.
+
 ![](/assets/img/diagrams/critical-root-zone.svg)
 
-### 1. ¼ Critical Root Zone&nbsp;
+### The Critical Root Zone
+
+In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (between 10 to 20 feet from the base of the tree or the green zone in this example).&nbsp;
+
+#### ¼ Critical Root Zone&nbsp;
 
 The ¼ critical root zone or the red zone in this example extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You cannot dig in this zone, because it will damage the trees roots.
 
-### 2. ½ Critical Root Zone:
+#### ½ Critical Root Zone
 
 The ½ critical root zone or the yellow zone in this example lies between 5 feet from the base of the tree and 10 feet from the base of the tree. You cannot dig in deeper than 4 inches into the soil in this zone.&nbsp;
-
-### 3. The Full Critical Root Zone
-
-The full zone begins 20 feet from the base of the tree. &nbsp;You are free to dig into the ground here, because the critical root zone has been preserved if you have taken care not to dig or damage the roots within 10 feet of the tree.
 
 ---
 
