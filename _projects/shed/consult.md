@@ -6,7 +6,6 @@ table_of_contents:
   - Find out what you will need to prepare before your consultation.
   - Determine what documents and sketches you will need to collect before your consultation.
   - Learn how to schedule a free in-person consultation.
-
 ---
 
 
@@ -35,6 +34,10 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 * Your [setbacks](/residential-toolkit/glossary/setback): making sure you don’t build in your setbacks will prevent future complications with the placement of your shed.
 * Your [easements](/residential-toolkit/glossary/easement): being aware of any easements on your property will prevent any potential issues in the future with your deck.
 * Your [impervious cover](/residential-toolkit/glossary/impervious-cover): to help prevent flooding.
+
+> ##### What is a property survey?
+>
+> {% include glossary-definition.html term="property survey" %}
 
 ### What if I can’t find my survey?
 
