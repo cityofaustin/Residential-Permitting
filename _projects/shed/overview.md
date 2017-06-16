@@ -20,4 +20,4 @@ _comments:
   prefooter_link_text: button text for bottom of overview
   prefooter_link_path: url to file or page where the button should link
 ---
-The cost for permitting a shed...
+The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This includes the plan review, the permit itself, your inspections, and fees.
