@@ -45,7 +45,7 @@ To understand where you can and cannot build around trees, imagine that there ar
 
 ### The Critical Root Zone
 
-In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (between 10 to 20 feet from the base of the tree or the green zone in this example).&nbsp;
+In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (between 10 to 20 feet from the base of the tree or the green zone in this example).
 
 #### ¼ Critical Root Zone&nbsp;
 
@@ -53,7 +53,7 @@ The ¼ critical root zone or the red zone in this example extends 5 feet (¼ of 
 
 #### ½ Critical Root Zone
 
-The ½ critical root zone or the yellow zone in this example lies between 5 feet from the base of the tree and 10 feet from the base of the tree. You cannot dig in deeper than 4 inches into the soil in this zone.&nbsp;
+The ½ critical root zone or the yellow zone in this example lies between 5 feet from the base of the tree and 10 feet from the base of the tree. You cannot dig in deeper than 4 inches into the soil in this zone.
 
 ---
 
