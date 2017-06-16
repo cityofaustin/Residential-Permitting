@@ -6,7 +6,7 @@ project: shed
 plan_type: floor-plan
 file_path: /assets/img/diagrams/shed/shed-floor-plan.png
 ---
-#### Caption Title
+#### Sample Floor Plan
 * Make sure all markings are dark and clearly legible
 * Clearly note and draw to scale
 * Draw straight lines
