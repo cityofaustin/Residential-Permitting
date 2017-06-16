@@ -26,40 +26,40 @@ Make sure can answer the following questions regarding your interior remodel and
 
 ## 2. Bring your property survey if possible
 
-You don't need to bring your property survey, also called a cadastral survey, to your consultation. Bringing it will help the reviewer the best sense of whether or not you can move forward as planned. It gives them insight into such details as:
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-* Your setbacks: making sure you don’t build in your setbacks will avoid complications with the location of your project.
-* Your easements: being aware of any easements on your property will prevent any potential issues in the future with your project.
-* Your impervious cover: to help prevent flooding.
+* Setbacks: make sure you don’t build in your setbacks to avoid complications with where you put your project.
+* Easements: be aware of any easements on your property to prevent any future issues with your project.
+* Impervious cover: helps prevent flooding.
 
 ### What if I can’t find my survey?
 
-If you purchased your home after 1980, you likely would have received your survey when you purchased your home. If you can’t find it, or you don’t remember receiving it, check with your:
+If you purchased your home after 1980, you probably received your survey when you purchased it. If you can’t find it, or you don’t remember receiving it, check with your:
 
 * Local property records or engineering department,
 * Local tax assessor or local tax collector,
 * Title or lending company from original purchase,
-* Or, try asking your neighbors where they got theirs.
+* Or ask your neighbors where they got theirs.
 
 ---
 
 ## 3. Draw a few simple sketches of your property or home interior
 
-A sketch will give the reviewer a clearer picture of your project and help determine whether or not you can move forward as planned. You’ll want to bring three simple sketches of the floor plan, plot plan, or both to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can tell:
+Sketches give the reviewer a clearer picture of your project and help them determine if you can continue with your project as planned. Please bring three simple sketches of the floor plan, plot plan, or both to your consultation. These sketches don’t have to perfect drawings, but they should give enough information so the reviewer can see:
 
 * The current floor plan
 * The proposed floor plan (including new windows or doors),
 * The existing walls of your home,
 * The proposed new walls,
-* And, any walls you will be tearing down.
+* And any walls you will tear down.
 
 Use a separate page for each sketch:
 
-* What your interior currently looks like, including any windows and doors in the room
-* And what your remodel project will look like, once completed.
-  * Make sure your note any walls that will be partially or completely torn down, as well as any smoke and carbon monoxide detectors.
+* Sketch 1: What your interior currently looks like, including any windows and doors in the room.
+* Sketch 2: What your remodel project will look like once it's completed.
+  * Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down.
 
-It’s especially important that you make note of any load-bearing walls or beams.
+It’s especially important that you label any load-bearing walls or beams.
 
 See examples of project sketches:
 
@@ -69,15 +69,15 @@ See examples of project sketches:
 
 ## How to get a Free In-Person Consultation
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. You can have up to 3 free 20-minute in-person consultations.
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. You can have up to 3 free 20 minute in-person consultations.
 
-There are two ways to sign up for your free 20-minute in-person consultation:
+There are two ways to sign up for your free 20 minute in-person consultation:
 
 * Sign up in person at the QLess Kiosk at the Residential Plan Review.
 * Join the line from the comfort of your own home by visiting the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-If you choose to sign up remotely, on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or get help with any questions you may have.
+If you choose to sign up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), fill out your name and phone number, click on Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or to get help with any questions you may have.
 
-Remember to leave ample time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
+Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend joining the line on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
