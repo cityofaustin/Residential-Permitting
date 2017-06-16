@@ -2,6 +2,16 @@
 title: 'Define your Deck Project in Austin, Texas'
 step_number: 1
 project_name: deck
+tabs:
+  - tab_title: Setbacks
+    tab_content_markdown: >
+      Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback).
+  - tab_title: Easements
+    tab_content_markdown: >
+      The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements).
+  - tab_title: Impervious Cover
+    tab_content_markdown: >
+        Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -21,27 +31,9 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 ### Setbacks
 
-Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot.&nbsp;
+Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot.
 
-> ###### [What is a setback?](/residential-toolkit/glossary/setback)
->
-> {% include glossary-definition.html term="setback" %}
-
-### Easements
-
-The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement.
-
-> ###### [What is an easement?](/residential-toolkit/glossary/easement)
->
-> {% include glossary-definition.html term="easement" %}
-
-### Impervious Cover
-
-Impervious cover restrictions are put in place to prevent flooding during and after heavy rains.
-
-> ###### [What is impervious cover?](/residential-toolkit/glossary/impervious-cover)
->
-> {% include glossary-definition.html term="impervious cover" %}
+{% include tabs.html %}
 
 #### Uncovered Decks
 
