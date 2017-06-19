@@ -45,7 +45,7 @@ You likely received your survey when you purchased your home, if you purchased y
 
 * Home lender or title company from your original purchase,
 * Neighbors to find out where they got theirs,
-* Or, you can get a new survey. Find a surveyor through the [Texas Board of Professional Land Surveying](txls.texas.gov).
+* Or, you can get a new survey. Find a surveyor through the [Texas Board of Professional Land Surveying](http;//txls.texas.gov).
 
 ## 3. Draw a few simple sketches of your shed and property
 
