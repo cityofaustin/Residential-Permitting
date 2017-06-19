@@ -22,8 +22,6 @@ Note that if you hired a professional such as a general contractor and they subm
 
 ---
 
-## &nbsp;
-
 ## Call your reviewer
 
 The third way to check your permit’s status is to call the reviewer who initially reviewed your permit application, or met with you during the free 20-minute in-person consultation.
