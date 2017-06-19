@@ -6,7 +6,7 @@ menu_sort_order: 3
 ---
 
 
-The City of Austin is dedicated to preserving the natural resources that make Austin the beautiful city it is. The city protects large trees and their roots. When starting a new project, you must be conscious of any trees that may be affected by your work.&nbsp;
+The City of Austin preserves the natural resources that make Austin beautiful. To keep Austin gorgeous, the city protects large trees and their roots. Be conscious of any trees that could get damaged when you start working on a new project.
 
 ---
 
