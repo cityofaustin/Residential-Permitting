@@ -23,7 +23,7 @@ And requires you to:
 
 To calculate a tree’s diameter, measure the circumference of the tree from 4.5 feet above the ground (diameter at breast height or DBH), and divide by Pi (3.14). Trees smaller than 19 inches in diameter are not protected.
 
-> ##### What is a critical root zone?
+> ###### What is a critical root zone?
 >
 > {% include glossary-definition.html term="critical-root-zone" %}
 
@@ -37,7 +37,7 @@ Even if your completed project will not be within 10 feet of a tree, bringing in
 
 To understand where you can and cannot build around trees, imagine that there are three impact zones of development around base of the tree. We’re using a tree with a 20 inch diameter in the example below.
 
-> ##### How do I calculate the critical root zone?
+> ###### How do I calculate the critical root zone?
 >
 > The critical root zone in feet is equal to the diameter of the tree in inches. For example, a tree with a diameter of 20 inches has a critical root zone of 20 feet.
 
@@ -76,6 +76,6 @@ If the heritage tree is dead or it is a hazard to life or property, then you may
 
 If you have a heritage tree in your yard, you will need to contact the [city arborists](/contact/#community-trees) about your project.&nbsp;
 
-> ##### What if my tree is a heritage species but not 24 inches in diameter?
+> ###### What if my tree is a heritage species but not 24 inches in diameter?
 >
 > Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations only.
