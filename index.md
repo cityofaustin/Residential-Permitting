@@ -9,7 +9,7 @@ header_excerpt: The City of Austin helps guide residential development to promot
 header_photo_credit_name: Karl Metzelear •
 header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_title: Process Overview
-process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are five key steps to getting a permit. For more information, check out our general process page.'
+process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are five key steps to getting a permit. For more information, [check out our general process page](/projects/general-process/).'
 projects_title: Featured Projects
 projects_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
 projects_button_text: View all projects
