@@ -59,11 +59,11 @@ You can apply for the permit without the help of a licensed professional if you 
 
 ## Common types of permits
 
-### Building Permits
+### Building permits
 
 Building permits are issued when you plan to construct, enlarge, demolish, improve, move, or repair a structure within the City’s zoning area. Many major home improvement projects require a building permit unless the changes are cosmetic and will not affect the original construction of your home.
 
-### Trade Permits
+### Trade permits
 
 Trade permits are required if your project will involve any changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed because the work is specialized.
 
@@ -86,7 +86,7 @@ The city protects certain trees in order to maintain Austin’s natural beauty. 
 
 [Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/resources/building-near-a-tree/).
 
-### Demolition Permits
+### Demolition permits
 
 Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or if you add any windows or doors. If you need a apply for a demolition permit, you will need:
 
@@ -94,7 +94,7 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 * To have it signed by the owner and notarized.
 * Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 
-### Express Permits
+### Express permits
 
 Small changes, like converting a bathtub to shower or vice-versa, that don’t require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permit).
 
