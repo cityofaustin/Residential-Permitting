@@ -25,10 +25,7 @@ Your site plan or plot plan must be drawn to scale either by hand or on a comput
 
 The floor plan of your proposed project must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages for clarity. If the reviewers can’t understand your drawings, your project will be rejected.
 
-Use a separate page for:
-* Existing walls and features to be demolished,
-* Existing walls and features that will remain,
-*  And your proposed floor plan. 
+Use a separate page for: \* Existing walls and features to be demolished, \* Existing walls and features that will remain, \* And your proposed floor plan.
 
 See Examples
 
@@ -64,8 +61,10 @@ If you already know what plans you need, you can receive guidance on creating th
 
 ## How Do I Submit My Application?
 
-Intake occurs at Residential Plan Review at the One Texas Center. You may: Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division. Or save time by joining the line remotely on the QLess website. After filling out your name and number on the website, select Residential. Then select submissions. You will be sent a text with your estimated service time. Follow the text prompts to receive status updates, leave the line, or get help.
+Intake occurs at [Residential Plan Review](/contact/) at the One Texas Center. You may: Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division. Or save time by joining the line remotely on the QLess website. After filling out your name and number on the website, select Residential. Then select submissions. You will be sent a text with your estimated service time. Follow the text prompts to receive status updates, leave the line, or get help.
 
 ---
 
-## What Happens at Intake? You will meet with a staff member who will do a completeness check using this completeness checklist. Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person. Once you apply, you will be put into the Review process. Reviewers have 15 business days from the day your application goes into the system to send you required changes in the form of comments.
+## What Happens at Intake?
+
+You will meet with a staff member who will do a completeness check using this completeness checklist. Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person. Once you apply, you will be put into the Review process. Reviewers have 15 business days from the day your application goes into the system to send you required changes in the form of comments.
