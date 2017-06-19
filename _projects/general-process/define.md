@@ -72,6 +72,10 @@ Your contractor is responsible for getting the required permits if you are insta
 
 The city protects certain trees in order to maintain Austin’s natural beauty. If you are working on the inside of your home, a tree review is necessary to make sure that any equipment brought in does not damage the critical root zone of any protected trees on your property.
 
+> ###### What is a critical root zone?
+>
+> {% include glossary-definition.html term="critical-root-zone" %}
+
 [Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/resources/building-near-a-tree/).
 
 Demolition Permits
