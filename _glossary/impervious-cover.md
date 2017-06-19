@@ -1,5 +1,5 @@
 ---
-title: Impervious cover
+title: Impervious Cover
 term: impervious cover
 short_definition: 'Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground.'
 long_definition_markdown: >-
