@@ -43,9 +43,11 @@ Your property survey, also known as a cadastral survey, isn’t required at cons
 
 You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
 
-* Home lender or title company from your original purchase,
+* Home lender or the title company from your original purchase,
 * Neighbors to find out where they got theirs,
-* Or, you can get a new survey. Find a surveyor through the [Texas Board of Professional Land Surveying](http;//txls.texas.gov).
+* Or, you can get a new survey from a surveyor.
+
+You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov).
 
 ## 3. Draw a few simple sketches of your shed and property
 
