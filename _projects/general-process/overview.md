@@ -5,7 +5,7 @@ project_name: general process
 in_projects_menu: false
 menu_sort_order: 10
 step_number: 0
-overview_of_steps_description: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our Common Projects section.'
+overview_of_steps_description: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our [Common Projects section](/projects).'
 permalink: /projects/general-process/
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
