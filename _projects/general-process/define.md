@@ -90,12 +90,10 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 
 Add interior remodel content here
 
-You may need a consultation to determine your project requirements
+## You may need a consultation to determine your project requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with one of our reviewers before applying for their permit. During this consultation, the reviewer will be able to:
 
-Give you the personalized property information you need to fill out your application. Depending on the information you learn during your consultation, you may not be able to complete your project as you originally planned.
-
-Give you a list of documents you need to prepare for your application based on your specific project.
-
-Explain the next steps to apply for a permit.
+* Give you the personalized property information you need to fill out your application. Depending on the information you learn during your consultation, you may not be able to complete your project as you originally planned.
+* Give you a list of documents you need to prepare for your application based on your specific project.
+* Explain the next steps to apply for a permit.
