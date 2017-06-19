@@ -96,7 +96,7 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 
 ### Express Permits
 
-Add interior remodel content here.
+Small changes, like converting a bathtub to shower or vice-versa, that don’t require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permit).
 
 ---
 
