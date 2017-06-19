@@ -82,13 +82,11 @@ The city protects certain trees in order to maintain Austin’s natural beauty. 
 
 Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or if you add any windows or doors. If you need a apply for a demolition permit, you will need:
 
-A survey or plot plan (you can use the same one used for your interior remodel or new addition application).
+* A survey or plot plan (you can use the same one used for your interior remodel or new addition application).
+* To have it signed by the owner and notarized.
+* Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 
-To have it signed by the owner and notarized.
-
-Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
-
-Express Permits
+### Express Permits
 
 Add interior remodel content here
 
