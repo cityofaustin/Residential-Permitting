@@ -78,7 +78,7 @@ The city protects certain trees in order to maintain Austin’s natural beauty. 
 
 [Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/resources/building-near-a-tree/).
 
-Demolition Permits
+### Demolition Permits
 
 Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or if you add any windows or doors. If you need a apply for a demolition permit, you will need:
 
