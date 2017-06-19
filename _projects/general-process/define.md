@@ -7,6 +7,8 @@ project_name: general process
 
 Before applying for a permit(s), it’s important to define your project, figure out if you need any permits, and organize the information you need for your consultation and application.
 
+---
+
 ## Introduction to permitting
 
 Whether you change the layout of your home or add a new addition, most home-improvement projects require a permit from the city. Permits are needed to make sure any changes or additions are structurally sound, safe, and follow zoning regulations.
@@ -21,6 +23,8 @@ There are certain home improvement projects that can be completed without a perm
 
 You will probably need a permit if your project requires more work that what’s on this list.
 
+---
+
 ## Can I get a permit?
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure your project doesn’t have any future code issues. Zoning regulations usually apply to exterior projects and exist for the safety of you and your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
@@ -32,6 +36,8 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 * Impervious Cover,
 * Floodplains,
 * And historic reviews for homes over 40 years old.
+
+---
 
 ## Who can apply for a permit?
 
@@ -48,6 +54,8 @@ Contractors are required to get permits for their work and are responsible for g
 [Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 You can apply for the permit without the help of a licensed professional if you are starting a smaller project such as building a fence or making other small changes.
+
+---
 
 ## Common types of permits
 
@@ -88,7 +96,9 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 
 ### Express Permits
 
-Add interior remodel content here
+Add interior remodel content here.
+
+---
 
 ## You may need a consultation to determine your project requirements
 
