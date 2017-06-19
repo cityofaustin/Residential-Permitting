@@ -1,7 +1,7 @@
 ---
 title: Fence
 term: fence
-short_definition: 'A fence is a railing, barrier, or standing structure with supporting posts that creates a boundary on the property.'
+short_definition: 'A fence is a standing structure with supporting posts, like a railing or barrier, that creates a boundary on the property.'
 long_definition_markdown: >-
   The City of Austin defines a fence in two ways:
 
