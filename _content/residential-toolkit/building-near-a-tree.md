@@ -45,21 +45,21 @@ To understand where you can and can't build around trees, imagine that there are
 
 ### The Critical Root Zone
 
-In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (between 10 to 20 feet from the base of the tree or the green zone in this example).
+In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (in this example: between 10 to 20 feet from the base of the tree or the green zone).
 
 #### ¼ Critical Root Zone&nbsp;
 
-The ¼ critical root zone or the red zone in this example extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You cannot dig in this zone, because it will damage the trees roots.
+The ¼ critical root zone (in this example: the red zone) extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You will damage the tree's roots if you dig in this zone.&nbsp;
 
 #### ½ Critical Root Zone
 
-The ½ critical root zone or the yellow zone in this example lies between 5 feet from the base of the tree and 10 feet from the base of the tree. You cannot dig in deeper than 4 inches into the soil in this zone.
+The ½ critical root zone (in this example: the yellow zone) lies between 5 and 10 feet from the base of the tree. You can only dig 4 inches into the soil in this zone.&nbsp;
 
 ---
 
 ## Heritage trees
 
-Heritage trees are highly protected by the city of Austin in order to preserve the natural beauty of the city. If your tree is 24 inches or more in diameter and one of the following species, then navigating the critical root zone may be difficult due to its size and you may not be able to remove it:
+You may not be able to remove heritage trees because they are highly protected by the City of Austin in order to preserve their natural beauty. Navigating the critical root zone of heritage trees may be difficult if the trees are 24 inches or more in diameter and one of the species on the list below.&nbsp;
 
 * All Oaks
 * Arizona Walnut
@@ -72,10 +72,10 @@ Heritage trees are highly protected by the city of Austin in order to preserve t
 * Texas Ash
 * Texas Madrone
 
-If the heritage tree is dead or it is a hazard to life or property, then you may be able to apply for a variance to have the heritage tree removed.
+You may be able to apply for a variance to have the heritage tree removed if the heritage tree is dead or is a hazard to life or property.
 
-If you have a heritage tree in your yard, you will need to contact the [city arborists](/contact/#community-trees) about your project.&nbsp;
+Contact the [city arborists](/contact/#community-trees) about your project if you have a heritage tree in your yard.
 
 > ###### What if my tree is a heritage species but not 24 inches in diameter?
 >
-> Then it is not a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations only.
+> Then it's not big or old enough to be a heritage tree. If your tree is a heritage species and is between 19 and 24 inches in diameter, then it would fall under protected tree size regulations only.
