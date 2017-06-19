@@ -25,9 +25,10 @@ Your site plan or plot plan must be drawn to scale either by hand or on a comput
 
 The floor plan of your proposed project must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages for clarity. If the reviewers can’t understand your drawings, your project will be rejected.
 
-Use a separate page for: 
-* Existing walls and features to be demolished, 
-* Existing walls and features that will remain, 
+Use a separate page for:
+
+* Existing walls and features to be demolished,&nbsp;
+* Existing walls and features that will remain,&nbsp;
 * And your proposed floor plan.
 
 See Examples
@@ -52,9 +53,9 @@ Your foundation plan must be drawn by a structural engineer.
 * Homeowners authorization letter: There is a space for the homeowner’s signature on the application in lieu of letter.
 * S.M.A.R.T. Housing Project Information: If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
 * Demolition Application: This is only necessary if you will change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you need a demolition application, you will also need:
-* A survey or plot plan (you can use the same one you used for your interior remodel or new addition application).
-* To have it signed by the owner and notarized.
-* Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
+  * A survey or plot plan (you can use the same one you used for your interior remodel or new addition application).
+  * To have it signed by the owner and notarized.
+  * Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 * Building Service Permit Application (BSPA): Required for building permits, not standalone trade or tree permits.
 * There are other forms or plans you may need, depending on the project specific needs. Those forms and plans can be determined at the consultation.
 
@@ -64,11 +65,9 @@ If you already know what plans you need, you can receive guidance on creating th
 
 ## How Do I Submit My Application?
 
-Intake occurs at [Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center. 
+Intake occurs at [Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center.
 
-You may: 
-* Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division.
-* Or save time by joining the line remotely on the QLess website. After filling out your name and number on the website, select Residential. Then select submissions. You will be sent a text with your estimated service time. Follow the text prompts to receive status updates, leave the line, or get help.
+You may: \* Sign up for intake in person at the QLess Kiosk at the Residential Plan Review Division. \* Or save time by joining the line remotely on the QLess website. After filling out your name and number on the website, select Residential. Then select submissions. You will be sent a text with your estimated service time. Follow the text prompts to receive status updates, leave the line, or get help.
 
 ---
 
