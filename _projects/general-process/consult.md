@@ -54,7 +54,7 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 There are two ways to sign up for a free 20 minute, in-person consultation.
 
-* Sign up in person at the QLess Kiosk at the Residential Plan Review
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the QLess website.
 
 If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, leave the line, or get help with any questions you may have.
