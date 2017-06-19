@@ -9,7 +9,7 @@ Keep in mind that your application is a packet made up of the paper application 
 
 ---
 
-## What Documents Will I Need?
+## What documents will I need?
 
 ### 1. Application
 
@@ -45,7 +45,7 @@ Structural drawings refer to any bracing, framing or structural verification rep
 
 Your foundation plan must be drawn by a structural engineer.
 
-### Other Commonly Requested Documents
+### Other commonly requested documents
 
 * Owner’s Authorization Form: This form is required if one of your hired professionals, such as an engineer or an architect, is submitting your application. They will need your authorization to do so.
 * Certified Tax Certificate or Warranty Deed: You will have to pay ant taxes you owe before you are approved for a permit.
@@ -63,7 +63,7 @@ If you already know what plans you need, you can receive guidance on creating th
 
 ---
 
-## How Do I Submit My Application?
+## How do I submit my application?
 
 Intake occurs at [Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center.
 
@@ -74,6 +74,6 @@ You may:
 
 ---
 
-## What Happens at Intake?
+## What happens at intake?
 
 You will meet with a staff member who will do a completeness check using this completeness checklist. Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person. Once you apply, you will be put into the Review process. Reviewers have 15 business days from the day your application goes into the system to send you required changes in the form of comments.
