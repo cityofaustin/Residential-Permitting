@@ -25,7 +25,12 @@ Your site plan or plot plan must be drawn to scale either by hand or on a comput
 
 The floor plan of your proposed project must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages for clarity. If the reviewers can’t understand your drawings, your project will be rejected.
 
-Use a separate page for: \* Existing walls and features to be demolished, \* Existing walls and features that will remain, \* And your proposed floor plan. See Examples
+Use a separate page for:
+* Existing walls and features to be demolished,
+* Existing walls and features that will remain,
+*  And your proposed floor plan. 
+
+See Examples
 
 ### 4. Elevation Plan
 
