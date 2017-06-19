@@ -1,5 +1,5 @@
 ---
-title: Schedule Inspections for an Interior Remodeling Permit in Austin
+title: Schedule Inspections for a Permit in Austin
 step_number: 5
 project_name: general process
 tabs:
