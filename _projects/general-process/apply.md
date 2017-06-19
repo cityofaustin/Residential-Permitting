@@ -11,14 +11,17 @@ Remember, you can meet with one of our reviewers for a free 20 minute, in-person
 ---
  
 ## What Documents Will I Need?
+
 ### 1. Application
 The project’s application or express permit (if one applies to your project) can be filled out by you or a hired professional.
+
 ### 2. Site Plan or Plot Plan 
 Even though they may be mentioned in relation to one another, a site plan and a plot plan are not the same thing. 
 A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 A site plan is a drawing that shows what structures will be added to your property, including any changes that will expand the square footage of your home.
 Your site plan or plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If applicable, include any power lines that run above your property.
 See samples of a plot plan and instructions for drawing a site plan.
+
 ### 3. Floor Plan
 The floor plan of your proposed project must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages for clarity. If the reviewers can’t understand your drawings, your project will be rejected.
 Use a separate page for:
@@ -26,11 +29,14 @@ Use a separate page for:
 * Existing walls and features that will remain,
 * And your proposed floor plan.
 See Examples
+
 ### 4. Elevation Plan
 The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan.
 See Examples
+
 ### 5. Structural Drawings
 Structural drawings refer to any bracing, framing or structural verification reports. You will need these drawings if you remove a load-bearing wall or change any structural components. These can only be completed by a licensed Texas engineer or architect.
+
 ### 6. Foundation Plan
 Your foundation plan must be drawn by a structural engineer.
 
