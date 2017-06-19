@@ -5,7 +5,7 @@ layout: home
 header_title: Austin Approved
 header_subtitle: A Residential Permitting Resource
 header_photo: /assets/img/photos/homepage-header.jpg
-header_excerpt: The City of Austin helps guide residential development to promote safe and sustainable growth.
+header_excerpt: The City of Austin guides residential development to promote safe and sustainable growth.
 header_photo_credit_name: Karl Metzelear •
 header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_title: Process Overview
