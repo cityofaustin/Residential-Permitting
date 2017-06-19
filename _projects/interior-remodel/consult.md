@@ -44,7 +44,7 @@ If you purchased your home after 1980, you probably received your survey when yo
 * Neighbors to find out where they got theirs,
 * Or, you can get a new survey from a surveyor.
 
-You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov).
+You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
 ---
 
