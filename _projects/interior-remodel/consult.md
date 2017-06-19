@@ -40,10 +40,11 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 If you purchased your home after 1980, you probably received your survey when you purchased it. If you can’t find it, or you don’t remember receiving it, check with your:
 
-* Local property records or engineering department,
-* Local tax assessor or local tax collector,
-* Title or lending company from original purchase,
-* Or ask your neighbors where they got theirs.
+* Home lender or the title company from your original purchase,
+* Neighbors to find out where they got theirs,
+* Or, you can get a new survey from a surveyor.
+
+You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov).
 
 ---
 
