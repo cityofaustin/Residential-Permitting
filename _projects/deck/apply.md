@@ -5,9 +5,9 @@ project_name: deck
 ---
 
 
-There are a few things to keep in mind as you're getting ready to apply for your permit. You will need to provide both the paper application and some additional documents. The documents you need to submit with your application will depend on the type of deck you want to build.
+There are a few things you'll need to provide when you apply for your permit. You will need both the paper application and some additional documents. The documents you need to submit with your application will depend on the type of deck you want to build.
 
-Anyone applying for a permit can meet with one of our reviewers for a free 20-minute in-person consultation. During the consultation, the reviewer will tell you which documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
+Anyone applying for a permit can meet with one of our reviewers for a free 20 minute in-person consultation. During the consultation, the reviewer will tell you which additional documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
 
 ---
 
@@ -20,23 +20,23 @@ Anyone applying for a permit can meet with one of our reviewers for a free 20-mi
 
 ### 2. Plot Plan
 
-The deck's plot plan must be drawn to scale by hand or on a computer. It can be prepared by you, your architect or engineer, a surveyor, or an expeditor. Use graph paper if you're drawing your plot plan by hand to make it easy to draw to scale. If applicable, include any power lines that run above your property.
+The deck's plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a hired professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include any power lines that run above your property.
 
 ### 3. Floor Plan
 
-The deck's floor plan for your must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you, your architect or engineer, or an expeditor. If possible, use graph paper to make it easier to draw to scale. Include details such as any support beams and handrails on the floor plan.
+The deck's floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a hired professional. If possible, use graph paper to make it easier to draw to scale. Include details such as any support beams and handrails on the floor plan.
 
 ### 4. Elevation Plan
 
-The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you, your architect or engineer, or an expeditor. Again, use graph paper if you’re hand drawing the elevation plan.
+The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan.
 
 ### 5. Foundation Plan
 
-Your foundation plan can only be drawn by a structural engineer.
+The foundation plan can only be drawn by a structural engineer.
 
 ### Other Commonly Requested Documents
 
-* Owner’s Authorization Form: An engineer, architect, or any other specialist will need your permission to submit your application. Use this form if they will submit your application for you.
+* Owner’s Authorization Form: An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 
 ---
 
