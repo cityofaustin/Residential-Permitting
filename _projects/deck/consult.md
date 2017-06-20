@@ -2,6 +2,8 @@
 title: Get a Consultation for a Deck Permit in Austin
 step_number: 2
 project_name: deck
+
+
 ---
 
 
@@ -60,19 +62,18 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Sketch the layout of your property and show any existing structures including your home, pool, shed, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-![](/uploads/versions/shed-sketchproperty-good---x----1971-2503x---.jpg)**Do:***&nbsp;This is a good sketch that is clearly labeled and shows dimensions, existing structures, and the location where you want your shed.*
+**Do:** *This is a good sketch that is clearly labeled and shows dimensions, existing structures, and the location where you want your shed.*
 
-![](/uploads/versions/shed-sketchproperty-bad---x----1278-1628x---.jpg)**Don't:***&nbsp;This sketch needs more detail—it isn't drawn to scale, doesn't include dimensions, and setbacks are not clearly indicated.*
+**Don't:** *This sketch needs more detail—it isn't drawn to scale, doesn't include dimensions, and setbacks are not clearly indicated.*
 
 ### b. What your deck will look like
 
 Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
 
-![](/uploads/versions/shed-sketch-good---x----1099-673x---.jpg)**Do:***&nbsp;This is a great sketch that includes dimensions and clearly labels windows, doors, and the landing.*
+**Do:** *This is a great sketch that includes dimensions and clearly labels windows, doors, and the landing.*
 
-![](/uploads/versions/shed-sketch-bad---x----735-456x---.jpg)
 
-**Don't:***&nbsp;This sketch needs to include labels and dimensions.*
+**Don't:** *This sketch needs to include labels and dimensions.*
 
 ---
 

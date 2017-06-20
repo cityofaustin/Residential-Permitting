@@ -4,9 +4,9 @@ layout: default
 
 {% capture all_projects %}{{ page.collection }}{% endcapture %}
 
-{% if page.collection %}
-  {% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
-{% endif %}
+{% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
+
+{% assign general = site.projects | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
 
 {% include project-header.html %}
 
@@ -69,7 +69,11 @@ layout: default
             {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
           </h2>
         </div>
-        {{ content }} <br>
+        {% if page.use_default_project_content or content.size <= 1 %}
+          {{ general.content }}
+        {% else %}
+          {{ content }} <br>
+        {% endif %}
   		</article>
   	</div>
   </div>
