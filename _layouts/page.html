@@ -8,7 +8,9 @@ layout: default
       {% unless page.lead %}
         <p class="lead">{{ page.lead }}</p>
       {% endunless %}
-      <h5 class="date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }}{{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
+      {% unless page.date == false %}
+        <h5 class="date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }}{{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
+      {% endunless %}
     </div>
   </div>
   <div class="row start-xs">
