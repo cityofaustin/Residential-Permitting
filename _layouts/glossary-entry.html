@@ -9,11 +9,8 @@ layout: default
     <article class="content start-xs col-xs-12 col-sm-10 col-md-8">
       {{ content }} <br>
 
-      {% if page.sources.size > 0 %}
-        <h5>{{ site.data.labels.locales[site.locale].glossary_source_title }}</h5>
-        {% for source in page.sources %}
-          <a href="{{ source.link }}" target="_blank">{{ source.name | rstrip }}</a>{% if forloop.length > 1 and forloop.last == false  %}, {% endif %}
-        {% endfor %}
+      {% if page.source_name.size > 0 %}
+        <h5>{{ site.data.labels.locales[site.locale].glossary_source_title }} <a href="{{ page.source_link }}" target="_blank">{{ page.source_name | rstrip }}</a></h5>
       {% endif %}
 
       {% if page.glossary.size > 0 %}
@@ -24,7 +21,7 @@ layout: default
         <div class="row center-xs">
           {% for term in page.glossary %}
           <div class="resource-tile col-xs-10 col-sm-6">
-      			<a href="{{ site.url }}/glossary/{{ term | slugify }}" class="tile-outline">
+      			<a href="{{ site.url }}/resources/glossary/{{ term | slugify }}" class="tile-outline">
               {{ term | deslugify | capitalize }}
             </a>
           </div>
