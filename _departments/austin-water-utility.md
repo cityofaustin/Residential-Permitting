@@ -15,7 +15,7 @@ hours:
       <br>Monday through Friday, 8am to 11:30am
 physical_address_markdown: |-
   Austin Water Main Building
-  <br>625 E. 10th St.,
+  <br>625 E. 10th St.
   <br>Austin, TX 78701
 _hide_content: true
 ---
