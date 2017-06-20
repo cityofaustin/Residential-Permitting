@@ -5,13 +5,25 @@ project_name: deck
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
-      Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback).
+      Regardless of how tall your deck is, you can't build it within 10 feet of
+      the rear border or within 5 feet of the side borders of your lot. [Learn
+      more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >
-      The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements).
+      The city will need to access any easements on your lot. You may be fined or
+      asked to demolish your deck if you choose to build it on an easement.
+      [Learn more about easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
     tab_content_markdown: >
-        Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover.[Learn more about impervious cover](/resources/glossary/impervious-cover).
+      Impervious cover restrictions are put in place to prevent flooding during
+      and after heavy rains. If your deck is uncovered, has spaces between the
+      planks, and is located over a permeable surface like grass, then only half
+      of the deck’s surface area will affect the total amount of impervious cover
+      on your property. If you are covering your deck or there won’t be spaces
+      between the planks, then 100% of the deck’s surface area will count towards
+      the amount of impervious cover on your property. A reviewer can help you
+      change your deck design if you max out your impervious cover.[Learn more
+      about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -44,7 +56,7 @@ Your deck requires a building permit if it will be or have any of the following:
 * Be more than 30 inches above ground,
 * Have plumbing,
 * Have electric,
-* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain. 
+* Or be built in a floodplain. To find out if you're in a floodplain, enter your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
@@ -52,7 +64,7 @@ Your deck requires a building permit if it will be or have any of the following:
 
 ### Electric Permits
 
-Having electricity on your deck requires an electric permit.
+Having electricity on your deck requires getting an electric permit.
 
 * If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/#service-contact) at One Texas Center.
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
@@ -60,11 +72,11 @@ Having electricity on your deck requires an electric permit.
 
 ### Tree Permits
 
-Measure the diameters of any trees in your yard. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf)take a measurement.
+Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf)&nbsp;help you take an accurate measurement.
 
-Any trees that measure 19 inches or more in diameter are protected tree and require getting a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you start construction. You will need to pay an additional fee.
+Any trees that measure 19 inches or more in diameter are protected and require getting a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
 
-You may not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.
+You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.
 
 Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
@@ -76,9 +88,9 @@ Getting a permit proves that changes on your property follow the City of Austin�
 
 ### How much do building permits cost?
 
-Building permits for decks starts at $584.48 and go up depending on the your specific needs. This amount includes the plan review, the actual permit, inspections, and any fees.
+Building permits for decks start at $584.48 and go up depending on the your specific needs. This cost includes the plan review, the actual permit, inspections, and any additional fees.
 
-There will be additional fees if your project requires a trade permit like an electrical or plumbing permit, or you are building near a tree. Your reviewer will explain any additional costs during your consultation.
+There will be additional fees if your project requires a trade permit like an electrical or plumbing permit, or if you are building near a tree. Your reviewer will explain any additional costs during your consultation.
 
 ### Make sure you can get a permit
 
@@ -102,8 +114,8 @@ Check out [our tips for selecting a contractor](http://www.austintexas.gov/page/
 
 ## You may need a consultation to determine your deck requirements
 
-It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20-minute consultation with one of our reviewers before applying for their permit. During this consultation, the reviewer will be able to:
+It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
 
-* Give you personalized property information that will help you fill out your application. Depending on the information you learn during your consultation, you may not be able to build your deck as you originally planned.
+* Give you personalized property information that will help you fill out your application. Depending on what you learn during your consultation, you may not be able to build your deck as you originally planned.
 * Give you a list of documents you need to prepare for your application based on your specific project.
 * Explain the steps you need to follow to apply for a deck permit.
