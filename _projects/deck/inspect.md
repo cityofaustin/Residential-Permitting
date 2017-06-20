@@ -24,19 +24,19 @@ tabs:
 ---
 
 
-Inspections are required throughout your permitted project and when you're finished with the project. This is to make sure all of your work is safe, and that your deck will last a long time.
+Inspections are required as you build the permitted project and when you're finished. This is to make sure all of your work is safe and that your deck will last a long time.
 
 ---
 
 ## What inspections will I need?
 
-When you receive your permit, a list of the required inspections for your project will be printed on the back of your permit.
+The permit you receive for your project will have a list of required inspections printed on the back.
 
 ---
 
 ## Who can schedule inspections?
 
-Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or their official agents.
+Anyone associated with the permit can schedule an inspection: the general contractor, the homeowner (if listed as the general contractor on the permit), the trade contractor, or official agents.
 
 ---
 
@@ -48,7 +48,7 @@ Inspections can be scheduled one of three ways.
 
 ### Do I need to be home for my inspection?
 
-When you schedule your inspection, you will find out whether or not you need to be home.
+You will find out whether or not you need to be home when you schedule your inspection.
 
 If you are not required to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
@@ -56,21 +56,21 @@ If you are not required to be home during your inspection, you must clearly post
 
 ## What happens during inspection?
 
-Your inspector will inspect your work based on the approved building plans and their checklists and identify any needed improvements.
+Inspector will inspect your work based on the approved building plans and their checklists. They will identify any needed improvements.
 
 * [Framing checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Framing.pdf).
 * [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
 * [Layout checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Layout.pdf).
 
-Your inspector is a great source of information to answer questions about meeting your building and safety requirements.
+Your inspector is a great source of information and can answer questions about meeting building and safety requirements.
 
 ---
 
 ## Final Inspection
 
-Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either from their device while they are on your property or when they return to their office. This will close your permit marking your permit as complete in city records.
+Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy while they are on your property or when they return to their office. Getting this certificate will close your permit and mark it as complete in city records.
 
-It is important to close your permit(s) because if you do not, it may prevent you or future homeowners from receiving permits on your property in the future. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
+It is important to close your permit(s). If you don't, it may prevent you or future homeowners from receiving permits on your property. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
 
 #### What if I don't pass my final inspection?
 
@@ -83,6 +83,6 @@ You must make any needed changes and reschedule your final inspection before you
 
 Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
-If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes are taking longer than 180 days to implement, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only allowed once.
 
 Remember, you must pass your final inspection in order to close your permit(s).
