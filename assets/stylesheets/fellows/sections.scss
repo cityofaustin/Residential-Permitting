@@ -7,3 +7,12 @@ section {
   color: $color-white;
   a { color: inherit; }
 }
+
+html {
+  background: $color-gray-dark;
+  color: $color-white;
+  body {
+    background: $color-white;
+    color: $color-gray-dark;
+  }
+}
