@@ -5,13 +5,14 @@ project_name: general process
 ---
 
 
-To make the most of your free 20 minute in-person consultation, we suggest preparing some information about your property and your project for your reviewer ahead of time. This information will allow the reviewer to know what kinds of permits you may need depending on what you want to do. The more information your reviewer is able to see before you apply, the more time it you will save during the application process.
+To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
-Keep in mind that the consultation is not where you officially submit your application for the permit. Consultations can save you time and energy during the process. Use the instructions below or print and complete this Consultation Prep Worksheet.
+Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
 
 ### 1. Collect the following information:
 
-* Answer the following questions before coming to your consultation:
+Have the following information ready for your consultation:
+
 * What is the address of the property you are working on?
 * Will you move or demolish any interior or exterior walls?
 * Will you need to replace or change your roof?
@@ -37,28 +38,29 @@ Your property survey, also called a cadastral survey, isn’t required at consul
 
 #### What if I can’t find my survey?
 
-You likely received your survey when you purchased your home, if you purchased your home after 1980. If you didn’t or if you can’t locate it, try checking with your:
+You likely received your survey when you purchased your home, if you bought it after 1980. If you can't find it or don't remember getting it, try checking with your:
 
 * Home lender or title company from your original purchase,
 * Neighbors to find out where they got theirs,
-* Or, you can get a new survey. Find a surveyor through the [Texas Board of Professional Land Surveying](http://txls.texas.gov).
+* Or a surveyor to get a new survey.
+* Find a surveyor through the [Texas Board of Professional Land Surveying](http://txls.texas.gov).
 
 ### 3. Draw a few simple sketches of your property or home interior
 
 Sketches give reviewers a clear picture of your project and help them determine whether or not you can move forward with your project as planned. Please bring two simple sketches to your consultation:
 
-* The current layout of your property including any existing structures such as your house, pool, or driveway,
-* And, the layout of the structure you may be changing, adding, or removing.
+* Sketch 1: The current layout of your property including any existing structures such as your house, pool, or driveway,
+* Sketch 2: The layout of the structure you may be changing, adding, or removing.
 
 ## How to get a free in-person consultation
 
-There are two ways to sign up for a free 20 minute, in-person consultation.
+There are two ways to sign up for a free 20 minute, in-person consultation. All consultations take part at Residential Plan Review at One Texas Center.
 
 * Sign up in person at the QLess Kiosk at the [Residential Plan Review](/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, leave the line, or get help with any questions you may have.
+If you choose to sign up remotely on the QLess website, fill out your name and phone number, select Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, leave the line, or get help.
 
-All consultations take part at Residential Plan Review at One Texas Center. Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or more. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
+Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can reach an hour or longer. We recommend signing up online or arriving as close to opening time as possible to sign up in person.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
