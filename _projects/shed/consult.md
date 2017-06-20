@@ -2,10 +2,6 @@
 title: Get a Consultation for a Shed Permit in Austin
 step_number: 2
 project_name: shed
-table_of_contents:
-  - Find out what you will need to prepare before your consultation.
-  - Determine what documents and sketches you will need to collect before your consultation.
-  - Learn how to schedule a free in-person consultation.
 ---
 
 

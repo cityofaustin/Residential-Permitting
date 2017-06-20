@@ -2,11 +2,6 @@
 title: Define your Shed Project in Austin
 step_number: 1
 project_name: shed
-table_of_contents:
-  - Define the scope of your project.
-  - Find out if you need a permit and what kind.
-  - Determine if you will need any additional permits such as a trade or tree permit.
-  - Determine if you can get a permit.
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
@@ -64,7 +59,7 @@ Your shed will require a building permit if any of the following:
 * Be over 200 square feet (for example, over 20 feet by 10 feet),
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
-* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain. 
+* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
 >
