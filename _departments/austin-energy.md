@@ -19,13 +19,12 @@ hours:
       *Utility Customer Service Center (North Branch)*
       <br>Monday through Friday, 7:45 am to 5:00 pm
 physical_address_markdown: |-
-  Walk-in Service:
-  <br>**Utility Customer Service Center (East Branch)**
+  East Branch Utility Customer Service Center
   <br>Rosewood-Zaragosa Center
   <br>2800 Webberville Road
   <br>Austin, TX 78702
 
-  **Utility Customer Service Center (North Branch)**
+  North Branch Utility Customer Service Center
   <br>8716 Research Blvd., Suite 115
   <br>Austin, TX 78758
 mailing_address_markdown:
