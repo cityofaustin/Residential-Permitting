@@ -13,7 +13,7 @@ hours:
       *Intake (Application Submittal)*
       <br>Monday & Friday, 8:00am to 12:00pm
 physical_address_markdown: |-
-  **One Texas Center, 2nd floor**
+  One Texas Center, 2nd floor
   <br>505 Barton Springs Road
   <br>​Austin, TX 78704
 _hide_content: true
