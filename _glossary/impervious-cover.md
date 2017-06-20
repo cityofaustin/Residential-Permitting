@@ -1,5 +1,7 @@
 ---
-term: "Impervious Cover"
+term: "impervious cover"
+title: "Impervious Cover"
+
 short_definition: "Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
 source_name: "CodeNext 2M-1 p.15"

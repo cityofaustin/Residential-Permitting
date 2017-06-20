@@ -1,5 +1,7 @@
 ---
-term: "Easement"
+term: "easement"
+title: "Easement"
+
 short_definition: "WORKING**: An area of a residents property that can be used, built on or changed by a government entity or neighbor.  You may not build on an easement if it is on your property."
 source_link: "https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT30AUTRCOSURE_CH30-2SURE_ART3PLRE_DIV1PRMAEAAL_S30-2-132EAAL"
 source_name: "Muni Code"

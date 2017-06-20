@@ -1,5 +1,7 @@
 ---
-term: "Landscape Area"
+term: "landscape area"
+title: "Landscape Area"
+
 short_definition: "The land around a building that has plants, flowers, or other natural features. Landscape areas don't have concrete or asphalt."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
 source_name: "CodeNext 2M-1 p.16"

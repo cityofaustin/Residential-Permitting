@@ -1,5 +1,7 @@
 ---
-term: "Utilities"
+term: "utilities"
+title: "Utilities"
+
 short_definition: "Services that give residents access to amenities like electricity, gas, phone and internet use, water, sewage, and garbage pick up."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
 source_name: "CodeNext 2M-1 p.33"

@@ -1,5 +1,7 @@
 ---
-term: "Critical Root Zone"
+term: "critical root zone"
+title: "Critical Root Zone"
+
 short_definition: "The ground surrounding a tree where water that drips down from canopy soaks into the roots."
 source_link: "https://www.municode.com/Library/tx/austin/codes/environmental_criteria_manual?nodeId=S3TRNAARPR_3.4.0TRPH"
 source_name: "Muni Code"

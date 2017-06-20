@@ -1,5 +1,7 @@
 ---
-term: "Basement"
+term: "basement"
+title: "Basement"
+
 short_definition: "A room under a builidng that can be lived in or used for storage. Basements can be built slightly below or above ground level. "
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
 source_name: "CodeNext 2M-1 p.3"

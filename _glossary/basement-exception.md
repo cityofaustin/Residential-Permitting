@@ -1,10 +1,12 @@
 ---
-term: "Basement Exception"
+term: "basement exception"
+title: "Basement Exception"
+
 short_definition: "A livable room under a buildings first floor that may not need a permit. Learn more."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/new_con_addtn_app_AWU.pdf,New Construction Application"
 ---
 A livable room below the first floor of a building that may not need a permit if it:
-* doesn't extend beyond the first floors foundation, 
+* doesn't extend beyond the first floors foundation,
 * is mostly below ground level,
 * and it does not rise more than 3 feet above the average elevation of the front yard setback.
 

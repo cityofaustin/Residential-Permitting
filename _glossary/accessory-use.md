@@ -1,5 +1,7 @@
 ---
-term: "Accessory Use"
+term: "accessory use"
+title: "Accessory Use"
+
 short_definition: "Using a property for something other than its original purpose without making changes to it."
 source_link: "https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART5ACUS_S25-2-891ACUSGE"
 source_name: "Muni Code"

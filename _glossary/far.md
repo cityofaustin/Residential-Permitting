@@ -1,5 +1,7 @@
 ---
-term: "FAR"
+term: "far"
+title: "FAR"
+
 short_definition: "Floor to Area Ratio (FAR) is the total floor area a building can have within a property."
 source_link: "https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART3ADRECEDI_DIV11NOBUGADIRE_S25-2-767.02REPL"
 source_name: "Muni Code"

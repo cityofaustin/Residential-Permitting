@@ -1,5 +1,6 @@
 ---
-term: "Accessory Structure"
+term: "accessory structure"
+title_term: "Accessory Structure"
 short_definition: "A garage, workshop, greenhouse, or shed that's separate from the main building."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
 source_name: "CodeNext 2M-1 p.30"

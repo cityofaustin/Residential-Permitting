@@ -1,5 +1,7 @@
 ---
-term: "Garage and Carport Exemption"
+term: "garage and carport exemption"
+title: "Garage and Carport Exemption"
+
 short_definition: "An exemption permit given to a resident that allows them to build a garage or carport when it is more than the Floor to Area Ratio (FAR)."
 source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/new_con_addtn_app_AWU.pdf"
 source_name: "New Construction Application"
