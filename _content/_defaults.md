@@ -1,6 +1,7 @@
 ---
 title:
-in_menu: false
-in_toolkit: false
+lead: 
+in_resources_menu: false
+in_toolkit_menu: false
 _hide_content: false
 ---

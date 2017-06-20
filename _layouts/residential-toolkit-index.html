@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% include setup-pages.html %}
+
+<div class="container container-fluid page-layout">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="lead">{{ page.lead }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+    <article class="content center-xs start-sm col-xs-12 col-sm-10 col-md-8 row">
+      <div class="col-xs-6">
+        <h4>{{ site.data.labels.locales[site.locale].toolkit }}</h4>
+        <ul>
+          {% for page in toolkit_pages %}
+            <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+    <div class="col-xs-6">
+        <h4>{{ site.data.labels.locales[site.locale].resources }}</h4>
+        <ul>
+          {% for page in resource_pages %}
+            <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </article>
+  </div>
+</div>
