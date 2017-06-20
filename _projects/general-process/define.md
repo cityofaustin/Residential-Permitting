@@ -45,7 +45,7 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 You may need to hire a licensed professional such as an engineer, architect, or surveyor to complete certain parts of the application depending on your project’s specific plans. If you’re building a new home or building onto your existing home, you will most likely need to hire a licensed professional.
 
-Some parts of the Apply section of your application may need to be prepared by a licensed professional. The reviewer will tell you which application materials those will be during your consultation.
+Some parts of the Apply section of your application may need to be prepared by a licensed professional. The reviewer will tell you which application materials those are during your consultation.
 
 ### What if I want to hire a contractor?
 
@@ -65,7 +65,7 @@ Building permits are issued when you plan to construct, enlarge, demolish, impro
 
 ### Trade permits
 
-Trade permits are required if your project will involve any changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed because the work is specialized.
+Trade permits are required if your project will involve changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed because the work is specialized.
 
 You will need a trade permit if your project includes:
 
