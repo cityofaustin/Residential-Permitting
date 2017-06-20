@@ -63,7 +63,7 @@ Your foundation plan must be drawn by a structural engineer.
 Intake happens during Residential Plan Review at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
-* Or you can save time by joining the line remotely on the QLess website. Fill out your name and number on the website, click on "Residential" and select "Submissions." You will receive a text that includes your estimated service time. Follow the text prompts to receive status updates, leave the line, or to get help.
+* Or you can save time by joining the line remotely on the QLess website. Fill out your name and number on the website, click on "Residential" and select "Submissions." You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
 ### What Happens at Intake?
 
