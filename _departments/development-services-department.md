@@ -10,7 +10,7 @@ hours:
       *General*
       <br>Monday through Friday, 7:45am to 4:45pm
 physical_address_markdown: |-
-  **One Texas Center**
+  One Texas Center
   <br>505 Barton Springs Road
   <br>​Austin, TX 78704
 _hide_content: true
