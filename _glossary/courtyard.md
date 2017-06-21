@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.8
 ---
 
 
-An unroofed area that is completely or partially enclosed by walls or buildings and often shared by multiple residential units or commercial spaces.
+A shared area without a roof that is completely or partially surrounded by walls or buildings. An unroofed area that is completely or partially enclosed by walls or buildings and often shared by multiple residential units or commercial spaces.
