@@ -47,8 +47,6 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 {% include tabs.html %}
 
-![](/assets/img/diagrams/easement-setback-impervious-cover.svg)
-
 ---
 
 ## Do I need a permit?
