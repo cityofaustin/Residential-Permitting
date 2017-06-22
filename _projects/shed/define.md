@@ -15,8 +15,24 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
+
+
+
+
+
+
+
+
 
 
 
@@ -41,10 +57,26 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >-
       **What is a setback?**
+
+
+
+
+
+
+
+
 
 
 
@@ -65,9 +97,25 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       When there is an easement on your lot and you choose to build on the
       easement, you run the risk of future fines or possible demolishment of your
       shed if the city needs to access your easement.
+
+
+
+
+
+
+
+
 
 
 
@@ -90,8 +138,24 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       Rooftops, driveways, parking lots, and other man-made or stone surfaces
       that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
 
 
 
@@ -115,6 +179,14 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
@@ -127,7 +199,9 @@ Before you start building your shed or apply for a permit(s), it’s important t
 
 A simple, enclosed structure no one lives in that is physically detached from your house and is used primarily for storage.
 
-Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses. [If this doesn't sound like your project, check out the General Process page](/projects/general-process).&nbsp;
+Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses.
+
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process).&nbsp;
 
 ## Requirements for all sheds
 
