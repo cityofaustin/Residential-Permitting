@@ -13,6 +13,8 @@ Before you start your interior remodel or apply for a permit(s), it’s importan
 
 An interior remodel fixes or updates the appearance or use of an existing home without adding or removing square footage.
 
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process).
+
 ---
 
 ## Do I need a permit?
