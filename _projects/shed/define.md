@@ -5,8 +5,7 @@ project_name: shed
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
-      What is a setback?
-      > {% include glossary-definition.html term="setback" %}
+      What is a setback? > {% include glossary-definition.html term="setback" %}
       If your shed will be less than 15 feet tall, then you must keep 5 feet from
       both your side and rear property lines clear. You may not build within
       these spaces. If you shed will be more than 15 feet tall, then you must
@@ -37,7 +36,7 @@ Before you start building your shed or apply for a permit(s), it’s important t
 
 ## What is a shed?
 
-A simple, enclosed structure that is physically detached from your house no one will live in and that will be used primarily for storage.
+A simple, enclosed structure no one lives in that is physically detached from your house and that is used primarily for storage.
 
 Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses.
 
