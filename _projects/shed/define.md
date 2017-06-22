@@ -93,6 +93,7 @@ A simple, enclosed structure no one lives in that is physically detached from yo
 
 Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses.
 
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process).
 ---
 
 ## Requirements for all sheds
