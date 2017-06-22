@@ -89,7 +89,8 @@ Before you start building your deck or apply for a permit(s), it’s important t
 ## What is a deck?
 
 A deck is a platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging or gathering.
-[If this doesn't sound like your project, check out the General Process page(/projects/general-process). 
+
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process). 
 
 ---
 
