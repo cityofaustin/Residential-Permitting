@@ -45,7 +45,26 @@ tabs:
       shed if the city needs to access your easement. [Learn more about
       easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
-    tab_content_markdown: 'If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
+    tab_content_markdown: >-
+      **What is impervious cover?**
+
+
+
+
+
+      Rooftops, driveways, parking lots, and other man-made or stone surfaces
+      that keep water from being absorbed into the ground.
+
+
+
+
+
+      If you do not live in a floodplain, your impervious cover cannot exceed 45%
+      of your property. If you do live in a floodplain, your impervious cover
+      cannot exceed 10% of your property. Impervious cover restrictions are in
+      place to make sure a significant amount of water is making it back into the
+      soil and to prevent flooding. [Learn more about impervious
+      cover](/resources/glossary/impervious-cover).
 ---
 
 
