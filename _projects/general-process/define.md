@@ -82,9 +82,9 @@ The city protects certain trees in order to maintain Austin’s natural beauty. 
 
 > ###### What is a critical root zone?
 >
-> {% include glossary-definition.html term="critical-root-zone" %}
+> {% include glossary-definition.html term="critical root zone" %}
 
-[Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/resources/building-near-a-tree/).
+[Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/residential-toolkit/building-near-a-tree/).
 
 ### Demolition permits
 
