@@ -5,8 +5,8 @@ project_name: shed
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >
-      #### What is a setback?
-      {% include glossary-definition.html term="setback" %}
+      What is a setback?
+      > {% include glossary-definition.html term="setback" %}
       If your shed will be less than 15 feet tall, then you must keep 5 feet from
       both your side and rear property lines clear. You may not build within
       these spaces. If you shed will be more than 15 feet tall, then you must
