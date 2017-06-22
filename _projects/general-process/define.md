@@ -31,10 +31,10 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 ### The most common zoning regulations are:
 
-* Setbacks,
-* Easements,
-* Impervious Cover,
-* Floodplains,
+* [Setbacks](/resources/glossary/setback),
+* [Easements](/resources/glossary/easement),
+* [Impervious Cover](/resources/glossary/impervious-cover),
+* [Floodplains](/resources/glossary/floodplain),
 * And historic reviews for homes over 40 years old.
 
 ---
