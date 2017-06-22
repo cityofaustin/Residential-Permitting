@@ -3,7 +3,7 @@ title: Shed Floor Plan
 description: Brief description of this form or document
 date: 2017-06-14
 project: shed
-plan_type: floor-plan
+diagram_type: floor-plan
 file_path: /assets/img/diagrams/shed/shed-floor-plan.png
 ---
 #### Your floor plan must include:

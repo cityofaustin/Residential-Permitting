@@ -3,7 +3,7 @@ title: Shed Plot Plan
 description: Brief description of this form or document
 date: 2017-06-14
 project: shed
-plan_type: plot-plan
+diagram_type: plot-plan
 file_path: /assets/img/diagrams/shed/shed-plot-plan.png
 ---
 ###### Your plot plan must include:

@@ -30,7 +30,7 @@ collections:
     permalink: "resources/:collection/:path"
   library:
     output: false
-  sample-plans:
+  diagrams:
     output: false
 
 defaults:
@@ -111,15 +111,15 @@ defaults:
 # for document and plan libraries
 - scope:
     path: ''
-    type: sample-plans
+    type: diagrams
   values:
     _comments:
-      title: Title of this Plan
+      title: Title of this Diagram
       description: Brief description of this form or document
       date: 2017-06-14
       project: shed
       file_path: /assets/img/diagrams/project/plan.png
-    plan_type:
+    diagram_type:
       - floor-plan
       - elevation-plan
       - plot-plan

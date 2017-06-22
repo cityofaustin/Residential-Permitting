@@ -3,7 +3,7 @@ title: Project Plan
 description: Brief description of this plan
 date: 2017-06-14
 project: project
-plan_type: plan
+diagram_type: plan
 file_path: /assets/img/diagrams/project/plan.png
 ---
 #### Caption Title

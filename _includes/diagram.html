@@ -1,0 +1,20 @@
+{% assign project = page.project_name | slugify %}
+{% assign diagram = site.diagrams | where: "diagram_type", include.diagram | where: "project", project | first %}
+{% if diagram != nil %}
+<div class="diagram-gallery breakout-col-sm-8 row" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure class="diagram" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a class="col-sm-7 col-xs-12 diagram-thumbnail" target="_blank" href="{{ site.url }}{{ diagram.file_path }}" itemprop="contentUrl">
+          <img src="{{ site.url }}{{ diagram.file_path }}" itemprop="thumbnail" alt="{{ diagram.title }}" />
+      </a>
+      <figcaption class="col-xs-12 col-sm-5" itemprop="caption description">
+        {{ diagram.content | markdownify }}
+
+        <a class="usa-button read-more" data-doctype="{{ document.document_type }}" target="_blank" title="{{ site.data.labels.locales[site.locale].diagram_download_link_prefix }} {{ diagram.title | downcase }}</a>
+" href="{{ site.url }}{{ diagram.file_path }}">
+          {{ site.data.labels.locales[site.locale].diagram_download_link_prefix }}</a>
+
+
+      </figcaption>
+  </figure>
+</div>
+{% endif %}

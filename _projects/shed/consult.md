@@ -53,13 +53,13 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Sketch the layout of your property and show any existing structures including your home, pool, deck, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-{% include lightbox.html diagram="property-sketch" %}
+{% include diagram.html diagram="property-sketch" %}
 
 ### b. What your shed will look like
 
 Sketch the shed you will build and include its dimensions and any windows or doors it will have.
 
-{% include lightbox.html diagram="layout-sketch" %}
+{% include diagram.html diagram="layout-sketch" %}
 
 ## How to get a free in-person consultation
 
