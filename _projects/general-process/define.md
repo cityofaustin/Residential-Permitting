@@ -31,10 +31,10 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 ### The most common zoning regulations are:
 
-* Setbacks,
-* Easements,
-* Impervious Cover,
-* Floodplains,
+* [Setbacks](/resources/glossary/setback),
+* [Easements](/resources/glossary/easement),
+* [Impervious Cover](/resources/glossary/impervious-cover),
+* [Floodplains](/resources/glossary/floodplain),
 * And historic reviews for homes over 40 years old.
 
 ---
@@ -80,11 +80,11 @@ Your contractor is responsible for getting the required permits if you are insta
 
 The city protects certain trees in order to maintain Austin’s natural beauty. If you are working on the inside of your home, a tree review is necessary to make sure that any equipment brought in does not damage the critical root zone of any protected trees on your property.
 
+[Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/residential-toolkit/building-near-a-tree/).
+
 > ###### What is a critical root zone?
 >
-> {% include glossary-definition.html term="critical-root-zone" %}
-
-[Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/resources/building-near-a-tree/).
+> {% include glossary-definition.html term="critical root zone" %}
 
 ### Demolition permits
 

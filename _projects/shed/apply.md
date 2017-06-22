@@ -23,7 +23,7 @@ The [new construction/addition application](https://www.austintexas.gov/sites/de
 
 The plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a hired professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include any power lines that run above your property.
 
-> Note that for a shed, you can draw your shed to scale on your survey. It’s easier and helpful for reviewers!
+> Note that for a shed, you can draw your shed to scale on a copy of your survey. It’s easier and helpful for reviewers!
 
 {% include lightbox.html diagram="plot-plan" %}
 

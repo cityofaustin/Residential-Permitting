@@ -13,6 +13,8 @@ Before you start your interior remodel or apply for a permit(s), it’s importan
 
 An interior remodel fixes or updates the appearance or use of an existing home without adding or removing square footage.
 
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process).
+
 ---
 
 ## Do I need a permit?
@@ -98,7 +100,7 @@ There will be additional charges if your project requires a trade permit, like a
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an open or expired permit. You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your deck materials or design.
+You may not be able to get a new permit right away if your property currently has an open or expired permit. You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your interior remodel materials or design.
 
 ---
 

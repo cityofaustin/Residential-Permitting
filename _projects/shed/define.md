@@ -4,28 +4,190 @@ step_number: 1
 project_name: shed
 tabs:
   - tab_title: Setbacks
-    tab_content_markdown: >
+    tab_content_markdown: >-
+      **What is a setback?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      The space between a lot's border and the area where a building can be
+      built. Setbacks typically cannot have anything built on them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       If your shed will be less than 15 feet tall, then you must keep 5 feet from
       both your side and rear property lines clear. You may not build within
       these spaces. If you shed will be more than 15 feet tall, then you must
       keep 10 feet from your rear property line clear and 5 feet from your side
       property line clear, and you may not build within these spaces. There is
-      also a 25 foot setback from your front property line. [Learn more about
-      setbacks](/resources/glossary/setback).
+      also a 25 foot setback from your front property line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
-    tab_content_markdown: >
+    tab_content_markdown: >-
+      **What is a setback?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      The space between a lot's border and the area where a building can be
+      built. Setbacks typically cannot have anything built on them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       When there is an easement on your lot and you choose to build on the
       easement, you run the risk of future fines or possible demolishment of your
-      shed if the city needs to access your easement. [Learn more about
-      easements](/resources/glossary/easements).
+      shed if the city needs to access your easement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Learn more about easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
-    tab_content_markdown: >
+    tab_content_markdown: >-
+      **What is impervious cover?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Rooftops, driveways, parking lots, and other man-made or stone surfaces
+      that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       If you do not live in a floodplain, your impervious cover cannot exceed 45%
       of your property. If you do live in a floodplain, your impervious cover
       cannot exceed 10% of your property. Impervious cover restrictions are in
       place to make sure a significant amount of water is making it back into the
-      soil and to prevent flooding. [Learn more about impervious
-      cover](/resources/glossary/impervious-cover).
+      soil and to prevent flooding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
@@ -35,11 +197,11 @@ Before you start building your shed or apply for a permit(s), it’s important t
 
 ## What is a shed?
 
-A simple, enclosed structure that is physically detached from your house no one will live in and that will be used primarily for storage.
+A simple, enclosed structure no one lives in that is physically detached from your house and is used primarily for storage.
 
 Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses.
 
----
+[If this doesn't sound like your project, check out the General Process page](/projects/general-process).&nbsp;
 
 ## Requirements for all sheds
 
@@ -87,7 +249,7 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 ## Getting a building permit
 
-Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors.&nbsp;
+Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors.
 
 ### How much do building permits cost?
 

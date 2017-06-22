@@ -1,8 +1,7 @@
 ---
-term: "property survey"
-title: "Property Survey"
-
-short_definition: "The exact amount of land that belongs to a homeowner. Property surveys are measured by surveyors and include the amount of land within property lines."
+term: property survey
+title: Property Survey
+short_definition: The exact amount of land that belongs to a homeowner. Property surveys are measured by surveyors and include the amount of land within property lines.
 ---
 A survey of the exact measurement of the amount of land belonging to a homeowner. Property surveys indicate any easements or special features on the property and measures the distance around the property from each boundary line.
 
