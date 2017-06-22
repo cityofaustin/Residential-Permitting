@@ -8,7 +8,31 @@ var initSidebars = function() {
     $(this).remove();
   });
 }
+
+
+
+
+var initMobileMenu = function() {
+  var drawerButton = $('#drawer-button');
+  drawerButton.click(function () {
+    $("html").toggleClass("drawer-open");
+  });
+}
+
+
+var initProjectMenu = function() {
+
+
+}
+
+
+
+
+
+
 $(document).ready(function(){
+  initMobileMenu();
   initSidebars();
+  initProjectMenu();
 
 });

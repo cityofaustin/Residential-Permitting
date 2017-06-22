@@ -63,6 +63,7 @@ locales:
     lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix: ""
     glossary_definition_header_suffix: "definition"
+    prefooter_text: "I'm text for the prefooter"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
