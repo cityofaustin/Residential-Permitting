@@ -7,4 +7,5 @@ source_link: "https://www.municode.com/Library/tx/austin/codes/land_development_
 source_name: "Muni Code"
 ---
 Low land made up of silt or sand on the edge of a river or creek that floods when the body of water overflows and water rushes from the banks.
-A special flood hazard deliniated on an official map.
+
+You can find out if your home is in a floodplain by visiting [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). Enter your address and if your Flood Zone says, “Flood Zone: X,” then you DO NOT live in a floodplain.
