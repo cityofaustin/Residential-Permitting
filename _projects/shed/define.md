@@ -4,8 +4,20 @@ step_number: 1
 project_name: shed
 tabs:
   - tab_title: Setbacks
-    tab_content_markdown: >
-      What is a setback? > {% include glossary-definition.html term="setback" %}
+    tab_content_markdown: >-
+      **What is a setback?**
+
+
+
+
+
+      The space between a lot's border and the area where a building can be
+      built. Setbacks typically cannot have anything built on them.
+
+
+
+
+
       If your shed will be less than 15 feet tall, then you must keep 5 feet from
       both your side and rear property lines clear. You may not build within
       these spaces. If you shed will be more than 15 feet tall, then you must
@@ -14,19 +26,9 @@ tabs:
       also a 25 foot setback from your front property line. [Learn more about
       setbacks](/resources/glossary/setback).
   - tab_title: Easements
-    tab_content_markdown: >
-      When there is an easement on your lot and you choose to build on the
-      easement, you run the risk of future fines or possible demolishment of your
-      shed if the city needs to access your easement. [Learn more about
-      easements](/resources/glossary/easements).
+    tab_content_markdown: 'When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement. [Learn more about easements](/resources/glossary/easements).'
   - tab_title: Impervious Cover
-    tab_content_markdown: >
-      If you do not live in a floodplain, your impervious cover cannot exceed 45%
-      of your property. If you do live in a floodplain, your impervious cover
-      cannot exceed 10% of your property. Impervious cover restrictions are in
-      place to make sure a significant amount of water is making it back into the
-      soil and to prevent flooding. [Learn more about impervious
-      cover](/resources/glossary/impervious-cover).
+    tab_content_markdown: 'If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
 ---
 
 
@@ -88,7 +90,7 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 ## Getting a building permit
 
-Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors.&nbsp;
+Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors.
 
 ### How much do building permits cost?
 
