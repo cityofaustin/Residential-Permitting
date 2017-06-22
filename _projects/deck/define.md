@@ -19,8 +19,13 @@ tabs:
 
 
       Regardless of how tall your deck is, you can't build it within 10 feet of
-      the rear border or within 5 feet of the side borders of your lot. [Learn
-      more about setbacks](/resources/glossary/setback).
+      the rear border or within 5 feet of the side borders of your lot.
+
+
+
+
+
+      [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >-
       **What is an easement?**
@@ -39,6 +44,11 @@ tabs:
 
       The city will need to access any easements on your lot. You may be fined or
       asked to demolish your deck if you choose to build it on an easement.
+
+
+
+
+
       [Learn more about easements](/resources/glossary/easements).
   - tab_title: Impervious Cover
     tab_content_markdown: >-
@@ -62,8 +72,13 @@ tabs:
       on your property. If you are covering your deck or there won’t be spaces
       between the planks, then 100% of the deck’s surface area will count towards
       the amount of impervious cover on your property. A reviewer can help you
-      change your deck design if you max out your impervious cover.[Learn more
-      about impervious cover](/resources/glossary/impervious-cover).
+      change your deck design if you max out your impervious cover.
+
+
+
+
+
+      [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
