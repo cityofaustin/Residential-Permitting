@@ -36,7 +36,7 @@ Before you start building your shed or apply for a permit(s), it’s important t
 
 ## What is a shed?
 
-A simple, enclosed structure no one lives in that is physically detached from your house and that is used primarily for storage.
+A simple, enclosed structure no one lives in that is physically detached from your house and is used primarily for storage.
 
 Projects that have the same requirements as a shed include: greenhouses, workshops, garages or carports, gazebos, and playhouses.
 
