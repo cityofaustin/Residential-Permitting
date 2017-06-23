@@ -70,7 +70,7 @@ locales:
   # -------------------
   es: &DEFAULT_ES
     <<: *DEFAULT_EN     # load English values as default
-    overview_of_steps_description: "Un sitio web oficial de la Ciudad de Austin."
+    intro: "Un sitio web oficial de la Ciudad de Austin."
     projects: "Proyectos"
     resources: "Recursos"
     home: "Inicio"

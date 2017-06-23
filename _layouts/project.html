@@ -23,7 +23,7 @@ layout: default
         <h2 class="step-title">
           {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
         </h2>
-        <p class="lead">{{ page.overview_of_steps_description }}</p>
+        <div class="lead">{{ page.overview_of_steps_markdown | strip_newlines | markdownify }}</div>
         <p>{{ content }}</p>
       </div>
     </div>

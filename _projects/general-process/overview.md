@@ -6,12 +6,12 @@ in_projects_menu: true
 hide_project_from_homepage: true
 menu_sort_order: 0
 step_number: 0
-overview_of_steps_description: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our [Common Projects section](/projects).'
+overview_of_steps_markdown: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our [Common Projects section](/projects).'
 permalink: /projects/general-process/
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
   in_menu: Should this show up in the header navigation and homepage? Only use on overview page
-  overview_of_steps_description: Only use on overview page
+  overview_of_steps_markdown: Only use on overview page
   permalink: "The relative URL of the project's folder, ie \"/projects/project-folder/\". Only use on overview page"
   prefooter_text: text before the button at the bottom of overview
   prefooter_link_text: button text for bottom of overview
