@@ -1,6 +1,6 @@
 ---
 title: Shed Floor Plan
-description: Here is an example of a Shed Floor plan.
+description: Here is an example of a Shed Floor Plan.
 date: 2017-06-14 00:00:00
 project:
 diagram_type: floor-plan
