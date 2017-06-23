@@ -1,0 +1,10 @@
+{% assign plan = include.tile %}
+<figure class="tile tile--plan" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <div class="tile-outline">
+    <img class="block-illustration" alt="{{ plan.title }} plan" src="{{ site.url }}{{ plan.file_path }}" itemprop="thumbnail" />
+    <div class="tile-text" itemprop="caption description">
+      <h4>{{ plan.title | capitalize }}</h4>
+    </div>
+      <a class="tile-link" href="{{ site.url }}{{ plan.file_path }}" target="_blank" itemprop="contentUrl"></a>
+  </div>
+</figure>

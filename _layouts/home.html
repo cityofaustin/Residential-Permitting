@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include setup-pages.html %}
+
 <section class="photo-header" style="background-image: url('{{ page.header_photo }}')">
 	<div class="container container-fluid start-xs">
     <div class="overlay">
@@ -52,7 +54,7 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-		{% include project-tiles.html %}
+		{% include tiles-projects.html %}
 	</div>
   <div class="row center-xs button-row">
 		<div class="col-xs-10">
@@ -60,7 +62,6 @@ layout: default
 		</div>
   </div>
 </section>
-
 
 
 <section class="container container-fluid page-section">
@@ -71,14 +72,24 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-    {% for resource in page.resources_featured %}
-    <div class="resource-tile col-xs-10 col-sm-6 col-md-3">
-			<a href="{{ resource.link }}" class="tile-outline">
-        <h4>{{ resource.name }}</h4>
-        <p>{{ resource.description }}</p>
-      </div>
-		</a>
-    {% endfor %}
+		{% for resource in resource_pages limit:6 %}
+			{% include tiles-resources.html tile=resource tile_width="3" %}
+		{% endfor %}
+  </div>
+</section>
+
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 ">
+      <h2>{{ page.toolkit_title }}</h2>
+			<p>{{ page.toolkit_summary_markdown | markdownify }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+		{% for resource in toolkit_pages limit:6 %}
+			{% include tiles-small.html tile=resource %}
+		{% endfor %}
   </div>
 </section>
 

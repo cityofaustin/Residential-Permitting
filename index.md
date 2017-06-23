@@ -14,27 +14,11 @@ projects_title: Featured Projects
 projects_summary_markdown: Are you changing or adding to your home? Check out our detailed permitting guides for some examples of common Austin residential projects.
 projects_button_text: View all projects
 limit_projects_to: 6
-resources_title: Residential Toolkit
-resources_summary_markdown: Are you changing or adding to your home? Check out our detailed permitting guides for some examples of common Austin residential projects.
-resources_featured:
-  - name: Can I get a permit?
-    description: Make sure that you can get started on permitting a new project with the City.
-    link: /residential-toolkit/can-i-get-a-permit/
-  - name: Check my permit status
-    description: Already applied for your new permit? Check its current status.
-    link: /residential-toolkit/check-my-permit-status
-  - name: Building near a tree
-    description: "Have a tree on your property? Find out if it's protected by the City of Austin."
-    link: /residential-toolkit/building-near-a-tree/
-  - name: Express Permits
-    description: Some projects are simple enough that they qualify for express permits.
-    link: /residential-toolkit/express-permits
-  - name: 'Applications & forms'
-    description: Quickly find a specific application or form.
-    link: /residential-toolkit/applications-and-forms
-  - name: Glossary
-    description: Not sure what something means? Take a look in our glossary of terms.
-    link: /residential-toolkit/glossary
+
+resources_title: Resources
+resources_summary_markdown: Here are some cool resoures
+
+toolkit_title: Residential Toolkit
+toolkit_summary_markdown: Are you changing or adding to your home? Check out our detailed permitting guides for some examples of common Austin residential projects.
+
 ---
-
-

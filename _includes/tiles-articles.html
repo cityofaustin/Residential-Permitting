@@ -1,0 +1,11 @@
+{% assign article = include.tile %}
+<div class="tile tile--article col-xs-10 col-sm-6 col-md-4">
+  <div class="tile-outline">
+    <div class="tile-text">
+      <h3 class="tile-title">{{ article.title | capitalize }}</h3>
+      <p class="tile-excerpt">{{ article.excerpt }}</p>
+      <p class="tile-date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ article.last_modified_at | date: '%B %e, %Y' }}</p>
+    </div>
+    <a class="tile-link" href="{{ site.url }}{{ article.url }}"></a>
+  </div>
+</div>

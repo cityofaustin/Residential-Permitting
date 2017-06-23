@@ -8,7 +8,7 @@ layout: default
       <p class="lead">{{ page.lead }}</p>
     </div>
   </div>
-  {% assign plans = site.sample-plans | group_by: "project" %}
+  {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
   {% for project in plans %}
   <div class="row center-xs">
     <h2>{{ project.name | deslugify | titlecase }}</h2>
@@ -16,17 +16,9 @@ layout: default
   <div class="row center-xs">
     <article class="content plans-gallery row" itemscope itemtype="http://schema.org/ImageGallery">
       {% for plan in project.items %}
-      <figure class="lightbox plan-tile col-xs-10 col-sm-6 col-md-4" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a class="tile-outline tile-link" href="{{ site.url }}{{ plan.file_path }}" itemprop="contentUrl" data-size="{{ plan.file_path | dimensions }}">
-          <img class="block-illustration" alt="{{ plan.title }} plan" src="{{ site.url }}{{ plan.file_path }}" itemprop="thumbnail" />
-          <div class="tile-text" itemprop="caption description">
-            <h4>{{ plan.title | capitalize }}</h4>
-          </div>
-        </a>
-        <figcaption class="lightbox-caption" itemprop="caption description">
-          {{ plan.content | markdownify }}
-        </figcaption>
-      </figure>
+      <div class="col-xs-10 col-sm-6 col-md-4">
+        {% include tiles-plans.html plan=plan %}
+      </div>
       {% endfor %}
     </article>
   </div>
