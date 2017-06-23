@@ -5,7 +5,7 @@ project_name: general process
 ---
 
 
-After submitting your application, you enter into the review process. During review, you and the city work together to make sure your plans are:
+You enter into the review process after you submit your application. During review, you and the city work together to make sure your plans are:
 
 * Up to code,
 * Safe for you, guests, and neighbors.
@@ -22,7 +22,7 @@ You can check the status of your permit application on [Austin Build + Connect](
 
 You can search for expired permits by selecting "Public Search," and entering the property address, date range, or permit case/type and hitting submit.
 
-If you are not the applicant, meaning a hired professional submitted your application, the hired professional will receive the approval of your permit application or any review comments. You can request to be sent a copies of any emails or you have your authorized applicant forward them to you.
+If you are not the applicant, meaning a hired professional submitted your application, the hired professional will receive the approval of your permit application or any review comments. You can request to be sent a copies of any emails or have your authorized applicant forward them to you.
 
 ### 2. If you receive comments, your plans must be adjusted
 
