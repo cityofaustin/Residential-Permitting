@@ -3,7 +3,7 @@ title: Project Permit Overview
 excerpt:
 project_name: general process
 in_projects_menu: true
-menu_sort_order: 1
+menu_sort_order: 0
 step_number: 0
 overview_of_steps_description: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our [Common Projects section](/projects).'
 permalink: /projects/general-process/
