@@ -5,7 +5,7 @@ project_name: interior remodel
 ---
 
 
-There are a few things you'll need to provide when you apply for your permit. You will need both the paper application and some additional documents. The documents you need to submit with your application will depend on the type of interior remodel you want to do.
+You will need to provide both the paper application and some additional documents when you apply for a permit. The documents you need to submit with your application will depend on the type of interior remodel you want to do.
 
 Anyone applying for a permit can meet with one of our reviewers for a free 20 minute in-person consultation. During the consultation, the reviewer will tell you which additional documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
 
