@@ -5,7 +5,7 @@ project_name: deck
 in_projects_menu: true
 menu_sort_order: 3
 step_number: 0
-overview_of_steps_description: some introductory text here
+overview_of_steps_description: Follow these steps to get your deck permit.
 permalink: /projects/deck/
 prefooter_text: "Looking for all the applications and forms you might need for permitting a deck? We've got you covered."
 prefooter_link_text: Download all deck documents
