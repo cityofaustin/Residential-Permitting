@@ -23,7 +23,11 @@ Remember that you can't officially submit your permit application to the reviewe
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
   * And/or have electricity.
 
-## 2. Bring your Property Survey if possible
+## 2. Fill out the property and profile cards.
+
+&nbsp;
+
+## 3. Bring your Property Survey if possible
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
@@ -45,7 +49,7 @@ You probably received your survey when you purchased your home if you bought it 
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
-## 3. Draw a few simple sketches of your shed and property
+## 4. Draw a few simple sketches of your shed and property
 
 Sketches give reviewers a clear picture of your project and help them determine whether or not you can move forward as planned. Please bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can tell:
 
