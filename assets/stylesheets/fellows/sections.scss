@@ -14,5 +14,6 @@ html {
   body {
     background: $color-white;
     color: $color-gray-dark;
+    min-height: auto !important; // google translate widget messes with this
   }
 }
