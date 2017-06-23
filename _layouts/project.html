@@ -40,7 +40,7 @@ layout: default
               <li>{% include _icon.html icon='check' %} {{ item }}</li>
               {% endfor %}
             </ul>
-            <a class="usa-button" href="{{ site.url }}{{ project_step.url }}">{{ site.data.labels.locales[site.locale].project_button_next }}{{ site.data.labels.locales[site.locale].project_steps[project_step.step_number].step_name }}</a>
+            <a class="usa-button" href="{{ site.url }}{{ project_step.url }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ site.data.labels.locales[site.locale].project_steps[project_step.step_number].step_name }}</a>
           </div>
         </div>
       </div>
@@ -95,10 +95,10 @@ layout: default
   	<div class="row start-xs">
   		<aside class="button-container center-xs start-sm col-xs-12 col-sm-offset-1 col-sm-10 row">
         <div class="start-xs col-xs-6">
-  			  {% if prevurl %}<a class="usa-button usa-button-outline" href="{{ site.url }}{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }}{{ prevtitle }}</a>{% endif %}<br />
+  			  {% if prevurl %}<a class="usa-button usa-button-outline" href="{{ site.url }}{{ prevurl }}">{{ site.data.labels.locales[site.locale].project_button_prev }} {{ prevtitle }}</a>{% endif %}<br />
         </div>
         <div class="end-xs col-xs-6">
-          {% if nexturl %}<a class="usa-button" href="{{ site.url }}{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }}{{ nexttitle }}</a>{% endif %}
+          {% if nexturl %}<a class="usa-button" href="{{ site.url }}{{ nexturl }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ nexttitle }}</a>{% endif %}
         </div>
   		</aside>
   	</div>
