@@ -54,7 +54,7 @@ layout: default
     </div>
   </div>
   <div class="row center-xs">
-		{% include tiles-projects.html %}
+		{% include tiles-projects.html limit=page.limit_projects_to %}
 	</div>
   <div class="row center-xs button-row">
 		<div class="col-xs-10">
@@ -76,6 +76,11 @@ layout: default
 			{% include tiles-resources.html tile=resource tile_width="3" %}
 		{% endfor %}
   </div>
+	<div class="row center-xs button-row">
+		<div class="col-xs-10">
+			<a class="usa-button" href="{{ site.url }}{{ page.resources_list_url }}" }}>{{ page.projects_button_text }}</a>
+		</div>
+	</div>
 </section>
 
 
@@ -91,6 +96,11 @@ layout: default
 			{% include tiles-small.html tile=resource %}
 		{% endfor %}
   </div>
+	<div class="row center-xs button-row">
+		<div class="col-xs-10">
+			<a class="usa-button" href="{{ site.url }}{{ page.toolkit_list_url }}" }}>{{ page.projects_button_text }}</a>
+		</div>
+	</div>
 </section>
 
 

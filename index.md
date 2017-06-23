@@ -16,9 +16,11 @@ projects_button_text: View all projects
 limit_projects_to: 6
 
 resources_title: Resources
-resources_summary_markdown: Here are some cool resoures
+resources_summary_markdown: Here are some cool resources
+resources_list_url: /resources
 
 toolkit_title: Residential Toolkit
 toolkit_summary_markdown: Are you changing or adding to your home? Check out our detailed permitting guides for some examples of common Austin residential projects.
+toolkit_list_url: /residential-toolkit
 
 ---
