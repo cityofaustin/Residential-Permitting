@@ -37,12 +37,15 @@ locales:
         step_slug: review
         step_description: 'Respond to any feedback from the city, get your permit, and begin work.'
         table_of_contents:
-          - Fill these in for Review
+          - Learn about the review process.
+          - Learn what to do if you receive any comments and need to resubmit your application a second time.
       - step_name: Inspect
         step_slug: inspect
         step_description: Get your work inspected by the city and close out your permit(s).
         table_of_contents:
-          - Fill these in for Inspect
+          - Determine that inspections are required throughout your project. 
+          - Learn how to schedule your inspections either online, in-person or by phone.
+          - Schedule final inspection and make any required changes before your permit expires.
     project_button_next: Go to
     project_button_prev: Back to
     glossary_related_terms_title: Commonly Confused Terms
