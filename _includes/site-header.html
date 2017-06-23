@@ -1,11 +1,38 @@
-
-<header class="site-header">
+<header class="pre-header">
+  <div class="header--translate">
+    <div role="menu" id="google_translate_element"></div>
+  </div>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-xs-12 col-md-4">
-        <span class="no-logo">{{ site.data.labels.locales[site.locale].intro }}</span>
+      <button id="drawer-button--menu" class="col-xs usa-button mobile-menu-button">{% include _icon.html icon="menu" %}</button>
+      <div class="no-logo start-xs col-xs">
+        <span>{{ site.data.labels.locales[site.locale].intro }}</span>
       </div>
-      <div class="col-xs-12 col-md-8">
+      <div class="control-translate end-xs start-sm col-xs">
+        <span id="drawer-button--translate">Translate</span>
+      </div>
+      <div class="control-search">
+        <span id="drawer-button--search">{% include _icon.html icon="search" %}</span>
+      </div>
+      <div class="header--search end-xs col-xs-12 col-sm-4 col-md-3">
+        <form class="usa-search usa-search-small">
+           <div role="search">
+             <label class="usa-sr-only" for="search-field-small">Search small</label>
+             <input id="search-field-small" type="search" name="search">
+             <button type="submit">
+               <span class="usa-sr-only">Search</span>
+             </button>
+           </div>
+         </form>
+      </div>
+    </div>
+  </div>
+</header>
+
+<header class="site-header">
+  <div class="container">
+    <div class="row">
+      <div class="center-xs col-xs-12">
         <nav>
           <ul>
             <li><a href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>

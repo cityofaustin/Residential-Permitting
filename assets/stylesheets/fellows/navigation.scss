@@ -1,0 +1,276 @@
+
+
+$site-header-height: 6.0rem;
+$pre-header-height: 4.5rem;
+$drawer-width: 28rem;
+
+.pre-header {
+  // height: 10 + $pre-header-height;
+  font-family: $font-sans;
+  z-index: 1;
+  position: relative; // for dropdown
+  box-sizing: border-box;
+  border-top: 10rem solid $color-white;
+  margin-top: -10rem; // to compensate for non-white page pg on inertia scroll to top
+  background: $color-gray-lightest;
+  @media #{$sm-viewport} {
+    background: $color-white;
+  }
+  .no-logo {
+    font-size: 1.1rem;
+    line-height: $pre-header-height / 3;
+    padding: $pre-header-height / 3;
+  }
+  .mobile-menu-button {
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    width: $pre-header-height;
+    max-width: $pre-header-height;
+    height: $pre-header-height;
+    fill: $color-white;
+    color: $color-white;
+    margin-left: -2.5rem;
+    @media #{$sm-viewport} {
+      display: none;
+    }
+    .icon {
+      width: 3.4rem;
+    }
+  }
+  .control-search {
+    margin-right: -2.5rem;
+    span {
+      width: $pre-header-height;
+      max-width: $pre-header-height;
+      height: $pre-header-height;
+      display: inline-block;
+      text-align: center;
+      line-height: 3.5rem;
+      cursor: pointer;
+      fill: $color-primary;
+      .icon {
+        width: 3.4rem;
+      }
+      &:hover {
+        fill: $color-primary-darker;
+      }
+    }
+    @media #{$sm-viewport} {
+      display: none;
+    }
+  }
+  .header--search {
+    font-size: 1.1rem;
+    @media #{$sm-viewport} {
+      height: auto;
+    }
+  }
+  .control-translate {
+    font-size: 1.5rem;
+    text-align: right;
+    line-height: $pre-header-height / 3;
+    padding: $pre-header-height / 3;
+    padding-left: 0;
+    position: relative;
+    flex-grow: 0;
+    span {
+      cursor: pointer;
+      font-weight: 500;
+      &:hover {
+        color: $color-primary-darker;
+      }
+    }
+    &:after {
+      width: 2px;
+      height: $pre-header-height / 2;
+      top: $pre-header-height / 4;
+      position: absolute;
+      right: 2px;
+      content: "";
+      background: $color-gray-lighter;
+      display: block;
+    }
+  }
+}
+.site-header {
+  background: $color-gray-lightest;
+  font-family: $font-sans;
+  z-index: 1;
+  position: relative; // for dropdown
+  display: none;
+  @media #{$sm-viewport} {
+    display: block;
+  }
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      @media #{$md-viewport} {
+      }
+      & > li {
+        text-align: left;
+        margin: 0;
+        padding: 0 $site-header-height / 4;
+        list-style-type: none;
+        display: inline-block;
+        position: relative;
+        line-height: $site-header-height;
+        transition: background .25s;
+        span {}
+        .icon { height: 2rem; }
+        ul {
+          background: $color-gray-lightest;
+          position: absolute;
+          transition: top .25s;
+          left: 0;
+          min-width: 100%;
+          width: auto;
+          overflow: hidden;
+          transition: background .25s, max-height .25s;
+          max-height: 0;
+          li {
+            display: block;
+            line-height: $base-font-size;
+            padding: $site-header-height / 4;
+            white-space: nowrap;
+          }
+        }
+        &:hover,
+        ul:hover {
+          cursor: pointer;
+          background: $color-gray-lighter;
+        }
+        &:hover ul,
+        ul:hover {
+          // limit of 6 items in dropdown lists
+          max-height: 6 * 3 * $base-font-size ; // > 28rem
+          background: $color-gray-lighter;
+        }
+      }
+    }
+  }
+}
+.pre-footer {
+  font-family: $font-sans;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding: 1.5rem 0;
+  background-color: rgba($color-gray-dark, .9);
+}
+
+.site-footer {
+  a {
+    text-decoration: none;
+  }
+  .footer-logo {
+    img {
+      margin-top: 2rem;
+    }
+  }
+  .footer-link-list {
+    ul {
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      list-style-type: none;
+      font-size: rem(14px);
+    }
+    h4 {
+      margin-top: 2rem;
+    }
+  }
+  a.footer-link-list-title {
+    color: $color-barton-light;
+    font-size: rem(16px);
+  }
+
+  /* footer doubles as mobile menu */
+  margin-top: 0;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  position: absolute;
+  left: ( $drawer-width * -1);
+  width: $drawer-width;
+  top: 10 + $pre-header-height; // see border on .pre-header to accomodate for intertia scroll overflow
+  z-index: 1000;
+  min-height: 100%;
+}
+.main {
+  position: relative;
+  left: 0;
+}
+
+// make sure they have the same transitons
+.main, .site-footer {
+  transition: left .25s, top .25s;
+
+  // reset to normal for desktop
+  @media #{$sm-viewport} {
+    position: static;
+    width: auto;
+    min-height: none;
+  }
+}
+
+.header--translate, .header--search {
+  transition: height .25s;
+  height: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.5rem;
+  div[role="menu"],
+  div[role="search"] {
+    padding: .5rem;
+    line-height: 2.5rem;
+  }
+}
+
+.header--search {
+}
+.header--translate {
+  background: $color-gray-lighter;
+  .goog-te-gadget {
+    font-family: $font-sans;
+    color: $color-gray-dark;
+  }
+  .goog-te-gadget-simple {
+    padding: .3rem .5rem; // easier to tap
+    background-color: rgba($color-white, .3);
+    span {
+      color: $color-gray-dark !important;
+    }
+  }
+}
+
+
+// menu open states
+html.drawer-open--menu {
+  .main {
+    left: $drawer-width;
+  }
+  .site-footer {
+    left: 0;
+  }
+}
+
+// easiest if everything is the same height
+html.drawer-open--translate  .header--translate,
+html.drawer-open--search  .header--search {
+  height: $pre-header-height;
+}
+// two rows show
+html.drawer-open--translate,
+html.drawer-open--search {
+  .site-footer {
+    top: 10 + ($pre-header-height * 2);
+  }
+}
+// three rows show
+html.drawer-open--translate.drawer-open--search {
+  .site-footer {
+    top: 10 + ($pre-header-height * 3);
+  }
+
+}
