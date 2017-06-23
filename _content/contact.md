@@ -5,4 +5,5 @@ _hide_content: true
 layout: contact
 in_resources_menu: true
 menu_sort_order: 3
+description: What is this page about?
 ---

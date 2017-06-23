@@ -4,5 +4,6 @@ title: Sample Plans
 layout: sample-plans-index
 in_resources_menu: true
 lead: These are your sample plans!
+description: What is this page about?
 
 ---
