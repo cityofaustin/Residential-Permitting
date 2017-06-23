@@ -5,7 +5,7 @@ project_name: general process
 ---
 
 
-There are a few things you'll need to provide when you apply for a permit. You will need the paper application and some additional documents. The documents you need to submit with your application will depend on the type of project you want to build.
+You will need to provide a paper application and some additional documents when you apply for a permit. The documents you need to submit with your application will depend on the type of project you want to build.
 
 ---
 
