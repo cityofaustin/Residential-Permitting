@@ -56,7 +56,7 @@ If you don't need to be home during your inspection, you must clearly post your 
 
 ## What happens during inspection?
 
-Your inspector will inspect your work based on the approved building plans and their checklists. They will identify any needed improvements.
+The inspector will inspect your work based on the approved building plans and their checklists. They will identify any needed improvements.
 
 * [Framing checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Framing.pdf).
 * [Foundation checklist](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Inspection_Checklist_Foundation.pdf).
@@ -68,13 +68,13 @@ Your inspector is a great source of information and can answer questions about m
 
 ## Final Inspection
 
-Your project is complete once you pass your Final Inspection. Your inspector will email you your Certificate of Occupancy either while they are on your property or when they return to their office. This will close your permit and mark it as complete in city records.
+Your project is complete once you pass your Final Inspection. The inspector will email you your Certificate of Occupancy either while they are on your property or when they return to their office. This will close your permit and mark it as complete in city records.
 
 It is important to close your permit(s). If you don't, it may prevent you or future homeowners from receiving permits on your property. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
 
 #### What if I don't pass my final inspection?
 
-Your inspector will let you know why you did not pass. You may not have passed your inspection because:
+The inspector will let you know why you did not pass. You may not have passed your inspection because:
 
 * You didn't do everything you needed to do in order to pass, like following the reviewer's comments,
 * Or you did something that was not included in the plans.
