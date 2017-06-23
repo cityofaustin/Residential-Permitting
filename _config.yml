@@ -101,12 +101,12 @@ defaults:
     _hide_content: true
     _comments:
       department_name: The department's official name
-      department_link: The url to the department's page on AustinTexas.gov
+      department_link: The url to the department page on AustinTexas.gov or to their own site
       phone: Please use the format 000-000-0000
       email_address: Only a real email address, such as office@austintexas.gov
       contact_form_url: Only a link to a contact form http://www.austintexas.gov/email/
       period_name: e.g., "General questions" or "By appointment only"
-      period_time_markdown: Open-Close days and times, new lines OK
+      period_time_markdown: e.g., "Monday through Friday, 8am to 5pm"
 
 # for document and plan libraries
 - scope:

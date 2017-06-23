@@ -56,8 +56,7 @@ locales:
     glossary_source_title: Source
     glossary_link_prefix: Read more about
     glossary_sidebar_link: Learn more
-    department_link_prefix: Visit
-    department_link_suffix: on austintexas.gov
+    department_link_prefix: Learn more about
     diagram_download_link_prefix: Download a sample
     resource_download_link_prefix: Download
     resource_last_revision_prefix: Updated
