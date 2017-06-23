@@ -1,12 +1,15 @@
 ---
 title: Shed Floor Plan
-description: Brief description of this form or document
-date: 2017-06-14
-project: shed
+description: Here is an example of a Shed Floor plan.
+date: 2017-06-14 00:00:00
+project:
 diagram_type: floor-plan
 file_path: /assets/img/diagrams/shed/shed-floor-plan.png
 ---
+
+
 #### Your floor plan must include:
+
 * Each floor with labeled rooms, closets, and bathrooms
 * Square footage of rooms and residence
 * Existing / New walls
@@ -15,4 +18,3 @@ file_path: /assets/img/diagrams/shed/shed-floor-plan.png
 * Door size and type and direction of door swing
 * Comment about smoke detectors must be present
 * Drawing scale
-
