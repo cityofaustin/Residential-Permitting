@@ -67,6 +67,26 @@ layout: default
 <section class="container container-fluid page-section">
   <div class="row center-xs">
     <div class="col-xs-10 col-sm-8 ">
+      <h2>{{ page.toolkit_title }}</h2>
+			<p>{{ page.toolkit_summary_markdown | markdownify }}</p>
+    </div>
+  </div>
+  <div class="row center-xs">
+		{% for resource in toolkit_pages limit:3 %}
+			{% include tiles-articles.html tile=resource %}
+		{% endfor %}
+  </div>
+	<div class="row center-xs button-row">
+		<div class="col-xs-10">
+			<a class="usa-button" href="{{ site.url }}{{ page.toolkit_list_url }}" }}>{{ page.projects_button_text }}</a>
+		</div>
+	</div>
+</section>
+
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 ">
       <h2>{{ page.resources_title }}</h2>
 			<p>{{ page.resources_summary_markdown | markdownify }}</p>
     </div>
@@ -79,26 +99,6 @@ layout: default
 	<div class="row center-xs button-row">
 		<div class="col-xs-10">
 			<a class="usa-button" href="{{ site.url }}{{ page.resources_list_url }}" }}>{{ page.projects_button_text }}</a>
-		</div>
-	</div>
-</section>
-
-
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 ">
-      <h2>{{ page.toolkit_title }}</h2>
-			<p>{{ page.toolkit_summary_markdown | markdownify }}</p>
-    </div>
-  </div>
-  <div class="row center-xs">
-		{% for resource in toolkit_pages limit:6 %}
-			{% include tiles-small.html tile=resource %}
-		{% endfor %}
-  </div>
-	<div class="row center-xs button-row">
-		<div class="col-xs-10">
-			<a class="usa-button" href="{{ site.url }}{{ page.toolkit_list_url }}" }}>{{ page.projects_button_text }}</a>
 		</div>
 	</div>
 </section>

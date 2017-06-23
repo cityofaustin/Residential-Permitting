@@ -128,7 +128,7 @@ defaults:
 _comments:
   title: Title for this page (shows up in SEO) (required)
   menu_sort_order: Order this page shows up in any nav menus
-
+  excerpt: If you don't define one here, the site will use your first content paragraph. If you define one, please keep it under about 155 characters.  
 description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
