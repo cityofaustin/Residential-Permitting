@@ -1,5 +1,6 @@
 {% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
 {% for project in project_pages limit: limit %}
+{% unless project.hide_project_from_homepage == true and page.layout == "home" %}
 <div class="tile tile--project col-xs-10 col-sm-6 col-md-4">
   <div class="tile-outline">
 		<object class="block-illustration" alt="{{ project.project_name | capitalize }} illustration" data="{{ site.url }}/assets/img/projects/{{ project.project_name  | slugify }}.svg" type="image/svg+xml">
@@ -12,4 +13,5 @@
     <a class="tile-link" href="{{ site.url }}{{ project.url }}"></a>
   </div>
 </div>
+{% endunless %}
 {% endfor %}
