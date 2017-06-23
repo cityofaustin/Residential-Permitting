@@ -1,12 +1,15 @@
 ---
 title: Shed Plot Plan
-description: Brief description of this form or document
-date: 2017-06-14
-project: shed
+description: Here is an example of a Shed Plot Plan.
+date: 2017-06-14 00:00:00
+project:
 diagram_type: plot-plan
 file_path: /assets/img/diagrams/shed/shed-plot-plan.png
 ---
+
+
 ###### Your plot plan must include:
+
 * Property line with bearings and dimensions
 * Required setbacks
 * Roof overhang
@@ -24,5 +27,3 @@ file_path: /assets/img/diagrams/shed/shed-plot-plan.png
 * Related zoning / board of adjustment case numbers
 * Front yard impervious cover
 * Garage facade percentage
-
-
