@@ -12,11 +12,25 @@ var initSidebars = function() {
 
 
 
-var initMobileMenu = function() {
-  var drawerButton = $('#drawer-button');
-  drawerButton.click(function () {
-    $("html").toggleClass("drawer-open");
+var initMobileMenus = function() {
+
+  var html = $("html");
+
+  var menuButton = $("#drawer-button--menu");
+  menuButton.click(function () {
+    html.toggleClass("drawer-open--menu");
   });
+
+  var translateButton = $("#drawer-button--translate");
+  translateButton.click(function () {
+    html.toggleClass("drawer-open--translate");
+  });
+
+  var searchButton = $("#drawer-button--search");
+  searchButton.click(function () {
+    html.toggleClass("drawer-open--search");
+  });
+
 }
 
 
@@ -31,7 +45,7 @@ var initProjectMenu = function() {
 
 
 $(document).ready(function(){
-  initMobileMenu();
+  initMobileMenus();
   initSidebars();
   initProjectMenu();
 

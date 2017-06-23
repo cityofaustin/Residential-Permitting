@@ -38,22 +38,57 @@ $drawer-width: 28rem;
       width: 3.4rem;
     }
   }
-  .control-google-translate {
-    font-size: 1.1rem;
-    text-align: right;
+  .control-search {
+    margin-right: -2.5rem;
+    span {
+      width: $pre-header-height;
+      max-width: $pre-header-height;
+      height: $pre-header-height;
+      display: inline-block;
+      text-align: center;
+      line-height: 3.5rem;
+      cursor: pointer;
+      fill: $color-primary;
+      .icon {
+        width: 3.4rem;
+      }
+      &:hover {
+        fill: $color-primary-darker;
+      }
+    }
     @media #{$sm-viewport} {
-      text-align: left;
+      display: none;
     }
   }
-  .control-search {
-    a {}
-  }
-  .header-search {
+  .header--search {
     font-size: 1.1rem;
+    @media #{$sm-viewport} {
+      height: auto;
+    }
+  }
+  .control-translate {
+    font-size: 1.5rem;
+    text-align: right;
     line-height: $pre-header-height / 3;
     padding: $pre-header-height / 3;
-    display: none;
-    @media #{$sm-viewport} {
+    padding-left: 0;
+    position: relative;
+    flex-grow: 0;
+    span {
+      cursor: pointer;
+      font-weight: 500;
+      &:hover {
+        color: $color-primary-darker;
+      }
+    }
+    &:after {
+      width: 2px;
+      height: $pre-header-height / 2;
+      top: $pre-header-height / 4;
+      position: absolute;
+      right: 2px;
+      content: "";
+      background: $color-gray-lighter;
       display: block;
     }
   }
@@ -158,7 +193,7 @@ $drawer-width: 28rem;
   position: absolute;
   left: ( $drawer-width * -1);
   width: $drawer-width;
-  top: $pre-header-height;
+  top: 10 + $pre-header-height; // see border on .pre-header to accomodate for intertia scroll overflow
   z-index: 1000;
   min-height: 100%;
 }
@@ -166,9 +201,10 @@ $drawer-width: 28rem;
   position: relative;
   left: 0;
 }
+
 // make sure they have the same transitons
 .main, .site-footer {
-  transition: left .25s;
+  transition: left .25s, top .25s;
 
   // reset to normal for desktop
   @media #{$sm-viewport} {
@@ -177,11 +213,64 @@ $drawer-width: 28rem;
     min-height: none;
   }
 }
-html.drawer-open {
+
+.header--translate, .header--search {
+  transition: height .25s;
+  height: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.5rem;
+  div[role="menu"],
+  div[role="search"] {
+    padding: .5rem;
+    line-height: 2.5rem;
+  }
+}
+
+.header--search {
+}
+.header--translate {
+  background: $color-gray-lighter;
+  .goog-te-gadget {
+    font-family: $font-sans;
+    color: $color-gray-dark;
+  }
+  .goog-te-gadget-simple {
+    padding: .3rem .5rem; // easier to tap
+    background-color: rgba($color-white, .3);
+    span {
+      color: $color-gray-dark !important;
+    }
+  }
+}
+
+
+// menu open states
+html.drawer-open--menu {
   .main {
     left: $drawer-width;
   }
   .site-footer {
     left: 0;
   }
+}
+
+// easiest if everything is the same height
+html.drawer-open--translate  .header--translate,
+html.drawer-open--search  .header--search {
+  height: $pre-header-height;
+}
+// two rows show
+html.drawer-open--translate,
+html.drawer-open--search {
+  .site-footer {
+    top: 10 + ($pre-header-height * 2);
+  }
+}
+// three rows show
+html.drawer-open--translate.drawer-open--search {
+  .site-footer {
+    top: 10 + ($pre-header-height * 3);
+  }
+
 }
