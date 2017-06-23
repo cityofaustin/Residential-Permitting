@@ -18,11 +18,5 @@ physical_address_markdown: |-
   <br>301 West 2nd Street
   <br>Austin, TX
   <br>78701
-
-mailing_address_markdown: |-
-    <br>**City of Austin**
-    P.O Box 1088<br>
-    <br>Austin, TX
-    <br>78767-1088
 _hide_content: true
 ---
