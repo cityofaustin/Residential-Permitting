@@ -1,6 +1,6 @@
 ---
 title: Shed Elevation Diagram
-description: Here is an example of a Shed Elevation Diagram.
+description: Here is an example of a Shed Elevation plan.
 date: 2017-06-14 00:00:00
 project:
 diagram_type: elevation-plan
