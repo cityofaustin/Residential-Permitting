@@ -98,6 +98,16 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 
 Small changes, like converting a bathtub to shower or vice-versa, that don’t require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permit).
 
+### How much do building permits cost?
+
+The cost for permitting a project starts at $200 and goes up depending on your project’s specific needs. This includes the plan review, the permit itself, your inspections, and fees.
+
+There will be additional charges if your project requires a trade permit, like an electrical or plumbing permit, if you are building near a tree, or if your home is in a historic neighborhood. Your reviewer can explain the costs during your in-person consultation.
+
+### Make sure you can get a permit
+
+You may not be able to get a new permit right away if your property currently has an open or expired permit. You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your materials or design.
+
 ---
 
 ## You may need a consultation to determine your project requirements
