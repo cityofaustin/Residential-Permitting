@@ -2,8 +2,8 @@
 title: Residential Permitting
 description: 'in Austin, Texas'
 layout: home
-header_title: Austin Approved
-header_subtitle: A Residential Permitting Resource
+header_title: Residential Permitting
+header_subtitle: 'in Austin, Texas'
 header_photo: /assets/img/photos/homepage-header.jpg
 header_excerpt: The City of Austin guides residential development to promote safe and sustainable growth.
 header_photo_credit_name: Karl Metzelear •
