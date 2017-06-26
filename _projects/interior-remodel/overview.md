@@ -1,6 +1,6 @@
 ---
 title: Interior Remodel Permit Overview
-excerpt: The process of fixing or updating appearance or functionality within an existing home without adding or removing square footage to your home
+excerpt: The process of fixing or updating appearance or functionality within an existing home without adding or removing square footage.
 project_name: interior remodel
 in_projects_menu: true
 menu_sort_order: 2
