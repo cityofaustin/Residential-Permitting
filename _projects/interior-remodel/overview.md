@@ -5,7 +5,7 @@ project_name: interior remodel
 in_projects_menu: true
 menu_sort_order: 2
 step_number: 0
-overview_of_steps_markdown: 'This is a preview to the permitting process for interior remodels and can be used as a checklist throughout your project. The cost for permitting an interior remodel depends on the type of work done to the home.&nbsp;'
+overview_of_steps_markdown: 'This is a preview of the permitting process for interior remodels and can be used as a checklist throughout your project. The cost for permitting an interior remodel depends on the type of work done to the home.&nbsp;'
 permalink: /projects/interior-remodel/
 prefooter_text: "Looking for all the applications and forms you might need for permitting an interior remodel? We've got you covered."
 prefooter_link_text: Download all interior remodel documents
