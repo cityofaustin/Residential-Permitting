@@ -23,4 +23,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "fastimage"
    gem "jekyll-last-modified-at"
+   gem "jekyll-sitemap"
 end

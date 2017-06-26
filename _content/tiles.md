@@ -1,6 +1,8 @@
 ---
 title: Tiles Inventory
 layout: default
+sitemap: false
+
 ---
 {% include setup-pages.html %}
 

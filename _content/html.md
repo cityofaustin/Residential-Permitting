@@ -1,5 +1,7 @@
 ---
 title: Style Guide (work in progress)
+sitemap: false
+
 ---
 
 ## Introduction
