@@ -142,7 +142,17 @@ gems:
   - jekyll-feed
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - algoliasearch-jekyll
 
+# Search settings
+algolia:
+  application_id: 'DNCR2D4VTX'
+  index_name:     'residential-permitting'
+  excluded_files:
+    - _content/html.md
+    - _content/seo-sitemap.md
+    - _content/tiles.md
+       
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir: assets/stylesheets/
