@@ -5,7 +5,7 @@ project_name: deck
 in_projects_menu: true
 menu_sort_order: 3
 step_number: 0
-overview_of_steps_markdown: Follow these steps to get your deck permit.
+overview_of_steps_markdown: 'This is a preview of the permitting process for decks and can be used as a checklist throughout your project. The cost for permitting an interior remodel depends on the type of work done to the home.&nbsp;'
 permalink: /projects/deck/
 prefooter_text: "Looking for all the applications and forms you might need for permitting a deck? We've got you covered."
 prefooter_link_text: Download all deck documents
