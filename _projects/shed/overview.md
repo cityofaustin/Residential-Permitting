@@ -1,6 +1,6 @@
 ---
 title: Shed Permit Overview
-excerpt: 'A simple, enclosed structure that is physically detached from your house and that will be used for storage.'
+excerpt: 'A simple, enclosed structure that is physically detached from your house and that will be used for storage'
 project_name: shed
 in_projects_menu: true
 menu_sort_order: 1
@@ -19,3 +19,5 @@ _comments:
   prefooter_link_text: button text for bottom of overview
   prefooter_link_path: url to file or page where the button should link
 ---
+
+
