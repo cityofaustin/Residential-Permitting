@@ -1,6 +1,6 @@
 ---
 title: Project Permit Overview
-excerpt:
+excerpt: A detailed look into the residential permitting process in the City of Austin
 project_name: general process
 in_projects_menu: true
 hide_project_from_homepage: true
@@ -17,3 +17,5 @@ _comments:
   prefooter_link_text: button text for bottom of overview
   prefooter_link_path: url to file or page where the button should link
 ---
+
+
