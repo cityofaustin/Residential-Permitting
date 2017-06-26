@@ -1,9 +1,8 @@
 ---
 title: Glossary
-# landing page for glossary entries
 layout: glossary-index
 in_resources_menu: true
 menu_sort_order: 2
-lead: This is a glossary page!
-description: What is this page about?
+lead: Use this page to learn about commonly used permitting terms.
+description: Commonly Used Terms
 ---
