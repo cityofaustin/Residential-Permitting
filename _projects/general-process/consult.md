@@ -5,7 +5,7 @@ project_name: general process
 ---
 
 
-To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
+To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information allows the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
 
@@ -24,7 +24,7 @@ Have the following information ready for your consultation:
 * Do you have any on trees larger than 19 inches in diameter on your property?
 * Is your home more than 40 years old?
 
-### 2. If possible, bring your property survey if possible
+### 2. If possible, bring your property survey
 
 Your property survey, also called a cadastral survey, isn’t required at consultation but will let the reviewer know whether you can move forward as planned. Property surveys give them insight into details like:
 
