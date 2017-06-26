@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-<section class="container container-fluid page-section">
+<div class="container container-fluid page-layout">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-      <h1>{{ page.projects_title }}</h1>
+    <div class="col-xs-10 col-sm-8">
+      <h1 class="page-title">{{ page.title }}</h1>
       <div class="lead">
-        {{ page.projects_summary_markdown | markdownify }}
+        {{ page.projects_summary_markdown | markdownify }}</div>
       </div>
     </div>
   </div>
+<section class="container container-fluid page-section">
   <div class="row center-xs">
     {% include tiles-projects.html %}
   </div>
