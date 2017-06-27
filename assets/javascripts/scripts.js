@@ -30,6 +30,10 @@ var initMobileMenus = function() {
   searchButton.click(function () {
     html.toggleClass("drawer-open--search");
   });
+  var cancelSearchButton = $("#cancel-button--search");
+  cancelSearchButton.click(function () {
+    html.toggleClass("drawer-open--search");
+  });
 
 }
 

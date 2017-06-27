@@ -16,10 +16,33 @@ $drawer-width: 28rem;
   @media #{$sm-viewport} {
     background: $color-white;
   }
+  .container-fluid {
+    padding-right: .5em;
+    padding-left: .5em;
+    @media #{$sm-viewport} {
+      padding-right: 2em;
+      padding-left: 2em;
+    }
+  }
   .no-logo {
     font-size: 1.1rem;
     line-height: $pre-header-height / 3;
-    padding: $pre-header-height / 3;
+    align-self: center;
+    display: none;
+    @media #{$sm-viewport} {
+      display: block;
+    }
+  }
+  .mobile-site-title {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    padding: 0 $pre-header-height / 3;
+    font-weight: bold;
+    font-size: 1.5rem;
+    align-self: center;
+    @media #{$sm-viewport} {
+      display: none;
+    }
   }
   .mobile-menu-button {
     border-radius: 0;
@@ -30,7 +53,6 @@ $drawer-width: 28rem;
     height: $pre-header-height;
     fill: $color-white;
     color: $color-white;
-    margin-left: -2.5rem;
     @media #{$sm-viewport} {
       display: none;
     }
@@ -39,14 +61,14 @@ $drawer-width: 28rem;
     }
   }
   .control-search {
-    margin-right: -2.5rem;
+    align-self: center;
     span {
       width: $pre-header-height;
       max-width: $pre-header-height;
       height: $pre-header-height;
       display: inline-block;
+      padding: .65rem;
       text-align: center;
-      line-height: 3.5rem;
       cursor: pointer;
       fill: $color-primary;
       .icon {
@@ -62,12 +84,43 @@ $drawer-width: 28rem;
   }
   .header--search {
     font-size: 1.1rem;
+    align-self: center;
+    overflow-x: visible;
     @media #{$sm-viewport} {
       height: auto;
+      position: static;
+    }
+    .usa-search.usa-search-small {
+      [type="submit"],
+      .usa-search-submit {
+        width: 3.3rem;
+      }
+      [type="search"],
+      .usa-search-input{
+        max-width: calc(100% - 8.5rem);
+        @media #{$sm-viewport} {
+          max-width: none;
+          width: calc(100% - 3.3rem);
+        }
+      }
     }
   }
+  .header--search-cancel {
+    font-size: 1.3rem;
+    float: right;
+    line-height: 3.5rem;
+    padding-left: 0;
+    display: block;
+    cursor: pointer;
+    &:hover {
+      color: $color-gray-medium;
+    }
+    @media #{$sm-viewport} {
+    display: none;
+  }
+  }
   .control-translate {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-align: right;
     line-height: $pre-header-height / 3;
     padding: $pre-header-height / 3;
@@ -236,6 +289,8 @@ $drawer-width: 28rem;
 }
 
 .header--search {
+  .usa-search {
+  }
 }
 .header--translate {
   background: $color-gray-lighter;

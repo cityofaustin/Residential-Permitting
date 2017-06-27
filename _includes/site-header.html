@@ -8,6 +8,9 @@
       <div class="no-logo start-xs col-xs">
         <span>{{ site.data.labels.locales[site.locale].intro }}</span>
       </div>
+      <div class="mobile-site-title start-xs col-xs">
+        <span>{{ site.data.labels.locales[site.locale].site_title }}</span>
+      </div>
       <div class="control-translate end-xs start-sm col-xs">
         <span id="drawer-button--translate">Translate</span>
       </div>
@@ -16,14 +19,16 @@
       </div>
       <div class="header--search end-xs col-xs-12 col-sm-4 col-md-3">
         <form class="usa-search usa-search-small">
-           <div role="search">
-             <label class="usa-sr-only" for="header-search-box">Search small</label>
-             <input id="header-search-box" type="search" name="q">
-             <button type="submit">
-               <span class="usa-sr-only">Search</span>
-             </button>
-           </div>
-         </form>
+          <div role="search">
+            <span class="header--search-cancel" id="cancel-button--search">{{ site.data.labels.locales[site.locale].cancel_search }}</span>
+            <label class="usa-sr-only" for="header-search-box">{{ site.data.labels.locales[site.locale].search_label }}</label>
+            <input id="header-search-box" type="search" name="q" placeholder="{{ site.data.labels.locales[site.locale].search_placeholder }}">
+            <button type="submit">
+              <span class="usa-sr-only">{{ site.data.labels.locales[site.locale].default_submit_label }} {{ site.data.labels.locales[site.locale].search_label }}</span>
+            </button>
+
+          </div>
+        </form>
       </div>
     </div>
   </div>
