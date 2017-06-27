@@ -5,6 +5,7 @@ section {
 .section--inverted {
   background: $color-gray-dark;
   color: $color-white;
+  -webkit-font-smoothing: antialiased;
   a { color: inherit; }
 }
 

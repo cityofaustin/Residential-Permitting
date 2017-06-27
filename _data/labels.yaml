@@ -65,7 +65,8 @@ locales:
     lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix:
     glossary_definition_header_suffix: definition
-    prefooter_text: "I'm text for the prefooter"
+    prefooter_credits_prefix: "Made by the City of Austin"
+    prefooter_credits_suffix: "Department of Development Services with the Center for Design, Technology, & Innovation"
     search_placeholder: "Search for something"
     search_results_found: "Search results for"
     search_no_results_found: "We found no results for"

@@ -1,12 +1,3 @@
-<footer class="pre-footer section--inverted">
-  <div class="container container-fluid">
-    <div class="row center-xs">
-      <span>{{ site.data.labels.locales[site.locale].prefooter_text }}</span>
-    </div>
-  </div>
-</footer>
-
-</footer>
 <footer id="footer-drawer" class="site-footer section--inverted">
   <div class="container container-fluid">
     <div class="row start-sm">
@@ -46,6 +37,18 @@
     </div>
   </div>
 </footer>
+<footer class="mini-footer section--inverted main">
+  <div class="container container-fluid">
+    <div class="row center-xs end-sm">
+      <div class="footer-credits center-xs end-sm">
+        <span class="footer-credits-prefix">{{ site.data.labels.locales[site.locale].prefooter_credits_prefix }} </span>
+        {{ site.data.labels.locales[site.locale].prefooter_credits_suffix }}
+      </div>
+    </div>
+  </div>
+</footer>
+
+
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,ko,my,vi,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');

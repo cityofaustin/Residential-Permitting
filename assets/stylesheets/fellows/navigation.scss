@@ -206,13 +206,6 @@ $drawer-width: 28rem;
     }
   }
 }
-.pre-footer {
-  font-family: $font-sans;
-  font-size: 1.5rem;
-  font-weight: 400;
-  padding: 1.5rem 0;
-  background-color: rgba($color-gray-dark, .9);
-}
 
 .site-footer {
   a {
@@ -247,6 +240,7 @@ $drawer-width: 28rem;
     font-weight: $font-medium;
     letter-spacing: 1px;
     text-transform: uppercase;
+    -webkit-font-smoothing: subpixel-antialiased;
   }
 
   /* footer doubles as mobile menu */
@@ -258,7 +252,7 @@ $drawer-width: 28rem;
   width: $drawer-width;
   top: 10 + $pre-header-height; // see border on .pre-header to accomodate for intertia scroll overflow
   z-index: 1000;
-  min-height: 100%;
+  height: calc(100% - (10rem + #{$pre-header-height}));
 }
 .main {
   position: relative;
@@ -330,12 +324,30 @@ html.drawer-open--translate,
 html.drawer-open--search {
   .site-footer {
     top: 10 + ($pre-header-height * 2);
+    height: calc(100% - (10rem + (#{$pre-header-height} * 2)));
   }
 }
 // three rows show
 html.drawer-open--translate.drawer-open--search {
   .site-footer {
     top: 10 + ($pre-header-height * 3);
+    height: calc(100% - (10rem + (#{$pre-header-height} * 3)));
   }
+}
 
+
+.mini-footer .footer-credits{
+  font-family: $font-sans;
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 1.5rem 0;
+  .footer-credits-prefix {
+    font-weight: 500;
+    margin-right: .5rem;
+    -webkit-font-smoothing: subpixel-antialiased;
+
+    &:before {
+      content: "";
+    }
+  }
 }
