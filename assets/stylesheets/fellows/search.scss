@@ -1,0 +1,78 @@
+.hit {
+  border-bottom: 2px solid $color-gray-lighter;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.ais-hits--item:last-child .hit {
+  border-bottom: none;
+}
+.hit-content {}
+.hit-name {}
+.hit-description {}
+.algolia__result-highlight {
+  font-weight: bold;
+  color: $color-gray-dark;
+}
+a .algolia__result-highlight {
+  color: inherit;
+}
+
+$algolia-search-selector: ais-pagination;
+
+
+.#{$algolia-search-selector}  {
+  font-family: $font-sans;
+  font-weight: 500;
+  clear: both;
+  text-align: center;
+  width: auto;
+  display: flex;
+  flex-flow: row nowrap;
+  padding-left: 0;
+  line-height: 42px;
+  justify-content: center;
+  margin: 8rem auto;
+  font-size: 1.7rem;
+
+  .#{$algolia-search-selector}--item {
+    display: inline-block; /* fallback */
+    display: flex;
+    margin-bottom: 0;
+    line-height: 42px;
+    height: 48px;
+    box-sizing: border-box;
+
+    .#{$algolia-search-selector}--link {
+      min-width: 40px;
+      padding: 0 .2rem;
+      border: 3px solid $color-gray-lightest;
+      margin-right: -3px;
+      text-decoration: none;
+      display: inline-block;
+      color: $color-primary;
+    }
+    &.#{$algolia-search-selector}--item__previous,
+    &.#{$algolia-search-selector}--item__next {
+      .#{$algolia-search-selector}--link {
+        font-size: 1.3rem;
+        padding: 0 1rem;
+      }
+    }
+    .#{$algolia-search-selector}--link:active,
+    .#{$algolia-search-selector}--link:hover {
+      position: relative;
+      border-color: $color-primary-darker;
+    }
+    &.#{$algolia-search-selector}--item__active .#{$algolia-search-selector}--link {
+      border-color: $color-primary-darker;
+      background-color: $color-primary;
+      color: $color-white;
+      position: relative;
+    }
+    &.#{$algolia-search-selector}--item__disabled .#{$algolia-search-selector}--link {
+      color: $color-gray-lighter;
+      border-color: $color-gray-lightest;
+      pointer-events: none;
+    }
+  }
+}
