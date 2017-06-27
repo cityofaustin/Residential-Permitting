@@ -33,7 +33,7 @@ layout: default
             <h5><i>{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ document.last_modified_at | date: '%B %e, %Y' }}</i></h5>
 
             <a class="usa-button usa-button-outline read-more" data-doctype="{{ document.document_type }}" target="_blank" href="{{ site.url }}{{ document.file_path }}">
-              {{ site.data.labels.locales[site.locale].resource_download_link_prefix }}{{ document.title | downcase }}
+              {{ site.data.labels.locales[site.locale].resource_download_link_prefix }} {{ document.title | downcase }}
             </a>
           </div>
         </div>

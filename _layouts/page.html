@@ -9,7 +9,7 @@ layout: default
         <p class="lead">{{ page.lead }}</p>
       {% endunless %}
       {% unless page.date == false %}
-        <h5 class="date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }}{{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
+        <h5 class="date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
       {% endunless %}
     </div>
   </div>
