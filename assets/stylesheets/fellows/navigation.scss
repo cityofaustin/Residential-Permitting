@@ -67,7 +67,9 @@ $drawer-width: 28rem;
     }
   }
   .control-translate {
-    font-size: 1.5rem;
+    font-family: $font-sans;
+    font-size: 1.3rem;
+    font-weight: $font-normal;
     text-align: right;
     line-height: $pre-header-height / 3;
     padding: $pre-header-height / 3;
