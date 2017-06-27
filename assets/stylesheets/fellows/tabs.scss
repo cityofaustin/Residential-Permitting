@@ -23,11 +23,11 @@
   @include button-unstyled;
   text-align: center;
   background: $color-barton-lightest;
-  color: $color-gray;
+  color: $color-gray-dark;
   cursor: pointer;
   display: inline-block;
   font-family: $font-sans;
-  font-weight: $font-normal;
+  font-weight: $font-bold;
   margin: 0;
   padding: 1.5rem 3rem;
   width: 33.33%;
