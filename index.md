@@ -3,7 +3,7 @@ title: City of Austin Residential Permitting
 description: 'in Austin, Texas'
 layout: home
 header_title: Residential Permitting
-header_subtitle: An official City of Austin resource
+header_subtitle: An official resource of the City of Austin
 header_photo: /assets/img/photos/homepage-header.jpg
 header_excerpt:
 header_photo_credit_name: Karl Metzelear •

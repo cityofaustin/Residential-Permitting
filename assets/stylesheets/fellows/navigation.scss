@@ -185,6 +185,14 @@ $drawer-width: 28rem;
     color: $color-barton-light;
     font-size: rem(16px);
   }
+  a.footer-link-list-view-all {
+    color: $color-white;
+    font-family: $font-sans;
+    font-size: rem(11px);
+    font-weight: $font-medium;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
 
   /* footer doubles as mobile menu */
   margin-top: 0;

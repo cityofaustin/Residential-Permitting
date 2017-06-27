@@ -4,7 +4,7 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    intro: An official website of the City of Austin.
+    intro: This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).
     projects: Projects
     resources: Resources
     toolkit: Residential Toolkit
