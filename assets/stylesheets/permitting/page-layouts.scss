@@ -270,27 +270,25 @@
 }
 
 
-/* ARTICLE PAGES */
-.page-layout {
-  h1.page-title {
-    text-align: center;
-    margin-top: 10rem;
-    width: 100%;
-    &:after {
-      border-bottom: 8px solid $color-barton-light;
-      content: "";
-      display: block;
-      width: 4rem;
-      margin: 1.5rem auto;
-    }
-  }
-  .date {
-    color: $color-gray-light;
-    font-size: rem(15px);
-    font-weight: normal;
-    margin-bottom: 4rem;
+h1.page-title {
+  text-align: center;
+  margin-top: 10rem;
+  width: 100%;
+  &:after {
+    border-bottom: 8px solid $color-barton-light;
+    content: "";
+    display: block;
+    width: 4rem;
+    margin: 1.5rem auto;
   }
 }
+.date {
+  color: $color-gray-light;
+  font-size: rem(15px);
+  font-weight: normal;
+  margin-bottom: 4rem;
+}
+
 
 /* CONTACT PAGE */
 .layout--contact {
