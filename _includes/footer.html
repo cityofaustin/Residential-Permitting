@@ -20,7 +20,7 @@
             {% for project in project_pages limit: 3 %}
               <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
             {% endfor %}
-            <li><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].projects }}</a></li>
+            <li><a class="footer-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].projects }}</a></li>
           </ul>
         </div>
 
@@ -30,7 +30,7 @@
             {% for page in toolkit_pages limit: 3 %}
               <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].toolkit }}</a></li>
+            <li><a class="footer-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].toolkit }}</a></li>
           </ul>
         </div>
 
@@ -40,7 +40,7 @@
             {% for page in resource_pages limit: 3 %}
               <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].resources }}</a></li>
+            <li><a class="footer-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].resources }}</a></li>
           </ul>
       </div>
     </div>
