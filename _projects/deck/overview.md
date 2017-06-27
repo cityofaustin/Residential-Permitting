@@ -5,7 +5,7 @@ project_name: deck
 in_projects_menu: true
 menu_sort_order: 3
 step_number: 0
-overview_of_steps_markdown: 'This is a preview of the permitting process for decks and can be used as a checklist throughout your project. The cost for permitting a deck depends on size and if it adds to to the impervious cover on your property.&nbsp;&nbsp;'
+overview_of_steps_markdown: "This is a preview of the permitting process for a deck and can be used as a checklist throughout your project. The cost for permitting a deck depends on size and if it's near a protected tree. The permitting costs for decks under1750 square feet in size that aren't near a protected tree is $584.48. The cost includes the plan review, the permit itself, and inspections. There is an additional $65 fee for failed inspections. &nbsp;&nbsp;&nbsp;"
 permalink: /projects/deck/
 prefooter_text: "Looking for all the applications and forms you might need for permitting a deck? We've got you covered."
 prefooter_link_text: Download all deck documents
