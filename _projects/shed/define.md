@@ -23,8 +23,40 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -65,10 +97,42 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >-
       **What is a setback?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -105,9 +169,41 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       When there is an easement on your lot and you choose to build on the
       easement, you run the risk of future fines or possible demolishment of your
       shed if the city needs to access your easement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -146,8 +242,40 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Rooftops, driveways, parking lots, and other man-made or stone surfaces
       that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -187,6 +315,22 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
@@ -206,6 +350,8 @@ Projects that have the same requirements as a shed include: greenhouses, worksho
 ## Requirements for all sheds
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
+
+![](/uploads/versions/easement-setback-impervious-cover---x----683-399x---.png)
 
 {% include tabs.html %}
 
