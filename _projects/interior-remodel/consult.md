@@ -15,6 +15,8 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 1. Collect the following information:
 
+---
+
 Make sure can answer the following questions about your interior remodel and new additions.
 
 * Are you moving any interior walls?
