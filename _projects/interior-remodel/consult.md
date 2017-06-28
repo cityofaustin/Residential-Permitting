@@ -29,6 +29,8 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 2. Fill out the property and profile cards.
 
+Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
+
 ---
 
 ## 3. If possible, bring your property survey.
