@@ -31,8 +31,6 @@ Use a separate page for:
 * Existing walls and features that will remain,&nbsp;
 * Your proposed floor plan.
 
-See Examples
-
 ### 4. Elevation Plan
 
 The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See Examples
