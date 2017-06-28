@@ -69,7 +69,7 @@ Sketch the shed you will build and include its dimensions and any windows or doo
 
 {% include diagram.html diagram="layout-sketch" %}
 
-## How can you get a free in-person consultation?
+## How can you get a Free In-Person Consultation?
 
 All consultations take place at Residential Plan Review at One Texas Center. You can have up to 3 free 20 minute in-person consultations.
 
