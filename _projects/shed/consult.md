@@ -35,7 +35,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 * Your [easements](/residential-toolkit/glossary/easement): be aware of any easements on your property to avoid potential issues with your shed.
 * Your [impervious cover](/residential-toolkit/glossary/impervious-cover): regulated to help prevent flooding.
 
-> ##### What is a property survey?
+> ###### What is a property survey?
 >
 > {% include glossary-definition.html term="property survey" %}
 
