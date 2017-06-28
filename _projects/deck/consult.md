@@ -56,7 +56,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ---
 
-## 3. Draw a few simple sketches of your deck and your property.
+## 3. Draw a few simple sketches of your deck and property.
 
 Sketches give reviewers a clear picture of your project and help them determine whether or not you can move forward as planned. Please bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can tell:
 
