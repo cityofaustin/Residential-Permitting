@@ -28,7 +28,7 @@ Make sure can answer the following questions about your interior remodel and new
 
 ---
 
-## 2. If possible, bring your property survey&nbsp;
+## 2. If possible, bring your property survey. &nbsp;
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
