@@ -72,7 +72,7 @@ Your project is complete once you pass your Final Inspection. The inspector will
 
 It is important to close your permit(s). If you don't, it may prevent you or future homeowners from receiving permits on your property. Learn more about [open and expired permits](/residential-toolkit/can-i-get-a-permit/).
 
-#### What if I don't pass my final inspection?
+### What if I don't pass my final inspection?
 
 The inspector will let you know why you did not pass. You may not have passed your inspection because:
 
