@@ -82,7 +82,7 @@ You will need a trade permit if your project includes:
 
 Your contractor is responsible for getting the required permits if you install or replace your hot water heater.
 
-#### Tree Permit
+### Tree Permit
 
 You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.
 
