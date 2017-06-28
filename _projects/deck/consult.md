@@ -17,6 +17,8 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 1. Collect the following information:
 
+---
+
 * What is the address where you will build the deck?
 * Is your deck:
   * Attached to your home?
@@ -30,7 +32,7 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ---
 
-## 2. If possible, bring your property survey
+## 2. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
