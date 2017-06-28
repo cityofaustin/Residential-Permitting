@@ -30,9 +30,9 @@ Remember that you can't officially submit your permit application to the reviewe
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-* Setbacks: make sure you don’t build in your setbacks to avoid complications with the location of your project.
-* Easements: be aware of any easements on your property to prevent any future issues with your project.
-* Impervious cover: is regulated to help prevent flooding.
+* Setbacks: make sure you don’t build in your setbacks to limit complications with the location of your project.
+* Easements: be aware of any easements on your property to avoid any future issues with your project.
+* Impervious cover: regulated to help prevent flooding.
 
 > ##### What is a property survey?
 >
