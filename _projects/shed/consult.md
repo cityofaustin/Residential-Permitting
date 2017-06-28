@@ -39,11 +39,11 @@ Remember that you can't officially submit your permit application to the reviewe
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-*[Setbacks](/residential-toolkit/glossary/setback)
+[Setbacks](/residential-toolkit/glossary/setback)
 
-*[Easements](/residential-toolkit/glossary/easement)
+[Easements](/residential-toolkit/glossary/easement)
 
-*[Impervious cover](/residential-toolkit/glossary/impervious-cover)
+[Impervious cover](/residential-toolkit/glossary/impervious-cover)
 
 
 > ###### What is a property survey?
