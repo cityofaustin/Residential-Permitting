@@ -28,7 +28,7 @@ Make sure can answer the following questions about your interior remodel and new
 
 ---
 
-## 2. If possible, bring your property survey.
+## 2. If possible, bring your property survey. 
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
@@ -52,7 +52,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ---
 
-## 3. Draw a few simple sketches of your property or home interior
+## 3. Draw a few simple sketches of your property or home interior.
 
 Sketches give reviewers a clearer picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see:
 
@@ -76,7 +76,7 @@ See examples of project sketches:
 
 ---
 
-## How to get a Free In-Person Consultation
+## How can you get a Free In-Person Consultation?
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. You can have up to 3 free 20 minute in-person consultations.
 
