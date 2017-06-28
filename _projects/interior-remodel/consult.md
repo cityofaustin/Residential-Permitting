@@ -4,7 +4,7 @@ step_number: 2
 project_name: interior remodel
 ---
 
-All consultations take place at Residential Plan Review located at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center. 
 
 To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
@@ -27,13 +27,19 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ---
 
-## 2. If possible, bring your property survey. 
+## 2. Fill out the property and profile cards.
+
+---
+
+## 3. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-* Setbacks
-* Easements
-* Impervious cover
+[Setbacks](/residential-toolkit/glossary/setback)
+
+[Easements](/residential-toolkit/glossary/easement)
+
+[Impervious cover](/residential-toolkit/glossary/impervious-cover)
 
 > ##### What is a property survey?
 >
@@ -51,7 +57,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ---
 
-## 3. Draw a few simple sketches of your property or home interior.
+## 4. Draw a few simple sketches of your property or home interior.
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see:
 
