@@ -62,18 +62,9 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Sketch the layout of your property and show any existing structures including your home, pool, shed, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-**Do:** *This is a good sketch that is clearly labeled and shows dimensions, existing structures, and the location where you want your shed.*
-
-**Don't:** *This sketch needs more detail—it isn't drawn to scale, doesn't include dimensions, and setbacks are not clearly indicated.*
-
 ### b. What your deck will look like
 
 Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
-
-**Do:** *This is a great sketch that includes dimensions and clearly labels windows, doors, and the landing.*
-
-
-**Don't:** *This sketch needs to include labels and dimensions.*
 
 ---
 
