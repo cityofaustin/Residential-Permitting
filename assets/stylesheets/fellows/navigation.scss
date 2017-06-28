@@ -229,11 +229,9 @@ $drawer-width: 28rem;
     }
     h4 {
       margin-top: 2rem;
+      color: $color-barton-light;
+      font-size: rem(16px);
     }
-  }
-  a.footer-link-list-title {
-    color: $color-barton-light;
-    font-size: rem(16px);
   }
   a.footer-link-list-view-all {
     color: $color-white;
