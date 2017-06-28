@@ -11,7 +11,7 @@ locales:
     toolkit: Residential Toolkit
     home: Home
     permit_check: Permit Check
-    view_all_prefix: View all
+    view_all_prefix: View
     project_steps:
       - step_name: Overview
         step_slug: overview
