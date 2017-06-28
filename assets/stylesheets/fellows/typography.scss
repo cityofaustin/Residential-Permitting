@@ -21,6 +21,9 @@ h3 {
   font-size: $h3-font-size;
   font-weight: $font-medium;
   color: $color-gray;
+  margin-bottom: .5em;
+  margin-top: 2.5em;
+
 }
 
 h4 {
@@ -42,8 +45,8 @@ h6 {
 
 .lead {
   font-size: $lead-font-size;
-  margin-top: 2em;
   margin-bottom: 2em;
+  margin-top: 2em;
 }
 
 a:visited { color: $color-primary; }
