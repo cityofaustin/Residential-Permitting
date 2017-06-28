@@ -31,7 +31,7 @@ Remember that you can't officially submit your permit application to the reviewe
 
 &nbsp;
 
-## 3. Bring your Property Survey if possible
+## 3. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
@@ -53,23 +53,23 @@ You probably received your survey when you purchased your home if you bought it 
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
-## 4. Draw a few simple sketches of your shed and property
+## 4. Draw a few simple sketches of your shed and property.
 
 Sketches give reviewers a clear picture of your project and help them determine whether or not you can move forward as planned. Please bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can tell:
 
-### a. Where your shed will be on your property
+### a. Where will the shed be on your property?
 
 Sketch the layout of your property and show any existing structures including your home, pool, deck, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
 {% include diagram.html diagram="property-sketch" %}
 
-### b. What your shed will look like
+### b. What will your shed look like?
 
 Sketch the shed you will build and include its dimensions and any windows or doors it will have.
 
 {% include diagram.html diagram="layout-sketch" %}
 
-## How to get a free in-person consultation
+## How can you get a free in-person consultation?
 
 All consultations take place at Residential Plan Review at One Texas Center. You can have up to 3 free 20 minute in-person consultations.
 
