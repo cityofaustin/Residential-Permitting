@@ -11,7 +11,11 @@ To make the most of your free 20 minute in-person consultation with your reviewe
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
 
+---
+
 ## 1. Collect the following information:
+
+---
 
 * What is the address of where will build your shed?
 * What will you use this shed for?
