@@ -78,6 +78,10 @@ Sketch the shed you will build and include its dimensions and any windows or doo
 
 {% include diagram.html diagram="layout-sketch" %}
 
+See examples of project sketches:
+
+[Good Example / Bad Example]
+
 ---
 
 ## How can you get a Free In-Person Consultation?
