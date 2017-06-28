@@ -635,6 +635,8 @@ Projects that have the same requirements as a shed include: greenhouses, worksho
 
 [If this doesn't sound like your project, check out the General Process page](/projects/general-process).&nbsp;
 
+---
+
 ## Requirements for all sheds
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
