@@ -17,8 +17,6 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ---
 
-Make sure can answer the following questions about your interior remodel and new additions.
-
 * Are you moving any interior walls?
 * Are you adding to or removing any square footage from your home?
 * Does your property have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
