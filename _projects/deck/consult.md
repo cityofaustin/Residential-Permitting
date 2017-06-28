@@ -56,21 +56,21 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ---
 
-## 3. Draw a few simple sketches of your deck and your property
+## 3. Draw a few simple sketches of your deck and your property.
 
 Sketches give reviewers a clear picture of your project and help them determine whether or not you can move forward as planned. Please bring two simple sketches to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can tell:
 
-### a. Where the deck will be on your property
+### a. Where will the deck be on your property?
 
 Sketch the layout of your property and show any existing structures including your home, pool, shed, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-### b. What your deck will look like
+### b. What will your deck look like?
 
 Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
 
 ---
 
-## How to get a Free In-Person Consultation
+## How can you get a Free In-Person Consultation?
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
