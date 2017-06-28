@@ -15,6 +15,14 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
 
@@ -26,8 +34,24 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       Regardless of how tall your deck is, you can't build it within 10 feet of
       the rear border or within 5 feet of the side borders of your lot.
+
+
+
+
+
+
+
+
 
 
 
@@ -50,6 +74,14 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       An area of a resident's property that can be used, built on or changed by
       a government entity or neighbor. You may not build on any easements on your
       property.
@@ -62,8 +94,24 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       The city will need to access any easements on your lot. You may be fined or
       asked to demolish your deck if you choose to build it on an easement.
+
+
+
+
+
+
+
+
 
 
 
@@ -86,8 +134,24 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
       Rooftops, driveways, parking lots, and other man-made or stone surfaces
       that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
 
 
 
@@ -105,6 +169,14 @@ tabs:
       between the planks, then 100% of the deck’s surface area will count towards
       the amount of impervious cover on your property. A reviewer can help you
       change your deck design if you max out your impervious cover.
+
+
+
+
+
+
+
+
 
 
 
@@ -133,6 +205,8 @@ A deck is a platform-like structure without walls, often made of planks, that no
 ## Requirements for all decks
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. You can find out if you need a permit after you make sure your deck doesn't break any of the code regulations described below.
+
+![](/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
 {% include tabs.html %}
 
