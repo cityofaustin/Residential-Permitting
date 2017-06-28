@@ -223,7 +223,9 @@ $drawer-width: 28rem;
     }
     li {
       list-style-type: none;
-      font-size: rem(14px);
+      font-family: $font-sans;
+      font-size: rem(16px);
+      font-weight: $font-medium;
     }
     h4 {
       margin-top: 2rem;
