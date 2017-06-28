@@ -4,8 +4,9 @@ step_number: 2
 project_name: interior remodel
 ---
 
+All consultations take place at Residential Plan Review located at One Texas Center. 
 
-To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
+To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
 
@@ -30,9 +31,9 @@ Remember that you can't officially submit your permit application to the reviewe
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-* Setbacks: make sure you don’t build in your setbacks to limit complications with the location of your project.
-* Easements: be aware of any easements on your property to avoid any future issues with your project.
-* Impervious cover: regulated to help prevent flooding.
+* Setbacks
+* Easements
+* Impervious cover
 
 > ##### What is a property survey?
 >
@@ -52,7 +53,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ## 3. Draw a few simple sketches of your property or home interior.
 
-Sketches give reviewers a clearer picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see:
+Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see:
 
 * The current floor plan
 * The proposed floor plan (including new windows or doors),
@@ -60,9 +61,9 @@ Sketches give reviewers a clearer picture of your project and help them determin
 * The proposed new walls,
 * And any walls you will tear down.
 
-Use a separate page for each sketch:
+Use a separate page for each sketch.
 
-* Sketch 1: What your interior currently looks like, including any windows and doors in the room.
+* Sketch 1: What your interior currently looks like, including any windows and doors.
 * Sketch 2: What your remodel project will look like when it's completed.
   * Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down.
 
@@ -76,14 +77,14 @@ See examples of project sketches:
 
 ## How can you get a Free In-Person Consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. You can have up to 3 free 20 minute in-person consultations.
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. 
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
 * Sign up in person at the QLess Kiosk at the Residential Plan Review.
 * Or save time by joining the line remotely on the&nbsp;[QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-If you sign up remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), please fill out your name and phone number. Click on Residential-Zoning & Process Help, and then select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or to get help with any questions you may have.
+If you sign up remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), please fill out your name and phone number. Click on Residential-Zoning & Process Help, and select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or to get help with any questions you may have.
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
