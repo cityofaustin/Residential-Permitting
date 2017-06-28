@@ -47,9 +47,7 @@ Depending on your project’s specific plans, you may need to hire a licensed pr
 
 ### What if I want to hire a contractor?
 
-Contractors are required to get permits for their work. It’s important that you hire a licensed contractor who will make sure this work is done properly.
-
-[Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
+Contractors are required to get permits for their work. It’s important that you hire a licensed contractor who will make sure this work is done properly. [Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 You can apply for a permit without the help of a licensed professional if you are starting a small project such as building a fence or making other small changes.
 
