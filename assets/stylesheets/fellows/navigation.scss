@@ -12,7 +12,7 @@ $drawer-width: 28rem;
   box-sizing: border-box;
   border-top: 10rem solid $color-white;
   margin-top: -10rem; // to compensate for non-white page pg on inertia scroll to top
-  background: $color-gray-lightest;
+  background: $color-white;
   @media #{$sm-viewport} {
     background: $color-white;
   }
@@ -149,7 +149,7 @@ $drawer-width: 28rem;
   }
 }
 .site-header {
-  background: $color-gray-lightest;
+  background: $color-white;
   font-family: $font-sans;
   z-index: 1;
   position: relative; // for dropdown
@@ -175,7 +175,7 @@ $drawer-width: 28rem;
         span {}
         .icon { height: 2rem; }
         ul {
-          background: $color-gray-lightest;
+          background: $color-white;
           position: absolute;
           transition: top .25s;
           left: 0;
@@ -194,17 +194,36 @@ $drawer-width: 28rem;
         &:hover,
         ul:hover {
           cursor: pointer;
-          background: $color-gray-lighter;
+          background: $color-gray-lightest;
         }
         &:hover ul,
         ul:hover {
           // limit of 6 items in dropdown lists
           max-height: 6 * 3 * $base-font-size ; // > 28rem
-          background: $color-gray-lighter;
+          background: $color-gray-lightest;
         }
       }
     }
   }
+}
+a.header-link-list {
+  color: $color-gray-dark;
+  font-family: $font-sans;
+  font-size: rem(16px);
+  font-weight: $font-normal;
+  text-decoration: none;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+a.header-link-list-view-all {
+  color: $color-gray-dark;
+  font-family: $font-sans;
+  font-size: rem(11px);
+  font-weight: $font-medium;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 .site-footer {
@@ -289,7 +308,7 @@ $drawer-width: 28rem;
   }
 }
 .header--translate {
-  background: $color-gray-lighter;
+  background: $color-gray-lightest;
   .goog-te-gadget {
     font-family: $font-sans;
     color: $color-gray-dark;

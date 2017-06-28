@@ -40,29 +40,29 @@
       <div class="center-xs col-xs-12">
         <nav>
           <ul>
-            <li><a href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
+            <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% for project in project_pages limit: 3 %}
-                  <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
-                <li><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].projects }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].projects }}</a></li>
               </ul>
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].toolkit }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                   {% for page in toolkit_pages limit: 3 %}
-                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].toolkit }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].toolkit }}</a></li>
               </ul>
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].resources }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% for page in resource_pages limit: 3 %}
-                  <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].resources }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_prefix }} {{ site.data.labels.locales[site.locale].resources }}</a></li>
               </ul>
             </li>
           </ul>
