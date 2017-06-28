@@ -247,7 +247,7 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
-Water Permits
+### Water Permits
 
 Having plumbing on your deck requires getting an electric permit.
 
