@@ -7,7 +7,7 @@ source_name: Muni Code
 ---
 
 
-Accessory use can also refer to parking options for the primary structure. A use that is incidental to and customarily associated with a principal use; unless otherwise provided, is located on the same site as the principal use; and may include parking for the principal use.
+Accessory use of a structure means that it can still be used for its original purpose. Accessory use can also refer to parking options for the primary structure. A use that is incidental to and customarily associated with a principal use; unless otherwise provided, is located on the same site as the principal use; and may include parking for the principal use.
 
 The following are permitted as accessory uses:
 
