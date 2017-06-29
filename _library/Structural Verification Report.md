@@ -1,7 +1,7 @@
 ---
-title: Residential New Condominum Permit Application
+title: Structural Verification Report
 description: Brief description of this form or document
 document_type: application
-file_path: /assets/applications-and-forms/condo_app_AWU.pdf
+file_path: /assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf
 
 ---
