@@ -9,4 +9,4 @@ glossary:
 ---
 
 
-The distance between a building and the end of the lot that cannot be built upon.The mandatory clear distance between a lot line and a building.
+The mandatory clear distance between a lot line and a building. Building setbacks are located between a building and the end of the lot and cannot be built upon.
