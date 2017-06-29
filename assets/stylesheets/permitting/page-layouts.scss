@@ -355,6 +355,11 @@ h1.page-title {
     color: $color-gray-light;
   }
 }
+.layout--glossary-index {
+  .term-definition p:first-child {
+    margin-top: 1.5em; // match h4 margin-top
+  }
+}
 
 
 /* Circled characters for steps and glossary */
