@@ -8,6 +8,11 @@ menu_sort_order: 0
 step_number: 0
 overview_of_steps_markdown: 'If this is your first project, you are new to Austin, or you need a refresher on the permitting process, you can use this guide as an introduction to permitting. For more detailed or project specific information, check to see if your project is featured in our [Common Projects section](/projects).'
 permalink: /projects/general-process/
+
+prefooter_text: false
+prefooter_link_text: false
+prefooter_link_path: false
+
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
   in_menu: Should this show up in the header navigation and homepage? Only use on overview page
@@ -17,5 +22,3 @@ _comments:
   prefooter_link_text: button text for bottom of overview
   prefooter_link_path: url to file or page where the button should link
 ---
-
-
