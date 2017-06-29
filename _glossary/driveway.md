@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.10
 ---
 
 
-A paved area for cars to access a lot that can lead to a garage or other parking structure. A surfaced area providing vehicular access within a lot, or shared between two lots, usually leading to a garage, other parking or loading area.
+A surfaced area providing vehicular access within a lot, or shared between two lots, usually leading to a garage, other parking or loading area.
