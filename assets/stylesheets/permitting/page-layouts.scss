@@ -324,6 +324,7 @@ h1.page-title {
       height: 32px;
       padding: 3px;
       margin-right: 5px;
+      margin-left: 1rem;
     }
   }
   .department-logo {
@@ -338,6 +339,10 @@ h1.page-title {
   margin-bottom: 2rem;
   padding-bottom: 4rem;
   border-bottom: $color-gray-lighter 1px solid;
+  &:last-child {
+    border-bottom-width: 0;
+    margin-bottom: 0;
+  }
   h5 {
     font-size: rem(14px);
     margin-bottom: 2rem;
