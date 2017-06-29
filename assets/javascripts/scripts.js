@@ -41,10 +41,17 @@ var initMobileMenus = function() {
 
 
 var initProjectMenu = function() {
-  if ($("body").hasClass("project-layout")) {
+  if ($("body").hasClass("layout--project")) {
 
     var stickyFence = $("#go");
     var projectThumb = $("#go .project-thumb");
+    var projectsMenu = $(".in-page-nav");
+    var projectsMenuButton = $("#mobile-project-menu-button");
+
+    projectsMenuButton.click(function () {
+      projectsMenu.toggleClass("project-menu-open");
+    });
+
 
     $(window).scroll(function(){
 
