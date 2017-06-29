@@ -41,22 +41,23 @@ var initMobileMenus = function() {
 
 
 var initProjectMenu = function() {
-  var stickyFence = $("#go");
-  var projectThumb = $("#go .project-thumb");
+  if ($("body").hasClass("project-layout")) {
 
-  $(window).scroll(function(){
+    var stickyFence = $("#go");
+    var projectThumb = $("#go .project-thumb");
 
-    if($(window).scrollTop() > stickyFence.offset().top){
-      console.log("Passed the fence");
-      projectThumb.addClass("visible");
-    }
+    $(window).scroll(function(){
 
-    if($(window).scrollTop() < stickyFence.offset().top){
-      console.log("Passed the fence");
-      projectThumb.removeClass("visible");
-    }
+      if($(window).scrollTop() > stickyFence.offset().top){
+        projectThumb.addClass("visible");
+      }
 
-  });
+      if($(window).scrollTop() < stickyFence.offset().top){
+        projectThumb.removeClass("visible");
+      }
+
+    });
+  }
 
 }
 
