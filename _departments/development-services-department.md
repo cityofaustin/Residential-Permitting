@@ -15,4 +15,5 @@ physical_address_markdown: |-
   <br>​Austin, TX 78704
 _hide_content: true
 logo_path: /assets/img/department-logos/logo-dsd.png
+featured: true
 ---

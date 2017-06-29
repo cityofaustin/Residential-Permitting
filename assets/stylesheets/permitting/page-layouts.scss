@@ -331,7 +331,7 @@ h1.page-title {
   }
 }
 
-/* GLOSSARY INDEX */
+/* GLOSSARY & DEPARTMENT INDEX */
 
 .index-item {
   padding-top: 4rem;
@@ -342,6 +342,12 @@ h1.page-title {
   &:last-child {
     border-bottom-width: 0;
     margin-bottom: 0;
+  }
+  &.section--gray {
+    border-bottom-width: 0;
+    img {
+      border: 1rem solid $color-white;
+    }
   }
   h5 {
     font-size: rem(14px);

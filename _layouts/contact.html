@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign featured_department = site.departments | where: "featured", "true" | first  %}
+
 <div class="container container-fluid page-layout">
   <div class="row center-xs">
     <div class="col-xs-10 col-sm-8">
@@ -13,9 +15,85 @@ layout: default
     <div class="content center-xs col-xs-12 col-sm-10">
 
 
+      <div id="{{ featured_department.department_name | slugify }}" class="row start-xs index-item section--gray">
+        <div class="col-xs-10 col-md-4 col-xs-offset-1">
+          <h4 class="department-name">{{ featured_department.department_name }}</h4>
+          {% if featured_department.description %}<p>{{ featured_department.description }}</p>{% endif %}
+          <h5><a href="{{ featured_department.department_link }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ featured_department.department_name }}</a></h5>
+
+          {% unless featured_department.logo_path == nil %}<a href="{{ featured_department.department_link }}" target="_blank"><img class="department-logo" src="{{ site.url }}{{ featured_department.logo_path }}" alt="{{ featured_department.department_name }}" /></a>{% endunless %}
+
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-md-6 department-details">
+
+          {% if featured_department.physical_address_markdown %}
+          <div class="row">
+            <div>
+              <p>{% include _icon.html icon='map-marker' context='Office Location' %}</p>
+            </div>
+            <div class="col-xs-10">
+              {{ featured_department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if featured_department.hours %}
+          <div class="row">
+            <div>
+              <p>{% include _icon.html icon='clock' context='Office Hours' %}</p>
+            </div>
+            <div class="col-xs-10">
+              {% for periods in featured_department.hours %}
+                {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if featured_department.email %}
+          <div class="row">
+            <div>
+              <p>{% include _icon.html icon='mail' context='Email' %}</p>
+            </div>
+            <div class="col-xs-10">
+              <p><a href="mailto:{{ featured_department.email }}" target="_blank">{{ featured_department.email }}</a></p>
+            </div>
+          </div>
+          {% endif %}
+
+          {% if featured_department.contact_form_url %}
+          <div class="row">
+            <div>
+              <p>{% include _icon.html icon='mail' context='Email' %}</p>
+            </div>
+            <div class="col-xs-10">
+              <p><a href="{{ featured_department.contact_form_url }}" target="_blank">{{ featured_department.contact_form_url }}</a></p>
+            </div>
+          </div>
+          {% endif %}
+
+          {% if featured_department.phone %}
+          <div class="row">
+            <div>
+              <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
+            </div>
+            <div class="col-xs-10">
+              <p>{{ featured_department.phone }}</p>
+            </div>
+          </div>
+          {% endif %}
+
+
+        </div>
+      </div>
+
+
+
+
       {% assign lastletter = "" %}
 
       {% for department in site.departments %}
+      {% unless department.featured == true %}
 
         {% assign tmpletter = department.title | slice: 0 | upcase %}
 
@@ -100,7 +178,7 @@ layout: default
         </div>
 
       {% assign lastletter = tmpletter %}
-
+      {% endunless %}
       {% endfor %}
 
     </div>
