@@ -9,7 +9,7 @@ source_name: Muni Code
 
 The City of Austin defines fence in two ways: \* a decorative fence is made of up 25% or less solid material and uses an open design \* a solid fence is built with more than 25% solid material
 
-**Requirements:** A fence cant be built in a floodplain. Contact the Watershed Protection Department to determine if there is floodplain on your property. Visit http://www.austintexas.gov/email/floodpro or call 512-974-2843 and leave a message.
+**Requirements:** A fence can't be built in a floodplain. Contact the Watershed Protection Department to determine if there is floodplain on your property. Visit http://www.austintexas.gov/email/floodpro or call 512-974-2843 and leave a message.
 
 An ornamental fence has no additional requirements or height restrictions. A solid fence over 7 feet in height requires a consultation with a reviewer at the Service Center and authorization from any neighboring property owners that are affected by the fence. There are no requirements or restrictions on the types of materials you can use to build a fence.
 
