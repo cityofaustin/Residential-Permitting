@@ -4,7 +4,10 @@
   </div>
   <div class="container-fluid">
     <div class="row">
-      <button id="drawer-button--menu" class="col-xs usa-button mobile-menu-button">{% include _icon.html icon="menu" %}</button>
+      <button id="drawer-button--menu" class="col-xs usa-button mobile-menu-button">
+        {% include _icon.html icon="menu" %}
+        {% include _icon.html icon="close" %}
+      </button>
       <div class="no-logo start-xs col-xs">
         <span>{{ site.data.labels.locales[site.locale].intro_markdown | strip_newlines | markdownify }}</span>
       </div>

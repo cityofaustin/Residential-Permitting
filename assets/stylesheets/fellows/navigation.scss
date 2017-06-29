@@ -53,11 +53,22 @@ $drawer-width: 28rem;
     height: $pre-header-height;
     fill: $color-white;
     color: $color-white;
+    position: relative;
     @media #{$sm-viewport} {
       display: none;
     }
     .icon {
-      width: 3.4rem;
+      width: inherit;
+      position: absolute;
+      top: 0;
+      height: 100%;
+      left: 0;
+      opacity: 0;
+      transition: opacity .25s;
+      &.icon--menu {
+        padding: .5rem; // scale feels different
+        opacity: 1;
+      }
     }
   }
   .control-search {
@@ -375,6 +386,8 @@ a.header-link-list-view-all {
 
 // menu open states
 html.drawer-open--menu {
+  .pre-header .mobile-menu-button .icon--menu { opacity: 0; }
+  .pre-header .mobile-menu-button .icon--close { opacity: 1; }
   .main {
     left: $drawer-width;
   }
