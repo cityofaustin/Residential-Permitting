@@ -140,6 +140,7 @@ $drawer-width: 28rem;
     padding-left: 0;
     position: relative;
     flex-grow: 0;
+    white-space: nowrap;
     span {
       cursor: pointer;
       font-weight: 500;

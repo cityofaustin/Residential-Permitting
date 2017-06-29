@@ -24,6 +24,9 @@ var initMobileMenus = function() {
   var translateButton = $("#drawer-button--translate");
   translateButton.click(function () {
     html.toggleClass("drawer-open--translate");
+    if (html.hasClass("drawer-open--translate")) {
+      $(window).scrollTop(0);
+    }
   });
 
   var searchButton = $("#drawer-button--search");
