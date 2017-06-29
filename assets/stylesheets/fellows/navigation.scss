@@ -161,6 +161,7 @@ $drawer-width: 28rem;
   }
 }
 .site-header {
+  box-shadow: $vertical-shadow;
   background: $color-white;
   font-family: $font-sans;
   z-index: 1;
