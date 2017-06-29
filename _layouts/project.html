@@ -74,9 +74,11 @@ layout: default
         {% else %}
           {{ content }} <br>
         {% endif %}
+        {% include get-feedback.html %}
   		</article>
   	</div>
   </div>
+
   {% for project_step in this_project %}
     {% if project_step.step_number == page.step_number %}
       {% unless forloop.first %}

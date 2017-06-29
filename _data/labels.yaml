@@ -77,6 +77,7 @@ locales:
     search_label: Search
     cancel_search: Cancel
     default_submit_label: Submit
+    get_feedback_markdown: Was this page helpful? [Leave us feedback about your experience](https://goo.gl/forms/HkDdqUOsXyi8jWxS2).
   # Spanish translation
   # -------------------
   es: &DEFAULT_ES
