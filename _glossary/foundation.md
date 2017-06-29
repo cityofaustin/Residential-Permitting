@@ -7,4 +7,4 @@ source_name: Muni Code
 ---
 
 
-The load-bearing part of a building, usually ground-level unless there is a basement. The interface between a building and the supporting soil. Foundations provide support for vertical gravity loads from the weight of a building and its contents, provide resistance to horizontal sliding, and must resist vertical loads at the ends of braced walls.
+The interface between a building and the supporting soil. Foundations provide support for vertical gravity loads from the weight of a building and its contents, provide resistance to horizontal sliding, and must resist vertical loads at the ends of braced walls.
