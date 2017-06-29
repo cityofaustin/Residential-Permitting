@@ -46,6 +46,22 @@ var initProjectMenu = function() {
 
 }
 
+var initLinkAttributes = function() {
+
+  $("a").each(function() {
+    var is_relative = new RegExp("//" + window.location.host + "/");
+    var is_file = new RegExp(".pdf");
+    if (!is_relative.test(this.href)) {
+      $(this).attr("target","_blank");
+      $(this).addClass("link--external");
+    }
+    if (is_file.test(this.href)) {
+      $(this).attr("target","_blank");
+      $(this).addClass("link--file");
+    }
+
+  });
+}
 
 
 
@@ -55,5 +71,6 @@ $(document).ready(function(){
   initMobileMenus();
   initSidebars();
   initProjectMenu();
+  initLinkAttributes();
 
 });

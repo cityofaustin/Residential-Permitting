@@ -143,6 +143,26 @@
 /* Page sections */
 .content {
   text-align: left;
+
+  /* special link styles */
+  a:not(.usa-button),
+  a:not(button) {
+    &.link--external,
+    &.link--file {
+      &:after {
+        content: "";
+        display: inline-block;
+        margin-left: .25rem;
+        background: center no-repeat;
+        background-size: contain;
+        width: 2rem;
+        height: 2rem;
+        vertical-align: text-bottom;
+      }
+    &.link--external:after { background-image: url('../img/external-link.svg'); }
+    &.link--file:after { background-image: url('../img/external-file.svg'); }
+    }
+  }
 }
 
 .page-section {
@@ -341,4 +361,12 @@ h1.page-title {
   .icon {
     height: 100%;
   }
+}
+
+.feedback {
+  text-align: center;
+  padding: 1px 3rem;
+  font-family: $font-sans;
+  font-size: 1.3rem;
+  margin-top: 2rem;
 }
