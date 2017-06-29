@@ -1,7 +1,7 @@
 ---
-title: Residential New Condominum Permit Application
+title: Lake Austin Zoning and Overlay Impervious Cover Chart
 description: Brief description of this form or document
-document_type: application
-file_path: /assets/applications-and-forms/condo_app_AWU.pdf
+document_type: form
+file_path: /assets/applications-and-forms/LA_slope_IC_calculations_citylogo.pdf
 
 ---
