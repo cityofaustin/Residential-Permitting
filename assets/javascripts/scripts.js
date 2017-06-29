@@ -11,7 +11,6 @@ var initSidebars = function() {
 
 
 
-
 var initMobileMenus = function() {
 
   var html = $("html");
@@ -42,7 +41,22 @@ var initMobileMenus = function() {
 
 
 var initProjectMenu = function() {
+  var stickyFence = $("#go");
+  var projectThumb = $("#go .project-thumb");
 
+  $(window).scroll(function(){
+
+    if($(window).scrollTop() > stickyFence.offset().top){
+      console.log("Passed the fence");
+      projectThumb.addClass("visible");
+    }
+
+    if($(window).scrollTop() < stickyFence.offset().top){
+      console.log("Passed the fence");
+      projectThumb.removeClass("visible");
+    }
+
+  });
 
 }
 
