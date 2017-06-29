@@ -26,14 +26,14 @@ layout: default
 
         <div id="{{ document.title | slugify }}" class="row center-xs start-sm index-item">
           <h4 class="col-sm-4 col-xs-10">{{ document.title }}</h4>
-          <div class="term-definition col-sm-8 col-xs-10">
+          <div class="index-item-content col-sm-8 col-xs-10">
             <p>
               {{ document.description }}
             </p>
             <h5><i>{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ document.last_modified_at | date: '%B %e, %Y' }}</i></h5>
 
-            <a class="usa-button usa-button-outline read-more" data-doctype="{{ document.document_type }}" target="_blank" href="{{ site.url }}{{ document.file_path }}">
-              {{ site.data.labels.locales[site.locale].resource_download_link_prefix }} {{ document.title | downcase }}
+            <a class="usa-button usa-button-outline read-more" data-doctype="{{ document.document_type }}" target="_blank" title="{{ site.data.labels.locales[site.locale].resource_download_link_prefix }} {{ document.title }}" href="{{ site.url }}{{ document.file_path }}">
+              {{ site.data.labels.locales[site.locale].resource_download_link_prefix }}
             </a>
           </div>
         </div>
