@@ -1,7 +1,7 @@
 ---
-title: Demolition Permit Application
+title: Electric Permit Request
 description: Brief description of this form or document
-document_type: application
-file_path: /assets/applications-and-forms/DemolitionPermit_app.pdf
+document_type: form
+file_path: /assets/applications-and-forms/Electric_PERMIT_for_faxes__2_.pdf
 
 ---
