@@ -19,4 +19,5 @@ physical_address_markdown: |-
   <br>Austin, TX
   <br>78701
 _hide_content: true
+logo_path: /assets/img/department-logos/
 ---

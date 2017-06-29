@@ -32,6 +32,9 @@ layout: default
             <h4 class="department-name">{{ department.department_name }}</h4>
             {% if department.description %}<p>{{ department.description }}</p>{% endif %}
             <h5><a href="{{ department.department_link }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ department.department_name }}</a></h5>
+
+            {% unless department.logo_path == nil %}<a href="{{ department.department_link }}" target="_blank"><img class="department-logo" src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
+
           </div>
           <div class="col-xs-12 col-md-6 department-details">
 

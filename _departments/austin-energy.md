@@ -28,4 +28,5 @@ physical_address_markdown: |-
   <br>8716 Research Blvd., Suite 115
   <br>Austin, TX 78758
 _hide_content: true
+logo_path: /assets/img/department-logos/logo-austin-energy.png
 ---

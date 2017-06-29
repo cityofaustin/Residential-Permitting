@@ -144,23 +144,25 @@
 .content {
   text-align: left;
 
-  /* special link styles */
-  a:not(.usa-button),
-  a:not(button) {
-    &.link--external,
-    &.link--file {
-      &:after {
-        content: "";
-        display: inline-block;
-        margin-left: .25rem;
-        background: center no-repeat;
-        background-size: contain;
-        width: 2rem;
-        height: 2rem;
-        vertical-align: text-bottom;
+  p, li, h1, h2, h3, h4, h5 {
+    /* special link styles within text content */
+    a:not(.usa-button),
+    a:not(button) {
+      &.link--external,
+      &.link--file {
+        &:after {
+          content: "";
+          display: inline-block;
+          margin-left: .25rem;
+          background: center no-repeat;
+          background-size: contain;
+          width: 2rem;
+          height: 2rem;
+          vertical-align: text-bottom;
+        }
+      &.link--external:after { background-image: url('../img/external-link.svg'); }
+      &.link--file:after { background-image: url('../img/external-file.svg'); }
       }
-    &.link--external:after { background-image: url('../img/external-link.svg'); }
-    &.link--file:after { background-image: url('../img/external-file.svg'); }
     }
   }
 }
@@ -323,6 +325,8 @@ h1.page-title {
       padding: 3px;
       margin-right: 5px;
     }
+  }
+  .department-logo {
   }
 }
 

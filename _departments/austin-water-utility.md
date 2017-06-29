@@ -18,4 +18,5 @@ physical_address_markdown: |-
   <br>625 E. 10th St.
   <br>Austin, TX 78701
 _hide_content: true
+logo_path: /assets/img/department-logos/logo-austin-water.png
 ---
