@@ -1,7 +1,7 @@
 ---
-title: Building Service Planning Application (BSPA)
+title: Request to Rely on Applicant Certifications of Compliance for Single-Family Development: Interior Remodel
 description: Brief description of this form or document
-document_type: application
-file_path: /assets/applications-and-forms/bspa.pdf
+document_type: form
+file_path: /assets/applications-and-forms/Certificate_of_Compliance-Interior_Remodel.pdf
 
 ---
