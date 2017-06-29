@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.33
 ---
 
 
-Services installed in homes that provide access to electricity, gas, communications, drinkable water, wastewater, sewage, waste removal, etc… Installations, facilities, or means for furnishing to the public, electricity, gas, steam, communications, water, wastewater, reclaimed water, drainage, or flood control, irrespective of whether such facilities or means are underground or above ground. Utilities may be owned and operated by any person, rm, corporation, municipal department or board, duly appointed by state or municipal regulations. Utility or utilities as used herein may also refer to such persons, firms, corporations, departments, or boards.
+Installations, facilities, or means for furnishing to the public that are under or above ground such as electricity, gas, steam, communications, water, wastewater, reclaimed water, drainage, or flood control. Utilities may be owned and operated by any person, corporation, municipal department or board, duly appointed by state or municipal regulations. Utility or utilities may also refer to such persons, firms, corporations, departments, or boards.
