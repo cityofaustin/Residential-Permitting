@@ -7,7 +7,7 @@ layout: default
     <h1 class="page-title">{{ page.title }}</h1>
 
     <article class="content start-xs col-xs-12 col-sm-10 col-md-6">
-      {{ content }} <br>
+      {{ content }} <span></span>
 
       {% if page.source_name.size > 0 %}
         <h5>{{ site.data.labels.locales[site.locale].glossary_source_title }} <a href="{{ page.source_link }}" target="_blank">{{ page.source_name | rstrip }}</a></h5>
