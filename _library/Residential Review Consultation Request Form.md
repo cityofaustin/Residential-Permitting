@@ -1,7 +1,7 @@
 ---
-title: Residential New Condominum Permit Application
+title: Residential Review Consultation Request Form
 description: Brief description of this form or document
-document_type: application
-file_path: /assets/applications-and-forms/condo_app_AWU.pdf
+document_type: form
+file_path: /assets/applications-and-forms/res_review_consult_req_form.pdf
 
 ---
