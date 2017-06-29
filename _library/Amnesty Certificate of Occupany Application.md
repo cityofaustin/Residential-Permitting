@@ -1,7 +1,7 @@
 ---
-title: Acknowledgement of Expired Permits
+title: Amnesty Certificate of Occupany Application
 description: Brief description of this form or document
-document_type: form
-file_path: /uploads/applications-and-forms/acknowlege_expired_permits.pdf
+document_type: application
+file_path: /uploads/applications-and-forms/amnesty_CO_application.pdf
 
 ---
