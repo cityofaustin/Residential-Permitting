@@ -15,8 +15,6 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 1. Collect the following information:
 
----
-
 * What is the address of where will build your shed?
 * What will you use this shed for?
 * Decide whether your shed will:
