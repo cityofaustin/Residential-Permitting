@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.31
 ---
 
 
-A permit that allows residents to connect to the City's water or wastewater system. A permit for a connection to the City’s water or wastewater system under Division 23-10A-4 (Tap Permits).
+A permit for a connection to the City’s water or wastewater system under Division 23-10A-4 (Tap Permits).
