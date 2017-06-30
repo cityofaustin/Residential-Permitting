@@ -12,6 +12,7 @@ To make the most of your free 20 minute in-person consultation with your reviewe
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
 ---
+
 ## What do I need to bring?
 
 ### 1. Collect the following information:
