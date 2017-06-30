@@ -7,5 +7,5 @@ diagram_type: plot-plan
 thumb_path: /assets/img/diagrams/shed/shed-plot-plan.png
 file_path: /assets/img/diagrams/shed/shed-sample-plot-plan.pdf
 ---
-##### Sample shed plot plan
+##### Sample plot plan
 Download to see sample plan and requirements.
