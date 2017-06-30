@@ -84,6 +84,8 @@ Your contractor is responsible for getting the required permits if you install o
 
 ### Tree Permit
 
+Having certain trees on your property may require a tree permit.
+
 You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.
 
 [Learn more about protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
