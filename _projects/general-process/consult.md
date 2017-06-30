@@ -5,7 +5,7 @@ project_name: general process
 ---
 
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center.
 
 To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
@@ -15,7 +15,7 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ## 1. Collect the following information:
 
-Have the following information ready for your consultation:
+Have the following information ready for your consultation.
 
 * What is the address of the property you are working on?
 * Will you move or demolish any interior or exterior walls?
@@ -30,9 +30,9 @@ Have the following information ready for your consultation:
 
 ---
 
-## 2. Fill out the property and profile cards. 
+## 2. Fill out the property and profile cards.
 
-Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
+Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation.
 
 ---
 
@@ -79,7 +79,7 @@ See examples of project sketches:
 
 ## How can you get a Free In-Person Consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
