@@ -20,14 +20,18 @@ layout: default
         {% include tiles-plans.html plan=plan %}
       </div>
       {% endfor %}
-      {% include get-feedback.html %}
-
     </article>
   </div>
   {% endfor %}
 
 </div>
-
+<div class="container container-fluid page-layout">
+  <div class="row center-xs">
+    <div class="col-xs-12 col-sm-10 col-md-8">
+      {% include get-feedback.html %}
+    </div>
+  </div>
+</div>
 
 <script>
   $(document).ready(function(){
