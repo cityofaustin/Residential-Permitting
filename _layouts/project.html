@@ -24,7 +24,7 @@ layout: default
           {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
         </h2>
         <div class="lead">{{ page.overview_of_steps_markdown | strip_newlines | markdownify }}</div>
-        <p>{{ content }} <br></p>
+        <p>{{ content }} <span></span></p>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ layout: default
         {% if page.use_default_project_content or content.size <= 1 %}
           {{ general.content }}
         {% else %}
-          {{ content }} <br>
+          {{ content }} <span></span>
         {% endif %}
         {% include get-feedback.html %}
   		</article>
