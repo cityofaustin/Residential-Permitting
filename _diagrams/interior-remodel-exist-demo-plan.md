@@ -7,5 +7,5 @@ diagram_type: plan
 thumb_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-exist-demo-plan.png
 file_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-exist-demo-plan.pdf
 ---
-##### Sample interior remodel exist/demo plan
+##### Sample exist/demo plan
 Download to see sample plan and requirements.
