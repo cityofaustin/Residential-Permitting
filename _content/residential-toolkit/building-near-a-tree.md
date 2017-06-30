@@ -26,7 +26,7 @@ To calculate a tree’s diameter, measure the circumference of the tree from 4.5
 
 > ###### What is a critical root zone?
 >
-> {% include glossary-definition.html term="critical-root-zone" %}
+> {% include glossary-definition.html term="critical-root-zone"%}
 
 ---
 
