@@ -2,6 +2,7 @@
 title: Schedule Inspections for a Permit in Austin
 step_number: 5
 project_name: general process
+permalink: /projects/general-process/inspect
 tabs:
   - tab_title: Online
     tab_content_markdown: >
