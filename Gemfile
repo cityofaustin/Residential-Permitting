@@ -25,4 +25,5 @@ group :jekyll_plugins do
    gem "jekyll-last-modified-at"
    gem "jekyll-sitemap"
    gem 'algoliasearch-jekyll', '~> 0.8.0'
+   gem "rb-fsevent", "0.9.8"
 end
