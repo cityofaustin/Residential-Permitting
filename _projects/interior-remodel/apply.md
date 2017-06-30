@@ -11,7 +11,7 @@ Anyone applying for a permit can meet with one of our reviewers for a free 20 mi
 
 ---
 
-## What Documents Will I Need?
+## What documents will I need?
 
 ### 1. Application
 
@@ -45,7 +45,7 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 
 Your foundation plan must be drawn by a structural engineer.
 
-### Other Commonly Requested Documents
+### Other commonly requested documents
 
 * **Owner’s Authorization Form**: This form is only required if you are not signing the application. An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 * **Certified Tax Certificate or Warranty Deed**: You need to pay any taxes you owe before your permit is approved.
@@ -58,14 +58,14 @@ Your foundation plan must be drawn by a structural engineer.
 
 ---
 
-## How Do I Submit My Application?
+## How do I submit my application?
 
 Intake happens during Residential Plan Review at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * Or you can save time by joining the line remotely on the QLess website. Fill out your name and number on the website, click on "Residential" and select "Submissions." You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
-### What Happens at Intake?
+### What happens at intake?
 
 During intake, a staff member will meet with you and use a checklist to perform a completeness check.
 
