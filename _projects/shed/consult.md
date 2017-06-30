@@ -26,14 +26,14 @@ Remember that you can't officially submit your permit application to the reviewe
   * Have plumbing,
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
   * And/or have electricity.
- 
+
 ### 2. Fill out the property and profile cards.
 
-Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
+Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation.
 
 ### 3. If possible, bring your property survey.
 
-Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential-toolkit/glossary/setback), [easements](/residential-toolkit/glossary/easement), and  [impervious cover](/residential-toolkit/glossary/impervious-cover).
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential-toolkit/glossary/setback), [easements](/residential-toolkit/glossary/easement), and [impervious cover](/residential-toolkit/glossary/impervious-cover).
 
 > ###### What is a property survey?
 >
@@ -57,21 +57,17 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Sketch the layout of your property and show any existing structures including your home, pool, deck, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
+![](/uploads/versions/shed-sample-property-sketch---x----1000-1500x---.png)
 
 #### b. What will your shed look like?
 
-Sketch the shed you will build and include its dimensions and any windows or doors it will have.
-
-
-See examples of project sketches:
-
-[Good Example / Bad Example]
+Sketch the shed you will build and include its dimensions and any windows or doors it will have.![](/uploads/versions/shed-sample-layout-sketch---x----1500-1000x---.png)
 
 ---
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
 There are two ways to sign up for your free 20 minute in-person consultation.
 
