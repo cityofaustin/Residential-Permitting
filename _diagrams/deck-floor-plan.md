@@ -7,5 +7,5 @@ diagram_type: plan
 thumb_path: /assets/img/diagrams/deck/deck-sample-floor-plan.png
 file_path: /assets/img/diagrams/deck/deck-sample-floor-plan.pdf
 ---
-##### Sample deck elevation
+##### Sample deck floor plan
 Download to see sample plan and requirements.
