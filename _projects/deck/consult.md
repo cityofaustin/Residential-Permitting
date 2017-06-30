@@ -78,9 +78,9 @@ See examples of project sketches:
 
 ---
 
-## How can you get a Free In-Person Consultation?
+## How can you get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center. 
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
