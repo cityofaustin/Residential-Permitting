@@ -41,6 +41,8 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 ## Who can apply for a permit?
 
+You can apply for a permit without the help of a licensed professional if you are starting a small project such as building a fence or making other small changes.
+
 ### You may need to hire a licensed professional
 
 Depending on your project’s specific plans, you may need to hire a licensed professional such as an engineer, architect, or surveyor to complete certain parts of the application. If you’re building a new home or building onto your existing home, you will most likely need to hire a licensed professional. The reviewer will tell you which application materials will need to be filled out by a licensed professional during your consultation.
@@ -48,8 +50,6 @@ Depending on your project’s specific plans, you may need to hire a licensed pr
 ### What if I want to hire a contractor?
 
 Contractors are required to get permits for their work. It’s important that you hire a licensed contractor who will make sure this work is done properly. [Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
-
-You can apply for a permit without the help of a licensed professional if you are starting a small project such as building a fence or making other small changes.
 
 ---
 
