@@ -31,15 +31,16 @@ Fill out the project and property profile cards as much as you can and bring the
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
-[Setbacks](/residential-toolkit/glossary/setback)
-
-[Easements](/residential-toolkit/glossary/easement)
-
-[Impervious cover](/residential-toolkit/glossary/impervious-cover)
-
 > ###### What is a property survey?
 >
 > {% include glossary-definition.html term="property survey" %}
+
+* [Setbacks](/residential-toolkit/glossary/setback)
+
+* [Easements](/residential-toolkit/glossary/easement)
+
+* [Impervious cover](/residential-toolkit/glossary/impervious-cover)
+
 
 #### What if I don't have my survey?
 
