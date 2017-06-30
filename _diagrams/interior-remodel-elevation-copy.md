@@ -4,8 +4,8 @@ description: Sample deck elevation
 date: 2017-06-14
 project: project
 diagram_type: plan
-thumb_path: /assets/img/diagrams/project/deck-sample-elevation.png
-file_path: /assets/img/diagrams/interior-remodel/deck-sample-elevation.pdf
+thumb_path: /assets/img/diagrams/deck/deck-sample-elevation.png
+file_path: /assets/img/diagrams/deck/deck-sample-elevation.pdf
 ---
 ##### Sample deck elevation
 Download to see sample plan and requirements.
