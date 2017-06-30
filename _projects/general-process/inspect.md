@@ -66,7 +66,7 @@ Your inspector is a great source of information and can answer questions about m
 
 ---
 
-## Final Inspection
+## Final inspection
 
 Your project is complete once you pass your Final Inspection. The inspector will email you your Certificate of Occupancy either while they are on your property or when they return to their office. This will close your permit and mark it as complete in city records.
 
