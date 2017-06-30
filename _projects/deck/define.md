@@ -4,36 +4,11 @@ step_number: 1
 project_name: deck
 tabs:
   - tab_title: Setbacks
-    tab_content_markdown: >-
-      **What is a setback?**
-      The space between a lot's border and the area where a building can be
-      built. Setbacks typically cannot have anything built on them.
-      Regardless of how tall your deck is, you can't build it within 10 feet of
-      the rear border or within 5 feet of the side borders of your lot.
-      [Learn more about setbacks](/resources/glossary/setback).
+    tab_content_markdown: "**What is a setback?** The space between a lot's border and the area where a building can be built. Setbacks typically cannot have anything built on them. Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback)."
   - tab_title: Easements
-    tab_content_markdown: >-
-      **What is an easement?**
-      An area of a resident's property that can be used, built on or changed by
-      a government entity or neighbor. You may not build on any easements on your
-      property.
-      The city will need to access any easements on your lot. You may be fined or
-      asked to demolish your deck if you choose to build it on an easement.
-      [Learn more about easements](/resources/glossary/easements).
+    tab_content_markdown: "**What is an easement?** An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on any easements on your property. The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements)."
   - tab_title: Impervious Cover
-    tab_content_markdown: >-
-      **What is imperious cover?**
-      Rooftops, driveways, parking lots, and other man-made or stone surfaces
-      that keep water from being absorbed into the ground.
-      Impervious cover restrictions are put in place to prevent flooding during
-      and after heavy rains. If your deck is uncovered, has spaces between the
-      planks, and is located over a permeable surface like grass, then only half
-      of the deck’s surface area will affect the total amount of impervious cover
-      on your property. If you are covering your deck or there won’t be spaces
-      between the planks, then 100% of the deck’s surface area will count towards
-      the amount of impervious cover on your property. A reviewer can help you
-      change your deck design if you max out your impervious cover.
-      [Learn more about impervious cover](/resources/glossary/impervious-cover).
+    tab_content_markdown: '**What is imperious cover?** Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground. Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
 ---
 
 
@@ -49,7 +24,7 @@ A deck is a platform-like structure without walls, often made of planks, that no
 
 ---
 
-## Requirements for all decks
+## Zoning requirements
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. You can find out if you need a permit after you make sure your deck doesn't break any of the code regulations described below.
 
