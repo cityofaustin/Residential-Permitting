@@ -23,7 +23,7 @@ Remember that you can't officially submit your permit application to the reviewe
 * Does your property have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
 * Are you demolishing any walls?
 * Are you changing or adding electrical wiring, plumbing, or a heating and cooling system?
-* Is your home more than 40 years old?&nbsp;
+* Is your home more than 40 years old?
 
 ### 2. Fill out the property and profile cards.
 
