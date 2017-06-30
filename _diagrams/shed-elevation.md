@@ -7,5 +7,5 @@ diagram_type: elevation-plan
 thumb_path: /assets/img/diagrams/shed/shed-elevation.png
 file_path: /assets/img/diagrams/shed/shed-sample-elevation.pdf
 ---
-##### Sample shed elevation
+##### Sample elevation
 Download to see sample plan and requirements.
