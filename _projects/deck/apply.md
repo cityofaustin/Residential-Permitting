@@ -34,13 +34,13 @@ The deck's elevation plan must be drawn to scale either by hand or on the comput
 
 The foundation plan can only be drawn by a structural engineer.
 
-### Other Commonly Requested Documents
+### Other commonly requested documents
 
 **Owner’s Authorization Form**: An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 
 ---
 
-## How Do I Submit My Application?
+## How do I submit my application?
 
 Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center. You may:
 
@@ -50,7 +50,7 @@ Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-
   * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
   * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
-### What Happens at Intake?
+### What happens at intake?
 
 During intake, a staff member will meet with you and use a checklist to perform a completeness check.
 
