@@ -11,7 +11,9 @@ Anyone applying for a permit can meet with one of our reviewers for a free 20 mi
 
 ---
 
-## What documents will I need for my deck permit?
+## What documents will I need?
+
+All deck building permit applications require:
 
 ### 1. Application
 
