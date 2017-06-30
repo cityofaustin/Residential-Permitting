@@ -7,10 +7,3 @@ diagram_type: elevation-plan
 thumb_path: /assets/img/diagrams/shed/shed-elevation.png
 file_path: /assets/img/diagrams/shed/shed-sample-elevation.pdf
 ---
-
-
-#### Your elevation plan must include:
-
-* All 4-sides and building height
-* Labels for exterior materials and utilities
-* Windows and doors
