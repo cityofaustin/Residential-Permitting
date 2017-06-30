@@ -8,13 +8,13 @@ tabs:
       **What is a setback?**
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
-     Regardless of how tall your deck is, you can't build it within 10 feet of
+      Regardless of how tall your deck is, you can't build it within 10 feet of
       the rear border or within 5 feet of the side borders of your lot.
       [Learn more about setbacks](/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >-
       **What is an easement?**
-    An area of a resident's property that can be used, built on or changed by
+      An area of a resident's property that can be used, built on or changed by
       a government entity or neighbor. You may not build on any easements on your
       property.
       The city will need to access any easements on your lot. You may be fined or
@@ -33,7 +33,7 @@ tabs:
       between the planks, then 100% of the deck’s surface area will count towards
       the amount of impervious cover on your property. A reviewer can help you
       change your deck design if you max out your impervious cover.
-   [Learn more about impervious cover](/resources/glossary/impervious-cover).
+      [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
 
