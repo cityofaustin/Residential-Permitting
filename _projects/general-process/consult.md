@@ -73,7 +73,7 @@ See examples of project sketches:
 
 ---
 
-## How can you get a free in-person consultation?
+## How can I get a free in-person consultation?
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
