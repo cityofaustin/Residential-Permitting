@@ -31,13 +31,13 @@ There are certain home improvement projects that can be completed without a perm
 * Remove or repair less than 32 square feet of drywall,
 * Or add non-metal roofing like shingles.
 
-### Express Permit
+### Express permits
 
 Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
 
 [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits/).
 
-### Interior Remodel Permit
+### Interior remodel permits
 
 With the exception of changing doors and windows, an interior remodel only affects the inside of your home. You will need to apply for an interior remodel permit if your project includes at least one of the following:
 
@@ -55,7 +55,7 @@ Examples of projects that qualify for an interior remodel permit include:
 
 Your interior remodel may need a demolition permit, especially if you will move or change an interior wall, or change a window's shape. Extra considerations are taken if you make a change to your home's load-bearing walls or supports.
 
-### New Addition Permit
+### New addition permits
 
 While you may think your project is a remodel, the City of Austin may considered it as a new addition.
 
@@ -69,7 +69,7 @@ You may need a demolition permit if you tear down an exterior wall.&nbsp;
 
 If this sounds like your project, [schedule a consultation](/projects/interior-remodel/consult/) to review any zoning considerations that will affect your project.
 
-### Trade Permits
+### Trade permits
 
 You will need trade permits if your project involves changes to electrical wiring, plumbing, or your home's heating and cooling system. Trade permits are required for this type of specialized work.
 
@@ -82,7 +82,7 @@ You will need a trade permit if your project includes:
 
 Your contractor is responsible for getting the required permits if you install or replace your hot water heater.
 
-### Tree Permit
+### Tree permits
 
 Having certain trees on your property may require a tree permit.
 
