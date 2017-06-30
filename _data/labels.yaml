@@ -1,12 +1,8 @@
-# see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
-
 locales:
-  # English translation
-  # -------------------
-  en: &DEFAULT_EN
+  en:
     site_title: Residential Permitting
-    intro_markdown: This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).
-    projects: Projects
+    intro_markdown: 'This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).'
+    projects:
     view_all_projects: View all Projects
     resources: Resources
     view_all_resources: View all Resources
@@ -51,7 +47,7 @@ locales:
         step_description: Get your work inspected by the city and close out your permit(s).
         table_of_contents:
           - Determine that inspections are required throughout your project.
-          - Learn how to schedule your inspections either online, in-person or by phone.
+          - 'Learn how to schedule your inspections either online, in-person or by phone.'
           - Schedule final inspection and make any required changes before your permit expires.
     project_button_next: Go to
     project_button_prev: Back to
@@ -67,49 +63,14 @@ locales:
     lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix:
     glossary_definition_header_suffix: definition
-    prefooter_credits_prefix: "Made by the City of Austin"
-    prefooter_credits_suffix: "Department of Development Services with the Center for Design, Technology, & Innovation"
-    search_placeholder: "Search for something"
-    search_results_found: "Search results for"
-    search_no_results_found: "We found no results for"
-    search_pagination_next: "Next"
-    search_pagination_prev: "Prev"
+    prefooter_credits_prefix: Made by the City of Austin
+    prefooter_credits_suffix: 'Department of Development Services with the Center for Design, Technology, & Innovation'
+    search_placeholder: What are you looking for?
+    search_results_found: Search results for
+    search_no_results_found: We found no results for
+    search_pagination_next: Next
+    search_pagination_prev: Prev
     search_label: Search
     cancel_search: Cancel
     default_submit_label: Submit
-    get_feedback_markdown: Was this page helpful? [Leave us feedback about your experience](https://goo.gl/forms/HkDdqUOsXyi8jWxS2).
-  # Spanish translation
-  # -------------------
-  es: &DEFAULT_ES
-    <<: *DEFAULT_EN     # load English values as default
-    intro: "Un sitio web oficial de la Ciudad de Austin."
-    projects: "Proyectos"
-    resources: "Recursos"
-    home: "Inicio"
-    permit_check: "Permiso de verificación"
-    projects:
-      - step_name: "Sinopsis"
-        step_slug: "sinopsis"
-
-      - step_name: "Definir"
-        step_slug: "definir"
-
-      - step_name: "Consultar"
-        step_slug: "consultar"
-
-      - step_name: "Aplicar"
-        step_slug: "aplicar"
-
-      - step_name: "Revisar"
-        step_slug: "revisar"
-
-      - step_name: "Inspeccionar"
-        step_slug: "inspeccionar"
-
-    project_button_next: "Continuar a"
-    project_button_prev: "Regreso a"
-    glossary_related_terms_title: "Términos comúnmente confusos"
-    lightbox_gallery_do: "Si"
-    lightbox_gallery_dont: "No"
-    glossary_definition_header_prefix: "definición de"
-    glossary_definition_header_suffix: ""
+    get_feedback_markdown: 'Was this page helpful? [Leave us feedback about your experience](https://goo.gl/forms/HkDdqUOsXyi8jWxS2).'
