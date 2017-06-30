@@ -7,5 +7,5 @@ diagram_type: plan
 thumb_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-proposed-floor-plan.png
 file_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-proposed-floor-plan.pdf
 ---
-##### Sample interior remodel proposed floor plan
+##### Sample proposed floor plan
 Download to see sample plan and requirements.
