@@ -11,13 +11,14 @@ All consultations take place at [Residential Plan Review](/contact/#residential-
 
 To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
-Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
+Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
 ---
 
-## 1. Collect the following information:
+## What do I need to bring?
 
----
+### 1. Collect the following information:
+
 
 * What is the address where you will build the deck?
 * Is your deck:
@@ -30,15 +31,12 @@ Remember that you can't officially submit your permit application to the reviewe
   * Going to need electricity?
   * Near a tree greater than 19 inches in diameter?
 
----
-
-## 2. Fill out the property and profile cards.
+### 2. Fill out the property and profile cards.
 
 Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
 
----
 
-## 3. If possible, bring your property survey.
+### 3. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
@@ -52,7 +50,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 >
 > {% include glossary-definition.html term="property survey" %}
 
-### What if I don't have my survey?
+#### What if I don't have my survey?
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
@@ -62,24 +60,21 @@ You probably received your survey when you purchased your home if you bought it 
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
----
-
-## 3. Draw a few simple sketches of your deck and property.
+### 3. Draw a few simple sketches of your deck and property.
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
 
 
-### a. Where will the deck be on your property?
+#### a. Where will the deck be on your property?
 
 Sketch the layout of your property and show any existing structures including your home, pool, shed, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-### b. What will your deck look like?
+#### b. What will your deck look like?
 
 Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
 
 See examples of project sketches:
 
-[Good Example / Bad Example]
 
 ---
 
