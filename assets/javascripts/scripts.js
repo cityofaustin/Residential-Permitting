@@ -55,11 +55,11 @@ var initProjectMenu = function() {
 
     $(window).scroll(function(){
 
-      if($(window).scrollTop() > stickyFence.offset().top){
+      if($(window).scrollTop() >= (stickyFence.offset().top - 1)){
         projectThumb.addClass("visible");
       }
 
-      if($(window).scrollTop() < stickyFence.offset().top){
+      if($(window).scrollTop() < (stickyFence.offset().top - 1)){
         projectThumb.removeClass("visible");
       }
 
