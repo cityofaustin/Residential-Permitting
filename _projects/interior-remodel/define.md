@@ -33,9 +33,7 @@ There are certain home improvement projects that can be completed without a perm
 
 ### Express permits
 
-Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.
-
-[Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits/).
+Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.&nbsp;[Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits/).
 
 ### Interior remodel permits
 
@@ -86,9 +84,7 @@ Your contractor is responsible for getting the required permits if you install o
 
 Having certain trees on your property may require a tree permit.
 
-You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.
-
-[Learn more about protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
+You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.&nbsp;[Learn more about protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
 ---
 
