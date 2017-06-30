@@ -9,11 +9,12 @@ All consultations take place at [Residential Plan Review](/contact/#residential-
 
 To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
-Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier. Use the instructions below or print and complete this consultation prep worksheet and bring it with you when you meet with your reviewer.
+Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
 ---
+## What do I need to bring?
 
-## 1. Collect the following information:
+### 1. Collect the following information:
 
 * What is the address of where will build your shed?
 * What will you use this shed for?
@@ -24,18 +25,12 @@ Remember that you can't officially submit your permit application to the reviewe
   * Have plumbing,
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
   * And/or have electricity.
-  
----
-
-## 2. Fill out the property and profile cards.
+ 
+### 2. Fill out the property and profile cards.
 
 Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
 
-&nbsp;
-
----
-
-## 3. If possible, bring your property survey.
+### 3. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like:
 
@@ -50,7 +45,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 >
 > {% include glossary-definition.html term="property survey" %}
 
-### What if I don't have my survey?
+#### What if I don't have my survey?
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
@@ -60,23 +55,19 @@ You probably received your survey when you purchased your home if you bought it 
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
----
-
-## 4. Draw a few simple sketches of your shed and property.
+### 4. Draw a few simple sketches of your shed and property.
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
 
-### a. Where will the shed be on your property?
+#### a. Where will the shed be on your property?
 
 Sketch the layout of your property and show any existing structures including your home, pool, deck, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-{% include diagram.html diagram="property-sketch" %}
 
-### b. What will your shed look like?
+#### b. What will your shed look like?
 
 Sketch the shed you will build and include its dimensions and any windows or doors it will have.
 
-{% include diagram.html diagram="layout-sketch" %}
 
 See examples of project sketches:
 
@@ -84,9 +75,9 @@ See examples of project sketches:
 
 ---
 
-## How can you get a Free In-Person Consultation?
+## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center. 
 
 There are two ways to sign up for your free 20 minute in-person consultation.
 
