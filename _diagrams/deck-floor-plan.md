@@ -1,11 +1,11 @@
 ---
-title: Sample deck elevation
-description: Sample deck elevation
+title: Sample deck floor plan
+description: Sample deck floor plan
 date: 2017-06-14
 project: project
 diagram_type: plan
-thumb_path: /assets/img/diagrams/deck/deck-sample-elevation.png
-file_path: /assets/img/diagrams/deck/deck-sample-elevation.pdf
+thumb_path: /assets/img/diagrams/deck/deck-sample-floor-plan.png
+file_path: /assets/img/diagrams/deck/deck-sample-floor-plan.pdf
 ---
 ##### Sample deck elevation
 Download to see sample plan and requirements.
