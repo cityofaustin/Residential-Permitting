@@ -9,7 +9,7 @@ overview_of_steps_markdown: 'This is a preview of the permitting process for int
 permalink: /projects/interior-remodel/
 prefooter_text: "Looking for all the applications and forms you might need for permitting an interior remodel? We've got you covered."
 prefooter_link_text: Download all interior remodel documents
-prefooter_link_path:
+prefooter_link_path: /assets/applications-and-forms/all documents interior remodel.zip
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
   in_menu: Should this show up in the header navigation and homepage? Only use on overview page
