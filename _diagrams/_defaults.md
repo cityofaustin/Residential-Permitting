@@ -1,6 +1,6 @@
 ---
-title: Project Plan
-description: Brief description of this plan
+title: Sample plan
+description: Download to see sample plan and requirements.
 date: 2017-06-14
 project: project
 diagram_type: plan
