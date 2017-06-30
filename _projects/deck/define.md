@@ -71,6 +71,70 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
 
@@ -138,8 +202,136 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Regardless of how tall your deck is, you can't build it within 10 feet of
       the rear border or within 5 feet of the side borders of your lot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -274,6 +466,70 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       An area of a resident's property that can be used, built on or changed by
       a government entity or neighbor. You may not build on any easements on your
       property.
@@ -342,8 +598,136 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The city will need to access any easements on your lot. You may be fined or
       asked to demolish your deck if you choose to build it on an easement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -478,8 +862,136 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Rooftops, driveways, parking lots, and other man-made or stone surfaces
       that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -618,6 +1130,70 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       [Learn more about impervious cover](/resources/glossary/impervious-cover).
 ---
 
@@ -646,7 +1222,7 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 ## Do I need a permit?
 
-### Building Permits
+### Building permits
 
 Your deck requires a building permit if it will be or have any of the following:
 
@@ -661,7 +1237,7 @@ Your deck requires a building permit if it will be or have any of the following:
 >
 > {% include glossary-definition.html term="floodplain" %}
 
-### Electric Permits
+### Electric permits
 
 Having electricity on your deck requires getting an electric permit.
 
@@ -669,7 +1245,7 @@ Having electricity on your deck requires getting an electric permit.
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
 * If your deck requires a building permit, the City will automatically include the electric permit with your building permit.
 
-### Tree Permits
+### Tree permits
 
 Having certain trees on your property may require a tree permit.
 
@@ -680,16 +1256,6 @@ Any trees that measure 19 inches or more in diameter are protected and require g
 You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.
 
 Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
-
-### Water Permits
-
-You need a water permit for water and wastewater, or drainage services.
-
-Residential customers adding water meters that are one inch in diameter or smaller are required to apply for a water/wastewater residential tap application.
-
-Residential customers adding water meters larger than one inch in diameter need to submit a water meter upgrade package to Austin Water’s Taps Plan Review Team.
-
-<br>Please contact Austin Water’s Taps Office by calling 512-972-0000 or email TAPappointments@austintexas.gov to schedule an appointment.
 
 ---
 
