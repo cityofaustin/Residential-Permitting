@@ -13,7 +13,7 @@ The City of Austin preserves the natural resources that make Austin beautiful. T
 
 ## Protected tree sizes
 
-Certain tree sizes are protected in Austin and require a special permit to cut them down. You will need a [Tree Ordinance Review Application](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/tree_permit.pdf) if your project:
+Certain tree sizes are protected in Austin and require a special permit to cut them down. You will need a [Tree Ordinance Review Application](/assets/applications-and-forms/Planning/Applications_Forms/tree_permit.pdf) if your project:
 
 Involves a tree of any species that is 19 inches or more in diameter (59.6904 inches around),
 

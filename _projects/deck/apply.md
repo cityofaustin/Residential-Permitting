@@ -15,7 +15,7 @@ Anyone applying for a permit can meet with one of our reviewers for a free 20 mi
 
 ### 1. Application
 
-* The [Uncovered deck permit application](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
+* The [Uncovered deck permit application](/assets/applications-and-forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
 * The Covered deck permit application can be filled out by you, your architect or your engineer.
 
 ### 2. Plot Plan
@@ -36,7 +36,7 @@ The foundation plan can only be drawn by a structural engineer.
 
 ### Other Commonly Requested Documents
 
-* Owner’s Authorization Form: An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
+**Owner’s Authorization Form**: An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 
 ---
 

@@ -41,8 +41,8 @@ This is the best option if the old project is impacted by the new project. For e
 
 You may still need a separate inspection even if your old project won’t be impacted by the new work. If the new project doesn't impact the old project, or you want a separate inspection, you need to fill out the following two forms and include them with your new application:
 
-* [Request for a Permit Extension, Withdrawal, or Reactivation](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Request_for_Permit_Extension__Withdrawal_or_Reactivation.pdf),
-* And [Acknowledgement of Expired Permits](http://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/acknowlege_expired_permits.pdf) form.
+* [Request for a Permit Extension, Withdrawal, or Reactivation](/assets/applications-and-forms/Request_for_Permit_Extension__Withdrawal_or_Reactivation.pdf),
+* And [Acknowledgement of Expired Permits](/assets/applications-and-forms/acknowlege_expired_permits.pdf) form.
 
 Be sure to include the expired permit numbers and property address where necessary.
 

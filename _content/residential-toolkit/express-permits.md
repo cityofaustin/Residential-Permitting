@@ -46,6 +46,6 @@ Finally, any additional updates to your plans will cost $105 to review.
 
 #### How do I get an express permit?
 
-Fill out the [Residential Express Permit Application](https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/Residential_Express_Permit_Application.pdf)&nbsp;to get an express permit. If you are the homeowner, make sure you sign the permit application even if you contract the work out to a hired professional.
+Fill out the [Residential Express Permit Application](/assets/applications-and-forms/Residential_Express_Permit_Application.pdf) to get an express permit. If you are the homeowner, make sure you sign the permit application even if you contract the work out to a hired professional.
 
 Pay any outstanding fees you may have when you turn in your completed express permit application.
