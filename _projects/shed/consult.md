@@ -46,7 +46,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 [Impervious cover](/residential-toolkit/glossary/impervious-cover)
 
 
-> ##### What is a property survey?
+> ###### What is a property survey?
 >
 > {% include glossary-definition.html term="property survey" %}
 
