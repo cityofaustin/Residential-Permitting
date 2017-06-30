@@ -18,7 +18,7 @@ All deck building permit applications require:
 ### 1. Application
 
 * The [Uncovered deck permit application](/assets/applications-and-forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
-* The Covered deck permit application can be filled out by you, your architect or your engineer.
+* The [Covered deck permit application](/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) can be filled out by you, your architect or your engineer.
 
 ### 2. Plot Plan
 
