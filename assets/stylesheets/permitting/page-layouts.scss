@@ -11,6 +11,7 @@
     font-weight: 500;
     font-size: rem(48px);
     line-height: rem(50px);
+    word-break: normal;
   }
   h3 {
     margin-top: 0;
@@ -23,7 +24,7 @@
   .overlay {
     background: rgba($color-gray-dark, .9);
     padding: 2em;
-    width: 19em;
+    width: 20em;
 
   }
   // we may want to use this elsewhere too!

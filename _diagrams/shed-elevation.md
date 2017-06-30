@@ -4,7 +4,8 @@ description: Here is an example of a Shed Elevation Plan.
 date: 2017-06-14 00:00:00
 project: Shed
 diagram_type: elevation-plan
-file_path: /assets/img/diagrams/shed/shed-elevation.png
+thumb_path: /assets/img/diagrams/shed/shed-elevation-plan.png
+file_path: /assets/img/diagrams/shed/shed-elevation-plan.pdf
 ---
 
 

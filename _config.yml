@@ -120,7 +120,8 @@ defaults:
       description: Brief description of this form or document
       date: 2017-06-14
       project: shed
-      file_path: /assets/img/diagrams/project/plan.png
+      thumb_path: /assets/img/diagrams/project/plan.png
+      file_path: /assets/img/diagrams/project/plan.pdf
     diagram_type:
       - floor-plan
       - elevation-plan

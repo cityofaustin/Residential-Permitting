@@ -4,7 +4,8 @@ description: Here is an example of a Shed Plot Plan.
 date: 2017-06-14 00:00:00
 project: Shed
 diagram_type: plot-plan
-file_path: /assets/img/diagrams/shed/shed-plot-plan.png
+thumb_path: /assets/img/diagrams/shed/shed-plot-plan.png
+file_path: /assets/img/diagrams/shed/shed-plot-plan.pdf
 ---
 
 

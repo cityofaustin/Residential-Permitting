@@ -4,7 +4,8 @@ description: Brief description of this plan
 date: 2017-06-14
 project: project
 diagram_type: plan
-file_path: /assets/img/diagrams/project/plan.png
+thumb_path: /assets/img/diagrams/project/plan.png
+file_path: /assets/img/diagrams/project/plan.pdf
 ---
 #### Caption Title
 * Make sure all markings are dark and clearly legible
