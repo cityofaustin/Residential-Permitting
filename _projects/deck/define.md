@@ -39,6 +39,38 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The space between a lot's border and the area where a building can be
       built. Setbacks typically cannot have anything built on them.
 
@@ -74,8 +106,72 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Regardless of how tall your deck is, you can't build it within 10 feet of
       the rear border or within 5 feet of the side borders of your lot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -146,6 +242,38 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       An area of a resident's property that can be used, built on or changed by
       a government entity or neighbor. You may not build on any easements on your
       property.
@@ -182,8 +310,72 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The city will need to access any easements on your lot. You may be fined or
       asked to demolish your deck if you choose to build it on an easement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -254,8 +446,72 @@ tabs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Rooftops, driveways, parking lots, and other man-made or stone surfaces
       that keep water from being absorbed into the ground.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -297,6 +553,38 @@ tabs:
       between the planks, then 100% of the deck’s surface area will count towards
       the amount of impervious cover on your property. A reviewer can help you
       change your deck design if you max out your impervious cover.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -382,6 +670,8 @@ Having electricity on your deck requires getting an electric permit.
 * If your deck requires a building permit, the City will automatically include the electric permit with your building permit.
 
 ### Tree Permits
+
+Having certain trees on your property may require a tree permit.
 
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf) help you take an accurate measurement.
 
