@@ -7,5 +7,5 @@ diagram_type: plan
 thumb_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-elevation.png
 file_path: /assets/img/diagrams/interior-remodel/interior-remodel-sample-elevation.pdf
 ---
-##### Sample interior remodel elevation
+##### Sample elevation
 Download to see sample plan and requirements.
