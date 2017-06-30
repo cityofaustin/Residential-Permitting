@@ -59,7 +59,7 @@ Sketches give reviewers a clear picture of your project and help them determine 
 #### Sketch 1
 What your interior currently looks like, including any windows and doors.
 
-####Sketch 2: What your remodel project will look like when it's completed.
+#### Sketch 2: What your remodel project will look like when it's completed.
 Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. It’s very important that you label any load-bearing walls or beams.
 
 ---
