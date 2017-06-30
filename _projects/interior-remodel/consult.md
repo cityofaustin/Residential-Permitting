@@ -4,7 +4,8 @@ step_number: 2
 project_name: interior remodel
 ---
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center. 
+
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center.
 
 To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
@@ -25,11 +26,11 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ### 2. Fill out the property and profile cards.
 
-Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation. 
+Fill out the project and property profile cards as much as you can and bring them to your consultation. Your reviewer will help you complete the cards and can answer any questions you have. Filling out these cards will help you save time and make the most of your 20 minute consultation.
 
 ### 3. If possible, bring your property survey.
 
-Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential-toolkit/glossary/setback), [easements](/residential-toolkit/glossary/easement), and  [impervious cover](/residential-toolkit/glossary/impervious-cover).
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential-toolkit/glossary/setback), [easements](/residential-toolkit/glossary/easement), and [impervious cover](/residential-toolkit/glossary/impervious-cover).
 
 > ###### What is a property survey?
 >
@@ -47,7 +48,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ### 4. Draw a few simple sketches of your property or home interior.
 
-Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see:
+Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch.These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
 
 * The current floor plan
 * The proposed floor plan (including new windows or doors),
@@ -55,23 +56,17 @@ Sketches give reviewers a clear picture of your project and help them determine 
 * The proposed new walls,
 * And any walls you will tear down.
 
-Use a separate page for each sketch.
+#### Sketch 1
+What your interior currently looks like, including any windows and doors.
 
-* Sketch 1: What your interior currently looks like, including any windows and doors.
-* Sketch 2: What your remodel project will look like when it's completed.
-  * Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down.
-
-It’s very important that you label any load-bearing walls or beams.
-
-See examples of project sketches:
-
-[Good Example / Bad Example]
+#### Sketch 2: What your remodel project will look like when it's completed.
+Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. It’s very important that you label any load-bearing walls or beams.
 
 ---
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center. 
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 

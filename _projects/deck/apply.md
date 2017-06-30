@@ -28,9 +28,13 @@ The deck's plot plan must be drawn to scale by hand or on a computer. It can be 
 
 The deck's floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a hired professional. If possible, use graph paper to make it easier to draw to scale. Include details such as any support beams and handrails on the floor plan.
 
+[SR to include deck-floor-plan]
+
 ### 4. Elevation Plan
 
 The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan.
+
+[SR to include deck-elevation]
 
 ### 5. Foundation Plan
 

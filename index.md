@@ -18,7 +18,7 @@ resources_summary_markdown: 'Use these resources to help you apply for a permit.
 resources_list_url: /resources
 resources_button_text: View all resources
 toolkit_title: Residential Toolkit
-toolkit_summary_markdown: 'Find answers to questions about permitting your project. Use the Residential Toolkit to find out if your project requires a permit, what to do if there are trees on your property, and if your project qualifies for an express permit.'
+toolkit_summary_markdown: 'The Residential Toolkit helps residents navigate the permitting process. Use the Toolkit to find details about specific city processes, your property, or your applications.'
 toolkit_list_url: /residential-toolkit
 toolkit_button_text: View Residential Toolkit
 ---

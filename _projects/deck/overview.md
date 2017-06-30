@@ -9,7 +9,7 @@ overview_of_steps_markdown: "This is a preview of the permitting process for a d
 permalink: /projects/deck/
 prefooter_text: "Looking for all the applications and forms you might need for permitting a deck? We've got you covered."
 prefooter_link_text: Download all deck documents
-prefooter_link_path:
+prefooter_link_path: /assets/applications-and-forms/all documents deck.zip
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
   in_menu: Should this show up in the header navigation and homepage? Only use on overview page
