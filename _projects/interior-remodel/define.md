@@ -114,9 +114,7 @@ You can find out which parts of your application may need to be prepared by a li
 
 ### What if I want to hire a contractor?
 
-Contractors are required to get permits for their work. They are responsible for getting any necessary permits as long as they have your written authorization. If you want to hire a contractor, make sure they have a license and can get the project done properly.
-
-[Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
+Contractors are required to get permits for their work. They are responsible for getting any necessary permits as long as they have your written authorization. If you want to hire a contractor, make sure they have a license and can get the project done properly.&nbsp;[Check out our tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 ---
 
