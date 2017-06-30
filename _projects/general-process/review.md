@@ -14,7 +14,7 @@ You enter into the review process after you submit your application. During revi
 
 ## What is the review process?
 
-### 1. Approval or Comments
+### 1. Approval or comments
 
 Reviewers will look through your application and check your plans for compliance against both the [IRC (International Residential Code)](https://www.iccsafe.org/codes-tech-support/codes/2015-i-codes/irc/) and the [LDC (Land Development Code)](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE). They will either approve your application or attach comments in a Master Comment Report. This process takes about 15 business days.
 
