@@ -25,7 +25,7 @@ The plot plan must be drawn to scale by hand or on a computer. It can be prepare
 
 > Note that for a shed, you can draw your shed to scale on a copy of your survey. It’s easier and helpful for reviewers!
 
-{% include diagram.html diagram="plot-plan" %}
+[SR to include shed-plot-plan]
 
 ### 3. Floor plan or Structural Verification Report
 
@@ -33,13 +33,13 @@ The floor plan must be drawn to scale either by hand or on a computer. The floor
 
 For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted in place of a floor plan.
 
-{% include diagram.html diagram="floor-plan" %}
+[SR to include shed-floor-plan]
 
 ### 4. Elevation plan
 
 The elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a hired professional. For prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
-{% include diagram.html diagram="elevation-plan" %}
+[SR to include shed-elevation-plan]
 
 ### 5. Foundation plan
 
