@@ -33,6 +33,10 @@ Use a separate page for:
 * Existing walls and features that will remain intact,
 * Your proposed floor plan.
 
+[SR to include interior-remodel-exist-demo-plan]
+
+[SR to include interior-remodel-proposed-floor-plan]
+
 ### 4. Elevation Plan
 
 You don't need an elevation plan for an interior remodel.&nbsp;
