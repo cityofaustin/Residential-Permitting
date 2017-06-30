@@ -1,5 +1,5 @@
 ---
-title: Sample shed elevation diagram
+title: Sample shed elevation
 description: Download to see sample plan and requirements.
 date: 2017-06-14 00:00:00
 project: Shed
