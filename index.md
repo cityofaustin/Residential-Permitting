@@ -18,7 +18,9 @@ resources_summary_markdown: 'Use these resources to help you apply for a permit.
 resources_list_url: /resources
 resources_button_text: View all resources
 toolkit_title: Residential Toolkit
-toolkit_summary_markdown: Are you changing or adding to your home? Check out our detailed permitting guides for some examples of common Austin residential projects.
+toolkit_summary_markdown: 'Find answers to questions about permitting your project. Use the Residential Toolkit to find out if your project requires a permit, what to do if there are trees on your property, and if your project qualifies for an express permit.'
 toolkit_list_url: /residential-toolkit
 toolkit_button_text: View Residential Toolkit
 ---
+
+
