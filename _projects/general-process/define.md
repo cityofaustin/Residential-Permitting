@@ -74,6 +74,8 @@ Your contractor is responsible for getting the required permits if you are insta
 
 ### Tree permits
 
+Having certain trees on your property may require a tree permit.
+
 The city protects certain trees in order to maintain Austin’s natural beauty. If you are working on the inside of your home, a tree review is still necessary to make sure that any equipment does not damage the critical root zone of any protected trees on your property.
 
 > ###### What is a critical root zone?
