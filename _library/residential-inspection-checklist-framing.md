@@ -1,6 +1,6 @@
 ---
 title: Residential Inspection Checklist-Framing
-description: Brief description of this form or document
+description: Framing inspection checklist for residential properties. 
 document_type: form
 file_path: /assets/applications-and-forms/Residential_Inspection_Checklist_Framing.pdf
 
