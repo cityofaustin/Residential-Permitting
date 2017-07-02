@@ -1,6 +1,6 @@
 ---
 title: Structural Review Submittal Checklist
-description: Brief description of this form or document
+description: Checklist for structural review. 
 document_type: form
 file_path: /assets/applications-and-forms/Structural_Review_Submittal_Checklist.pdf
 
