@@ -1,6 +1,6 @@
 ---
 title: Express Lane
-description: Brief description of this form or document
+description: List of projects that qualify for express permits.
 document_type: form
 file_path: /assets/applications-and-forms/ResExpress-Qualifying_projects.pdf
 
