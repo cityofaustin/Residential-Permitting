@@ -1,6 +1,6 @@
 ---
 title: Owner's Authorization Letter
-description: Brief description of this form or document
+description: Owner’s transfer of approval to a licensed professional.
 document_type: form
 file_path: /assets/applications-and-forms/coaownersletter-1.pdf
 
