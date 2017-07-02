@@ -1,6 +1,6 @@
 ---
 title: Residential Water - Waste Water Tap Permit Application
-description: Brief description of this form or document
+description: Apply for a tap connection to water and wastewater systems.
 document_type: application
 file_path: /assets/applications-and-forms/ResidentialTapApplication_2016.pdf
 
