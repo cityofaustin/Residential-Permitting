@@ -1,6 +1,6 @@
 ---
 title: Special Inspections Log
-description: Record discrepancies that require special inspections on this log.
+description: Use this log to record discrepancies that require special inspections.
 document_type: form
 file_path: /assets/applications-and-forms/Special_Inspections_Log.pdf
 
