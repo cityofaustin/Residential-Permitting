@@ -118,6 +118,6 @@ Contractors are required to get permits for their work. They are responsible for
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
 
-Give you personalized property information that will help you fill out your application. Depending on what you learn during your consultation, you may not be able to build your deck as you originally planned.
+* Give you personalized property information that will help you fill out your application. Depending on what you learn during your consultation, you may not be able to build your deck as you originally planned.
 
-Give you a list of documents you need to prepare for your application based on your specific project.
+* Give you a list of documents you need to prepare for your application based on your specific project.
