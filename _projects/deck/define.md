@@ -12,13 +12,13 @@ tabs:
 ---
 
 
-Before you start building your deck or apply for a permit(s), it’s important to describe what your project is, figure out if you need any permits, and collect the information you need for your consultation and application. You can start by making sure your definition of your project is the same as the City of Austin’s definition.
+Before you start building your deck or applying for a permit(s), it’s important to describe what your project is, figure out if you need any permits, and collect the information you need for your consultation and application. You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
 ---
 
 ## What is a deck?
 
-A deck is a platform-like structure without walls, often made of planks, that no one will be living on and is typically used for lounging or gathering.
+A deck is a platform-like structure without walls, often made of planks, that no one lives on and is typically used for lounging or gathering.
 
 [If this doesn't sound like your project, check out the General Process page](/projects/general-process).
 
@@ -38,10 +38,10 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 ### Building permits
 
-Your deck requires a building permit if it will be or have any of the following:
+Your deck requires a building permit if it will:
 
 * Be attached to your home,
-* Be over 200 square feet (more than 20 feet x 10 feet),
+* Be over 200 square feet (larger than 20 feet x 10 feet),
 * Be more than 30 inches above ground,
 * Have plumbing,
 * Have electric,
@@ -75,7 +75,7 @@ Learn more about [protected trees and their construction requirements](/resident
 
 ## Getting a building permit
 
-Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. You will follow the same process for submitting a permit application for covered or uncovered decks.
+Getting a permit proves that changes to your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. You will follow the same process for submitting a permit application for covered or uncovered decks.
 
 ### How much do building permits cost?
 
