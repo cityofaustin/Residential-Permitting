@@ -69,7 +69,7 @@ Sketch the shed you will build and include its dimensions and any windows or doo
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
-There are two ways to sign up for your free 20 minute in-person consultation.
+There are two ways to sign up for your free 20 minute in-person consultation:
 
 * Sign up in person at the QLess Kiosk at the [Residential Plan Review](/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
