@@ -78,4 +78,4 @@ If you sign up remotely on the [QLess website](https://kiosk.qless.com/kiosk/app
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-After your consultation, feel free to return to the next section for further assistance on preparing your application. preparing your application.
+After your consultation, feel free to return to the next section for further assistance on preparing your application.
