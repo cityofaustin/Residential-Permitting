@@ -25,7 +25,7 @@ Remember that you can't officially submit your permit application to the reviewe
   * Be built in a floodplain,
   * Have plumbing,
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
-  * And/or have electricity.
+  * Have electricity.
 
 ### 2. Fill out the property and profile cards.
 
