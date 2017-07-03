@@ -2,7 +2,7 @@
 title: Apply for a Permit in Austin
 step_number: 3
 project_name: general process
-permalink: /projects/general-process/apply
+permalink: /projects/general-process/apply/
 
 ---
 
