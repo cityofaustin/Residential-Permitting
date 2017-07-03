@@ -18,7 +18,7 @@ resources_summary_markdown: 'Use these resources to help you apply for a permit.
 resources_list_url: /resources
 resources_button_text: View all resources
 toolkit_title: Residential Toolkit
-toolkit_summary_markdown: 'The Residential Toolkit helps residents navigate the permitting process. Use the toolkit to find details about specific city processes, your property, or your applications.'
+toolkit_summary_markdown: 'The Residential Toolkit helps residents navigate the permitting process. Use the toolkit to find details about specific city processes, your property or applications.'
 toolkit_list_url: /residential-toolkit
 toolkit_button_text: View Residential Toolkit
 ---
