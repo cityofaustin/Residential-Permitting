@@ -17,20 +17,20 @@ Anyone applying for a permit can meet with one of our reviewers for a free 20 mi
 
 The interior remodel application can be filled out by you, an architect, or an engineer.
 
-You'll need a demolition application if you are tearing down walls, or will need to change any windows or doors. The demolition application can be filled out by either you or a hired professional.
+You'll need a demolition application if you are tearing down walls, or will need to change any windows or doors. The demolition application can be filled out by either you or a licensed professional.
 
 ### 2. Plot Plan
 
-The plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a hired professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include any power lines that run above your property.
+The plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a licensed professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include any power lines that run above your property.
 
 ### 3. Floor Plan
 
-The floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a hired professional. If possible, use graph paper to make it easier to draw to scale. We strongly recommend drawing your floor plan on 3 pages to help reviewers understand your drawings. If the reviewers can’t understand the drawings, your project will be rejected.
+The floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale. We strongly recommend drawing your floor plan on 3 pages to help reviewers understand your drawings. If the reviewers can’t understand the drawings, your project will be rejected.
 
 Use a separate page for:
 
-* Existing walls and features that will be demolished,
-* Existing walls and features that will remain intact,
+* Existing walls and features that will be demolished
+* Existing walls and features that will remain intact
 * Your proposed floor plan.
 
 [SR to include interior-remodel-exist-demo-plan]
