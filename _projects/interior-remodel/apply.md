@@ -64,10 +64,13 @@ Your foundation plan must be drawn by a structural engineer.
 
 ## How do I submit my application?
 
-Intake happens during Residential Plan Review at the One Texas Center. You may:
+Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
-* Or you can save time by joining the line remotely on the QLess website. Fill out your name and number on the website, click on "Residential" and select "Submissions." You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
+* You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
+  * Fill out your name and phone number on the website and select Residential-Permit Application Submittals.
+  * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
+  * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
 ### What happens at intake?
 
