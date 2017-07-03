@@ -7,7 +7,7 @@ project_name: deck
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;located at One Texas Center.
 
-To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
+To make the most of your free 20 minute in-person consultation with a reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you will need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
