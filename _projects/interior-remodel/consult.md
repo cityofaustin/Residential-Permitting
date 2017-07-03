@@ -68,12 +68,12 @@ Make sure you label smoke and carbon monoxide detectors and any walls that will 
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review)&nbsp;at One Texas Center.
+All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the Residential Plan Review.
-* Or save time by joining the line remotely on the&nbsp;[QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/contact/#residential-plan-review)
+* Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 If you sign up remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), please fill out your name and phone number. Click on Residential-Zoning & Process Help, and select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or to get help with any questions you may have.
 
