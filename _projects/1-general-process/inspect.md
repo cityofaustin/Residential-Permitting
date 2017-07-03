@@ -25,7 +25,7 @@ tabs:
 ---
 
 
-Inspections are required as you build your permitted project and when you're finished with the project. Inspections make sure all of your work is safe, and that your project will last a long time.
+Inspections are required as you build your permitted project and when you're finished with the project. Inspections make sure all of your work is safe and that your project will last a long time.
 
 ---
 
