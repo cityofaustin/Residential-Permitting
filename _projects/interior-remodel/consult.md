@@ -7,7 +7,7 @@ project_name: interior remodel
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) located at One Texas Center.
 
-To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
+To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information allows the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
@@ -48,18 +48,20 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 ### 4. Draw a few simple sketches of your property or home interior.
 
-Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch.These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
+Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
 
 * The current floor plan
-* The proposed floor plan (including new windows or doors),
-* The existing walls of your home,
-* The proposed new walls,
-* And any walls you will tear down.
+* The proposed floor plan (including new windows or doors)
+* The existing walls of your home
+* The proposed new walls
+* Any walls you will tear down
 
 #### Sketch 1
 What your interior currently looks like, including any windows and doors.
 
-#### Sketch 2: What your remodel project will look like when it's completed.
+#### Sketch 2: 
+What your remodel project will look like when it's completed.
+
 Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. It’s very important that you label any load-bearing walls or beams.
 
 ---
