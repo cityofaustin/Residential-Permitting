@@ -2,9 +2,8 @@ locales:
   en:
     site_title: Residential Permitting
     intro_markdown: 'This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).'
-    projects:
-    view_all_projects:
-      - all
+    projects: Projects
+    view_all_projects: View all projects
     resources: Resources
     view_all_resources: View all Resources
     toolkit: Residential Toolkit
