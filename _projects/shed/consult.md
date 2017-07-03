@@ -7,7 +7,7 @@ project_name: shed
 
 All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
 
-To make the most of your free 20 minute in-person consultation with a reviewer, we suggest preparing some information about your property and project ahead of time. This information will allow the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
+To make the most of your free 20 minute in-person consultation with a reviewer, we suggest preparing some information about your property and project ahead of time. This information allows the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
 Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
 
@@ -17,11 +17,11 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ### 1. Collect the following information:
 
-* What is the address of where will build your shed?
+* What's the address where the shed will be built?
 * What will you use this shed for?
 * Decide whether your shed will:
   * Be over 1 story,
-  * Be over 200 square feet (over 20 feet by 10 feet),
+  * Be over 200 square feet (larger than 20 feet by 10 feet),
   * Be built in a floodplain,
   * Have plumbing,
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
