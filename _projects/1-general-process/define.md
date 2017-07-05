@@ -115,4 +115,4 @@ It is possible to prepare your permit application without consulting with a revi
 
 * Give you the personalized property information you need to fill out your application. Depending on the information you learn during your consultation, you may not be able to complete your project as you originally planned.
 * Give you a list of documents you need to prepare for your application based on your specific project.
-* Explain the next steps to apply for a permit.
+* Explain the next steps needed to apply for a permit.
