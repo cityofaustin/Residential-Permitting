@@ -2,8 +2,9 @@ locales:
   en:
     site_title: Residential Permitting
     intro_markdown: 'This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).'
-    projects: Projects
-    view_all_projects: View all projects
+    projects:
+    view_all_projects:
+      - all
     resources: Resources
     view_all_resources: View all Resources
     toolkit: Residential Toolkit
@@ -47,7 +48,7 @@ locales:
         step_description: Get your work inspected by the city and close out your permit(s).
         table_of_contents:
           - Determine what inspections are required throughout your project.
-          - 'Learn how to schedule your inspections either online, in-person or by phone.'
+          - Learn how to schedule your inspections either online or in-person.
           - Schedule final inspection and make any required changes before your permit expires.
     project_button_next: Go to
     project_button_prev: Back to
