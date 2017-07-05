@@ -56,11 +56,9 @@ locales:
     glossary_link_prefix: Read more about
     glossary_sidebar_link: Learn more
     department_link_prefix: Learn more about
-    diagram_download_link_prefix: Download a sample
+    diagram_download_link_prefix: Download
     resource_download_link_prefix: Download
     resource_last_revision_prefix: Updated
-    lightbox_gallery_do: Do
-    lightbox_gallery_dont: "Don't"
     glossary_definition_header_prefix:
     glossary_definition_header_suffix: definition
     prefooter_credits_prefix: Made by the City of Austin
