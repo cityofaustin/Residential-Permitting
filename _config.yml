@@ -124,8 +124,11 @@ defaults:
       file_path: /assets/img/diagrams/project/plan.pdf
     diagram_type:
       - floor-plan
-      - elevation-plan
+      - elevation
       - plot-plan
+      - exist-demo-plan
+      - proposed-floor-plan
+
 
 # for all pages
 _comments:
