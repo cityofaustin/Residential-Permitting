@@ -2,7 +2,6 @@
 title: Tiles Inventory
 layout: default
 sitemap: false
-
 ---
 {% include setup-pages.html %}
 
@@ -46,7 +45,6 @@ sitemap: false
   </div>
 </section>
 
-
 <section class="container container-fluid page-section">
   <div class="row center-xs">
     <div class="col-xs-10 col-sm-8 col-md-6">
@@ -54,8 +52,8 @@ sitemap: false
     </div>
   </div>
   <div class="row center-xs">
-  {% for page in toolkit_pages limit:6 %}
-    {% include tiles-articles.html tile=page %}
+  {% for toolkitpage in toolkit_pages limit:3 %}
+    {% include tiles-articles.html tile=toolkitpage %}
   {% endfor %}
   </div>
 </section>
