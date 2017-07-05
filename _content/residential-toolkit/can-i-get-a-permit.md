@@ -29,7 +29,7 @@ You can visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/pu
 
 The City of Austin makes every effort to produce and publish the most current and accurate information possible. No warranties, expressed or implied, are provided for the data herein, utilization of the search facility indicates understanding and acceptance of this statement by the user.
 
-Create a New User Profile:
+####Create a New User Profile:
 
 Visit Austin Build + Connect at https://abc.austintexas.gov. Click on “Register Now” in the New User field to create an online profile.
 
@@ -53,7 +53,7 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 
 &nbsp;
 
-To search for an existing or expired permit:
+####To search for an existing or expired permit:
 
 Visit https://abc.austintexas.gov and Log In.
 
@@ -61,13 +61,14 @@ Click on “Public Search” on the lefthand menu.
 
 Enter the required information to search for a permit in one of four ways:
 
-By Permit Number
+* By Permit Number
 
-By FolderRSN or Row ID
+* By FolderRSN or Row ID
 
-By Case Number
+* By Case Number
 
-By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. Ex: 1920-2017.
+* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. 
+Ex: 1920-2017.
 
 ---
 
