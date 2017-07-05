@@ -27,6 +27,8 @@ Permits have a 180-day lifespan from the day they are issued or from the most re
 
 You can visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to search for an expired permit.
 
+
+
 ---
 
 ## I have open or expired permits
