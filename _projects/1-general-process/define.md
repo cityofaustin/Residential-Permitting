@@ -87,7 +87,7 @@ The city protects certain trees in order to maintain Austin’s natural beauty. 
 
 ### Demolition permits
 
-Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If apply for a demolition permit, you will need:
+Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you apply for a demolition permit, you will need:
 
 * A survey or plot plan (you can use the same one used for your interior remodel or new addition application).
 * To have it signed by the owner and notarized.
