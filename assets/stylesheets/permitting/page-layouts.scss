@@ -422,6 +422,10 @@ h1.page-title {
   .department-logo {
     margin-top: 2rem;
     margin-bottom: 5rem;
+    display: inline-block;
+    img {
+      border-width: 0;
+    }
   }
 }
 

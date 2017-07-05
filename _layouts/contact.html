@@ -21,7 +21,7 @@ layout: default
           {% if featured_department.description %}<p>{{ featured_department.description }}</p>{% endif %}
           <h5><a href="{{ featured_department.department_link }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ featured_department.department_name }}</a></h5>
 
-          {% unless featured_department.logo_path == nil %}<a href="{{ featured_department.department_link }}" target="_blank"><img class="department-logo" src="{{ site.url }}{{ featured_department.logo_path }}" alt="{{ featured_department.department_name }}" /></a>{% endunless %}
+          {% unless featured_department.logo_path == nil %}<a class="department-logo" href="{{ featured_department.department_link }}" target="_blank"><img src="{{ site.url }}{{ featured_department.logo_path }}" alt="{{ featured_department.department_name }}" /></a>{% endunless %}
 
         </div>
         <div class="col-xs-10 col-xs-offset-1 col-md-6 department-details">
@@ -111,7 +111,7 @@ layout: default
             {% if department.description %}<p>{{ department.description }}</p>{% endif %}
             <h5><a href="{{ department.department_link }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ department.department_name }}</a></h5>
 
-            {% unless department.logo_path == nil %}<a href="{{ department.department_link }}" target="_blank"><img class="department-logo" src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
+            {% unless department.logo_path == nil %}<a class="department-logo" href="{{ department.department_link }}" target="_blank"><img src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
 
           </div>
           <div class="col-xs-12 col-md-offset-1 col-md-6 department-details">
