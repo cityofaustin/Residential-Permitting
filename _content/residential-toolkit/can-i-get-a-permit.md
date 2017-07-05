@@ -37,7 +37,7 @@ Visit Austin Build + Connect at https://abc.austintexas.gov. Click on “Registe
 
 * If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email.
 
-1. Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
+Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
 
 You will receive an email with your unique PIN number and a link. Follow the link to finish setting up your profile.
 
