@@ -33,9 +33,9 @@ The City of Austin makes every effort to produce and publish the most current an
 
 Visit Austin Build + Connect at https://abc.austintexas.gov. Click on “Register Now” in the New User field to create an online profile.
 
-If you are already have a profile, enter your email and password in the Registered User field.
+* If you are already have a profile, enter your email and password in the Registered User field.
 
-If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email.
+* If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email.
 
 1. Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
 
