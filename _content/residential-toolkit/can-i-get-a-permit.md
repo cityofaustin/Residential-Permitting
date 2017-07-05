@@ -68,7 +68,7 @@ Enter the required information to search for a permit in one of four ways:
 * By Case Number
 
 * By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. 
-Ex: 1920-2017.
+Ex: 1920-2017
 
 ---
 
