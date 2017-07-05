@@ -37,19 +37,19 @@ If you are already have a profile, enter your email and password in the Register
 
 If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email.
 
-2. Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
+1. Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
 
 You will receive an email with your unique PIN number and a link. Follow the link to finish setting up your profile.
 
-3. Open the email you receive from web.registration@ci.austin.tx.us and copy or write down your PIN number.
+2. Open the email you receive from web.registration@ci.austin.tx.us and copy or write down your PIN number.
 
-4. Click on the link in the email to complete your profile. You can also copy and paste the link into your browser, then press “Enter” on your keyboard. The link will take you back to the Austin Build + Connect page.
+3. Click on the link in the email to complete your profile. You can also copy and paste the link into your browser, then press “Enter” on your keyboard. The link will take you back to the Austin Build + Connect page.
 
-5. Log In with your email, password and PIN number on the Austin Build + Connect page to access your profile.
+4. Log In with your email, password and PIN number on the Austin Build + Connect page to access your profile.
 
-6. You will see several navigation links on the left side of the Austin Build + Connect page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
+5. You will see several navigation links on the left side of the Austin Build + Connect page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
 
-7. Follow the instructions to find your permit.
+6. Follow the instructions to find your permit.
 
 &nbsp;
 
