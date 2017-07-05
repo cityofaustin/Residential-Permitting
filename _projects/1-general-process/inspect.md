@@ -37,7 +37,7 @@ Inspections can be scheduled one of two ways.
 In person at [Building Inspections](/contact/#building-inspections) at One Texas Center.
 
 
-#### Do I need to be home for my inspection?
+### Do I need to be home for my inspection?
 
 You will find out whether or not you need to be home when you schedule your inspection.
 
