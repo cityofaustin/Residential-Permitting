@@ -48,7 +48,7 @@ layout: default
     {% endif %}
   {% endfor %}
   {% unless page.prefooter_text == false %}
-  <div class="container container-fluid project-layout project-prefooter">
+  <div class="container container-fluid project-layout prefooter">
   	<div class="row start-xs">
       <div class="center-xs start-sm col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
         <p>{{ page.prefooter_text }}</p>
@@ -94,7 +94,7 @@ layout: default
     {% endif %}
     {% assign prev = project_step %}
   {% endfor %}
-  <div class="container container-fluid project-prefooter">
+  <div class="container container-fluid prefooter">
   	<div class="row start-xs">
   		<aside class="button-container center-xs start-sm col-xs-12 col-sm-offset-1 col-sm-10 row">
         <div class="start-xs col-xs-6">
