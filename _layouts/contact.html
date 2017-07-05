@@ -78,7 +78,7 @@ layout: default
               <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
             </div>
             <div class="col-xs-10">
-              <p>{{ featured_department.phone }}</p>
+              <p><a href="tel:+1-{{ featured_department.phone | slugify }}">{{ featured_department.phone }}</a></p>
             </div>
           </div>
           {% endif %}
@@ -168,7 +168,7 @@ layout: default
                 <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
               </div>
               <div class="col-xs-10">
-                <p>{{ department.phone }}</p>
+                <p><a href="tel:+1-{{ department.phone | slugify }}">{{ department.phone }}</a></p>
               </div>
             </div>
             {% endif %}

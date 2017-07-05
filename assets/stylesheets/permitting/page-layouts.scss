@@ -163,6 +163,7 @@
         }
       &.link--external:after { background-image: url('../img/external-link.svg'); }
       &.link--file:after { background-image: url('../img/external-file.svg'); }
+      &.link--phone:after { background-image: url('../img/phone.svg'); }
       }
     }
   }

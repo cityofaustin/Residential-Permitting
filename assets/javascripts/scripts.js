@@ -73,6 +73,7 @@ var initLinkAttributes = function() {
   $("a").each(function() {
     var is_relative = new RegExp("//" + window.location.host + "/");
     var is_file = new RegExp(".pdf");
+    var is_tel = new RegExp("tel:+")
     if (!is_relative.test(this.href)) {
       $(this).attr("target","_blank");
       $(this).addClass("link--external");
@@ -80,6 +81,10 @@ var initLinkAttributes = function() {
     if (is_file.test(this.href)) {
       $(this).attr("target","_blank");
       $(this).addClass("link--file");
+    }
+    if (is_tel.test(this.href)) {
+      $(this).attr("target","_blank");
+      $(this).addClass("link--phone");
     }
 
   });
