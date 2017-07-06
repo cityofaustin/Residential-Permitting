@@ -72,11 +72,6 @@ It's sometimes handy for breaking things up.
 
 ![Placeholder image of Bill Murray](http://www.fillmurray.com/200/300)
 
-
-## Finally
-
-There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
-
 ---
 
 
@@ -87,7 +82,22 @@ The icons for projects are the only custom icons used on the site. All other ico
 
 
 ### Font Awesome icons
-[want to include all icons]
+{% include _icon.html icon='arrow-long-right' %}
+{% include _icon.html icon='bars' %} //fix this//
+{% include _icon.html icon='camera' %}
+{% include _icon.html icon='caret-down' %}
+{% include _icon.html icon='check' %}
+{% include _icon.html icon='clock' %}
+{% include _icon.html icon='close' %}
+{% include _icon.html icon='envelope-o' %} //fix this//
+{% include _icon.html icon='external-link' %}
+{% include _icon.html icon='file' %}
+{% include _icon.html icon='list-ul' %} //fix this//
+{% include _icon.html icon='map-marker' %}
+{% include _icon.html icon='phone' %}
+{% include _icon.html icon='search' %}
+
+
 
 ---
 
