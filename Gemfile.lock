@@ -82,6 +82,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-sitemap
   minima (~> 2.0)
+  rb-fsevent (= 0.9.8)
 
 RUBY VERSION
    ruby 2.4.0p0
