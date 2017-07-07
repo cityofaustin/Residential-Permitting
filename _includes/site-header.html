@@ -44,7 +44,7 @@
         <nav>
           <ul>
             <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
-            <li><span>{{ site.data.labels.locales[site.locale].projects }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+            <li><span>{{ site.data.labels.locales[site.locale].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
                 {% for project in project_pages limit: 3 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>

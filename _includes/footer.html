@@ -11,7 +11,7 @@
       </div>
 
       <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
-        <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].projects }}</h4>
+        <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].projects_label }}</h4>
           <ul>
             {% for project in project_pages limit: 3 %}
               <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
