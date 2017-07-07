@@ -4,6 +4,7 @@ layout: default
 lead: ''
 description:
 permalink: /admin/
+in_admin_pages: false
 ---
 {% assign admin_pages = site.content | where: "in_admin_pages", true | sort: "menu_sort_order" %}
 
