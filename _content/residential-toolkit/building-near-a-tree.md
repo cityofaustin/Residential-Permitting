@@ -48,19 +48,19 @@ To understand where you can and can't build around trees, imagine that there are
 
 In this example, the critical root zone extends 20 feet from the base of the tree. You can dig into the ground in the outer half of the critical root zone (in this example: between 10 to 20 feet from the base of the tree or the green zone).
 
-#### ¼ Critical Root Zone&nbsp;
+#### ¼ Critical Root Zone
 
-The ¼ critical root zone (in this example: the red zone) extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You will damage the tree's roots if you dig in this zone.&nbsp;
+The ¼ critical root zone (in this example: the red zone) extends 5 feet (¼ of 20 feet) out from the base of the tree on the ground level. You will damage the tree's roots if you dig in this zone.
 
 #### ½ Critical Root Zone
 
-The ½ critical root zone (in this example: the yellow zone) lies between 5 and 10 feet from the base of the tree. You can only dig 4 inches into the soil in this zone.&nbsp;
+The ½ critical root zone (in this example: the yellow zone) lies between 5 and 10 feet from the base of the tree. You can only dig 4 inches into the soil in this zone.
 
 ---
 
 ## Heritage trees
 
-You may not be able to remove heritage trees because they are highly protected by the City of Austin in order to preserve their natural beauty. Navigating the critical root zone of heritage trees may be difficult if the trees are 24 inches or more in diameter and one of the species on the list below.&nbsp;
+You may not be able to remove heritage trees because they are highly protected by the City of Austin in order to preserve their natural beauty. Navigating the critical root zone of heritage trees may be difficult if the trees are 24 inches or more in diameter and one of the species on the list below.
 
 * All Oaks
 * Arizona Walnut
