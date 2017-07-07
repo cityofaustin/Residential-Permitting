@@ -1,7 +1,7 @@
 
 
 $site-header-height: 6.0rem;
-$pre-header-height: 4.5rem;
+$pre-header-height: 4.4rem;
 $drawer-width: 28rem;
 
 .pre-header {
@@ -354,6 +354,7 @@ a.header-link-list-view-all {
 }
 
 .header--translate, .header--search {
+  background: $color-gray-lightest;
   transition: height .25s;
   height: 0;
   overflow: hidden;
@@ -367,11 +368,11 @@ a.header-link-list-view-all {
 }
 
 .header--search {
-  .usa-search {
+  @media #{$sm-viewport} {
+    background: $color-white;
   }
 }
 .header--translate {
-  background: $color-gray-lightest;
   .goog-te-gadget {
     font-family: $font-sans;
     color: $color-gray-dark;
