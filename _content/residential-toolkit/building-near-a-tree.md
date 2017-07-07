@@ -38,7 +38,7 @@ A tree's critical root zone depends on its size. Larger and older trees have big
 >
 > The diameter of the tree's trunk in inches equals the size of its critical root zone in feet. For example, a tree with a diameter of 20 inches has a critical root zone of 20 feet.
 
-To understand where you can and can't build around trees, imagine that there are three development impact zones around base of the tree. We’re using a tree with a 20 inch diameter in the example below.
+To understand where you can and can't build around trees, imagine that there are three development impact zones around the base of the tree. We’re using a tree with a 20 inch diameter in the example below.
 
 ![](/assets/img/diagrams/critical-root-zone.svg)
 
