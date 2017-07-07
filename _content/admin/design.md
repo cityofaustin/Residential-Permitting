@@ -1,6 +1,7 @@
 ---
 title: Design Style Guide (draft)
 sitemap: false
+excerpt: The design style guide is a library of the site's design components, including color palette, typography, and iconography. Our library builds off of the U.S. Web Design Standards.
 
 ---
 
