@@ -2,7 +2,5 @@
 {% assign project = page.project_name | slugify %}
 {% assign diagram = site.diagrams | where: "diagram_type", diagram_type | where: "project", project | first %}
 <div class="row center-xs">
-  <div class="col-xs-10 col-sm-12">
-    {% include tiles-plans.html tile=diagram optional='in_article' %}
-  </div>
+  {% include tiles-plans.html tile=diagram optional='in_article' %}
 </div>

@@ -11,16 +11,12 @@ layout: default
   {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
   {% for project in plans %}
   <div class="row center-xs">
-    <h2>{{ project.name | deslugify | titlecase }}</h2>
+    <h2>{{ project.name |  replace: "-", " " | titlecase }}</h2>
   </div>
-  <div class="row center-xs">
-    <article class="content plans-gallery row" itemscope itemtype="http://schema.org/ImageGallery">
-      {% for plan in project.items %}
-      <div class="col-xs-10 col-sm-6 col-md-4">
-        {% include tiles-plans.html plan=plan %}
-      </div>
-      {% endfor %}
-    </article>
+  <div class="row center-xs" itemscope itemtype="http://schema.org/ImageGallery">
+    {% for plan in project.items %}
+      {% include tiles-plans.html plan=plan %}
+    {% endfor %}
   </div>
   {% endfor %}
 

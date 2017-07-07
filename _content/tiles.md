@@ -37,9 +37,7 @@ sitemap: false
   {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
   {% for project in plans limit:1 %}
     {% for plan in project.items %}
-      <div class="col-xs-10 col-sm-6 col-md-4">
-        {% include tiles-plans.html tile=plan %}
-      </div>
+      {% include tiles-plans.html tile=plan %}
     {% endfor %}
   {% endfor %}
   </div>
