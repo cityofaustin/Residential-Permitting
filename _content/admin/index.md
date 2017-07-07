@@ -5,7 +5,7 @@ lead: ''
 description:
 permalink: /admin/
 ---
-{% assign admin_pages = site.content | where: 'in_admin_pages', true | sort: "menu_sort_order" %}
+{% assign admin_pages = site.content | where: "in_admin_pages", true | sort: "menu_sort_order" %}
 
 <div class="container container-fluid page-layout">
   <div class="row center-xs">

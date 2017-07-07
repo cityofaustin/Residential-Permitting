@@ -133,7 +133,7 @@ defaults:
 # for internal / admin / docs pages
 - scope:
     path: '_content/admin'
-    type:
+    type: 'content'
   values:
     sitemap: false
     in_admin_pages: true
