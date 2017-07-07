@@ -34,13 +34,13 @@ To calculate a tree’s diameter, measure the circumference of the tree from 4.5
 
 A tree's critical root zone depends on its size. Larger and older trees have bigger critical root zones that need to be built around.
 
-Even if your completed project won't be within 10 feet of a tree, bringing in construction equipment may affect its health. For example, a large cement truck driving over the roots can damage the root system since it is just 4 inches underground.
-
-To understand where you can and can't build around trees, imagine that there are three development impact zones around base of the tree. We’re using a tree with a 20 inch diameter in the example below.
-
 > ###### How do I calculate the critical root zone?
 >
 > The diameter of the tree's trunk in inches equals the size of its critical root zone in feet. For example, a tree with a diameter of 20 inches has a critical root zone of 20 feet.
+
+Even if your completed project won't be within 10 feet of a tree, bringing in construction equipment may affect its health. For example, a large cement truck driving over the roots can damage the root system since it is just 4 inches underground.
+
+To understand where you can and can't build around trees, imagine that there are three development impact zones around base of the tree. We’re using a tree with a 20 inch diameter in the example below.
 
 ![](/assets/img/diagrams/critical-root-zone.svg)
 
