@@ -875,6 +875,11 @@ $lg-viewport: "only screen and (min-width: 75em)";
 
 .breakout-tabs {
   @media #{$sm-viewport} {
+    width: 130%;
+    position: relative;
+    left: -15%;
+  }
+  @media #{$md-viewport} {
     width: 150%;
     position: relative;
     left: -25%;

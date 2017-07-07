@@ -3,29 +3,35 @@
   blockquote {
     font-size: 1.3rem;
     font-family: $font-sans;
-    border-style: solid;
-    border-color: $color-barton-light;
-    border-width: 0 0 0 2px;
-    padding:  1rem 2rem;
+    padding:  2rem 2rem 1rem;
     margin: 2rem 0;
-    position: relative;
-    line-height: $heading-line-height;
-    &:before,
-    &:after {
-      border-style: inherit;
-      border-color: inherit;
-      content: "";
-      width: 1rem;
-      position: absolute;
-      left: 0;
-    }
-    &:before {
-      border-width: 2px 0 0 0;
-      top: 0;
-    }
-    &:after {
-      border-width: 0 0 2px 0;
-      bottom: 0;
+    background: $color-gray-lightest;
+    @media #{$md-viewport} {
+      background: $color-white;
+      border-style: solid;
+      border-color: $color-barton-light;
+      border-width: 0 0 0 2px;
+      padding:  1rem 2rem;
+      margin: 2rem 0;
+      position: relative;
+      line-height: $heading-line-height;
+      &:before,
+      &:after {
+        border-style: inherit;
+        border-color: inherit;
+        content: "";
+        width: 1rem;
+        position: absolute;
+        left: 0;
+      }
+      &:before {
+        border-width: 2px 0 0 0;
+        top: 0;
+      }
+      &:after {
+        border-width: 0 0 2px 0;
+        bottom: 0;
+      }
     }
     p {
       margin: 0 0 1.5rem;
