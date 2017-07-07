@@ -69,6 +69,7 @@ defaults:
     layout: 'page'
     in_resources_menu: false
     in_toolkit_menu: false
+    in_admin_pages: false
     menu_sort_order: 10
     _comments:
 
@@ -128,6 +129,16 @@ defaults:
       - plot-plan
       - exist-demo-plan
       - proposed-floor-plan
+
+# for internal / admin / docs pages
+- scope:
+    path: '_content/admin'
+    type:
+  values:
+    sitemap: false
+    in_admin_pages: true
+    _comments:
+
 
 
 # for all pages
