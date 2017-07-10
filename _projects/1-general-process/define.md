@@ -87,7 +87,6 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 >
 > {% include glossary-definition.html term="critical root zone" %}
 
-[Learn more about protected trees and construction requirements](http://alpha.webuildthis.city/residential-toolkit/building-near-a-tree/).
 
 ### Demolition permits
 
