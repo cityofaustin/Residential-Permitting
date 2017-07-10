@@ -1,7 +1,16 @@
 section {
+
+}
+.page-section {
+  margin-top: 1em;
+  margin-bottom: 3em;
   padding-top: 2em;
   padding-bottom: 2em;
+  h2 {
+    margin-top: 0;
+  }
 }
+
 .section--inverted {
   background: $color-gray-dark;
   color: $color-white;
@@ -11,7 +20,9 @@ section {
 .section--gray {
   background: $color-gray-lightest;
 }
-
+.section--last {
+  margin-bottom: 0;
+}
 html {
   background: $color-gray-dark;
   color: $color-white;

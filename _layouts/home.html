@@ -16,86 +16,92 @@ layout: default
   </span>
 </section>
 
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-12 col-sm-10 col-md-8">
-      <h2>{{ page.process_title }}</h2>
-      <div class="lead">{{ page.process_summary_markdown | markdownify }}
-    	</div>
-  </div>
-  <div class="row center-xs">
-	  {% for step in site.data.labels.locales[site.locale].project_steps %}
-		{% if forloop.index0 > 0 %}
-    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
-      <div class="step-flag">
-        <h3>{{ step.step_name }}</h3>
-        <span class="step-index">{{ forloop.index0 }}</span>
-      </div>
-			<p>{{ step.step_description }}</p>
-    </div>
-		{% endif %}
-    {% endfor %}
-  </div>
-</section>
-
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-12 col-sm-10 col-md-8">
-      <h2>{{ page.projects_title }}</h2>
-      <div class="lead">{{ page.projects_summary_markdown | markdownify }}</div>
-    </div>
-  </div>
-  <div class="row center-xs">
-		{% include tiles-projects.html limit=page.limit_projects_to %}
-	</div>
-  <div class="row center-xs button-row">
-		<div class="col-xs-10">
-			<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_button_text }}</a>
-		</div>
-  </div>
-</section>
-
-
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-12 col-sm-10 col-md-8">
-      <h2>{{ page.toolkit_title }}</h2>
-			<div class="lead">{{ page.toolkit_summary_markdown | markdownify }}</div>
-    </div>
-  </div>
-  <div class="row center-xs">
-		{% for resource in toolkit_pages limit:3 %}
-			{% include tiles-articles.html tile=resource %}
-		{% endfor %}
-  </div>
-	<div class="row center-xs button-row">
-		<div class="col-xs-10">
-			<a class="usa-button" href="{{ site.url }}/residential-toolkit" }}>{{ page.toolkit_button_text }}</a>
-		</div>
+<section class="page-section">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.process_title }}</h2>
+	      <div class="lead">{{ page.process_summary_markdown | markdownify }}
+	    	</div>
+	  </div>
+	  <div class="row center-xs">
+		  {% for step in site.data.labels.locales[site.locale].project_steps %}
+			{% if forloop.index0 > 0 %}
+	    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
+	      <div class="step-flag">
+	        <h3>{{ step.step_name }}</h3>
+	        <span class="step-index">{{ forloop.index0 }}</span>
+	      </div>
+				<p>{{ step.step_description }}</p>
+	    </div>
+			{% endif %}
+	    {% endfor %}
+	  </div>
 	</div>
 </section>
 
-
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-12 col-sm-10 col-md-8">
-      <h2>{{ page.resources_title }}</h2>
-			<div class="lead">{{ page.resources_summary_markdown | markdownify }}</div>
-    </div>
-  </div>
-  <div class="row center-xs">
-		{% for resource in resource_pages limit:6 %}
-			{% include tiles-resources.html tile=resource tile_width="3" %}
-		{% endfor %}
-  </div>
-	<div class="row center-xs button-row">
-		<div class="col-xs-10">
-			<a class="usa-button" href="{{ site.url }}/resources" }}>{{ page.resources_button_text }}</a>
+<section class="page-section section--gray">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.projects_title }}</h2>
+	      <div class="lead">{{ page.projects_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% include tiles-projects.html limit=page.limit_projects_to %}
 		</div>
+	  <div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_button_text }}</a>
+			</div>
+	  </div>
 	</div>
+
 </section>
 
 
-<article class="content start-xs col-xs-12 col-sm-8">
-  {{ content }} <span></span>
-</article>
+<section class="page-section">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.toolkit_title }}</h2>
+				<div class="lead">{{ page.toolkit_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% for resource in toolkit_pages limit:3 %}
+				{% include tiles-articles.html tile=resource %}
+			{% endfor %}
+	  </div>
+		<div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}/residential-toolkit" }}>{{ page.toolkit_button_text }}</a>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+
+<section class="page-section section--gray section--last">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.resources_title }}</h2>
+				<div class="lead">{{ page.resources_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% for resource in resource_pages limit:6 %}
+				{% include tiles-resources.html tile=resource tile_width="3" %}
+			{% endfor %}
+	  </div>
+		<div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}/resources" }}>{{ page.resources_button_text }}</a>
+			</div>
+		</div>
+	</div>
+
+</section>

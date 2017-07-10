@@ -5,6 +5,10 @@
   img {
     border: 0;
   }
+  .tile-outline {
+    background: $color-white;
+    height: 100%;
+  }
 }
 .tile-text {
   padding: 3.5rem 2.5rem;
