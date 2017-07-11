@@ -11,19 +11,23 @@
   }
 }
 .tile-text {
-  padding: 3.5rem 2.5rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
   h3 {
     font-size: rem(26px);
-    margin:0 0 2rem;
+    margin:0 0 1rem;
     color: $color-primary;
+    padding-top: 2.5rem;
   }
   p {
+    color: $color-gray;
     font-size: rem(15px);
     line-height: rem(21px);
     margin: 0;
+    padding-bottom: 4rem;
   }
   .tile-date {
-    color: $color-gray-medium;
+    color: $color-gray-light;
     font-size: rem(13px);
     line-height: rem(21px);
 
@@ -48,6 +52,7 @@
     transition: color .5s;
   }
   p {
+    color: $color-gray;
     font-size: rem(15px);
     line-height: rem(21px);
     margin: 0 0 1.25rem;
