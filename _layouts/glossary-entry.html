@@ -13,17 +13,20 @@ layout: default
         <h5>{{ site.data.labels.locales[site.locale].glossary_source_title }} <a href="{{ page.source_link }}" target="_blank">{{ page.source_name | rstrip }}</a></h5>
       {% endif %}
 
-      {% if page.glossary.size > 0 %}
+      {% if page.confused_with_term_in_glossary.size > 0 %}
         <hr>
         <div class="row center-xs">
           <h6>{{ site.data.labels.locales[site.locale].glossary_related_terms_title }}</h6>
         </div>
         <div class="row center-xs">
-          {% for term in page.glossary %}
-          <div class="resource-tile col-xs-10 col-sm-6">
-      			<a href="{{ site.url }}/resources/glossary/{{ term | slugify }}" class="tile-outline">
-              {{ term | deslugify | capitalize }}
-            </a>
+          {% for term in page.confused_with_term_in_glossary %}
+          {% assign term_url = term | slugify | prepend: '/resources/glossary/' %}
+          {% assign term_title = term | capitalize %}
+          <div class="tile col-xs-10 col-sm-6">
+            <div class="tile-outline tile-text--compact">
+              <h4>{{ term_title }}</h4>
+              <a class="tile-link" href="{{ site.url }}{{ term_url }}"></a>
+            </div>
           </div>
           {% endfor %}
 

@@ -59,7 +59,7 @@ defaults:
       short_definition: (required)
       long_definition_markdown: (required)
       source: Related Code?
-      glossary: Other words commonly confused with this term
+      confused_with_term_in_glossary: Other words commonly confused with this term
 
 # for all content
 - scope:
@@ -167,9 +167,7 @@ algolia:
   index_name: 'residential-permitting'
   read_api_key: '0233ba62bf734aa53ee27a2081cc1c0c'
   excluded_files:
-    - _content/design.md
     - _content/seo-sitemap.md
-    - _content/tiles.md
 
 # We specify the directory for Jekyll so we can use @imports.
 sass:

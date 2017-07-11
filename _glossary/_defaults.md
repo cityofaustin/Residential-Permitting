@@ -4,6 +4,6 @@ term: term
 short_definition: ""
 source_name: Austin City Development Code
 source_link: ""
-glossary:
+confused_with_term_in_glossary:
 
 ---
