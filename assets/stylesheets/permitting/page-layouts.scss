@@ -319,11 +319,13 @@
       & + .in-page-nav {
           padding-left: 11rem;
           @media #{$md-viewport} {
-            padding-left: 1rem;
+            padding-left: 0;
           }
         a {
           text-align: left;
           margin-left: .7%;
+          @media #{$md-viewport} {
+            margin-left: 0;
         }
       }
     }
