@@ -3,16 +3,16 @@ layout: default
 ---
 {% include setup-pages.html %}
 
-<section class="photo-header" style="background-image: url('{{ page.header_photo }}')">
+<section class="photo-header" style="background-image: url('{{ page.header.header_photo_path }}')">
 	<div class="container container-fluid start-xs">
     <div class="overlay">
-			<h1>{{ page.header_title }}</h1>
-      <h3>{{ page.header_subtitle }}</h3>
+			<h1>{{ page.header.header_title }}</h1>
+      <h3>{{ page.header.header_subtitle }}</h3>
     </div>
 	</div>
   <span class="photo-credit">
     {% include _icon.html icon='camera' context='Shed' %}
-    <p>{{ page.header_photo_credit_name }} <a href="{{ page.header_photo_credit_link }}">{{ page.header_photo_credit_link }}</a></p>
+    <p>{{ page.header.header_photo_credit_name }} <a href="{{ page.header.header_photo_credit_link }}">{{ page.header.header_photo_credit_link }}</a></p>
   </span>
 </section>
 
@@ -20,8 +20,8 @@ layout: default
 	<div class="container container-fluid">
 	  <div class="row center-xs">
 	    <div class="col-xs-12 col-sm-10 col-md-8">
-	      <h2>{{ page.process_title }}</h2>
-	      <div class="lead">{{ page.process_summary_markdown | markdownify }}
+	      <h2>{{ page.process_section.process_title }}</h2>
+	      <div class="lead">{{ page.process_section.process_summary_markdown | markdownify }}
 	    	</div>
 	  </div>
 	  <div class="row center-xs">
@@ -44,16 +44,16 @@ layout: default
 	<div class="container container-fluid">
 	  <div class="row center-xs">
 	    <div class="col-xs-12 col-sm-10 col-md-8">
-	      <h2>{{ page.projects_title }}</h2>
-	      <div class="lead">{{ page.projects_summary_markdown | markdownify }}</div>
+	      <h2>{{ page.projects_section.projects_title }}</h2>
+	      <div class="lead">{{ page.projects_section.projects_summary_markdown | markdownify }}</div>
 	    </div>
 	  </div>
 	  <div class="row center-xs">
-			{% include tiles-projects.html limit=page.limit_projects_to %}
+			{% include tiles-projects.html limit=page.projects_section.limit_projects_to %}
 		</div>
 	  <div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_button_text }}</a>
+				<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_section.projects_button_text }}</a>
 			</div>
 	  </div>
 	</div>
@@ -65,8 +65,8 @@ layout: default
 	<div class="container container-fluid">
 	  <div class="row center-xs">
 	    <div class="col-xs-12 col-sm-10 col-md-8">
-	      <h2>{{ page.toolkit_title }}</h2>
-				<div class="lead">{{ page.toolkit_summary_markdown | markdownify }}</div>
+	      <h2>{{ page.toolkit_section.toolkit_title }}</h2>
+				<div class="lead">{{ page.toolkit_section.toolkit_summary_markdown | markdownify }}</div>
 	    </div>
 	  </div>
 	  <div class="row center-xs">
@@ -76,7 +76,7 @@ layout: default
 	  </div>
 		<div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}/residential-toolkit" }}>{{ page.toolkit_button_text }}</a>
+				<a class="usa-button" href="{{ site.url }}{{ page.toolkit_section.toolkit_button_url }}" }}>{{ page.toolkit_section.toolkit_button_text }}</a>
 			</div>
 		</div>
 	</div>
@@ -88,8 +88,8 @@ layout: default
 	<div class="container container-fluid">
 	  <div class="row center-xs">
 	    <div class="col-xs-12 col-sm-10 col-md-8">
-	      <h2>{{ page.resources_title }}</h2>
-				<div class="lead">{{ page.resources_summary_markdown | markdownify }}</div>
+	      <h2>{{ page.resources_section.resources_title }}</h2>
+				<div class="lead">{{ page.resources_section.resources_summary_markdown | markdownify }}</div>
 	    </div>
 	  </div>
 	  <div class="row center-xs">
@@ -99,7 +99,7 @@ layout: default
 	  </div>
 		<div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}/resources" }}>{{ page.resources_button_text }}</a>
+				<a class="usa-button" href="{{ site.url }}{{ page.resources_section.resources_button_url }}" }}>{{ page.resources_section.resources_button_text }}</a>
 			</div>
 		</div>
 	</div>
