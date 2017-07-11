@@ -34,7 +34,7 @@ Inspections can be scheduled one of two ways.
 
 ### In-person
 
-In person at [Building Inspections](/contact/#building-inspections) at One Texas Center.
+In person at [Building Inspections](/resources/contact/#building-inspections) at One Texas Center.
 
 
 ### Do I need to be home for my inspection?
@@ -74,6 +74,6 @@ You must make any needed changes and reschedule your final inspection before you
 
 Permits are only valid for 180 days. However, each time you get an inspection and work is done on the project, your permit is extended an additional 180 days.
 
-If the required changes are taking longer than 180 days to make, you may need to extend your permit in person at the [Service Center](/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
+If the required changes are taking longer than 180 days to make, you may need to extend your permit in person at the [Service Center](/resources/contact/#service-center) at the One Texas Center. This requires that you fill out a Permit Extension/withdrawal/activation form. This type of extension is only permitted once.
 
 Remember, you must pass your final inspection in order to close your permit(s).

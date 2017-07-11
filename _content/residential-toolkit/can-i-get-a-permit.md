@@ -8,7 +8,7 @@ description: What is this page about?
 
 Certain things can prevent you from receiving a permit: having an open or expired permit, maxing out your impervious cover, or both. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
 
-> ###### [What is impervious cover?](/residential-toolkit/glossary/impervious-cover)
+> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
 >
 > {% include glossary-definition.html term="impervious cover"%}
 
@@ -67,7 +67,7 @@ Enter the required information to search for a permit in one of four ways:
 
 * By Case Number
 
-* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. 
+* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range.
 Ex: 1920-2017
 
 ---

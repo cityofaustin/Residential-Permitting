@@ -48,7 +48,7 @@ The foundation plan can only be drawn by a structural engineer.
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center. You may:
+Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
@@ -60,6 +60,6 @@ Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-
 
 During intake, a staff member will meet with you and use a checklist to perform a completeness check.
 
-Remember to leave enough time for the completeness check. [Residential Plan Review](/contact/#residential-plan-review) can get very busy and wait times can be an hour or longer. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible and sign up in person.
+Remember to leave enough time for the completeness check. [Residential Plan Review](/resources/contact/#residential-plan-review) can get very busy and wait times can be an hour or longer. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible and sign up in person.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.

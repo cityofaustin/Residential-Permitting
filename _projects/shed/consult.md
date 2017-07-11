@@ -5,7 +5,7 @@ project_name: shed
 ---
 
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at One Texas Center.
 
 To make the most of your free 20 minute in-person consultation with a reviewer, we suggest preparing some information about your property and project ahead of time. This information allows the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
 
@@ -33,7 +33,7 @@ Fill out the project and property profile cards as much as you can and bring the
 
 ### 3. If possible, bring your property survey.
 
-Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential-toolkit/glossary/setback), [easements](/residential-toolkit/glossary/easement), and [impervious cover](/residential-toolkit/glossary/impervious-cover).
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/resources/glossary/setback), [easements](/resources/glossary/easement), and [impervious cover](/resources/glossary/impervious-cover).
 
 > ###### What is a property survey?
 >
@@ -67,11 +67,11 @@ Sketch the shed you will build and include its dimensions and any windows or doo
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/contact/#residential-plan-review) at One Texas Center.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at One Texas Center.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/resources/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 If you sign up remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), please fill out your name and phone number. Click on Residential-Zoning & Process Help, and select Process/Application Guidance. You will receive a text with your estimated service time. Follow the text prompts to receive updates, get out of line, or to get help with any questions you may have.

@@ -23,7 +23,7 @@ tabs:
       When there is an easement on your lot and you choose to build on the
       easement, you run the risk of future fines or possible demolishment of your
       shed if the city needs to access your easement.
-      [Learn more about easements](/resources/glossary/easements).
+      [Learn more about easements](/resources/glossary/easement).
   - tab_title: Impervious Cover
     tab_content_markdown: >-
       **What is impervious cover?**
@@ -74,7 +74,7 @@ Your shed requires a building permit if it will:
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 * Be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
-> ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
+> ###### [What is a floodplain?](/resources/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
 
@@ -82,7 +82,7 @@ Your shed requires a building permit if it will:
 
 Having electricity in your shed requires an electric permit.
 
-* If you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/contact/#service-center) at One Texas Center.
+* If you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/resources/contact/#service-center) at One Texas Center.
 * Only a registered electrician can get a permit if the electricity on your shed requires making changes to the main electrical meter.
 * If your shed requires a building permit, the City will automatically include it with your building permit.
 
@@ -92,7 +92,7 @@ Having certain trees on your property may require a tree permit.
 
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf).
 
-If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application](/assets/applications-and-forms/Applications_Forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
+If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application](/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
 
 You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
 

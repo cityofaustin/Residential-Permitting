@@ -47,7 +47,7 @@ The foundation plan can only be drawn by a structural engineer. A foundation pla
 
 ### 6. BSPA form
 
-When applying for a shed building permit, a signed [BSPA Form](/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
+When applying for a shed building permit, a signed [BSPA Form](/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/resources/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
 
 ### Other commonly required documents
 
@@ -58,7 +58,7 @@ When applying for a shed building permit, a signed [BSPA Form](/assets/applicati
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/contact/#residential-plan-review) at the One Texas Center. You may:
+Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at the One Texas Center. You may:
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).

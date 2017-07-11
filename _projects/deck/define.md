@@ -6,7 +6,7 @@ tabs:
   - tab_title: Setbacks
     tab_content_markdown: "**What is a setback?** The space between a lot's border and the area where a building can be built. Setbacks typically cannot have anything built on them. Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback)."
   - tab_title: Easements
-    tab_content_markdown: "**What is an easement?** An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on any easements on your property. The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easements)."
+    tab_content_markdown: "**What is an easement?** An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on any easements on your property. The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easement)."
   - tab_title: Impervious Cover
     tab_content_markdown: '**What is imperious cover?** Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground. Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
 ---
@@ -47,7 +47,7 @@ Your deck requires a building permit if it will:
 * Have electric,
 * Or be built in a floodplain. To find out if you're in a floodplain, enter your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
-> ###### [What is a floodplain?](/residential-toolkit/glossary/floodplain)
+> ###### [What is a floodplain?](/resources/glossary/floodplain)
 >
 > {% include glossary-definition.html term="floodplain" %}
 
@@ -55,7 +55,7 @@ Your deck requires a building permit if it will:
 
 Having electricity on your deck requires getting an electric permit.
 
-* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/contact/#service-contact) at One Texas Center.
+* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/resources/contact/#service-contact) at One Texas Center.
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
 * If your deck requires a building permit, the City will automatically include the electric permit with your building permit.
 
