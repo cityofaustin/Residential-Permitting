@@ -168,7 +168,8 @@ algolia:
   read_api_key: '0233ba62bf734aa53ee27a2081cc1c0c'
   excluded_files:
     - _content/seo-sitemap.md
-
+    - _content/admin
+    
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir: assets/stylesheets/
