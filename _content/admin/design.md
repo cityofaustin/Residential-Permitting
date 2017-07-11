@@ -2,6 +2,13 @@
 title: Design Style Guide (draft)
 sitemap: false
 excerpt: The design style guide is a library of the site's design components, including color palette, typography, and iconography. Our library builds off of the U.S. Web Design Standards.
+tabs:
+  - tab_title: Tab 1
+    tab_content_markdown: "This is content in a tab. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+  - tab_title: Tab 2
+    tab_content_markdown: "This is content in a tab. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+  - tab_title: Tab 3
+    tab_content_markdown: "This is content in a tab. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
 
 ---
 
@@ -12,93 +19,78 @@ The design style guide is a library of the site's design components, including c
 ---
 
 ## Typography
+These are the main ways you can style text on the site.
 
-## Basic formatting
+# H1 looks like this
+## H2 looks like this
+### H3 looks like this
+#### H4 looks like this
+##### H5 looks like this
+###### H6 looks like this
 
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
+<p class="usa-font-lead">Lead paragraphs look like this</p>
 
-> ###### I am an example blockquote title
-> I am  example blockquote copy. Make sure to leave an empty space after me.
+Body text looks like this. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum.
 
-Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
+> ###### This is a sidebar title
+> Sidebars are used to show definitions or brief explanations.
 
-## Lists
 
-### Ordered list
+### Lists
+
+#### Ordered list
 
 1. Item
 2. Item
 3. Item
 
-### Unordered list
+#### Unordered list
 
 * Item
 * Item
 * Item
-* Item
-
-## Paragraph modifiers
-
-## Headings
-
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character.
-
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-
-<p class="usa-font-lead">This is a lead paragraph</p>
 
 ### Links
 
 Link styles are automatically formatted based on what they are linked to and if they've been visited before.
 
-* This is an example of an [internal link](/home).
-* This is an example of an [external link](https://www.austintexas.gov).
-* This is an example of a [link to a PDF](http://d1qmdf3vop2l07.cloudfront.net/magnificent-jellyfish.cloudvent.net/compressed/4c4c8727759f49d099e5d6d591d5e02c.pdf).
-* This is a <a class="usa-color-text-visited" href="javascript:void(0);">visited link</a>.
-
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
+* This is an [internal link](/home).
+* This is an [external link](https://www.austintexas.gov).
+* This is a [link to a PDF](http://d1qmdf3vop2l07.cloudfront.net/magnificent-jellyfish.cloudvent.net/compressed/4c4c8727759f49d099e5d6d591d5e02c.pdf).
+* This is a <a class="usa-color-text-visited" href="javascript:void(0);">visited external link</a>.
 
 ---
-
-It's sometimes handy for breaking things up.
-
-## Images
-
-![Placeholder image of Bill Murray](http://www.fillmurray.com/200/300)
-
----
-
 
 ## Icons
-The icons for projects are the only custom icons used on the site. All other icons were sourced from [Font Awesome, a free icon font](http://fontawesome.io/).
-
-### Project icons
-
+Icons are used on the site for visual interest and added clarity.
 
 ### Font Awesome icons
+[Font Awesome](http://fontawesome.io/) is a free icon font and the source for most of our icons. These are the ones currently in use on the site.
+
 {% include _icon.html icon='arrow-long-right' %}
-{% include _icon.html icon='bars' %} //fix this//
+{% include _icon.html icon='menu' %}
 {% include _icon.html icon='camera' %}
 {% include _icon.html icon='caret-down' %}
 {% include _icon.html icon='check' %}
 {% include _icon.html icon='clock' %}
 {% include _icon.html icon='close' %}
-{% include _icon.html icon='envelope-o' %} //fix this//
+{% include _icon.html icon='mail' %}
 {% include _icon.html icon='external-link' %}
 {% include _icon.html icon='file' %}
-{% include _icon.html icon='list-ul' %} //fix this//
+{% include _icon.html icon='list' %}
 {% include _icon.html icon='map-marker' %}
 {% include _icon.html icon='phone' %}
 {% include _icon.html icon='search' %}
 
+### Project icons
+Icons for projects are custom and were made in Adobe Illustrator. They should be converted to outlines and exported as svgs. [View and edit the original files](/assets/img/for-guides/project-icons-source.ai). The icons have multiple shared attributes. They all:
 
+* Are made of gray-dark (#0f0035) lines (no fills),
+* Have a single-stroke weight (4 pt),
+* Include a full-width underline bar,
+* And have the same width for the main icon that sits above the underline bar.
+
+![](/assets/img/for-guides/design-style-guide-icons.png)
 
 ---
 
@@ -106,92 +98,9 @@ The icons for projects are the only custom icons used on the site. All other ico
 
 This is a clean and fresh color palette. Colors were specifically chosen to meet or exceed AA accessibility standards. To verify if your color combinations are meeting those standards, visit [WebAim's Color Contrast Checker](http://webaim.org/resources/contrastchecker/).
 
-### Primary colors
+### Text and background colors
 
-This palette’s primary colors are blue, gray, and white. Blue is commonly associated with trust, confidence, and sincerity; it is also used to represent calmness and responsibility.
-
-<div class="usa-grid-full usa-color-row usa-primary-color-section">
-  <div class="usa-color-square usa-color-primary">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#005eff</p>
-      <p class="usa-color-name">primary</p>
-    </div>
-  </div>
-  <div class="usa-color-square usa-color-primary-darker usa-mobile-end-row">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#0446cc</p>
-      <p class="usa-color-name">primary-darker</p>
-    </div>
-  </div>
-  <div class="usa-color-square usa-color-primary-darkest">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#082e9a</p>
-      <p class="usa-color-name">primary-darkest</p>
-    </div>
-  </div>
-</div>
-
-<div class="usa-grid-full usa-color-row usa-primary-color-section">
-  <div class="usa-color-square usa-color-gray-dark">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">gray-dark</p>
-    </div>
-  </div>
-  <div class="usa-color-square usa-color-gray-light usa-mobile-end-row">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">gray-light</p>
-    </div>
-  </div>
-  <div class="usa-color-square usa-color-white">
-    <div class="usa-color-inner-content">
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">white</p>
-    </div>
-  </div>
-</div>
-
-<h4 class="usa-heading">Secondary colors</h4>
-
-<p>These are accent colors to provide additional lightness and style to pages looking for a more modern flair. These colors should be used to highlight important features on a page, such as buttons, or for visual style elements, such as illustrations. They should be used sparingly and never draw the eye to more than one piece of information at a time.</p>
-
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-secondary">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">secondary</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-secondary-darkest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">secondary-darkest</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-secondary-dark">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">secondary-dark</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-secondary-light">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">secondary-light</p>
-  </div>
-  <div class="color-small">
-    <div class="usa-color-short usa-color-secondary-lightest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">secondary-lightest</p>
-  </div>
-</div>
-
-<h4 class="usa-heading">Background colors</h4>
-
-<p>These colors are used largely for background blocks and large content areas. When alternating between tones, be sure to use enough contrast between adjacent colors.</p>
+These colors are used largely for text and background blocks between large content areas.
 
 <div class="usa-grid-full usa-color-row">
   <div class="color-big">
@@ -226,18 +135,9 @@ This palette’s primary colors are blue, gray, and white. Blue is commonly asso
   </div>
 </div>
 
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-primary-darkest">
-    </div>
-      <p class="usa-color-hex">#TODO</p>
-      <p class="usa-color-name">primary-darkest</p>
-  </div>
-</div>
+### Accent color
 
-<h4 class="usa-heading">Tertiary colors</h4>
-
-<p>These colors are used primarily for content-specific needs, such as alerts and illustrations. They should never overpower the primary colors.</p>
+Permitting's primary accent color is "barton-light". Its vibrant green is meant to evoke freshness and growth. It's primarily used as the background for illustrations, outlines around section breakers, and as content dividers on tiles. Use sparingly.
 
 <div class="usa-grid-full usa-color-row">
   <div class="color-big">
@@ -272,32 +172,39 @@ This palette’s primary colors are blue, gray, and white. Blue is commonly asso
   </div>
 </div>
 
-<h4 class="usa-heading">Special state colors</h4>
+### Action color
 
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-focus">
+Blue is meant to show action: links, buttons, and anything else that is clickable. Do not use it for anything that is not actionable.
+
+<div class="usa-grid-full usa-color-row usa-primary-color-section">
+  <div class="usa-color-square usa-color-primary">
+    <div class="usa-color-inner-content">
+      <p class="usa-color-hex">#005eff</p>
+      <p class="usa-color-name">primary</p>
     </div>
-    <p class="usa-color-hex">#5b97ff</p>
-    <p class="usa-color-name">focus</p>
   </div>
-</div>
-
-<div class="usa-grid-full usa-color-row">
-  <div class="color-big">
-    <div class="usa-color-short usa-color-visited">
+  <div class="usa-color-square usa-color-primary-darker usa-mobile-end-row">
+    <div class="usa-color-inner-content">
+      <p class="usa-color-hex">#0446cc</p>
+      <p class="usa-color-name">primary-darker</p>
     </div>
-    <p class="usa-color-hex">#8800ff</p>
-    <p class="usa-color-name">visited</p>
+  </div>
+  <div class="usa-color-square usa-color-primary-darkest">
+    <div class="usa-color-inner-content">
+      <p class="usa-color-hex">#082e9a</p>
+      <p class="usa-color-name">primary-darkest</p>
+    </div>
   </div>
 </div>
 
 ---
 
-## Buttons
+## Components
+
+### Buttons
 Buttons can be used as more prominent calls to action than a link alone.
 
-### Primary buttons
+#### Primary buttons
 These are used for main actions and should be used sparingly. Do not use two primary buttons side-by-side.
 <div class="button_wrapper">
   <button>Default</button>
@@ -306,7 +213,7 @@ These are used for main actions and should be used sparingly. Do not use two pri
   <button class="usa-button-focus">Focus</button>
 </div>
 
-### Secondary buttons
+#### Secondary buttons
 These are used for supplemental actions and can be used alone or paired with a primary button.
 <div class="button_wrapper">
   <button class="usa-button-outline" type="button">Default</button>
@@ -315,9 +222,7 @@ These are used for supplemental actions and can be used alone or paired with a p
   <button class="usa-button-outline usa-button-focus">Focus</button>
 </div>
 
----
-
-## Searchbar
+### Searchbar
 
 <form class="usa-search usa-search-small">
   <div role="search">
@@ -328,3 +233,15 @@ These are used for supplemental actions and can be used alone or paired with a p
     </button>
   </div>
 </form>
+
+### Horizontal rule
+
+---
+
+A horizontal rule is a line that goes across the middle of the page. We use horizontal lines above all h2 headers to give them more definition.
+
+### Tabs
+
+Tabs are used when there is a lot of content and it needs to be displayed in a consolidated way. These can only be used 1 per-page.
+
+{% include tabs.html %}
