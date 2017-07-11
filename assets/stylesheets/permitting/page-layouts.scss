@@ -224,7 +224,7 @@
       border-bottom-width: 0;
       transition: height .25s;
       overflow: hidden;
-      @media #{$sm-viewport} {
+      @media #{$md-viewport} {
         display: inline-block;
         width: auto;
         margin: 0;
@@ -245,7 +245,7 @@
       fill: $color-gray-lighter;
       margin: auto .7%;
       display: none;
-      @media #{$sm-viewport} {
+      @media #{$md-viewport} {
         display: inline-block;
       }
     }
@@ -254,7 +254,7 @@
       color: $color-gray-lighter;
       font-size: rem(20px);
       display: none;
-      @media #{$sm-viewport} {
+      @media #{$md-viewport} {
         display: inline-block;
       }
     }
@@ -289,7 +289,7 @@
       transform: rotate(0deg);
       transition: transform .25s;
     }
-    @media #{$sm-viewport} {
+    @media #{$md-viewport} {
       display: none;
     }
     &:hover {
@@ -317,7 +317,10 @@
     &.visible {
       left: 0;
       & + .in-page-nav {
-        padding-left: 11rem;
+          padding-left: 11rem;
+          @media #{$md-viewport} {
+            padding-left: 1rem;
+          }
         a {
           text-align: left;
           margin-left: .7%;
