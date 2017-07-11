@@ -65,8 +65,8 @@ $drawer-width: 28rem;
       left: 0;
       opacity: 0;
       transition: opacity .25s;
+      padding: .5rem;
       &.icon--menu {
-        padding: .5rem; // scale feels different
         opacity: 1;
       }
     }
