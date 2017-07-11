@@ -32,30 +32,30 @@ resources_section:
   resources_button_text: View all resources
 
 _comments:
-  header:
+  header: The photo header at the top of the page
     header_title: The large white text at the top of the page
     header_subtitle: The smaller green text at the top of the page
     header_photo_path: Expects an image 680px tall by 1520px wide
     header_photo_credit_name: Credit the photographer
     header_photo_credit_link: Link to the photo source
 
-  process_section:
+  process_section: Outlines the overall process for permitting
     process_title: Title for the process section
     process_summary_markdown: A short paragraph to introduce the overall process.
 
-  projects_section:  
+  projects_section: Featured projects
     projects_title: Title for the projects section
     projects_summary_markdown: A short paragraph to introduce the top set of projects
     projects_button_text: Button at the bottom of the projects section
     limit_projects_to: No more than this number of projects will show on the homepage. Note that the "General Process" projects is automatically hidden from the homepage.
 
-  toolkit_section:
+  toolkit_section: A common set of resources grouped into one toolkit
     toolkit_title: Title for the toolkit section
     toolkit_summary_markdown: A short paragraph to introduce the toolkit, Only the top 3 will be displayed
     toolkit_button_url: Relative URL to the residential toolkit page
     toolkit_button_text: Button at the bottom of the toolkit section
 
-  resources_section:
+  resources_section: Other resources for residential permitting
     resources_title: Title for the resources section
     resources_summary_markdown: A short paragraph to introduce the top resources. Only the top 6 will be displayed.
     resources_button_url: Relative URL to the main resources page
