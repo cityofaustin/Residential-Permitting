@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact a department
 lead: 'More than one department may be involved in your permitting process. For more detailed information, please visit each department’s page.'
 _hide_content: true
 layout: contact
