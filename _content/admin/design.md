@@ -1,5 +1,5 @@
 ---
-title: Design Style Guide (draft)
+title: Design Style Guide
 sitemap: false
 excerpt: The design style guide is a library of the site's design components, including color palette, typography, and iconography. Our library builds off of the U.S. Web Design Standards.
 tabs:
@@ -245,3 +245,103 @@ A horizontal rule is a line that goes across the middle of the page. We use hori
 Tabs are used when there is a lot of content and it needs to be displayed in a consolidated way. These can only be used 1 per-page.
 
 {% include tabs.html %}
+
+---
+
+## Tiles
+
+Tiles are visual links to content. Different types of content have different tile styles.
+
+{% include setup-pages.html %}
+
+<div class="container container-fluid page-layout">
+  <div class="row start-xs">
+    <div class="center-xs col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
+    </div>
+  </div>
+</div>
+
+
+### Project tiles
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% include tiles-projects.html %}
+  </div>
+</section>
+
+### Diagram tiles
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row left-xs">
+  {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
+  {% for project in plans limit:1 %}
+    {% for plan in project.items %}
+      {% include tiles-plans.html tile=plan %}
+    {% endfor %}
+  {% endfor %}
+  </div>
+</section>
+
+### Article tiles
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row center-xs">
+  {% for toolkitpage in toolkit_pages limit:1 %}
+    {% include tiles-articles.html tile=toolkitpage %}
+  {% endfor %}
+  </div>
+</section>
+
+### Resource tiles (3-across)
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row center-xs">
+  {% for resource in resource_pages limit:1 %}
+    {% include tiles-resources.html tile=resource tile_width="4" %}
+  {% endfor %}
+  </div>
+</section>
+
+### Resource tiles (4-across)
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row center-xs">
+  {% for resource in toolkit_pages limit:1 %}
+    {% include tiles-resources.html tile=resource tile_width="3" %}
+  {% endfor %}
+  </div>
+</section>
+
+### Small tiles (6-across)
+
+<section class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8 col-md-6">
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% for resource in resource_pages limit:1 %}
+      {% include tiles-small.html tile=resource %}
+    {% endfor %}
+  </div>
+</section>
