@@ -1,5 +1,6 @@
 {% assign plan = include.tile %}
 <figure class="tile tile--plan col-xs-10 {% if include.optional == 'in_article' %} tile--within-article col-sm-12{% else %} col-sm-6 col-md-4{% endif %}" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a class="tile-link" href="{{ site.url }}{{ plan.file_path }}" target="_blank" itemprop="contentUrl"></a>
   <div class="tile-outline">
     <img class="block-illustration" alt="{{ plan.title }} plan" src="{{ site.url }}{{ plan.thumb_path }}" itemprop="thumbnail" />
     <div class="tile-text" itemprop="caption description">
@@ -8,6 +9,5 @@
 " href="{{ site.url }}{{ plan.file_path }}">
         {{ site.data.labels.locales[site.locale].diagram_download_link_prefix }}</a>
     </div>
-      <a class="tile-link" href="{{ site.url }}{{ plan.file_path }}" target="_blank" itemprop="contentUrl"></a>
   </div>
 </figure>
