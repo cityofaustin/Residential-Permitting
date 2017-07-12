@@ -143,7 +143,7 @@ $drawer-width: 28rem;
     white-space: nowrap;
     span {
       cursor: pointer;
-      font-weight: 700;
+      font-weight: 500;
       &:hover {
         color: $color-primary-darker;
       }
@@ -427,7 +427,7 @@ html.drawer-open--translate.drawer-open--search {
   font-weight: 400;
   padding: 1.5rem 0;
   .footer-credits-prefix {
-    font-weight: 700;
+    font-weight: 500;
     margin-right: .5rem;
     -webkit-font-smoothing: subpixel-antialiased;
 

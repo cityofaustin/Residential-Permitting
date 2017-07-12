@@ -9,7 +9,7 @@
   h1 {
     margin-top: 0;
     color: $color-white;
-    font-weight: 700;
+    font-weight: 500;
     font-size: rem(48px);
     line-height: rem(50px);
     word-break: normal;
@@ -339,7 +339,7 @@
   // Just in case an h1 slips in
   h1 {
     font-size: $h2-font-size;
-    font-weight: 700;
+    font-weight: 500;
     color: $color-gray-dark;
   }
 
@@ -469,7 +469,7 @@ h1.page-title {
   color: $color-gray-dark;
   display: block;
   font-size: $h2-font-size-alt;
-  font-weight: 700;
+  font-weight: 500;
   font-family: $font-sans;
   text-align: center;
   width: 1.85 * $h3-font-size;
