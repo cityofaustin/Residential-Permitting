@@ -1,6 +1,4 @@
-{% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
-{% for project in project_pages limit: include.limit %}
-{% unless project.hide_project_from_homepage == true and page.layout == "home" %}
+{% assign project = include.tile %}
 <div class="tile tile--project col-xs-10 col-sm-6 col-md-4">
   <a class="tile-link" href="{{ site.url }}{{ project.url }}"></a>
   <div class="tile-outline">
@@ -13,5 +11,3 @@
     </div>
   </div>
 </div>
-{% endunless %}
-{% endfor %}
