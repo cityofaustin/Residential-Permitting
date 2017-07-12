@@ -14,7 +14,7 @@ Remember that you can't officially submit your permit application to the reviewe
 
 ---
 
-## What do I bring?
+## What do I need to bring?
 
 ### 1. Collect the following information:
 
