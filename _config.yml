@@ -177,3 +177,4 @@ exclude:
   - /assets/stylesheets/bourbon-neat
   - /assets/uswds/stylesheets
   - /assets/uswds/js
+  - .bundle
