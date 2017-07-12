@@ -15,7 +15,7 @@ projects_section:
   projects_title: Featured Projects
   projects_summary_markdown: Are you changing or adding to your home? Check out these detailed permitting guides of common Austin residential projects.
   projects_button_text: View all projects
-  limit_projects_to: 3
+  limit_projects_to: 6
 toolkit_section:
   toolkit_title: Residential Toolkit
   toolkit_summary_markdown: 'The Residential Toolkit helps residents navigate the permitting process. Use the toolkit to find details about specific city processes, your property or applications.'
