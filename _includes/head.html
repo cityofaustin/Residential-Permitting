@@ -35,7 +35,7 @@
 
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
-  <link href="https://fonts.googleapis.com/css?family=Droid+Serif|Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Droid+Serif|Roboto:400,500,700" rel="stylesheet">
   <link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/application.css">
   <script src="{{ site.url }}/assets/javascripts/application.js"></script>
 
