@@ -5,5 +5,5 @@ _hide_content: true
 layout: contact
 in_resources_menu: true
 menu_sort_order: 3
-description: Directory information for departments involved in permitting.
+description: Directory of departments involved in permitting.
 ---
