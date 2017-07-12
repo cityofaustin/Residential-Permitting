@@ -2,6 +2,6 @@
 title: Tree Ordinance Review Application
 description: Application for review of trees on property.
 document_type: application
-file_path: /assets/applications-and-forms/tree-permit.pdf
+file_path: /assets/applications-and-forms/tree_permit.pdf
 
 ---

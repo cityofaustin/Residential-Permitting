@@ -98,7 +98,7 @@ Demolition permits are necessary if you change any walls in your home, extend a 
 
 ### Express permits
 
-You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Applying for an express permit will help make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permit).
+You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Applying for an express permit will help make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits).
 
 ### How much do building permits cost?
 
