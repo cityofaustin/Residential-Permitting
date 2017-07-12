@@ -158,7 +158,6 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-last-modified-at
-  - jekyll-include-cache
   - algoliasearch-jekyll
 
 

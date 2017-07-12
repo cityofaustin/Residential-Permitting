@@ -159,7 +159,6 @@ gems:
   - jekyll-feed
   - jekyll-last-modified-at
   - jekyll-sitemap
-  - jekyll-include-cache
 
 
 # We specify the directory for Jekyll so we can use @imports.
