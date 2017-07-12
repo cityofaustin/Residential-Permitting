@@ -50,7 +50,7 @@ You probably received your survey when you purchased your home if you bought it 
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
-### 3. Draw a few simple sketches of your deck and property.
+### 4. Draw a few simple sketches of your deck and property.
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
 
