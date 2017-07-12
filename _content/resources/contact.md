@@ -1,6 +1,6 @@
 ---
 title: Contact a department
-lead: 'More than one department may be involved in your permitting process. For more detailed information, please visit each department’s page.'
+lead: 'More than one department may be involved in your permitting process. Not sure who to contact? Residential Plan Review [anchor link] is a great place to start.'
 _hide_content: true
 layout: contact
 in_resources_menu: true
