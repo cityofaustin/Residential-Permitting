@@ -41,6 +41,7 @@ Whether your project needs a permit or not, there are still zoning regulations y
 Your deck requires a building permit if it will:
 
 * Be attached to your home,
+* Services a door, 
 * Be over 200 square feet (larger than 20 feet x 10 feet),
 * Be more than 30 inches above ground,
 * Have plumbing,
