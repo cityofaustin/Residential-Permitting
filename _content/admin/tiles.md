@@ -9,8 +9,8 @@ sitemap: false
   <div class="row start-xs">
     <div class="center-xs col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
       <h1 class="page-title">{{ page.title }}</h1>
-      {% unless page.lead %}
-        <p class="lead">{{ page.lead }}</p>
+      {% unless page.lead_markdown %}
+        <div class="lead">{{ page.lead_markdown | markdownify }}</div>
       {% endunless %}
     </div>
   </div>

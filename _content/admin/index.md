@@ -1,7 +1,7 @@
 ---
 title: Admin
 layout: default
-lead: ''
+lead_markdown: ''
 description:
 permalink: /admin/
 in_admin_pages: false
@@ -12,7 +12,7 @@ in_admin_pages: false
   <div class="row center-xs">
     <div class="col-xs-12 col-sm-10 col-md-8">
       <h1 class="page-title">{{ page.title }}</h1>
-      <p class="lead">{{ page.lead }}</p>
+      <div class="lead">{{ page.lead_markdown | markdownify }}</div>
     </div>
   </div>
 </div>
