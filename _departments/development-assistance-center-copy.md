@@ -2,7 +2,7 @@
 title: Development Assistance Center
 department_name: Development Assistance Center
 department_link: 'http://www.austintexas.gov/department/development-assistance-center'
-description: 'The Development Assistance Center (DAC) provides consulting services for business and residential projects.  They will answer your questions, and make sure you understand the procedures and requirements that apply to your project.'
+description: 'The Development Assistance Center (DAC) provides consulting services mainly for business and commercial projects. Some residential projects may require a consultation at DAC, but should begin with a walk-in consultation at Residential Plan Review.'
 phone: 512-978-4000
 contact_form_url: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
