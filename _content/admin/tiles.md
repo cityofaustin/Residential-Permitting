@@ -24,7 +24,7 @@ sitemap: false
   </div>
   <div class="row center-xs">
     {% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
-    {% for project in project_pages limit: page.projects_section.limit_projects_to %}
+    {% for project in project_pages limit: 3 %}
       {% unless project.hide_project_from_homepage == true %}
         {% include tiles-projects.html tile=project %}
       {% endunless %}
