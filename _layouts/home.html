@@ -21,8 +21,8 @@ layout: default
 	  <div class="row center-xs">
 	    <div class="col-xs-12 col-sm-10 col-md-8">
 	      <h2>{{ page.process_section.process_title }}</h2>
-	      <div class="lead">{{ page.process_section.process_summary_markdown | markdownify }}
-	    	</div>
+	      <div class="lead">{{ page.process_section.process_summary_markdown | markdownify }}</div>
+    	</div>
 	  </div>
 	  <div class="row center-xs">
 		  {% for step in site.data.labels.locales[site.locale].project_steps %}
