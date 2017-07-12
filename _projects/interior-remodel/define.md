@@ -98,7 +98,7 @@ There will be additional charges if your project requires a trade permit, like a
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an open or expired permit. You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your interior remodel materials or design.
+You may not be able to get a new permit right away if your property currently has an [open or expired permit] (/residential-toolkit/can-i-get-a-permit/). You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your interior remodel materials or design.
 
 ---
 
