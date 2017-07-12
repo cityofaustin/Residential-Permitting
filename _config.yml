@@ -169,17 +169,20 @@ algolia:
   excluded_files:
     - _content/seo-sitemap.md
     - _content/admin
-    
+
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir: assets/stylesheets/
 permalink: pretty
 exclude:
-  - /node_modules/
+  - node_modules
   - gulpfile.js
   - Gemfile
   - Gemfile.lock
   - npm-debug.log
-  - /css
   - /screenshots
   - /sketch-files
+  - /assets/stylesheets/bourbon
+  - /assets/stylesheets/bourbon-neat
+  - /assets/uswds/stylesheets
+  - /assets/uswds/js
