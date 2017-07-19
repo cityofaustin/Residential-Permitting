@@ -254,93 +254,79 @@ Tiles are visual links to content. Different types of content have different til
 
 {% include setup-pages.html %}
 
-<div class="container container-fluid page-layout">
-  <div class="row start-xs">
-    <div class="center-xs col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
-    </div>
-  </div>
-</div>
 
 
-### Project tiles
-<section class="container container-fluid page-section">
+
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Project tiles</h3>
   </div>
   <div class="row center-xs">
-    {% include tiles-projects.html %}
+  {% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+  {% for project in project_pages limit:3 %}
+    {% include tiles-projects.html tile=project %}
+  {% endfor %}
   </div>
 </section>
 
-### Diagram tiles
 
-<section class="container container-fluid page-section">
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Diagram tiles</h3>
   </div>
-  <div class="row left-xs">
+  <div class="row center-xs">
   {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
   {% for project in plans limit:1 %}
-    {% for plan in project.items %}
+    {% for plan in project.items limit:3 %}
       {% include tiles-plans.html tile=plan %}
     {% endfor %}
   {% endfor %}
   </div>
 </section>
 
-### Article tiles
 
-<section class="container container-fluid page-section">
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Article tiles</h3>
   </div>
   <div class="row center-xs">
-  {% for toolkitpage in toolkit_pages limit:1 %}
+  {% for toolkitpage in toolkit_pages limit:3 %}
     {% include tiles-articles.html tile=toolkitpage %}
   {% endfor %}
   </div>
 </section>
 
-### Resource tiles (3-across)
 
-<section class="container container-fluid page-section">
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Resource tiles (3-across)</h3>
   </div>
   <div class="row center-xs">
-  {% for resource in resource_pages limit:1 %}
+  {% for resource in resource_pages limit:3 %}
     {% include tiles-resources.html tile=resource tile_width="4" %}
   {% endfor %}
   </div>
 </section>
 
-### Resource tiles (4-across)
 
-<section class="container container-fluid page-section">
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Resource tiles (4-across)</h3>
   </div>
   <div class="row center-xs">
-  {% for resource in toolkit_pages limit:1 %}
+  {% for resource in toolkit_pages limit:4 %}
     {% include tiles-resources.html tile=resource tile_width="3" %}
   {% endfor %}
   </div>
 </section>
 
-### Small tiles (6-across)
 
-<section class="container container-fluid page-section">
+<section class="breakout-col-sm-8">
   <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-    </div>
+    <h3>Small tiles (6-across)</h3>
   </div>
   <div class="row center-xs">
-    {% for resource in resource_pages limit:1 %}
+    {% for resource in resource_pages limit:6 %}
       {% include tiles-small.html tile=resource %}
     {% endfor %}
   </div>
