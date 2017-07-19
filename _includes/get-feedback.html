@@ -1,1 +1,3 @@
-<div class="feedback section--gray">{{ site.data.labels.locales[site.locale].get_feedback_markdown | strip_newlines | markdownify }}</div>
+<div class="feedback section--gray">
+  <p>{{ site.data.labels.locales[site.locale].get_feedback_text }} <a href="{{ site.data.labels.locales[site.locale].get_feedback_survey }}{{ site.url | url_param_escape }}{{ page.url | url_param_escape }}" target="_blank">{{ site.data.labels.locales[site.locale].get_feedback_link_text }}</a></p>
+</div>

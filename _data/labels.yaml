@@ -71,4 +71,6 @@ locales:
     search_label: Search
     cancel_search: Cancel
     default_submit_label: Submit
-    get_feedback_markdown: 'Was this page helpful? [Leave us feedback about your experience](https://goo.gl/forms/HkDdqUOsXyi8jWxS2).'
+    get_feedback_text: Was this page helpful?
+    get_feedback_link_text: Leave us feedback about your experience
+    get_feedback_survey: 'https://docs.google.com/forms/d/e/1FAIpQLSebzegR6qQC1MqUtWMXALg-T--85IlK2NxFsLTfpp4NBoIO8Q/viewform?usp=pp_url&entry.887996410&entry.2117546943='
