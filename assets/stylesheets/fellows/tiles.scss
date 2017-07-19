@@ -16,6 +16,7 @@
 .tile-text {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
+  padding-bottom: 4rem;
   position: relative;
 
   h3 {
@@ -29,7 +30,6 @@
     font-size: rem(15px);
     line-height: rem(21px);
     margin: 0;
-    padding-bottom: 4rem;
   }
   .tile-date {
     color: $color-gray-light;
