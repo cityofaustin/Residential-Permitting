@@ -5,7 +5,7 @@ layout: home
 header:
   header_title: Residential Permitting
   header_subtitle: An official resource of the City of Austin
-  header_photo_path: /assets/img/photos/homepage-header.jpg
+  header_photo_path: https://briaguya.github.io/webuildthis.city/assets/img/photos/homepage-header.jpg
   header_photo_credit_name: Karl Metzelear •
   header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_section:
