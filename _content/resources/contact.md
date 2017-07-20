@@ -4,6 +4,6 @@ lead_markdown: 'More than one department may be involved in your permitting proc
 _hide_content: true
 layout: contact
 in_resources_menu: true
-menu_sort_order: 3
+menu_sort_order: 4
 description: Directory of departments involved in permitting.
 ---

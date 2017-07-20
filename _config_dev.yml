@@ -150,7 +150,7 @@ description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alpha.webuildthis.city" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_path: "/assets/favicons/"
 
 # Build settings

@@ -17,6 +17,7 @@ locales:
       - step_name: Define
         step_slug: define
         step_description: Decide what you want to do and if you need a permit for your project.
+        step_url: projects/general-process/define/
         table_of_contents:
           - Define the scope of your project.
           - Find out if you need a permit and what kind.
@@ -25,6 +26,7 @@ locales:
       - step_name: Consult
         step_slug: consult
         step_description: Learn how to get a free consultation and what to prepare.
+        step_url: projects/general-process/consult/
         table_of_contents:
           - Find out what you will need to prepare before your consultation.
           - Determine what documents and sketches you will need to collect before your consultation.
@@ -32,6 +34,7 @@ locales:
       - step_name: Apply
         step_slug: apply
         step_description: Prepare your application materials and learn how to submit.
+        step_url: projects/general-process/apply/
         table_of_contents:
           - Get the application you need to apply for the type of permit your project requires.
           - Gather the documents and plans you will need to submit with your permit application.
@@ -39,12 +42,14 @@ locales:
       - step_name: Review
         step_slug: review
         step_description: 'Respond to any feedback from the city, get your permit, and begin work.'
+        step_url: projects/general-process/review/
         table_of_contents:
           - Learn about the review process.
           - Learn what to do if you receive any comments and need to resubmit your application a second time.
       - step_name: Inspect
         step_slug: inspect
         step_description: Get your work inspected by the city and close out your permit(s).
+        step_url: projects/general-process/inspect/
         table_of_contents:
           - Determine what inspections are required throughout your project.
           - Learn how to schedule your inspections either online or in-person.

@@ -1,7 +1,7 @@
 ---
 title: Can I get a permit?
 in_toolkit_menu: true
-menu_sort_order: 1
+menu_sort_order: 2
 description: What is this page about?
 ---
 

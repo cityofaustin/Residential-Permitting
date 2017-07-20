@@ -5,12 +5,12 @@ layout: home
 header:
   header_title: Residential Permitting
   header_subtitle: An official resource of the City of Austin
-  header_photo_path: /assets/img/photos/homepage-header.jpg
+  header_photo_path: https://briaguya.github.io/webuildthis.city/assets/img/photos/homepage-header.jpg
   header_photo_credit_name: Karl Metzelear •
   header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
 process_section:
   process_title: Process Overview
-  process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are five key steps to getting a permit. For more information, [check out our general process page](/projects/general-process/).'
+  process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are five key steps to getting a permit. For more information, [check out our general process page](webuildthis.city/projects/general-process/).'
 projects_section:
   projects_title: Featured Projects
   projects_summary_markdown: Are you changing or adding to your home? Check out these detailed permitting guides of common Austin residential projects.

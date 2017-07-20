@@ -27,13 +27,13 @@ layout: default
 	  <div class="row center-xs">
 		  {% for step in site.data.labels.locales[site.locale].project_steps %}
 			{% if forloop.index0 > 0 %}
-	    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
+	    <a href="{{ step.step_url }}" class="step-preview col-xs-6 col-sm-4 col-md-2">
 	      <div class="step-flag">
 	        <h3>{{ step.step_name }}</h3>
 	        <span class="step-index">{{ forloop.index0 }}</span>
 	      </div>
 				<p>{{ step.step_description }}</p>
-	    </div>
+	    </a>
 			{% endif %}
 	    {% endfor %}
 	  </div>

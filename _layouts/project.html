@@ -6,7 +6,7 @@ layout: default
 
 {% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
 
-{% assign general = site.projects | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
+{% assign general = site.projects | where: 'project_name', "General Process" | where: 'step_number', page.step_number | first %}
 
 {% include project-header.html %}
 
