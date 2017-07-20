@@ -1,7 +1,7 @@
 ---
 title: Check my application status
 in_toolkit_menu: true
-menu_sort_order: 2
+menu_sort_order: 4
 description: What is this page about?
 ---
 

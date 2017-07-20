@@ -289,9 +289,6 @@ a.header-link-list-view-all {
       margin-bottom: 1.5rem;
       color: $color-barton-light;
       font-size: rem(16px);
-      a {
-        color: $color-white;
-      }
     }
     @media #{$sm-viewport} {
       li {
