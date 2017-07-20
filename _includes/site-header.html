@@ -46,7 +46,7 @@
             <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
             <li><span>{{ site.data.labels.locales[site.locale].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% for project in project_pages limit: 3 %}
+                {% for project in project_pages %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
                 <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_projects_link }}</a></li>
@@ -54,7 +54,7 @@
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                  {% for page in toolkit_pages limit: 3 %}
+                  {% for page in toolkit_pages %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_toolkit_link }}</a></li>
@@ -62,7 +62,7 @@
             </li>
             <li><span>{{ site.data.labels.locales[site.locale].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul>
-                {% for page in resource_pages limit: 3 %}
+                {% for page in resource_pages %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 <li><a class="header-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_resources_link }}</a></li>

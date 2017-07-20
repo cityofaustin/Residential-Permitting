@@ -13,7 +13,7 @@
       <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
         <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].projects_label }}</h4>
           <ul>
-            {% for project in project_pages limit: 3 %}
+            {% for project in project_pages %}
               <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
             {% endfor %}
             <li class="footer-link-list-view-all"><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_projects_link }}</a></li>
@@ -23,7 +23,7 @@
         <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 col-sm-offset-1 col-md-offset-0 start-sm">
           <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].toolkit_label }}</h4>
           <ul>
-            {% for page in toolkit_pages limit: 3 %}
+            {% for page in toolkit_pages %}
               <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
             <li class="footer-link-list-view-all"><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_toolkit_link }}</a></li>
@@ -33,7 +33,7 @@
         <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
           <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].resources_label }}</h4>
           <ul>
-            {% for page in resource_pages limit: 3 %}
+            {% for page in resource_pages %}
               <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
             <li class="footer-link-list-view-all"><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_resources_link }}</a></li>
