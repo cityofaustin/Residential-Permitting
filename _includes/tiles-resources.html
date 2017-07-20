@@ -1,6 +1,6 @@
 {% assign resource = include.tile %}
 <div class="tile tile--resource col-xs-10 col-sm-6 col-md-{{ include.tile_width }}">
-  <a class="tile-link" href="{{ site.url }}{{ resource.url }}"></a>
+  <a class="tile-link" href="{{ site.url }}{{ resource.url }}" title="{{ site.data.labels.locales[site.locale].project_button_next }} {{ resource.title }}"></a>
   <div class="tile-outline tile-text--compact">
     <h4>{{ resource.title }}</h4>
     <p>{{ resource.description }}</p>

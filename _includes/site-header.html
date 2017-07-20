@@ -44,24 +44,24 @@
         <nav>
           <ul>
             <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
-            <li><span>{{ site.data.labels.locales[site.locale].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
-              <ul>
+            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul aria-hidden="true" aria-label="submenu">
                 {% for project in project_pages limit: 3 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
                 <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_projects_link }}</a></li>
               </ul>
             </li>
-            <li><span>{{ site.data.labels.locales[site.locale].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
-              <ul>
+            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul aria-hidden="true" aria-label="submenu">
                   {% for page in toolkit_pages limit: 3 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_toolkit_link }}</a></li>
               </ul>
             </li>
-            <li><span>{{ site.data.labels.locales[site.locale].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
-              <ul>
+            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+              <ul aria-hidden="true" aria-label="submenu">
                 {% for page in resource_pages limit: 3 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}

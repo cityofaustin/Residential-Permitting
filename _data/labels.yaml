@@ -71,6 +71,13 @@ locales:
     search_label: Search
     cancel_search: Cancel
     default_submit_label: Submit
+    default_link_prefix: Go to
+    department_logo_label: Logo for
+    department_email_label: Email
+    department_address_label: Address for
+    department_hours_label: Office hours for
+    department_telephone_label: Call phone number for
+    department_contact_label: Contact form for
     get_feedback_text: Was this page helpful?
     get_feedback_link_text: Leave us feedback about your experience
     get_feedback_survey: 'https://docs.google.com/forms/d/e/1FAIpQLSebzegR6qQC1MqUtWMXALg-T--85IlK2NxFsLTfpp4NBoIO8Q/viewform?usp=pp_url&entry.887996410&entry.2117546943='
