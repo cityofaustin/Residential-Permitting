@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="container container-fluid page-layout">
+  <div class="row center-xs">
+    <div class="col-xs-10 col-sm-8">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <div class="lead">
+        {{ page.projects_summary_markdown | markdownify }}
+      </div>
+    </div>
+  </div>
+  <div class="row center-xs">
+    {% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+    {% for project in project_pages %}
+      {% unless project.hide_project_from_homepage == true %}
+        {% include tiles-projects.html tile=project %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+<div class="container container-fluid page-section">
+  <div class="row center-xs">
+    <div class="lead">{{ page.general_lead_markdown | markdownify }}</div>
+  </div>
+  <div class="row center-xs">
+    {% assign general_project = site.projects | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
+    {% include tiles-projects.html tile=general_project %}
+  </div>
+</div>

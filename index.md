@@ -1,46 +1,56 @@
 ---
-title: Austin Approved
-description: The City of Austin Residential Permitting Resource.
+title: City of Austin Residential Permitting
+description: 'in Austin, Texas'
 layout: home
-header_title: Austin Approved
-header_subtitle: A Residential Permitting Resource
-header_photo: /assets/img/photos/homepage-header.jpg
-header_excerpt: The City of Austin helps guide residential development to promote safe and sustainable growth.
-header_photo_credit_name: Karl Metzelear •
-header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
-process_title: Process Overview
-process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are four key steps to getting a permit.'
-process_steps:
-  - name: Define
-    description: 'Figure out what you want to do, if you need a permit, and how to get a free consultation.'
-  - name: Apply
-    description: Prepare your application materials and learn how to submit your application.
-  - name: Review
-    description: 'Receive and respond to feedback from the city, get your permit, and begin your project.'
-  - name: Inspect
-    description: Get your work inspected by the city and close out your permit(s).
-projects_title: Projects
-projects_summary_markdown: Have a particular project in mind? Check out our detailed guides to permitting some common Austin residential projects.
-resources_title: 'Tools & Resources'
-resources_featured:
-  - name: Can I get a permit?
-    description: Make sure that you can get started on permitting a new project with the City.
-    link: /resources/can-i-get-a-permit/
-  - name: Check my permit status
-    description: Already applied for your new permit? Check its current status.
-    link: /resources/check-my-permit-status
-  - name: Building near a tree
-    description: "Have a tree on your property? Find out if it's protected by the City of Austin."
-    link: /resources/building-near-a-tree/
-  - name: Express Permits
-    description: Some projects are simple enough that they qualify for express permits.
-    link: /resources/express-permits
-  - name: 'Applications & forms'
-    description: Quickly find a specific application or form.
-    link: /resources/applications-and-forms
-  - name: Glossary
-    description: Not sure what something means? Take a look in our glossary of terms.
-    link: /resources/glossary
+header:
+  header_title: Residential Permitting
+  header_subtitle: An official resource of the City of Austin
+  header_photo_path: /assets/img/photos/homepage-header.jpg
+  header_photo_credit_name: Karl Metzelear •
+  header_photo_credit_link: 'https://flic.kr/p/pdAzH3'
+process_section:
+  process_title: Process Overview
+  process_summary_markdown: 'Work with the City of Austin to make sure your next building or renovation project is safe, sustainable, and permitted. There are five key steps to getting a permit. For more information, [check out our general process page](/projects/general-process/).'
+projects_section:
+  projects_title: Featured Projects
+  projects_summary_markdown: Are you changing or adding to your home? Check out these detailed permitting guides of common Austin residential projects.
+  projects_button_text: View all projects
+  limit_projects_to: 6
+toolkit_section:
+  toolkit_title: Residential Toolkit
+  toolkit_summary_markdown: 'The Residential Toolkit helps residents navigate the permitting process. Use the toolkit to find details about specific city processes, your property or applications.'
+  toolkit_button_url: /residential-toolkit
+  toolkit_button_text: View Residential Toolkit
+resources_section:
+  resources_title: Resources
+  resources_summary_markdown: 'Use these resources to help you apply for a permit.&nbsp;'
+  resources_button_url: /resources
+  resources_button_text: View all resources
+_comments:
+  header:
+    header_title: The large white text at the top of the page
+    header_subtitle: The smaller green text at the top of the page
+    header_photo_path: Expects an image 680px tall by 1520px wide
+    header_photo_credit_name: Credit the photographer
+    header_photo_credit_link: Link to the photo source
+  process_section:
+    process_title: Title for the process section
+    process_summary_markdown: A short paragraph to introduce the overall process.
+  projects_section:
+    projects_title: Title for the projects section
+    projects_summary_markdown: A short paragraph to introduce the top set of projects
+    projects_button_text: Button at the bottom of the projects section
+    limit_projects_to: 'No more than this number of projects will show on the homepage. Note that the "General Process" projects is automatically hidden from the homepage.'
+  toolkit_section:
+    toolkit_title: Title for the toolkit section
+    toolkit_summary_markdown: 'A short paragraph to introduce the toolkit, Only the top 3 will be displayed'
+    toolkit_button_url: Relative URL to the residential toolkit page
+    toolkit_button_text: Button at the bottom of the toolkit section
+  resources_section:
+    resources_title: Title for the resources section
+    resources_summary_markdown: A short paragraph to introduce the top resources. Only the top 6 will be displayed.
+    resources_button_url: Relative URL to the main resources page
+    resources_button_text: Button at the bottom of the resources section
 ---
 
 

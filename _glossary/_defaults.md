@@ -2,9 +2,8 @@
 title: Term Definition
 term: term
 short_definition: ""
-long_definition_markdown: |-
-    ""
-source: Austin City Development Code
-glossary:
+source_name: Austin City Development Code
+source_link: ""
+confused_with_term_in_glossary:
 
 ---

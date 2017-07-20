@@ -1,9 +1,34 @@
 section {
+
+}
+.page-section {
+  margin-top: 1em;
+  margin-bottom: 3em;
   padding-top: 2em;
   padding-bottom: 2em;
+  h2 {
+    margin-top: 0;
+  }
 }
+
 .section--inverted {
   background: $color-gray-dark;
   color: $color-white;
+  -webkit-font-smoothing: antialiased;
   a { color: inherit; }
+}
+.section--gray {
+  background: $color-background;
+}
+.section--last {
+  margin-bottom: 0;
+}
+html {
+  background: $color-gray-dark;
+  color: $color-white;
+  body {
+    background: $color-white;
+    color: $color-gray-dark;
+    min-height: auto !important; // google translate widget messes with this
+  }
 }

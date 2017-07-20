@@ -2,82 +2,111 @@
 layout: default
 ---
 
+{% assign featured_department = site.departments | where: "featured", "true" | first  %}
+
 <div class="container container-fluid page-layout">
-  <div class="row start-xs">
+  <div class="row center-xs">
+    <div class="col-xs-12 col-sm-10 col-md-8">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <div class="lead">{{ page.lead_markdown | markdownify }}</div>
+    </div>
+  </div>
+  <div class="row center-xs">
+    <div class="content center-xs col-xs-12 col-sm-10">
 
-    <h1 class="page-title">{{ page.title }}</h1>
 
-    <div class="col-xs-12 col-sm-offset-2 col-md-8">
-    {% for department in site.departments %}
-      <div id="{{ department.department_name | slugify }}" class="row start-xs department-listing">
 
-        <div class="col-xs-12 col-md-6">
-          <h3 class="department-name"><a href="{{ department.department_link }}" target="_blank">{{ department.department_name }}</a></h3>
-          {% if department.description %}<p>{{ department.description }}</p>{% endif %}
+
+
+      {% assign lastletter = "" %}
+
+      {% for department in site.departments %}
+
+        {% assign tmpletter = department.title | slice: 0 | upcase %}
+
+        {% if tmpletter != lastletter %}
+        <div id="{{ tmpletter }}" class="row start-sm center-xs alpha">
+          <span class="circled">{{ tmpletter }}</span>
         </div>
-        <div class="col-xs-12 col-md-6">
+        {% endif %}
 
-          {% if department.phone %}
-          <div class="row">
-            <div class="col-xs-2">
-              <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
-            </div>
-            <div class="col-xs-10">
-              <p>{{ department.phone }}</p>
-            </div>
+
+        <div id="{{ department.department_name | slugify }}" class="row start-xs index-item">
+
+          <div class="col-xs-12 col-md-5">
+            <h4 class="department-name">{{ department.department_name }}</h4>
+            {% if department.description %}<p>{{ department.description }}</p>{% endif %}
+            <h5><a href="{{ department.department_link }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ department.department_name }}</a></h5>
+
+            {% unless department.logo_path == nil %}<a class="department-logo" href="{{ department.department_link }}" target="_blank"><img src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
+
           </div>
-          {% endif %}
+          <div class="col-xs-12 col-md-offset-1 col-md-6 department-details">
 
-          {% if department.physical_address_markdown %}
-          <div class="row">
-            <div class="col-xs-2">
-              <p>{% include _icon.html icon='map-marker' context='Office Location' %}</p>
+            {% if department.physical_address_markdown %}
+            <div class="row">
+              <div>
+                <p>{% include _icon.html icon='map-marker' context='Office Location' %}</p>
+              </div>
+              <div class="col-xs-10">
+                {{ department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
+              </div>
             </div>
-            <div class="col-xs-10">
-              {{ department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
+            {% endif %}
+
+            {% if department.hours %}
+            <div class="row">
+              <div>
+                <p>{% include _icon.html icon='clock' context='Office Hours' %}</p>
+              </div>
+              <div class="col-xs-10">
+                {% for periods in department.hours %}
+                  {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
+                {% endfor %}
+              </div>
             </div>
+            {% endif %}
+
+            {% if department.email %}
+            <div class="row">
+              <div>
+                <p>{% include _icon.html icon='mail' context='Email' %}</p>
+              </div>
+              <div class="col-xs-10">
+                <p><a href="mailto:{{ department.email }}" target="_blank">{{ department.email }}</a></p>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if department.contact_form_url %}
+            <div class="row">
+              <div>
+                <p>{% include _icon.html icon='mail' context='Email' %}</p>
+              </div>
+              <div class="col-xs-10">
+                <p><a href="{{ department.contact_form_url }}" target="_blank">{{ department.contact_form_url }}</a></p>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if department.phone %}
+            <div class="row">
+              <div>
+                <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
+              </div>
+              <div class="col-xs-10">
+                <p><a href="tel:+1-{{ department.phone | slugify }}">{{ department.phone }}</a></p>
+              </div>
+            </div>
+            {% endif %}
+
+
           </div>
-          {% endif %}
-
-          {% if department.mailing_address_markdown %}
-          <div class="row">
-            <div class="col-xs-2">
-              <p>{% include _icon.html icon='map-marker' context='Office Mailing Address' %}</p>
-            </div>
-            <div class="col-xs-10">
-              {{ department.mailing_address_markdown  | markdownify | rtrim: '<p></p>' }}
-            </div>
-          </div>
-          {% endif %}
-
-          {% if department.hours %}
-          <div class="row">
-            <div class="col-xs-2">
-              <p>{% include _icon.html icon='clock' context='Office Hours' %}</p>
-            </div>
-            <div class="col-xs-10">
-              {% for periods in department.hours %}
-                {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
-              {% endfor %}
-            </div>
-          </div>
-          {% endif %}
-
-          {% if department.email %}
-          <div class="row">
-            <div class="col-xs-2">
-              <p>{% include _icon.html icon='camera' context='Email' %}</p>
-            </div>
-            <div class="col-xs-10">
-              <p><a href="mailto:{{ department.email }}" target="_blank">{{ department.email }}</a></p>
-            </div>
-          </div>
-          {% endif %}
-
         </div>
-      </div>
 
-    {% endfor %}
+      {% assign lastletter = tmpletter %}
+      {% endfor %}
+
     </div>
 
   </div>

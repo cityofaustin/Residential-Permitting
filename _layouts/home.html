@@ -1,94 +1,112 @@
 ---
 layout: default
 ---
-<section class="photo-header" style="background-image: url('{{ page.header_photo }}')">
+{% include setup-pages.html %}
+
+<section class="photo-header" style="background-image: url('{{ page.header.header_photo_path }}')">
 	<div class="container container-fluid start-xs">
     <div class="overlay">
-			<h1>{{ page.header_title }}</h1>
-      <h3>{{ page.header_subtitle }}</h3>
+			<h1>{{ page.header.header_title }}</h1>
+      <h3>{{ page.header.header_subtitle }}</h3>
     </div>
 	</div>
   <span class="photo-credit">
     {% include _icon.html icon='camera' context='Shed' %}
-    <p>{{ page.header_photo_credit_name }} <a href="{{ page.header_photo_credit_link }}">{{ page.header_photo_credit_link }}</a></p>
+    <p>{{ page.header.header_photo_credit_name }} <a href="{{ page.header.header_photo_credit_link }}">{{ page.header.header_photo_credit_link }}</a></p>
   </span>
 </section>
 
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-12 col-sm-8">
-      <p class="lead">{{ page.header_excerpt }}</p>
-    </div>
-  </div>
+<section class="page-section">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.process_section.process_title }}</h2>
+	      <div class="lead">{{ page.process_section.process_summary_markdown | markdownify }}</div>
+    	</div>
+	  </div>
+	  <div class="row center-xs">
+		  {% for step in site.data.labels.locales[site.locale].project_steps %}
+			{% if forloop.index0 > 0 %}
+	    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
+	      <div class="step-flag">
+	        <h3>{{ step.step_name }}</h3>
+	        <span class="step-index">{{ forloop.index0 }}</span>
+	      </div>
+				<p>{{ step.step_description }}</p>
+	    </div>
+			{% endif %}
+	    {% endfor %}
+	  </div>
+	</div>
 </section>
 
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-      <h2>{{ page.process_title }}</h2>
-      <p>{{ page.process_summary_markdown | markdownify }}</p>
-    </div>
-  </div>
-  <div class="row center-xs">
-    {% for step in page.process_steps %}
-    <div class="step-preview col-xs-10 col-sm-6 col-md-3">
-      <div class="step-flag">
-        <h3>{{ step.name }}</h3>
-        <p>{{ step.description }}</p>
-        <span class="step-index">{{ forloop.index }}</span>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</section>
+<section class="page-section section--gray">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.projects_section.projects_title }}</h2>
+	      <div class="lead">{{ page.projects_section.projects_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+			{% for project in project_pages limit: page.projects_section.limit_projects_to %}
+				{% unless project.hide_project_from_homepage == true %}
+					{% include tiles-projects.html tile=project %}
+				{% endunless %}
+			{% endfor %}
+		</div>
+	  <div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_section.projects_button_text }}</a>
+			</div>
+	  </div>
+	</div>
 
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 col-md-6">
-      <h2>{{ page.projects_title }}</h2>
-      <p>{{ page.projects_summary_markdown | markdownify }}</p>
-    </div>
-  </div>
-  <div class="row center-xs">
-		{% assign project_pages = site.projects | where: 'in_projects_menu', true %}
-		{% for project in project_pages limit: 6 %}
-		{% if project.visibility != "unlisted" %}
-    <div class="project-block col-xs-10 col-sm-6 col-md-4">
-      <div class="block-outline">
-				<object class="block-illustration" alt="{{ project.project_name | capitalize }} illustration" data="/assets/img/projects/{{ project.project_name  | slugify }}.svg" type="image/svg+xml">
-					<!-- TODO: See if necessary for browser support <img src="{{ project.project-illustration }}.jpg" /> -->
-				</object>
-        <div class="block-text">
-          <h3>{{ project.project_name | capitalize }}</h3>
-          <p>{{ project.excerpt }}</p>
-        </div>
-        <a class="block-link" href="{{ project.url }}"></a>
-      </div>
-    </div>
-		{% endif %}
-    {% endfor %}
-  </div>
-</section>
-
-<section class="container container-fluid page-section">
-  <div class="row center-xs">
-    <div class="col-xs-10 col-sm-8 ">
-      <h2>{{ page.resources_title }}</h2>
-    </div>
-  </div>
-  <div class="row center-xs">
-    {% for resource in page.resources_featured %}
-    <div class="resource-block col-xs-10 col-sm-6 col-md-4">
-			<a href="{{ resource.link }}" class="block-outline">
-        <h4>{{ resource.name }}</h4>
-        <p>{{ resource.description }}</p>
-      </div>
-		</a>
-    {% endfor %}
-  </div>
 </section>
 
 
-<article class="content start-xs col-xs-12 col-sm-8">
-  {{ content }} <br>
-</article>
+<section class="page-section">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.toolkit_section.toolkit_title }}</h2>
+				<div class="lead">{{ page.toolkit_section.toolkit_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% for resource in toolkit_pages limit:3 %}
+				{% include tiles-articles.html tile=resource %}
+			{% endfor %}
+	  </div>
+		<div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}{{ page.toolkit_section.toolkit_button_url }}" }}>{{ page.toolkit_section.toolkit_button_text }}</a>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+
+<section class="page-section section--gray section--last">
+	<div class="container container-fluid">
+	  <div class="row center-xs">
+	    <div class="col-xs-12 col-sm-10 col-md-8">
+	      <h2>{{ page.resources_section.resources_title }}</h2>
+				<div class="lead">{{ page.resources_section.resources_summary_markdown | markdownify }}</div>
+	    </div>
+	  </div>
+	  <div class="row center-xs">
+			{% for resource in resource_pages limit:6 %}
+				{% include tiles-resources.html tile=resource tile_width="3" %}
+			{% endfor %}
+	  </div>
+		<div class="row center-xs button-row">
+			<div class="col-xs-10">
+				<a class="usa-button" href="{{ site.url }}{{ page.resources_section.resources_button_url }}" }}>{{ page.resources_section.resources_button_text }}</a>
+			</div>
+		</div>
+	</div>
+
+</section>

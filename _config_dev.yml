@@ -1,0 +1,189 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+---
+title: Residential Permitting
+timezone: America/Chicago
+locale: en
+collections:
+  content:
+    title: Content
+    output: true
+    permalink: "/:path/"
+  projects:
+    title: Projects
+    output: true
+    permalink: "projects/:path/"
+  departments:
+    title: Departments
+    output: false
+  glossary:
+    title: Glossary
+    output: true
+    permalink: "resources/:collection/:path"
+  library:
+    output: false
+  diagrams:
+    output: false
+
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: 'page'
+
+# for js, which is concatenating via jekyll
+- scope:
+    path: 'assets'
+  values:
+    layout: empty
+
+# for glossary entries
+- scope:
+    path: ''
+    type: 'glossary'
+  values:
+    layout: 'glossary-entry'
+    # sets up multiselect related terms for cloudcannon editor
+    collections:
+      - glossary
+    _comments:
+      term: lowercase with spaces
+      short_definition: (required)
+      long_definition_markdown: (required)
+      source: Related Code?
+      confused_with_term_in_glossary: Other words commonly confused with this term
+
+# for all content
+- scope:
+    path: '_content'
+    type: 'content'
+  values:
+    layout: 'page'
+    in_resources_menu: false
+    in_toolkit_menu: false
+    in_admin_pages: false
+    menu_sort_order: 10
+    _comments:
+
+# for project pages
+- scope:
+    path: '_projects'
+    type: 'projects'
+  values:
+    layout: 'project'
+    in_projects_menu: false
+    menu_sort_order: 10
+    use_default_project_content: false
+    _comments:
+      project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
+      step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
+      table_of_contents: The sub-steps of each major step, which show up on overview.
+# for resource pages
+- scope:
+    path: '_content/resources'
+    type: 'content'
+  values:
+    layout: 'page'
+    _comments:
+
+# for department listings
+- scope:
+    path: ''
+    type: departments
+  values:
+    _hide_content: true
+    featured: false
+    _comments:
+      department_name: The department's official name
+      department_link: The url to the department page on AustinTexas.gov or to their own site
+      phone: Please use the format 000-000-0000
+      email_address: Only a real email address, such as office@austintexas.gov
+      contact_form_url: Only a link to a contact form http://www.austintexas.gov/email/
+      period_name: e.g., "General questions" or "By appointment only"
+      period_time_markdown: e.g., "Monday through Friday, 8am to 5pm"
+      featured: Whether to show this department above all others on the contact page. Only one department can be featured, so deselect any other department (with permission)
+
+# for document and plan libraries
+- scope:
+    path: ''
+    type: diagrams
+  values:
+    _comments:
+      title: Title of this Diagram
+      description: Brief description of this form or document
+      date: 2017-06-14
+      project: shed
+      thumb_path: /assets/img/diagrams/project/plan.png
+      file_path: /assets/img/diagrams/project/plan.pdf
+    diagram_type:
+      - floor-plan
+      - elevation
+      - plot-plan
+      - exist-demo-plan
+      - proposed-floor-plan
+
+# for internal / admin / docs pages
+- scope:
+    path: '_content/admin'
+    type: 'content'
+  values:
+    sitemap: false
+    in_admin_pages: true
+    _comments:
+
+
+
+# for all pages
+_comments:
+  title: Title for this page (shows up in SEO) (required)
+  menu_sort_order: Order this page shows up in any nav menus
+  excerpt: If you don't define one here, the site will use your first content paragraph. If you define one, please keep it under about 155 characters.
+description: The City of Austin’s Residential Permitting Resource
+subtitle: Austin’s Residential Permitting Resource
+show_full_navigation: true
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://alpha.webuildthis.city" # the base hostname & protocol for your site, e.g. http://example.com
+favicon_path: "/assets/favicons/"
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-last-modified-at
+  - algoliasearch-jekyll
+
+
+# Search settings
+algolia:
+  application_id: 'DNCR2D4VTX'
+  index_name: 'residential-permitting'
+  read_api_key: '0233ba62bf734aa53ee27a2081cc1c0c'
+  excluded_files:
+    - _content/seo-sitemap.md
+    - _content/admin
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: assets/stylesheets/
+permalink: pretty
+exclude:
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - npm-debug.log
+  - /screenshots
+  - /sketch-files
+  - /assets/stylesheets/bourbon
+  - /assets/stylesheets/bourbon-neat
+  - /assets/uswds/stylesheets
+  - /assets/uswds/js
+  - .bundle
