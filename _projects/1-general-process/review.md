@@ -1,7 +1,7 @@
 ---
 title: The Review Process for a Permit in Austin
 step_number: 4
-project_name: general process
+project_name: General Process
 permalink: /projects/general-process/review/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Apply for a Permit in Austin
 step_number: 3
-project_name: general process
+project_name: General Process
 permalink: /projects/general-process/apply/
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Get a Consultation for a Permit in Austin
 step_number: 2
-project_name: general process
+project_name: General Process
 permalink: /projects/general-process/consult/
 ---
 

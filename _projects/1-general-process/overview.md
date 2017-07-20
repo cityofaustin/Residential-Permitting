@@ -1,7 +1,7 @@
 ---
 title: Project Permit Overview
 excerpt: A detailed look into the residential permitting process in the City of Austin
-project_name: general process
+project_name: General Process
 in_projects_menu: true
 hide_project_from_homepage: true
 menu_sort_order: 4
