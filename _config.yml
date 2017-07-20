@@ -149,8 +149,8 @@ _comments:
 description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://briaguya.github.io/webuildthis.city/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/webuildthis.city" # the subpath of your site, e.g. /blog
+url: "https://briaguya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_path: "/assets/favicons/"
 
 # Build settings
