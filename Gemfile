@@ -21,5 +21,10 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
-   gem "fastimage"
+   gem "jekyll-last-modified-at"
+   gem 'algoliasearch-jekyll', '~> 0.8.0'
+   gem "rb-fsevent", "0.9.8"
+end
+group :sitemap do
+   gem "jekyll-sitemap"
 end

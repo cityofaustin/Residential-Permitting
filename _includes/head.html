@@ -1,7 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
   <title>{{ page.title }} &mdash; {{ site.title }}</title>
@@ -34,8 +35,9 @@
 
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
-  <link rel="stylesheet" href="{{ relative }}/assets/stylesheets/application.css">
-  <script src="{{ relative }}/assets/javascripts/application.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Droid+Serif|Roboto:400,500,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/application.css">
+  <script src="{{ site.url }}/assets/javascripts/application.js"></script>
 
 
   {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}

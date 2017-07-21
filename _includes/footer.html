@@ -1,22 +1,61 @@
-<footer class="site-footer section--inverted">
+<footer id="footer-drawer" class="site-footer section--inverted">
   <div class="container container-fluid">
-    <div class="row center-xs start-sm">
-      <div class="footer-logo col-xs-12 col-sm-6 col-md-3">
-        <img src="/assets/img/coa-austin-seal-white.png" alt="City of Austin Seal" />
+    <div class="row start-md start-xs center-sm">
+      <div class="footer-border-top footer-logo col-xs-12 col-sm-5 col-md-3 col-sm-offset-1 col-md-offset-0 first-md last-xs start-sm">
+        <img src="/assets/img/coa-austin-seal-white.svg" alt="City of Austin Seal" height="100" width="100"/>
+        <div class="hidden-md">{{ site.data.labels.locales[site.locale].intro_markdown | strip_newlines | markdownify }}</div>
       </div>
-      {% for list in site.data.footer.footer_lists %}
-      <div class="footer-link-list col-xs-12 col-sm-6 col-md-3">
-        <h4>
-          <a class="footer-link-list-title" href="{{ list.list_title_link }}">{{ list.list_title }}</a>
-        </h4>
-        <ul>
-          {% for link in list.link_list %}
-          <li><a href="{{ link.page_link}}">{{ link.page_title }}</a></li>
-          {% endfor %}
-        </ul>
+
+      <div class="footer-link-list col-xs-12 hidden-sm">
+        <h4><a href="{{ site.url }}">{{ site.data.labels.locales[site.locale].home }}</a></h4>
       </div>
-      {% endfor %}
+
+      <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
+        <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].projects_label }}</h4>
+          <ul aria-label="submenu">
+            {% for project in project_pages limit: 5 %}
+              <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+            {% endfor %}
+            <li class="footer-link-list-view-all"><a href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_projects_link }}</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 col-sm-offset-1 col-md-offset-0 start-sm">
+          <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].toolkit_label }}</h4>
+          <ul aria-label="submenu">
+            {% for page in toolkit_pages limit: 5 %}
+              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+            <li class="footer-link-list-view-all"><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_toolkit_link }}</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
+          <h4 class="footer-border-top">{{ site.data.labels.locales[site.locale].resources_label }}</h4>
+          <ul aria-label="submenu">
+            {% for page in resource_pages limit: 5 %}
+              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+            <li class="footer-link-list-view-all"><a href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_resources_link }}</a></li>
+          </ul>
+      </div>
     </div>
   </div>
 </footer>
-{% include lightbox-template.html %}
+<footer class="mini-footer section--inverted main">
+  <div class="container container-fluid">
+    <div class="row center-xs end-sm">
+      <div class="footer-credits center-xs end-md">
+        <span class="footer-credits-prefix">{{ site.data.labels.locales[site.locale].prefooter_credits_prefix }} </span>
+        {{ site.data.labels.locales[site.locale].prefooter_credits_suffix }}
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en,es,ko,my,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

@@ -1,0 +1,110 @@
+<div id="search-container" class="main">
+  <div class="container container-fluid">
+    <div class="row center-xs">
+      <div class="col-xs-12 col-sm-10 col-md-8 start-xs" id="search-headline"></div>
+    </div>
+    <div class="row center-xs">
+      <div class="col-xs-12 col-sm-8 col-md-6 start-xs" id="search-hits" role="list"></div>
+    </div>
+    <div class="row center-xs">
+      <div class="col-xs-12 col-sm-8 col-md-6 start-xs" id="search-pagination" role="navigation" aria-label="Pagination Navigation"></div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@1/dist/instantsearch-preact.min.js"></script>
+{% raw %}
+<script type="text/html" id="hit-template">
+  <div class="hit" role="listitem">
+    <div class="hit-content">
+      <h3 class="hit-name">
+        <a href="{{{url}}}">{{{_highlightResult.title.value}}}</a>
+      </h3>
+      <p class="hit-description">{{{_highlightResult.text.value}}}</p>
+    </div>
+  </div>
+</script>
+{% endraw %}
+
+<script type="text/html" id="no-results-template">
+  <div id="no-results-message">
+    <p>{{ site.data.labels.locales[site.locale].search_no_results_found }} &ldquo;{{ "{{query" }}}}&rdquo;.</p>
+  </div>
+</script>
+
+<script type="text/html" id="headline-template">
+  <h1 class="page-title">{{ site.data.labels.locales[site.locale].search_results_found }} &ldquo;{{ "{{query" }}}}&rdquo;.</h1>
+</script>
+
+<script>
+function getTemplate(templateName) {
+  return document.getElementById(templateName + '-template').innerHTML;
+}
+
+$(function() {
+  var search = instantsearch({
+    appId: '{{ site.algolia.application_id }}',
+    apiKey: '{{ site.algolia.read_api_key }}',
+    indexName: '{{ site.algolia.index_name }}',
+    urlSync: true,
+    searchFunction: function(helper) {
+      var searchResults = $('#search-container');
+      var page = $('#page');
+      var html = $('html');
+      if (helper.state.query === '') {
+        searchResults.hide();
+        page.show();
+        html.removeClass("search-active");
+        return;
+      }
+      helper.search();
+      searchResults.show();
+      page.hide();
+      html.addClass("search-active");
+    }
+  });
+
+
+  // Disable real-time results until we know our API
+  // search.addWidget(
+  //  instantsearch.widgets.searchBox({
+  //    container: '#header-search-box',
+  //    placeholder: '{{ site.data.labels.locales[site.locale].search_placeholder }}'
+  //  })
+  // );
+
+  search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#search-hits',
+      hitsPerPage: 10,
+      templates: {
+        item: getTemplate('hit'),
+        empty: getTemplate('no-results')
+      }
+    })
+  );
+  search.addWidget(
+    instantsearch.widgets.stats({
+      container: '#search-headline',
+      templates: {
+        body: getTemplate('headline')
+      }
+    })
+  );
+
+  search.addWidget(
+    instantsearch.widgets.pagination({
+      container: '#search-pagination',
+      showFirstLast: false,
+      labels: {
+        next: "{{ site.data.labels.locales[site.locale].search_pagination_next }}",
+        previous: "{{ site.data.labels.locales[site.locale].search_pagination_prev }}"
+      }
+    })
+  );
+
+  search.start();
+
+});
+
+</script>

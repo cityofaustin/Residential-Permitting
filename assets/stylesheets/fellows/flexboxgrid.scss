@@ -259,6 +259,10 @@ $lg-viewport: "only screen and (min-width: 75em)";
   order: 1;
 }
 
+.hidden-xs {
+  display: none;
+}
+
 @media #{$sm-viewport} {
   .container {
     width: $container-sm;
@@ -453,6 +457,10 @@ $lg-viewport: "only screen and (min-width: 75em)";
 
   .last-sm {
     order: 1;
+  }
+
+  .hidden-sm {
+    display: none;
   }
 }
 
@@ -651,6 +659,10 @@ $lg-viewport: "only screen and (min-width: 75em)";
   .last-md {
     order: 1;
   }
+
+  .hidden-md {
+    display: none;
+  }
 }
 
 @media #{$lg-viewport} {
@@ -846,6 +858,10 @@ $lg-viewport: "only screen and (min-width: 75em)";
   .last-lg {
     order: 1;
   }
+
+  .hidden-lg {
+    display: none;
+  }
 }
 
 
@@ -859,6 +875,11 @@ $lg-viewport: "only screen and (min-width: 75em)";
 
 .breakout-tabs {
   @media #{$sm-viewport} {
+    width: 130%;
+    position: relative;
+    left: -15%;
+  }
+  @media #{$md-viewport} {
     width: 150%;
     position: relative;
     left: -25%;

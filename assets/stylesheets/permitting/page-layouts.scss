@@ -4,12 +4,15 @@
 .photo-header {
   height: 340px;
   position: relative;
+  margin-bottom: 5em;
+  padding: 4rem 0;
   h1 {
     margin-top: 0;
     color: $color-white;
     font-weight: 500;
     font-size: rem(48px);
     line-height: rem(50px);
+    word-break: normal;
   }
   h3 {
     margin-top: 0;
@@ -22,7 +25,7 @@
   .overlay {
     background: rgba($color-gray-dark, .9);
     padding: 2em;
-    width: 18em;
+    width: 20em;
 
   }
   // we may want to use this elsewhere too!
@@ -57,59 +60,54 @@
   }
 }
 
-.layout--home {
-  h2 {
-    font-size: $h2-font-size-alt;
-    font-weight: $font-bold;
-  }
-}
-
 /* consider moving the following to shared "tile" styles? */
 
 .step-preview {
   margin-top: 4rem;
-  margin-bottom: 8rem;
-  display: flex;
+  margin-bottom: 4rem;
   .step-flag {
     border: $border-style-lighter-gray;
     border-bottom-width: 0;
     position: relative;
-    flex-direction: column;
-    display: flex;
-    flex: 1;
-    padding: rem(40px) 10% .5rem;
-    margin: 0 .5rem;
+    padding: rem(40px) 10% rem(20px);
+    margin: 0 auto 6rem;
+    max-width: 200px;
     &:before,
     &:after {
       content: "";
       border-top: $border-style-lighter-gray;
-      width: 53%;
+      width: 59%;
       display: block;
       position: absolute;
       bottom: 0;
     }
     &:before {
       left: -3px;
-      transform: rotate(15deg);
+      transform: rotate(27deg);
       transform-origin: left;
     }
     &:after {
       right: -3px;
-      transform: rotate(-15deg);
+      transform: rotate(-27deg);
       transform-origin: right;
     }
   }
   h3 {
-    margin:0 0 .75rem;
+    margin:0;
     font-family: $font-sans;
     color: $color-gray-dark;
     font-size: rem(20px);
+    position: relative;
     &:after {
       content: "";
-      border-bottom: 4px solid $color-barton-light;
-      width: 20px;
+      border-style: solid;
+      border-color: $color-barton-light transparent transparent transparent;
+      border-width: 12px 22px; // last number is half of width
+      width: 44px;
       display: block;
-      margin: .75rem auto;
+      position: absolute;
+      bottom: rem(-62px);
+      left: calc(50% - 22px); // last number is half of width
     }
   }
   .step-index {
@@ -132,85 +130,7 @@
     font-size: rem(15px);
     margin-top: 0;
     color: $color-gray;
-  }
-}
-.project-block {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  .block-outline {
-    height: 100%;
-    margin: 0 .5rem;
-    position: relative;
-    display: block;
-    .block-text {
-      padding: 2.5rem 2.5rem 3rem;
-    }
-    h3 {
-      font-size: rem(26px);
-      margin:0 0 .75rem;
-      color: $color-primary;
-    }
-    p {
-      font-size: rem(15px);
-      line-height: rem(21px);
-      font-family: $font-sans;
-      margin: 0;
-    }
-    .block-link {
-      display: block;
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      top:0;
-      left:0;
-      border: $border-style-lighter-gray;
-      transition: border-color .5s;
-      &:hover {
-        border-color:$color-barton-lighter;
-      }
-    }
-    .block-illustration {
-      width: 100%;
-      background-color: $color-barton-light;
-      height: 12rem;
-      padding: 4rem 2rem 0;
-    }
-  }
-}
-
-.resource-block {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  .block-outline {
-    border: $border-style-lighter-gray;
-    height: 100%;
-    padding: 1.5rem 1.25rem;
-    margin: 0 .5rem;
-    display: block;
-    text-decoration: none;
-    transition: border-color .5s;
-    &:hover, &:active {
-      border-color: $color-primary-darker;
-    }
-    h4 {
-      font-size: rem(15px);
-      margin:0 0 .5rem;
-      color: $color-primary;
-      transition: color .5s;
-    }
-    &:hover h4, &:active h4 {
-      color: $color-primary-darker;
-    }
-    p {
-      font-size: rem(15px);
-      line-height: rem(21px);
-      font-family: $font-sans;
-      margin: 0;
-      color: $color-gray-dark;
-      &:hover, &:active, &:visited {
-        color: $color-gray-dark;
-      }
-    }
+    padding: 0 5%;
   }
 }
 
@@ -218,11 +138,39 @@
 /* Page sections */
 .content {
   text-align: left;
-}
 
-.page-section {
+  p, li, h1, h2, h3, h4, h5 {
+    /* special link styles within text content */
+    a:not(.usa-button),
+    a:not(button) {
+      &.link--external,
+      &.link--file {
+        &:after {
+          content: "";
+          display: inline-block;
+          margin-left: .25rem;
+          background: center no-repeat;
+          background-size: contain;
+          width: 2rem;
+          height: 2rem;
+          vertical-align: text-bottom;
+        }
+      }
+      &.link--external:after { background-image: url('../img/external-link.svg'); }
+      &.link--file:after { background-image: url('../img/external-file.svg'); }
+      &.link--phone:after { background-image: none; }
+      &.link--phone {
+        color: inherit;
+        text-decoration: none;
+      }
+    }
+  }
   h2 {
-    margin-top: 0;
+    font-size: $h2-font-size-alt;
+    font-weight: $font-medium;
+  }
+  img {
+    border: 2px solid $color-gray-lighter;
   }
 }
 
@@ -251,7 +199,6 @@
 }
 .project-nav {
   width: 100%;
-  padding: 1.65rem 0 1.5rem;
   box-shadow: $vertical-shadow;
   font-size: rem(13px);
   letter-spacing: 1px;
@@ -260,52 +207,140 @@
   top: -1px; /* fix retina flicker */
   background: #FFF;
   z-index: 10;
-  a {
-    border-bottom: 4px solid transparent;
-    color: $color-gray-light;
-    display: inline-block;
-    font-family: $font-sans;
-    font-weight: $font-medium;
-    text-transform: uppercase;
-    text-decoration: none;
+  white-space: nowrap;
+  .in-page-nav {
+    padding: 1rem 0;
+    a {
+      border-bottom: 0 solid transparent;
+      color: $color-gray-light;
+      font-family: $font-sans;
+      font-weight: $font-medium;
+      text-transform: uppercase;
+      text-decoration: none;
+      display: block;
+      height: 0;
+      line-height: 4rem;
+      width: 100%;
+      margin: 0 6rem;
+      border-bottom-width: 0;
+      transition: height .25s;
+      overflow: hidden;
+      @media #{$md-viewport} {
+        display: inline-block;
+        width: auto;
+        margin: 0;
+        height: 4rem;
+        border-bottom-width: 4px;
+      }
+    }
+    .active {
+      border-bottom-color: $color-barton-light;
+      color: $color-gray-dark;
+      font-weight: $font-bold;
+      height: 4rem;
+    }
+    .icon {
+      width: rem(24px);
+      height: rem(24px);
+      line-height: 1.7rem;
+      fill: $color-gray-lighter;
+      margin: auto .7%;
+      display: none;
+      @media #{$md-viewport} {
+        display: inline-block;
+      }
+    }
+    span {
+      margin: auto .7rem;
+      color: $color-gray-lighter;
+      font-size: rem(20px);
+      display: none;
+      @media #{$md-viewport} {
+        display: inline-block;
+      }
+    }
+    &.project-menu-open {
+      a {
+        height: 4rem;
+      }
+      & + #mobile-project-menu-button .icon {
+        padding: .5rem;
+        transform: rotate(180deg);
+      }
+    }
   }
-  .active {
-    border-bottom-color: $color-barton-light;
-    color: $color-gray-dark;
-    font-weight: $font-bold;
-    padding-bottom: rem(2px);
+  #mobile-project-menu-button {
+    width: 6rem;
+    height: 6rem;
+    display: block;
+    position: absolute;
+    padding: 1rem;
+    top: 0;
+    right: 0;
+    margin-left: 0;
+    cursor: pointer;
+    transition: color .25s;
+    .icon {
+      display: block;
+      fill: $color-gray-dark;
+      width: 100%;
+      height: 100%;
+      margin-left: 0;
+      padding: .5rem;
+      transform: rotate(0deg);
+      transition: transform .25s;
+    }
+    @media #{$md-viewport} {
+      display: none;
+    }
+    &:hover {
+      .icon {
+        fill: $color-gray-medium;
+      }
+    }
   }
-  .icon {
-    width: rem(24px);
-    height: rem(24px);
-    line-height: 1.7rem;
-    fill: $color-gray-lighter;
-    margin: auto .7rem;
-    display: inline-block;
-  }
-  span {
-    margin: auto 1rem;
-    display: inline-block;
-    color: $color-gray-lighter;
-    font-size: rem(20px);
+  .project-thumb {
+    background: $color-barton-light;
+    position: absolute;
+    left: -9rem;
+    top: 0;
+    display: block;
+    height: 100%;
+    transition: left .25s;
+    object {
+      padding-top: 1.5rem;
+      height: 6rem;
+      width: 9rem;
+    }
+    & + .in-page-nav {
+      transition: padding-left .25s;
+    }
+    &.visible {
+      left: 0;
+      & + .in-page-nav {
+          padding-left: 11rem;
+          @media #{$md-viewport} {
+            padding-left: 0;
+          }
+        a {
+          text-align: left;
+          margin-left: .7%;
+          @media #{$md-viewport} {
+            margin-left: 0;
+          }
+        }
+      }
+    }
   }
 }
 .project-layout {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
   // Just in case an h1 slips in
-  h1, h2 {
-   font-size: $h2-font-size-alt;
-   font-weight: $font-bold;
-  }
-  // scale up font sizes for project page
-  h3 {
+  h1 {
     font-size: $h2-font-size;
+    font-weight: 500;
     color: $color-gray-dark;
-
-  }
-  h4 {
-    font-size: $h3-font-size;
-    color: $color-gray;
-
   }
 
   .step-title {
@@ -314,69 +349,37 @@
     // to keep sticky nav from overlapping top of anchored ID on in-page links
     border-top: 5rem solid transparent;
     margin-top: -5rem;
-    &:before {
-      display: block;
-      font-size: $h3-font-size;
-      width: 2 * $h3-font-size;
-      height: 2 * $h3-font-size;
-      line-height:  2 * $h3-font-size;
-      border-radius: 100%;
-      border: 4px solid $color-barton-light;
-      box-sizing: content-box;
-      margin: 1rem auto;
-      content: attr(data-number);
-    }
+    font-size: $h2-font-size;
+    font-weight: $font-bold;
   }
 }
 
-.project-steps {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  .block-outline {
-    border: $border-style-lighter-gray;
-    height: 100%;
-    padding: 1.5rem 1.25rem;
-    margin: 0 .5rem;
-    h3 {
-      font-size: $h3-font-size;
-      margin:0 0 .5rem;
-      a {
-        text-decoration: none;
-      }
-    }
-    p {
-      font-size: rem(15px);
-      line-height: rem(21px);
-      font-family: $font-sans;
-      margin: 0;
-    }
+.project-overview {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  h2 {
+    margin-top: 0;
+    font-size: $h2-font-size-alt;
   }
-  .step-number {
-    text-align: center;
-    font-family: $font-sans;
-    width: 7rem;
-    &:before {
+  li {
+    list-style-type: none;
+    position: relative;
+    .icon {
+      position: absolute;
+      width: rem(24px);
+      height: rem(24px);
+      fill: $color-barton-light;
       display: block;
-      font-size: $h3-font-size;
-      width: 1.65 * $h3-font-size;
-      height: 1.65 * $h3-font-size;
-      line-height:  1.65 * $h3-font-size;
-      border-radius: 100%;
-      border: 4px solid $color-black;
-      color: $color-black;
-      box-sizing: content-box;
-      margin: 0 auto;
-      content: attr(data-number);
-      font-weight: bold;
+      left: rem(-32px);
     }
   }
-  .project-step-content {
-    flex: 1;
-    padding: 1rem;
+  &.odd {
+    background: $color-background;
   }
 }
 
-.project-prefooter {
+.prefooter {
+  margin-top: 2rem;
   padding-bottom: 4rem;
   .button-container > div {
     @media (max-width: 480px) {
@@ -387,20 +390,105 @@
 }
 
 
-/* ARTICLE PAGES */
-.page-layout {
-  h1.page-title {
-    text-align: center;
-    width: 100%;
+h1.page-title {
+  text-align: center;
+  margin-top: 10rem;
+  width: 100%;
+  &:after {
+    border-bottom: 8px solid $color-barton-light;
+    content: "";
+    display: block;
+    width: 4rem;
+    margin: 1.5rem auto;
   }
 }
+.date {
+  color: $color-gray-light;
+  font-size: rem(15px);
+  font-weight: normal;
+  margin-bottom: 4rem;
+}
+
 
 /* CONTACT PAGE */
 .layout--contact {
-  .department-listing {
+  .department-details {
+    .icon {
+      background: $color-gray-lighter;
+      border-radius: 100%;
+      width: 32px;
+      height: 32px;
+      padding: 3px;
+      margin-right: 5px;
+      margin-left: 1rem;
+    }
+  }
+  .department-logo {
+    margin-top: 2rem;
     margin-bottom: 5rem;
+    display: inline-block;
+    img {
+      border-width: 0;
+    }
   }
-  .department-name {
-    margin-top: 1rem;
+}
+
+/* GLOSSARY, APPS & FORMS & DEPARTMENT INDEX */
+
+.index-item {
+  padding-top: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 4rem;
+  border-bottom: $color-gray-lighter 1px solid;
+  &:last-child {
+    border-bottom-width: 0;
+    margin-bottom: 0;
   }
+  &.section--gray {
+    border-bottom-width: 0;
+    img {
+      border: 1rem solid $color-white;
+    }
+  }
+  h5 {
+    font-size: rem(14px);
+    margin-bottom: 2rem;
+    color: $color-gray-light;
+  }
+}
+
+.index-item-content p:first-child {
+  margin-top: 1.5em; // match h4 margin-top
+}
+
+
+
+/* Circled characters for steps and glossary */
+.circled {
+  color: $color-gray-dark;
+  display: block;
+  font-size: $h2-font-size-alt;
+  font-weight: 500;
+  font-family: $font-sans;
+  text-align: center;
+  width: 1.85 * $h3-font-size;
+  height: 1.85 * $h3-font-size;
+  line-height:  1.85 * $h3-font-size;
+  border-radius: 100%;
+  border: 4px solid $color-barton-light;
+  box-sizing: content-box;
+  margin: 5rem auto .5rem;
+  padding: .75rem;
+  .icon {
+    height: 100%;
+  }
+}
+
+.feedback {
+  text-align: center;
+  padding: 1px 3rem;
+  font-family: $font-sans;
+  font-size: 1.3rem;
+  margin-top: 4rem;
 }

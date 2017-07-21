@@ -5,8 +5,8 @@ $small-font-size:     rem(14px);
 $lead-font-size:      rem(22px);
 $title-font-size:     rem(52px);
 $h1-font-size:        rem(48px);
-$h2-font-size:        rem(26px);
-$h2-font-size-alt:    rem(38px);
+$h2-font-size:        rem(38px);
+$h2-font-size-alt:    rem(26px);
 $h3-font-size:        rem(20px);
 $h4-font-size:        rem(17px);
 $h5-font-size:        rem(13px);
@@ -35,12 +35,6 @@ $color-primary:              #005eff;
 $color-primary-darker:       #0446cc;
 $color-primary-darkest:      #082e9a;
 
-$color-primary-alt:          #02bfe7;
-$color-primary-alt-dark:     #00a6d2;
-$color-primary-alt-darkest:  #046b99;
-$color-primary-alt-light:    #9bdaf1; // lighten($color-primary-alt, 60%)
-$color-primary-alt-lightest: #e1f3f8; // lighten($color-primary-alt, 90%)
-
 $color-secondary:            #e90027;
 $color-secondary-dark:       #b2002a;
 $color-secondary-darkest:    #7b002d;
@@ -48,39 +42,19 @@ $color-secondary-light:      #ff715b;
 $color-secondary-lightest:   #ffdad5;
 
 $color-white:                #ffffff;
-$color-base:                 #212121;
-$color-black:                #000000;
+$color-black:                #0f0035;
 
 $color-gray-dark:            #0f0035;
 $color-gray:                 #474454;
-$color-gray-medium:          #716c87; // not referenced in the style guide so not defining for now
 $color-gray-light:           #716c87; // lightest gray that passes color contrast
 $color-gray-lighter:         #d6d4dc;
 $color-gray-lightest:        #f5f4f7;
-
-$color-gray-warm-dark:       #494440;
-$color-gray-warm-light:      #e4e2e0; // lighten($color-gray-warm-dark, 90%)
-$color-gray-cool-light:      #dce4ef; // lighten($color-primary, 90%)
-
-$color-gold:                 #fdb81e;
-$color-gold-light:           #f9c642; //  lighten($color-gold, 20%)
-$color-gold-lighter:         #fad980; //  lighten($color-gold, 60%)
-$color-gold-lightest:        #fff1d2; //  lighten($color-gold, 83%)
-
-$color-green:                #2e8540;
-$color-green-light:          #4aa564; // lighten($color-green, 20%)
-$color-green-lighter:        #94bfa2; // lighten($color-green, 60%)
-$color-green-lightest:       #e7f4e4; // lighten($color-green, 60%)
-
-$color-cool-blue:            #205493;
-$color-cool-blue-light:      #4773aa; // lighten($color-cool-blue, 20%)
-$color-cool-blue-lighter:    #8ba6ca; // lighten($color-cool-blue, 60%)
-$color-cool-blue-lightest:   #dce4ef; // lighten($color-cool-blue, 90%)
 
 $color-focus:                #5b97ff;
 $color-visited:              #8800ff;
 
 $color-shadow:               rgba(#000, 0.3);
+$color-background:           rgba(#f5f4f7, 0.5);
 
 // Mobile First Breakpoints
 $small-screen:      481px;

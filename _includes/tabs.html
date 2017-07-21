@@ -1,12 +1,12 @@
 <div class="breakout-tabs">
-  <ul class="usa-accordion tabs">
+  <ul class="usa-accordion tabs" role="tablist">
     {% for tab in page.tabs %}
-    <li class="tab">
-      <button class="usa-accordion-button tab-button"
+    <li class="tab" role="presentation">
+      <button class="usa-accordion-button tab-button" role="tab"
         aria-expanded="true" aria-controls="{{ tab.tab_title | slugify }}">
         {{ tab.tab_title }}
       </button>
-      <div id="{{ tab.tab_title | slugify }}" class="usa-accordion-content tab-content">
+      <div id="{{ tab.tab_title | slugify }}" class="usa-accordion-content tab-content" role="tabpanel">
         <p>
           {{ tab.tab_content_markdown | markdownify }}
         </p>
