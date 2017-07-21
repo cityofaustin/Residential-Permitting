@@ -155,10 +155,18 @@ favicon_path: "/assets/favicons/"
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
-  - jekyll-last-modified-at
-  - jekyll-sitemap
+development:
+  gems:
+    - jekyll-feed
+    - jekyll-last-modified-at
+    - algoliasearch-jekyll
+
+production:
+  gems:
+    - jekyll-feed
+    - jekyll-last-modified-at
+    - jekyll-sitemap
+
 
 # Search settings
 algolia:
@@ -168,7 +176,7 @@ algolia:
   excluded_files:
     - _content/seo-sitemap.md
     - _content/admin
-    
+
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir: assets/stylesheets/
