@@ -194,3 +194,4 @@ exclude:
   - /assets/uswds/stylesheets
   - /assets/uswds/js
   - .bundle
+  - /vendor
