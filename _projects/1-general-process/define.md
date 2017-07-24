@@ -10,7 +10,7 @@ Before applying for a permit(s), it’s important to define your project, figure
 
 ---
 
-## Introduction to permitting
+## Why does the city require permits?
 
 Whether you change the layout of your home or add a new addition, most home improvement projects require a permit from the city. Permits are needed to make sure any changes or additions are structurally sound, safe, and follow zoning regulations.
 
@@ -86,7 +86,6 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 > ###### What is a critical root zone?
 >
 > {% include glossary-definition.html term="critical root zone" %}
-
 
 ### Demolition permits
 

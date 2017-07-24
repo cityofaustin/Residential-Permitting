@@ -7,5 +7,8 @@ diagram_type: elevation
 thumb_path: /assets/img/diagrams/deck/deck-sample-elevation.png
 file_path: /assets/img/diagrams/deck/deck-sample-elevation.pdf
 ---
+
+
 #### Sample elevation
+
 Download to see sample plan and requirements.
