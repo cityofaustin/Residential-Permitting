@@ -1,13 +1,13 @@
 <nav id="go" class="project-nav fixedsticky">
-	<a class="project-thumb" href="/projects/{{ page.project_name | slugify }}">
-		<object alt="{{ page.project_name | capitalize }} illustration" data="/assets/img/projects/{{ page.project_name | slugify }}.svg" type="image/svg+xml"></object>
+	<a class="project-thumb" href="{{ site.url }}projects/{{ page.project_name | slugify }}">
+		<object alt="{{ page.project_name | capitalize }} illustration" data="{{ site.url }}/assets/img/projects/{{ page.project_name | slugify }}.svg" type="image/svg+xml"></object>
 	</a>
 	<div class="in-page-nav container-fluid center-xs">
 		<div class="row center-xs">
 		{% for project_steps in site.data.labels.locales[site.locale].project_steps %}
 			{% assign project_step = site.data.labels.locales[site.locale].project_steps[forloop.index0].step_name %}
 			{% if forloop.first %}
-				<a class="{% if page.step_number == forloop.index0 %}active{% endif %}" href="/projects/{{ page.project_name | slugify }}/#go">
+				<a class="{% if page.step_number == forloop.index0 %}active{% endif %}" href="{{ site.url }}projects/{{ page.project_name | slugify }}/#go">
 					{{ project_step }}
 				</a>
 				<span> | </span>
@@ -15,7 +15,7 @@
 				{% if forloop.index0 > 1 %}
 					{% include _icon.html icon='arrow-long-right' %}
 				{% endif %}
-				<a class="{% if page.step_number == forloop.index0 %}active{% endif %}" href="/projects/{{ page.project_name | slugify }}/{{ project_step | slugify }}/#go">
+				<a class="{% if page.step_number == forloop.index0 %}active{% endif %}" href="{{ site.url }}projects/{{ page.project_name | slugify }}/{{ project_step | slugify }}/#go">
 					{{ forloop.index0 }}. {{ project_step }}
 				</a>
 			{% endif %}

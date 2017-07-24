@@ -56,7 +56,7 @@ Projects that have the same requirements as a shed include: greenhouses, worksho
 
 Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. One way to make sure you will be able to easily address any future code issues is to purchase a pre-made shed that you can move if you need to.
 
-![](/assets/img/diagrams/easement-setback-impervious-cover.svg)
+![]({{ site.url }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
 {% include tabs.html %}
 
@@ -92,7 +92,7 @@ Having certain trees on your property may require a tree permit.
 
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf).
 
-If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application](/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
+If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application]({{ site.url }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
 
 You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
 

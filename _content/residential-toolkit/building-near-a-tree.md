@@ -13,7 +13,7 @@ The City of Austin preserves the natural resources that make Austin beautiful. T
 
 ## Protected tree sizes
 
-Certain tree sizes are protected in Austin and require a special permit to cut them down. You will need a [Tree Ordinance Review Application](/assets/applications-and-forms/tree_permit.pdf) if your project:
+Certain tree sizes are protected in Austin and require a special permit to cut them down. You will need a [Tree Ordinance Review Application]({{ site.url }}/assets/applications-and-forms/tree_permit.pdf) if your project:
 
 Involves a tree of any species that is 19 inches or more in diameter (59.6904 inches around),
 
@@ -40,7 +40,7 @@ A tree's critical root zone depends on its size. Larger and older trees have big
 
 To understand where you can and can't build around trees, imagine that there are three development impact zones around the base of the tree. We’re using a tree with a 20 inch diameter in the example below.
 
-![](/assets/img/diagrams/critical-root-zone.svg)
+![]({{ site.url }}/assets/img/diagrams/critical-root-zone.svg)
 
 ### The Critical Root Zone
 

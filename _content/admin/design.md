@@ -83,14 +83,14 @@ Icons are used on the site for visual interest and added clarity.
 {% include _icon.html icon='search' %}
 
 ### Project icons
-Icons for projects are custom and were made in Adobe Illustrator. They should be converted to outlines and exported as svgs. [View and edit the original files](/assets/img/for-guides/project-icons-source.ai). The icons have multiple shared attributes. They all:
+Icons for projects are custom and were made in Adobe Illustrator. They should be converted to outlines and exported as svgs. [View and edit the original files]({{ site.url }}/assets/img/for-guides/project-icons-source.ai). The icons have multiple shared attributes. They all:
 
 * Are made of gray-dark (#0f0035) lines (no fills),
 * Have a single-stroke weight (4 pt),
 * Include a full-width underline bar,
 * And have the same width for the main icon that sits above the underline bar.
 
-![](/assets/img/for-guides/design-style-guide-icons.png)
+![]({{ site.url }}/assets/img/for-guides/design-style-guide-icons.png)
 
 ---
 

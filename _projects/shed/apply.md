@@ -17,7 +17,7 @@ All shed building permit applications require:
 
 ### 1. Application
 
-The [new construction/addition application](/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or other licensed professional.
+The [new construction/addition application]({{ site.url }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or other licensed professional.
 
 ### 2. Plot plan
 
@@ -31,13 +31,13 @@ The plot plan must be drawn to scale by hand or on a computer. It can be prepare
 
 The floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale.
 
-For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report](/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a floor plan.
+For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a floor plan.
 
 {% include diagram.html diagram="floor-plan" %}
 
 ### 4. Elevation plan
 
-The elevation plan must be drawn to scale either by hand or on a computer. The elevation plan can be prepared by you or a licensed professional. For prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report](/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
+The elevation plan must be drawn to scale either by hand or on a computer. The elevation plan can be prepared by you or a licensed professional. For prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
 
 {% include diagram.html diagram="elevation" %}
 
@@ -47,12 +47,12 @@ The foundation plan can only be drawn by a structural engineer. A foundation pla
 
 ### 6. BSPA form
 
-When applying for a shed building permit, a signed [BSPA Form](/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/resources/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
+When applying for a shed building permit, a signed [BSPA Form]({{ site.url }}/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/resources/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
 
 ### Other commonly required documents
 
-* [**Owner’s Authorization Form**](/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
-* **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need a wind bracing and framing plan that's drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer. If you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report](/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf).
+* [**Owner’s Authorization Form**]({{ site.url }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
+* **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need a wind bracing and framing plan that's drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer. If you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf).
 
 ---
 

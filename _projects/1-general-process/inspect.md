@@ -49,9 +49,9 @@ If you don't need to be home during your inspection, you must clearly post your 
 
 The inspector will inspect your work based on the approved building plans and their checklists. They will identify any needed improvements.
 
-* [Framing checklist](/assets/applications-and-forms/Residential_Inspection_Checklist_Framing.pdf).
-* [Foundation checklist](/assets/applications-and-forms/Residential_Inspection_Checklist_Foundation.pdf).
-* [Layout checklist](/assets/applications-and-forms/Residential_Inspection_Checklist_Layout.pdf).
+* [Framing checklist]({{ site.url }}/assets/applications-and-forms/Residential_Inspection_Checklist_Framing.pdf).
+* [Foundation checklist]({{ site.url }}/assets/applications-and-forms/Residential_Inspection_Checklist_Foundation.pdf).
+* [Layout checklist]({{ site.url }}/assets/applications-and-forms/Residential_Inspection_Checklist_Layout.pdf).
 
 Your inspector is a great source of information and can answer questions about meeting building and safety requirements.
 
