@@ -120,7 +120,7 @@ defaults:
       title: Title of this Diagram
       description: Brief description of this form or document
       date: 2017-06-14
-      for_project: 
+      for_project_named: 
       thumb_path: /assets/img/diagrams/project/plan.png
       file_path: /assets/img/diagrams/project/plan.pdf
     diagram_type:
