@@ -8,7 +8,7 @@ layout: default
       <div class="lead">{{ page.lead_markdown | markdownify }}</div>
     </div>
   </div>
-  {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
+  {% assign plans = site.diagrams | group_by: "for_project" | sort_by: "date" %}
   {% for project in plans %}
   <div class="row center-xs">
     <h2>{{ project.name |  replace: "-", " " | titlecase }}</h2>
