@@ -3,15 +3,16 @@ title: Apply for a Permit in Austin
 step_number: 3
 project_name: general process
 permalink: /projects/general-process/apply/
-
 ---
 
 
-You will need to provide a paper application and some additional documents when you apply for a permit. The documents you need to submit with your application will depend on the type of project you want to build.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can hire a licensed professional to apply for your permit.
 
 ---
 
-## What documents will I need?
+## What documents will I need to submit?
+
+The documents you need to submit with your application depend on the type of project you want to build. You can request a free 20 minute consultation with a reviewer to help you determine what you need to submit.&nbsp;&nbsp;
 
 ### 1. Application
 
@@ -19,9 +20,9 @@ The project’s application or express permit (if one applies to your project) c
 
 ### 2. Site Plan or Plot Plan
 
-Even though they may be mentioned in relation to one another, a site plan and a plot plan are not the same thing. 
+Even though they may be mentioned in relation to one another, a site plan and a plot plan are not the same thing.
 
-* A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property. 
+* A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 
 * A site plan is a drawing that shows what structures will be added to your property, including any changes that will add to the square footage of your home.
 
@@ -43,13 +44,15 @@ The elevation plan of your proposed addition or extension must be drawn to scale
 
 ### 5. Structural Drawings
 
-Structural drawings refer to any bracing, framing or structural verification reports. You will need these drawings if you remove a load-bearing wall or change any structural components. These can only be completed by a licensed Texas engineer or architect.
+Structural drawings refer to any bracing, framing or structural verification reports. You will need these drawings if you remove a load-bearing wall or change any structural components. Structural drawings can only be completed by a licensed Texas engineer or architect.
 
 ### 6. Foundation Plan
 
 Your foundation plan must be drawn by a structural engineer.
 
 ### Other commonly requested documents
+
+Here is a list of commonly requested forms you may need to submit with your application.
 
 * Owner’s Authorization Form: This form is required if one of your hired professionals, such as an engineer or an architect, is submitting your application. They will need your authorization to do so.
 * Certified Tax Certificate or Warranty Deed: You will have to pay any taxes you owe before you are approved for a permit.
@@ -63,13 +66,15 @@ Your foundation plan must be drawn by a structural engineer.
 * Building Service Permit Application (BSPA): Required for building permits, not standalone trade or tree permits.
 * There are other forms or plans you may need, depending on the project specific needs. Those forms and plans can be determined at the consultation.
 
-If you already know what plans you need, you can receive guidance on creating them using these sample plans.
+There may be other forms or plans you may need to submit depending on your project. Those forms and plans can be determined at the consultation.
+
+If you already know what plans you need, you can receive guidance on how to create them using these sample plans.
 
 ---
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at the One Texas Center. You may:
+Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review)&nbsp;located at 505 Barton Springs Rd., 78704. There&nbsp;
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
@@ -77,10 +82,10 @@ Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residen
   * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
   * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
-## What happens at intake?
+## What happens at Residential Plan Review?
 
-During intake, a staff member will meet with you and use a checklist to perform a completeness check.
-
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+A staff member will meet with you and use a checklist to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
+
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
