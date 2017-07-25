@@ -28,7 +28,7 @@ collections:
     title: Glossary
     output: true
     permalink: "resources/:collection/:path"
-  library:
+  forms:
     output: false
   diagrams:
     output: false
@@ -120,7 +120,7 @@ defaults:
       title: Title of this Diagram
       description: Brief description of this form or document
       date: 2017-06-14
-      for_project_named: 
+      for_project_named:
       thumb_path: /assets/img/diagrams/project/plan.png
       file_path: /assets/img/diagrams/project/plan.pdf
     diagram_type:
@@ -129,7 +129,19 @@ defaults:
       - plot-plan
       - exist-demo-plan
       - proposed-floor-plan
-
+- scope:
+    path: ''
+    type: forms
+  values:
+    _comments:
+      title: Resource / Document Title
+      description: Brief description of this form or document
+      document_type: What kind of document is this?
+      file_path: local path to the file itself, i.e. /uploads/form.pdf
+    document_type:
+      - form
+      - application
+      - other
 # for internal / admin / docs pages
 - scope:
     path: '_content/admin'
