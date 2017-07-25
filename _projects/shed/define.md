@@ -4,37 +4,11 @@ step_number: 1
 project_name: shed
 tabs:
   - tab_title: Setbacks
-    tab_content_markdown: >-
-      **What is a setback?**
-      The space between a lot's border and the area where a building can be
-      built. Setbacks typically cannot have anything built on them.
-      If your shed will be less than 15 feet tall, then you must keep 5 feet from
-      both your side and rear property lines clear. You may not build within
-      these spaces. If you shed will be more than 15 feet tall, then you must
-      keep 10 feet from your rear property line clear and 5 feet from your side
-      property line clear, and you may not build within these spaces. There is
-      also a 25 foot setback from your front property line.
-      [Learn more about setbacks](/resources/glossary/setback).
+    tab_content_markdown: "**What is a setback?** The space between a lot's border and the area where a building can be built. Setbacks typically cannot have anything built on them. If your shed will be less than 15 feet tall, then you must keep 5 feet from both your side and rear property lines clear. You may not build within these spaces. If you shed will be more than 15 feet tall, then you must keep 10 feet from your rear property line clear and 5 feet from your side property line clear, and you may not build within these spaces. There is also a 25 foot setback from your front property line. [Learn more about setbacks](/resources/glossary/setback)."
   - tab_title: Easements
-    tab_content_markdown: >-
-      **What is a setback?**
-      The space between a lot's border and the area where a building can be
-      built. Setbacks typically cannot have anything built on them.
-      When there is an easement on your lot and you choose to build on the
-      easement, you run the risk of future fines or possible demolishment of your
-      shed if the city needs to access your easement.
-      [Learn more about easements](/resources/glossary/easement).
+    tab_content_markdown: "**What is a setback?** The space between a lot's border and the area where a building can be built. Setbacks typically cannot have anything built on them. When there is an easement on your lot and you choose to build on the easement, you run the risk of future fines or possible demolishment of your shed if the city needs to access your easement. [Learn more about easements](/resources/glossary/easement)."
   - tab_title: Impervious Cover
-    tab_content_markdown: >-
-      **What is impervious cover?**
-      Rooftops, driveways, parking lots, and other man-made or stone surfaces
-      that keep water from being absorbed into the ground.
-      If you do not live in a floodplain, your impervious cover cannot exceed 45%
-      of your property. If you do live in a floodplain, your impervious cover
-      cannot exceed 10% of your property. Impervious cover restrictions are in
-      place to make sure a significant amount of water is making it back into the
-      soil and to prevent flooding.
-      [Learn more about impervious cover](/resources/glossary/impervious-cover).
+    tab_content_markdown: '**What is impervious cover?** Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground. If you do not live in a floodplain, your impervious cover cannot exceed 45% of your property. If you do live in a floodplain, your impervious cover cannot exceed 10% of your property. Impervious cover restrictions are in place to make sure a significant amount of water is making it back into the soil and to prevent flooding. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
 ---
 
 
@@ -72,6 +46,7 @@ Your shed requires a building permit if it will:
 * Be over 200 square feet (20 feet by 10 feet),
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
+* Be over 15ft tall,
 * Be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/resources/glossary/floodplain)
