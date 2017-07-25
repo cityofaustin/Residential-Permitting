@@ -45,10 +45,6 @@ You don't need an elevation plan for an interior remodel.&nbsp;
 
 You'll need structural drawings if you are removing a load-bearing wall or changing any structural components. Structural drawings refer to any bracing, framing or structural verification reports and should be completed by a licensed Texas engineer or architect.
 
-### 6. Foundation Plan
-
-Your foundation plan must be drawn by a structural engineer.
-
 ### Other commonly requested documents
 
 * **Owner’s Authorization Form**: This form is only required if you are not signing the application. An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
