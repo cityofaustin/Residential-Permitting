@@ -55,11 +55,11 @@ Your shed requires a building permit if it will:
 
 ### Electric permits
 
-Having electricity in your shed requires an electric permit.
+Having electricity in your shed requires an electric permit.&nbsp;
 
+* Make sure to tell your reviewer your shed needs an electric permit and circle it on your application.&nbsp;
 * If you want to run a line of electricity to your shed for a light or outlet, you will need to get a stand-alone electric permit in person from the [Service Center](/resources/contact/#service-center) at One Texas Center.
 * Only a registered electrician can get a permit if the electricity on your shed requires making changes to the main electrical meter.
-* If your shed requires a building permit, the City will automatically include it with your building permit.
 
 ### Tree permits
 
@@ -101,7 +101,7 @@ You can find out which parts of your application may need to be prepared by a li
 
 ### What if I want to hire a contractor?
 
-Contractors are required to get permits for their work. They are responsible for getting any necessary permits as long as they have your written authorization. If you want to hire a contractor, make sure they have a license and can get the project done properly. Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
+Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained. They are responsible for getting any necessary permits as long as they have your written authorization. If you want to hire a contractor, make sure they have a license and can get the project done properly. Check out our [tips for selecting a contractor](http://www.austintexas.gov/page/how-select-contractor).
 
 ---
 
