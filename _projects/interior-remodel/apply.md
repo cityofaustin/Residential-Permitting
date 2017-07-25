@@ -52,7 +52,7 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 * **Austin Water Utility Form**: This form is required if you are adding bathrooms or doing any work that will promote you to the next water meter size. An example of this can be increasing from 3 to 3.5 bathrooms.
 * **Homeowners Authorization Letter**: There is a space for a homeowner’s signature on the application. You can choose to sign there instead of submitting a letter.
 * **S.M.A.R.T. Housing Project Information**: You were probably told if your home was part of the S.M.A.R.T. Housing initiative when you purchased it. If you participate in S.M.A.R.T. housing, you will need to include both a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.&nbsp;
-* **Demolition Application**: This application is only necessary if you change any walls in your home, extend a room past your home's current footprint, or add any windows or doors. If you need a demolition application, you will also need:
+* **Demolition Application**: This application is only necessary if you change any exterior walls in your home, extend a room past your home's current footprint, or add any windows or doors. If you need a demolition application, you will also need:
   * A survey or plot plan that is signed by the owner and notarized (you can use the same plot plan as your interior remodel or new addition application).
   * Pictures of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 
