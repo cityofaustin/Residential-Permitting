@@ -42,12 +42,13 @@ Whether your project needs a permit or not, there are still zoning regulations y
 
 Your shed requires a building permit if it will:
 
-* Be over 1 story,
+* Be over one story,
 * Be over 200 square feet (20 feet by 10 feet),
 * Have plumbing,
 * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
 * Be over 15ft tall,
-* Be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
+* Be attached to your house,
+* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/resources/glossary/floodplain)
 >
