@@ -27,11 +27,9 @@ The plot plan must be drawn to scale by hand or on a computer. It can be prepare
 
 {% include diagram.html diagram="plot-plan" %}
 
-### 3. Floor plan or Structural Verification Report
+### 3. Floor plan
 
 The floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale.
-
-For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a floor plan.
 
 {% include diagram.html diagram="floor-plan" %}
 
@@ -41,9 +39,11 @@ The elevation plan must be drawn to scale either by hand or on a computer. The e
 
 {% include diagram.html diagram="elevation" %}
 
-### 5. Foundation plan
+### 5. Foundation plan or Structural Verification Report
 
 The foundation plan can only be drawn by a structural engineer. A foundation plan is required for all custom-built sheds. A foundation plan is also required for any foundations that require digging into the ground (excavating) or building a level surface (grading), such as a pier and beam foundation or a slab foundation. You will need a foundation plan if you put a prefabricated shed on a slab foundation.
+
+For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a foundation plan.
 
 ### 6. BSPA form
 
