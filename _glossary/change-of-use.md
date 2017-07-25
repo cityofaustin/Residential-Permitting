@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.5
 ---
 
 
-When used in reference to land use, means the replacement of an existing use with a new use, or a change in the nature of an existing use. A change of ownership, tenancy, name, or management, or a change in product or service within the same use classification where the previous nature of the use, line of business, or other function is substantially unchanged is not a change of use.
+Changing a structure's existing use to a different use.&nbsp;
