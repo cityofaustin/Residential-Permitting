@@ -11,12 +11,11 @@ hours:
       <br>Monday, Wednesday, & Friday, 8:00am to 12:00pm
   - time_period_markdown: |-
       *Intake (Application Submittal)*
-      <br>Monday & Friday, 8:00am to 12:00pm
+      <br>Monday, Wednesday, & Friday, 8:00am to 12:00pm
 physical_address_markdown: |-
   One Texas Center, 2nd floor
   <br>505 Barton Springs Road
   <br>​Austin, TX 78704
 _hide_content: true
 logo_path: /assets/img/department-logos/logo-dsd.png
-
 ---
