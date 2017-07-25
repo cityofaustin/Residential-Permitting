@@ -48,8 +48,7 @@ Examples of projects that qualify for an interior remodel permit include:
 * Kitchen remodels,
 * Bathroom remodels,
   * Removing more drywall than what surrounds the bathtub or shower in bathrooms,
-* Adding a window or door where one did not originally exist,
-* Or making a window bigger.
+* Or adding a window or door where one did not originally exist.
 
 Your interior remodel may need a demolition permit, especially if you will move or change an interior wall, or change a window's shape. Extra considerations are taken if you make a change to your home's load-bearing walls or supports.
 
