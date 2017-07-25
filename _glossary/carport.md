@@ -7,4 +7,4 @@ source_name: CodeNext 2M-1 p.5
 ---
 
 
-A roofed space used as shelter for a parked vehicle.
+A roofed space used as shelter for a parked vehicle that's open on two sides or more.
