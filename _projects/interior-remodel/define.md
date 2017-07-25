@@ -50,11 +50,11 @@ Examples of projects that qualify for an interior remodel permit include:
   * Removing more drywall than what surrounds the bathtub or shower in bathrooms,
 * Or adding a window or door where one did not originally exist.
 
-Your interior remodel may need a demolition permit, especially if you will move or change an interior wall, or change a window's shape. Extra considerations are taken if you make a change to your home's load-bearing walls or supports.
+Your interior remodel may need a demolition permit, especially if you will move or change an exterior wall, or change a window's shape. Extra considerations are taken if you make a change to your home's load-bearing walls or supports.
 
 ### New addition permits
 
-While you may think your project is a remodel, the City of Austin may considered it as a new addition.
+While you may think your project is a remodel, the City of Austin may consider it as a new addition.
 
 A new addition permit is required if you change your home's footprint by expanding a room, or if you convert a garage into a living or sleeping space. Other examples include:
 
