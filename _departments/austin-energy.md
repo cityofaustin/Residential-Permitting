@@ -1,7 +1,7 @@
 ---
 title: Austin Energy
 department_name: Austin Energy
-department_link: 'https://austinenergy.com/wps/portal/ae/about/!ut/p/a1/jc_LDoIwEAXQb2HBlk55GHRXq_LQSOICsRuDpgIGCikF4t-LJu4kOrtJzs2dQQwliIm0L7JUFbVIy9fOZmfsOzZeAg7dDZ4D8fd2fKCB5WE8gtMIYGII_MofEXsTMF3Tp2AG0TpaQRBHMYm2FDxqfcB0RfjHkURcLDdDTPIbl1wanRyfy5Vq2oUOOgzDYKRdqwrBBZfZw7jWlQ7fgnndKpR886ipErg7Zb8jmvYEbArj_A!!/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzAyODJIQzAySUc3MjgwQUdDQks1Vk4xUTA0/'
+department_link: 'https://austinenergy.com/wps/portal/ae/about/'
 description: 'Austin Energy is the nation’s 8th largest publicly owned electric utility, serving more than 1 million residents in Greater Austin.'
 phone: 512-494-9400
 email_address: customercare@coautilities.com
