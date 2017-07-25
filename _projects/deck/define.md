@@ -8,7 +8,7 @@ tabs:
   - tab_title: Easements
     tab_content_markdown: "**What is an easement?** An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on any easements on your property. The city will need to access any easements on your lot. You may be fined or asked to demolish your deck if you choose to build it on an easement. [Learn more about easements](/resources/glossary/easement)."
   - tab_title: Impervious Cover
-    tab_content_markdown: '**What is imperious cover?** Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground. Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you change your deck design if you max out your impervious cover. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
+    tab_content_markdown: '**What is imperious cover?** Rooftops, driveways, parking lots, and other man-made or stone surfaces that keep water from being absorbed into the ground. Impervious cover restrictions are put in place to prevent flooding during and after heavy rains. If your deck is uncovered, has spaces between the planks, and is located over a permeable surface like grass, then only half of the deck’s surface area will affect the total amount of impervious cover on your property. If you are covering your deck or there won’t be spaces between the planks, then 100% of the deck’s surface area will count towards the amount of impervious cover on your property. A reviewer can help you come up with options if you have or are close to maxing out impervious cover. [Learn more about impervious cover](/resources/glossary/impervious-cover).'
 ---
 
 
@@ -41,7 +41,7 @@ Whether your project needs a permit or not, there are still zoning regulations y
 Your deck requires a building permit if it will:
 
 * Be attached to your home,
-* Services a door, 
+* Services a door,
 * Be over 200 square feet (larger than 20 feet x 10 feet),
 * Be more than 30 inches above ground,
 * Have plumbing,
@@ -56,7 +56,7 @@ Your deck requires a building permit if it will:
 
 Having electricity on your deck requires getting an electric permit.
 
-* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/resources/contact/#service-contact) at One Texas Center.
+* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the [Service Center](/resources/contact/#service-contact) at One Texas Center.
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
 * If your deck requires a building permit, the City will automatically include the electric permit with your building permit.
 
