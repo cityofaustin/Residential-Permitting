@@ -8,9 +8,9 @@ permalink: /projects/general-process/define/
 
 The first step towards bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city's code. Before applying for a permits, it’s important to:
 
-* define and describe your project,
-* find out if you need permits and what they are, and
-* collect the right information for your consultation and application.
+* Define and describe your project,
+* Find out if you need permits and what they are, &nbsp;
+* And collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
 
