@@ -6,9 +6,11 @@ permalink: /projects/general-process/consult/
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.&nbsp;
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
+
+For more specific issues regarding your project, consider scheduling a paid consultation.&nbsp;
 
 ---
 
