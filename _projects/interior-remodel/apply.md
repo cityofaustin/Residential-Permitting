@@ -48,7 +48,7 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 ### Other commonly requested documents
 
 * **Owner’s Authorization Form**: This form is only required if you are not signing the application. An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
-* **Certified Tax Certificate or Warranty Deed**: You need to pay any taxes you owe before your permit is approved.
+* **Certified Tax Certificate or Warranty Deed**: This form serves as proof of ownership of the property being work on.
 * **Austin Water Utility Form**: This form is required if you are adding bathrooms or doing any work that will promote you to the next water meter size. An example of this can be increasing from 3 to 3.5 bathrooms.
 * **Homeowners Authorization Letter**: There is a space for a homeowner’s signature on the application. You can choose to sign there instead of submitting a letter.
 * **S.M.A.R.T. Housing Project Information**: You were probably told if your home was part of the S.M.A.R.T. Housing initiative when you purchased it. If you participate in S.M.A.R.T. housing, you will need to include both a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.&nbsp;
