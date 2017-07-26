@@ -72,6 +72,9 @@
     padding: rem(40px) 10% rem(20px);
     margin: 0 auto 6rem;
     max-width: 200px;
+    @media #{$sm-viewport} { padding-bottom: 1.8rem; }
+    @media #{$md-viewport} { padding-bottom: 3rem; }
+    @media #{$lg-viewport} { padding-bottom: 2rem; }
     &:before,
     &:after {
       content: "";
