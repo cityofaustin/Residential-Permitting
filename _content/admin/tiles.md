@@ -39,7 +39,7 @@ sitemap: false
     </div>
   </div>
   <div class="row center-xs">
-  {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
+  {% assign plans = site.diagrams | group_by: "for_project_named" | sort_by: "date" %}
   {% for project in plans limit:1 %}
     {% for plan in project.items %}
       {% include tiles-plans.html tile=plan %}

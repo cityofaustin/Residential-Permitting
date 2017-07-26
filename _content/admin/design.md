@@ -275,7 +275,7 @@ Tiles are visual links to content. Different types of content have different til
     <h3>Diagram tiles</h3>
   </div>
   <div class="row center-xs">
-  {% assign plans = site.diagrams | group_by: "project" | sort_by: "date" %}
+  {% assign plans = site.diagrams | group_by: "for_project_named" | sort_by: "date" %}
   {% for project in plans limit:1 %}
     {% for plan in project.items limit:3 %}
       {% include tiles-plans.html tile=plan %}
