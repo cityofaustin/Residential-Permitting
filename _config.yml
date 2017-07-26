@@ -20,7 +20,7 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: "projects/:path/"
+    permalink: ":collection/:path/"
   departments:
     title: Departments
     output: false
@@ -29,7 +29,8 @@ collections:
     output: true
     permalink: "resources/:collection/:path"
   forms:
-    output: false
+    output: true
+    permalink: "resources/applications-and-forms/:path"
   diagrams:
     output: false
 
@@ -133,6 +134,7 @@ defaults:
     path: ''
     type: forms
   values:
+    layout: page
     _comments:
       title: Resource / Document Title
       description: Brief description of this form or document

@@ -5,3 +5,4 @@ document_type: form
 file_path: /assets/applications-and-forms/ivr-agent-authorization.pdf
 
 ---
+Permission to schedule inspections.

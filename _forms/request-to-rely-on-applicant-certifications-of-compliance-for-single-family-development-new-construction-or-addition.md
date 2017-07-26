@@ -6,3 +6,4 @@ document_type: form
 file_path: /assets/applications-and-forms/Certificate_of_Compliance.pdf
 
 ---
+Proof of Compliance for new construction or addition. - Single Family Development
