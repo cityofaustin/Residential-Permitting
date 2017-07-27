@@ -97,8 +97,6 @@ You may also be unable to get a permit if you have already reached the maximum a
 
 ## &nbsp;
 
-## &nbsp;
-
 ## You may need a consultation to determine your shed requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
