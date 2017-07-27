@@ -87,15 +87,11 @@ If any of your trees measure 19 inches or more in diameter, they are protected a
 
 You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
 
-## &nbsp;
-
 ### Make sure you can get a permit
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
 
 You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design.
-
-## &nbsp;
 
 ## You may need a consultation to determine your shed requirements
 
