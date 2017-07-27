@@ -6,7 +6,7 @@ permalink: /projects/general-process/define/
 ---
 
 
-The first step towards bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city's code. Before applying for a permits, it’s important to:
+The most important step towards bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * Define and describe your project,
 * Find out if you need permits and what they are, &nbsp;
@@ -22,7 +22,7 @@ Whether you change the layout of your home or add square footage, most home impr
 
 ---
 
-## Do I need a permit?
+## Zoning requirements
 
 Whether or not you need a permit, you still need to follow a few zoning regulations to make sure your project doesn’t have future code issues. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
 
@@ -33,6 +33,8 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 * [Impervious Cover](/resources/glossary/impervious-cover)
 * [Floodplains](/resources/glossary/floodplain)
 * And historic reviews for homes over 40 years old.
+
+## Do I need a permit?
 
 ### Make sure you can get a permit
 
@@ -56,7 +58,7 @@ Building permits are issued when you plan to construct, enlarge, demolish, impro
 
 ### Trade permits
 
-Trade permits are required if your project &nbsp;includes changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed for this type of specialized work.
+Trade permits are required if your project &nbsp;includes changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed for this type of specialized work and can only be obtained by licensed professionals.
 
 You need a trade permit if your project includes:
 
@@ -65,7 +67,7 @@ You need a trade permit if your project includes:
 * Moving or adding a plumbing utility,
 * Or installing a new hot water heater.
 
-Your contractor is responsible for getting the required permits if you are installing or replacing a hot water heater.
+Your contractor is responsible for getting the required permits if you are installing or replacing a hot water heater. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained.
 
 ### Tree permits
 
@@ -97,11 +99,11 @@ You can apply for an express permit if you are making small changes to your home
 
 ## Come in for a free 20 minute consultation with a reviewer
 
-It’s possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a &nbsp;permit. During this consultation, the reviewer will:
+It’s possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for their permits. During this consultation, the reviewer will:
 
-* Give you the personalized property information you need to fill out your application.
 * Let you know if you can complete your project as you originally planned.
-* Give you a list of documents you need to prepare for your application based on your specific project.
-* Explain the next steps needed to apply for a permit.
+* Give you the personalized property information you need to fill out your building permit application.
+* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
+* Explain any next steps needed for you to correctly permit your project.
 
 You may need to hire a licensed professional to help you complete your project.&nbsp;
