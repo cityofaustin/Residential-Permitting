@@ -5,9 +5,7 @@ project_name: shed
 ---
 
 
-You will need to provide both the paper application and some additional documents when you apply for a permit. The documents you need to submit with your application will depend on the type of project you want to build.
-
-Anyone applying for a permit can meet with one of our reviewers for a free 20 minute in-person consultation. During the consultation, the reviewer will tell you which additional documents you need for your project. You will not be able submit your application to the reviewer at your consultation.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also hire a professional to apply for your permit.
 
 ---
 
