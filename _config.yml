@@ -197,10 +197,8 @@ algolia:
     - _content/seo-sitemap.md
     - _content/admin
     - 404.md
-  disableTypoToleranceOnWords:
-    - "shed"
-    - "deck"
-    - "DAC"
+  settings:
+    disableTypoToleranceOnWords: ['shed','deck','DAC']
 
 
 # We specify the directory for Jekyll so we can use @imports.
