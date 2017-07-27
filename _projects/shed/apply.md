@@ -9,6 +9,8 @@ You need to provide a paper application and some additional documents when you a
 
 ---
 
+---
+
 ## What documents will I need?
 
 All shed building permit applications require:
