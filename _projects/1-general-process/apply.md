@@ -18,6 +18,8 @@ Once you apply, you will be moved into the Review process. Reviewers will either
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
+---
+
 ## What documents will I need to submit?
 
 The documents you need to submit with your application depend on the type of project you want to build. You can request a free 20 minute consultation with a reviewer to help you determine what you need to submit.&nbsp;&nbsp;
