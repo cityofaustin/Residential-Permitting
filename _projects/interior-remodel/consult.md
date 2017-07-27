@@ -5,17 +5,15 @@ project_name: interior remodel
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at One Texas Center.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.
 
-To make the most of your free 20 minute in-person consultation with your reviewer, we suggest preparing some information about your property and project ahead of time. This information allows the reviewer to tell you what permits you'll need to finish your project. Sharing information with your reviewer before you apply for a permit will save time.
-
-Remember that you can't officially submit your permit application to the reviewer during the consultation. Having a consultation saves time and helps make the permitting process easier.
+Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
 
 ---
 
-## What do I need to bring?
+## How can I prepare for my consultation?
 
-### 1. Collect the following information:
+### 1. Be prepared to answer the following questions about your project:
 
 * Are you moving any interior walls?
 * Are you adding to or removing any square footage from your home?
@@ -57,9 +55,11 @@ Sketches give reviewers a clear picture of your project and help them determine 
 * Any walls you will tear down
 
 #### Sketch 1
+
 What your interior currently looks like, including any windows and doors.
 
-#### Sketch 2: 
+#### Sketch 2:
+
 What your remodel project will look like when it's completed.
 
 Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. It’s very important that you label any load-bearing walls or beams.
