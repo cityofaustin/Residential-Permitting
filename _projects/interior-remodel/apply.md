@@ -17,6 +17,8 @@ Once you apply, you will be moved into the Review process. Reviewers will either
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
+---
+
 ## What documents will I need to submit?
 
 ### 1. Application
