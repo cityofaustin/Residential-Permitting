@@ -13,6 +13,8 @@ Reviewers provide free 20 minute in-person consultations for residents who want 
 
 ## How can I prepare for my consultation?
 
+We suggest preparing some information about your shed ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
+
 ### 1. Be prepared to answer these questions about your project:
 
 * What's the address where the shed will be built?
