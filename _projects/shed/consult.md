@@ -25,8 +25,6 @@ Reviewers provide free 20 minute in-person consultations for residents who want 
   * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
   * Have electricity.
 
-### &nbsp;
-
 ### 2. If possible, bring your property survey.
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/resources/glossary/setback), [easements](/resources/glossary/easement), and [impervious cover](/resources/glossary/impervious-cover).
