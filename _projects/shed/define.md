@@ -93,6 +93,8 @@ You may not be able to get a new permit right away if your property currently ha
 
 You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design.
 
+---
+
 ## You may need a consultation to determine your shed requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
