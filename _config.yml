@@ -39,7 +39,7 @@ defaults:
     path: ''
   values:
     layout: 'page'
-
+    algolia_category: Article
 # for js, which is concatenating via jekyll
 - scope:
     path: 'assets'
@@ -55,6 +55,7 @@ defaults:
     # sets up multiselect related terms for cloudcannon editor
     collections:
       - glossary
+    algolia_category: Term
     _comments:
       term: lowercase with spaces
       short_definition: (required)
@@ -83,6 +84,7 @@ defaults:
     in_projects_menu: false
     menu_sort_order: 10
     use_default_project_content: false
+    algolia_category: Project
     _comments:
       project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
       step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
@@ -93,6 +95,7 @@ defaults:
     type: 'content'
   values:
     layout: 'page'
+    algolia_category: Resource
     _comments:
 
 # for department listings
@@ -102,6 +105,7 @@ defaults:
   values:
     _hide_content: true
     featured: false
+    algolia_category: Department
     _comments:
       department_name: The department's official name
       department_link: The url to the department page on AustinTexas.gov or to their own site
@@ -117,6 +121,7 @@ defaults:
     path: ''
     type: diagrams
   values:
+    algolia_category: Diagram
     _comments:
       title: Title of this Diagram
       description: Brief description of this form or document
@@ -135,6 +140,7 @@ defaults:
     type: forms
   values:
     layout: page
+    algolia_category: Form
     _comments:
       title: Resource / Document Title
       description: Brief description of this form or document
@@ -189,7 +195,8 @@ algolia:
   read_api_key: '0233ba62bf734aa53ee27a2081cc1c0c'
   excluded_files:
     - _content/seo-sitemap.md
-    - _content/admin
+    - _content/admin/*
+
 
 # We specify the directory for Jekyll so we can use @imports.
 sass:
