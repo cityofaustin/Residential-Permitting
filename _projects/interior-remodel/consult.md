@@ -69,7 +69,7 @@ Make sure you label smoke and carbon monoxide detectors and any walls that will 
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Rd., 78704.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Road., 78704.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
