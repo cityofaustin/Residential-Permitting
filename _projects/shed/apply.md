@@ -15,8 +15,6 @@ A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet 
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
-## &nbsp;
-
 ---
 
 ## What documents will I need?
@@ -37,13 +35,19 @@ The plot plan must be drawn to scale by hand or on a computer. It can be prepare
 
 ### 3. Floor plan
 
-The floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale.
+The shed’s floor plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If possible, use graph paper to make drawing to scale easy for you. We highly suggest you draw your floor plan on 3 pages for clarity. If the reviewers can’t understand your drawings, your project will be rejected.
+
+Use a separate page for each of the following items:
+
+* Existing walls and features to be demolished,
+* Existing walls and features that will remain,
+* Your proposed floor plan.
 
 {% include diagram.html diagram="floor-plan" %}
 
 ### 4. Elevation plan
 
-The elevation plan must be drawn to scale either by hand or on a computer. The elevation plan can be prepared by you or a licensed professional. For prefabricated sheds, plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of an elevation plan.
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See examples.
 
 {% include diagram.html diagram="elevation" %}
 
@@ -60,24 +64,19 @@ When applying for a shed building permit, a signed [BSPA Form]({{ site.url }}/as
 ### Other commonly required documents
 
 * [**Owner’s Authorization Form**]({{ site.url }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
-* **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need a wind bracing and framing plan that's drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer. If you choose to draw this plan yourself, you will need to have a structural engineer complete a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf).
+* **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need wind bracing and framing plans that are drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer.
 
 ---
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at the One Texas Center. You may:
+Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Rd., 78704. There are two ways to submit your application.&nbsp;
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
-  * Fill out your name and phone number on the website and select Residential-Permit Application Submittals.
-  * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
-  * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
-### What happens at intake?
-
-During intake, a staff member will meet with you and use a checklist to perform a completeness check.
+Read more about signing up on QLess.
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
-Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
+### &nbsp;
