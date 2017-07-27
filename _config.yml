@@ -84,7 +84,7 @@ defaults:
     in_projects_menu: false
     menu_sort_order: 10
     use_default_project_content: false
-    algolia_category: Project
+    algolia_category: Project Steps for
     _comments:
       project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
       step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
