@@ -6,7 +6,7 @@ permalink: /projects/general-process/consult/
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.&nbsp;
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Road, 78704.&nbsp;
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
 
@@ -15,6 +15,8 @@ For more specific issues regarding your project, consider scheduling a paid cons
 ---
 
 ## How can I prepare for my consultation?
+
+We suggest preparing some information about your property and project ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
 
 ### 1. Be prepared to answer the following questions about your project:
 
@@ -35,10 +37,10 @@ The project scoping worksheet can help you collect this information. You can als
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
 
-* Sketch 1: The current layout of your property including any existing structures such as your house, pool, or driveway,
-* Sketch 2: The layout of the structure you may be changing, adding, or removing.
+* The current layout of your property including any existing structures such as your house, pool, or driveway,
+* The layout of the structure you may be changing, adding, or removing.
 
-It’s very important that you label any load-bearing walls or beams.
+Do your best to label any load-bearing walls or beams.
 
 See examples of project sketches:
 
@@ -64,16 +66,16 @@ You can find a surveyor through the [Texas Board of Professional Land Surveying]
 
 ---
 
-## How can I get a free in-person consultation?
+## How do I sign up for a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Rd., 78704.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Road, 78704.
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
 * Sign up in person at the QLess Kiosk at the [Residential Plan Review](/resources/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about how to sign up for a free 20 minute consultation on the QLess website.
+Read more about how to sign up on the QLess website.
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 

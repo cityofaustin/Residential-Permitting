@@ -10,6 +10,16 @@ You need to provide a paper application and some additional documents when you a
 
 ---
 
+## What happens at Residential Plan Review?
+
+A staff member will meet with you and use a checklist to perform a completeness check.
+
+Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
+
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+
+---
+
 ## What documents will I need to submit?
 
 The documents you need to submit with your application depend on the type of project you want to build. You can request a free 20 minute consultation with a reviewer to help you determine what you need to submit.&nbsp;&nbsp;
@@ -18,15 +28,13 @@ The documents you need to submit with your application depend on the type of pro
 
 The project’s application or express permit (if one applies to your project) can be filled out by you or a hired professional.
 
-### 2. Site Plan or Plot Plan
+### 2. Plot Plan
 
 Even though they may be mentioned in relation to one another, a site plan and a plot plan are not the same thing.
 
 * A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 
-* A site plan is a drawing that shows what structures will be added to your property, including any changes that will add to the square footage of your home.
-
-Your site plan or plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include any power lines that run above your property. See samples of a plot plan and instructions for drawing a site plan.
+Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include any power lines that run above your property. See samples of a plot plan and instructions for drawing a site plan.
 
 ### 3. Floor Plan
 
@@ -40,7 +48,7 @@ Use a separate page for:
 
 ### 4. Elevation Plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See Examples
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See examples.
 
 ### 5. Structural Drawings
 
@@ -74,18 +82,11 @@ If you already know what plans you need, you can receive guidance on how to crea
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review)&nbsp;located at 505 Barton Springs Rd., 78704. There&nbsp;
+Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review)&nbsp;located at 505 Barton Springs Road, 78704. There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
-  * Fill out your name and phone number on the website and select Residential-Permit Application Submittals.
-  * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
-  * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
 
-## What happens at Residential Plan Review?
+Read more about signing up on QLess.
 
-A staff member will meet with you and use a checklist to perform a completeness check.
-
-Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
-
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+## &nbsp;
