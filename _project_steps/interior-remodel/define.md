@@ -72,7 +72,7 @@ If this sounds like your project, [schedule a consultation](/projects/interior-r
 
 ### Trade permits
 
-You will need trade permits if your project involves changes to electrical wiring, plumbing, or your home's heating and cooling system. Trade permits are required for this type of specialized work.
+Trade permits are required if your project includes changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed for this type of specialized work and can only be obtained by licensed contractors.
 
 You will need a trade permit if your project includes:
 
