@@ -6,7 +6,7 @@ permalink: /projects/general-process/define/
 ---
 
 
-The most important step towards bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
+The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * Define and describe your project,
 * Find out if you need permits and what they are, &nbsp;
@@ -18,13 +18,13 @@ Reviewers are also available to help you during free and paid consultations.
 
 ## Why does the city require permits?
 
-Whether you change the layout of your home or add square footage, most home improvement projects require a permits from the city. Permits are needed to make sure any changes or additions are structurally sound, safe, and follow zoning regulations.
+Whether you change the layout of your home or add square footage, most home improvement projects require permits from the city. Permits are needed to make sure any changes or additions are structurally sound, safe, and follow zoning regulations.
 
 ---
 
 ## Zoning requirements
 
-Whether or not you need a permit, you still need to follow a few zoning regulations to make sure your project doesn’t have future code issues. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
+Every project requires you to follow zoning regulations to make sure it doesn’t have future code issues. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
 
 ### The most common zoning regulations apply to:
 
@@ -36,29 +36,25 @@ Whether or not you need a permit, you still need to follow a few zoning regulati
 
 ## Do I need a permit?
 
-### Make sure you can get a permit
+The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
 
-You may not be able to get a new permit right away if your property currently has an open or expired permit. You may also be unable to get a permit if you’ve already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your materials or design and find out if you can get a permit (hyperlink to Can I get a permit page).
-
----
+### &nbsp;
 
 ## Common types of permits
 
-The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
+### Building Permits
 
-### How much do building permits cost?
+Building permits are issued when you plan to construct, enlarge, demolish, improve, move, or repair a structure within the City’s zoning area. Many major home improvement projects require a building permit unless the changes are cosmetic and don't affect the original construction of your home.
 
-Building permit costs start at $200 and increase depending on your project’s specific needs. Plan review, the permit itself, your inspections, and fees are included in the cost.
+#### How much do building permits cost?
+
+Building permits start at $200 and increase depending on your project’s specific needs. Plan review, the permit itself, your inspections, and fees are included in the cost.
 
 Additional charges are required if your project needs trade permits, if you are building near a tree, or if your home is in a historic neighborhood. Your reviewer can explain those costs during your in-person consultation.
 
-### Building Permits
-
-Building permits are issued when you plan to construct, enlarge, demolish, improve, move, or repair a structure within the City’s zoning area. Many major home improvement projects require a building permit unless the changes are cosmetic and do not affect the original construction of your home.
-
 ### Trade permits
 
-Trade permits are required if your project &nbsp;includes changes to electrical wiring, plumbing, or heating and cooling. Trade permits are needed for this type of specialized work and can only be obtained by licensed professionals.
+Trade permits are required if your project requires specialized work like changes to electrical wiring, plumbing, or heating and cooling. Trade permits can only be obtained by licensed professionals.
 
 You need a trade permit if your project includes:
 
@@ -85,15 +81,15 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 ### Demolition permits
 
-Demolition permits are necessary if you change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you apply for a demolition permit, you will need:
+Demolition permits are necessary if you change walls in your home, extend a room past your home’s current footprint, or add windows or doors. If you apply for a demolition permit, you will need:
 
-* A survey or plot plan (you can use the same one used for your interior remodel or new addition application).
-* To have it signed by the owner and notarized.
-* Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
+* A survey or plot plan (you can use the same one used for your interior remodel or new addition application),
+* To have it signed by the owner and notarized,
+* And photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 
 ### Express permits
 
-You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Applying for an express permit will help make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits).
+You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Express permits helps make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits).
 
 ---
 
@@ -107,3 +103,7 @@ It’s possible to prepare your permit application without consulting with a rev
 * Explain any next steps needed for you to correctly permit your project.
 
 You may need to hire a licensed professional to help you complete your project.&nbsp;
+
+### Make sure you can get a permit
+
+You may not be able to get a new permit right away if your property currently has an expired permit. You may also not be able to get a permit if you’ve already reached the maximum amount of impervious coverage allowed on your property. If this happens, reconsider your materials or design and come in for a consultation to find out if you can get a permit (hyperlink to Can I get a permit page).
