@@ -15,8 +15,8 @@ tabs:
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your deck or apply for permits, it’s important to:
 
 * Define and describe your project,
-* find out if you need &nbsp;permits (hyperlink to projects that don’t require a permit) and what they are,
-* collect the right information for your consultation and application.
+* Find out if you need &nbsp;permits (hyperlink to projects that don’t require a permit) and what they are,
+* And collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -32,7 +32,7 @@ A deck is a platform-like structure without walls, often made of planks, that no
 
 ## Zoning requirements
 
-Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
+Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
 
 ![]({{ site.url }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
@@ -41,6 +41,8 @@ Whether your project needs a permit or not, there are still zoning regulations y
 ---
 
 ## Do I need a permit?
+
+The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
 
 ### Building permits
 
@@ -86,7 +88,7 @@ Learn more about [protected trees and their construction requirements](/resident
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an [open or expired permit](/residential-toolkit/can-i-get-a-permit/). You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your deck materials or design.
+You may not be able to get a new permit right away if your property currently has an [expired permit](/residential-toolkit/can-i-get-a-permit/). You may also not be able to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your deck materials or design and come in for a consultation to find out if you can get a permit.
 
 ---
 
