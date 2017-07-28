@@ -4,7 +4,7 @@
 	</a>
 	<div class="in-page-nav container-fluid center-xs">
 		<div class="row center-xs">
-		{% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
+		{% assign general_project = site[projects_collection] | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
 		{% for project_steps in general_project.project_steps_list %}
 			{% assign project_step = general_project.project_steps_list[forloop.index0].step_name %}
 			{% if forloop.first %}

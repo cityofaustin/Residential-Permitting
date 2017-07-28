@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% capture all_projects %}{{ page.collection }}{% endcapture %}
+{% capture projects_collection %}{{ page.collection }}{% endcapture %}
 
-{% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
+{% assign this_project = site[projects_collection] | where: 'project_name', page.project_name | sort: 'step_number' %}
 
-{% assign general_project = site[all_projects] | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
+{% assign general_project = site[projects_collection] | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
 
 {% include project-header.html %}
 
@@ -71,7 +71,8 @@ layout: default
           </h2>
         </div>
         {% if page.use_default_project_content or content.size <= 1 %}
-          {{ general_project.content }}
+          {% assign general_project_this_step = site[projects_collection] | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
+          {{ general_project_this_step.content }}
         {% else %}
           {{ content }} <span></span>
         {% endif %}
