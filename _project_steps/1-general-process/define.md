@@ -96,7 +96,7 @@ You can apply for an express permit if you are making small changes to your home
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
+You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](http://austintexas.gov/page/austin-build-and-connect-abc) to check for expired permits.
 
 You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
 
