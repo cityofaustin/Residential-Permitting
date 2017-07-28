@@ -2,7 +2,7 @@
 title: "Projects that don't require a permit"
 lead_markdown:
 in_resources_menu: false
-in_toolkit_menu: false
+in_toolkit_menu: true
 _hide_content: false
 ---
 
