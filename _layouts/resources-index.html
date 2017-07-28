@@ -13,7 +13,7 @@ layout: default
 </div>
 <section class="container container-fluid page-section">
   <div class="row center-xs">
-  {% for resource in resource_pages limit:4 %}
+  {% for resource in resource_pages %}
     {% include tiles-resources.html tile=resource tile_width="3" %}
   {% endfor %}
   </div>
