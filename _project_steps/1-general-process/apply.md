@@ -6,7 +6,7 @@ permalink: /projects/general-process/apply/
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can hire a licensed professional to apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can hire a licensed professional to help you apply for your permit.
 
 ---
 
@@ -82,7 +82,7 @@ If you already know what plans you need, you can receive guidance on how to crea
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review)&nbsp;located at 505 Barton Springs Road, 78704. There are two ways to submit your application.
+Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
