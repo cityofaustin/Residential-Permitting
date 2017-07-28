@@ -7,7 +7,7 @@ permalink: /projects/general-process/apply/
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can hire a licensed professional to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
