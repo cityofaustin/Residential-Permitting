@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Residential New Condominium Permit Application
 description:  Permit application for a new condo.
 document_type: application

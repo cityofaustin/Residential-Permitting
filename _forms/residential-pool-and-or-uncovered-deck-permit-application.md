@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Residential Pool and/or Uncovered Deck Permit Application
 description: Use this form if the property will have a pool and/or an uncovered deck.
 document_type: application

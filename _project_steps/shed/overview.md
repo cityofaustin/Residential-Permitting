@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Shed Permit Overview
 excerpt: 'A simple, enclosed structure that is physically detached from your house and will be used for storage'
 project_name: shed

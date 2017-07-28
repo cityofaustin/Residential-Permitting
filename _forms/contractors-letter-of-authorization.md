@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Contractor's Letter of Authorization
 description: Permission to purchase permits with General Contractor’s license and escrow account.
 document_type: form

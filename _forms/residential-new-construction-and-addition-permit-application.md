@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Residential New Construction and Addition Permit Application
 description: Permit application for a new residential building or addition.
 document_type: application

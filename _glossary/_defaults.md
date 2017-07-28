@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Term Definition
 term: term
 short_definition: ""

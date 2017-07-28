@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Building near a tree
 in_toolkit_menu: true
 lead_markdown: This is a lead

@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Sample Plans
 layout: sample-plans-index
 in_resources_menu: true

@@ -1,5 +1,6 @@
 ---
 term: property survey
+seo_title: 
 title: Property Survey
 short_definition: The exact amount of land that belongs to a property owner. Property surveys are measured by surveyors and include the amount of land within property lines.
 ---

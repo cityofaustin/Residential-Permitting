@@ -1,5 +1,6 @@
 ---
 term: "floodplain"
+seo_title: 
 title: "Floodplain"
 
 short_definition: "The area of low land near a creek or lake that floods after rain or when water overflows."

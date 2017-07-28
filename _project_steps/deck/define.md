@@ -1,5 +1,6 @@
 ---
-title: 'Define your Deck Project in Austin, Texas'
+seo_title: 'Define your Deck Project in Austin, Texas'
+title: Deck > 1. Define
 step_number: 1
 project_name: deck
 tabs:

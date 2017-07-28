@@ -1,5 +1,6 @@
 ---
-title: Define your Project in Austin
+seo_title: Define your Project in Austin
+title: General > 1. Define
 step_number: 1
 project_name: general process
 permalink: /projects/general-process/define/
@@ -109,5 +110,3 @@ It’s possible to prepare your permit application without consulting with a rev
 * Explain any next steps needed for you to correctly permit your project.
 
 You may need to hire a licensed professional to help you complete your project.&nbsp;
-
-### &nbsp;

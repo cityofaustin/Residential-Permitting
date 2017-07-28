@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Structural Verification Report
 description: Structural Checklist and Report
 document_type: form

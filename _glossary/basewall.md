@@ -1,5 +1,6 @@
 ---
 term: basewall
+seo_title: 
 title: Basewall
 short_definition: 'A vertical wall that starts at ground level and goes up to the edge of molding or other boundaries. Basewalls separate the first level from the top of a building. '
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

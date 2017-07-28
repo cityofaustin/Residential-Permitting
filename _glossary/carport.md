@@ -1,5 +1,6 @@
 ---
 term: carport
+seo_title: 
 title: Carport
 short_definition: A shelter for cars made from a roof and supporting posts. Carports are typically located next to a home.
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

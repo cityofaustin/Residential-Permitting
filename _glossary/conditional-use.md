@@ -1,5 +1,6 @@
 ---
 term: conditional use
+seo_title: 
 title: Conditional Use
 short_definition: Being able to use a property if specific guidelines are followed.
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

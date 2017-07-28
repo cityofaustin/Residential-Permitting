@@ -1,5 +1,6 @@
 ---
 term: mobile home
+seo_title: 
 title: Mobile Home
 short_definition: "A home on wheels that doesn't require a permanent foundation and can connect to utilities."
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

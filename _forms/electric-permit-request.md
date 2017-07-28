@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Electric Permit Request
 description: Use this form if the property needs electricity.
 document_type: form

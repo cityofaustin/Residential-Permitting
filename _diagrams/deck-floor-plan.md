@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Sample deck floor plan
 description: Sample deck floor plan
 date: 2017-06-14

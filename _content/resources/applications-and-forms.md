@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: 'Applications & Forms'
 in_resources_menu: true
 menu_sort_order: 1

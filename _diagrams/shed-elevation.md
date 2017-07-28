@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Sample shed elevation
 description: Sample shed elevation
 date: 2017-06-14 00:00:00

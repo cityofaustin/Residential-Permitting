@@ -1,5 +1,6 @@
 ---
 term: ground floor porch exemption
+seo_title: 
 title: Ground Floor Porch Exemption
 short_definition: "A porch on the ground floor that may be covered and doesn't need to meet certain requirements."
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/new_con_addtn_app_AWU.pdf'

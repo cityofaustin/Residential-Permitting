@@ -1,5 +1,6 @@
 ---
-title: General Process Permit Overview
+seo_title: General Process Permit Overview
+title: General > 0. Overview
 excerpt: A detailed look into the residential permitting process in the City of Austin
 project_name: general process
 in_projects_menu: true

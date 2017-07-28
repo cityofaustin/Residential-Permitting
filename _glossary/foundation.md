@@ -1,5 +1,6 @@
 ---
 term: foundation
+seo_title: 
 title: Foundation
 short_definition: The sturdy base a building is built on. The foundation is constructed at ground-level unless there is a basement.
 source_link: 'https://library.municode.com/tx/austin/codes/land_development_code?nodeId=TIT25LADE_CH25-1GEREPR_ART2DEME_S25-1-21DE&showChanges=true'

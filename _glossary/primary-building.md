@@ -1,5 +1,6 @@
 ---
 term: primary building
+seo_title: 
 title: Primary Building
 short_definition: "The main building on a plot of land that is used for what the plot's intended use."
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

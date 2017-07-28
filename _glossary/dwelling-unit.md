@@ -1,5 +1,6 @@
 ---
 term: dwelling unit
+seo_title: 
 title: Dwelling Unit
 short_definition: 'A place where one or more people live, sleep, eat, and shower.'
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

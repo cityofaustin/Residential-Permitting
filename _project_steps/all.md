@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: All projects
 permalink: "/projects/"
 layout: projects-index

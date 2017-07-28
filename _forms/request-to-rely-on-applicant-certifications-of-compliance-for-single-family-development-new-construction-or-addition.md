@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Request to Rely on Applicant Certifications of Compliance for Single-Family Development—New Construction or Addition
 description: Proof of Compliance for new construction or addition. - Single Family Development
 

@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Amnesty Certificate of Occupancy Application
 description: Proof that the residential building is suitable for occupancy.
 document_type: application

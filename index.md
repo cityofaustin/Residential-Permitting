@@ -1,5 +1,6 @@
 ---
-title: City of Austin Residential Permitting
+seo_title:  City of Austin Residential Permitting
+title: Home
 description: 'in Austin, Texas'
 layout: home
 header:
@@ -52,5 +53,3 @@ _comments:
     resources_button_url: Relative URL to the main resources page
     resources_button_text: Button at the bottom of the resources section
 ---
-
-

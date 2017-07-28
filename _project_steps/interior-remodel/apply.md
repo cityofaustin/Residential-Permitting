@@ -1,5 +1,6 @@
 ---
-title: 'Apply for an Interior Remodel Permit in Austin, Texas'
+seo_title: 'Apply for an Interior Remodel Permit in Austin, Texas'
+title: Interior Remodel > 3. Apply
 step_number: 3
 project_name: interior remodel
 ---

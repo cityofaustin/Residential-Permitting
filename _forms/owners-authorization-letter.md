@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Owner's Authorization Letter
 description: Owner’s transfer of approval to a licensed professional.
 document_type: form

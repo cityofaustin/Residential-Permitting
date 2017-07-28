@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Electrical Special Inspections Permit Application
 description: Schedule special inspections for electrical repairs.
 document_type: application

@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Residential Inspection Checklist for Layout
 description: Layout inspection checklist for residential properties.
 document_type: form

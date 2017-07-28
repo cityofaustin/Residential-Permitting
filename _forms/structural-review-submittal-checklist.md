@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Structural Review Submittal Checklist
 description: Checklist for structural review.
 document_type: form

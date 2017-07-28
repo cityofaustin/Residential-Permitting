@@ -1,5 +1,6 @@
 ---
 term: encroachment
+seo_title: 
 title: Encroachment
 short_definition: 'Any part of a building that crosses over a setback, is above a height limit, or crosses into public right-of-ways.'
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

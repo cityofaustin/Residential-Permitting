@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Braced Wall Plan Calculation Template
 description: Checklist and requirements for braced wall panels.
 document_type: form

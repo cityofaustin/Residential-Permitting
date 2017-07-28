@@ -1,5 +1,6 @@
 ---
-title: Schedule Inspections for a Permit in Austin
+seo_title: Schedule Inspections for a Permit in Austin
+title: General > 5. Inspect
 step_number: 5
 project_name: general process
 permalink: /projects/general-process/inspect/

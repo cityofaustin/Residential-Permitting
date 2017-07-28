@@ -1,5 +1,6 @@
 ---
-title: 'Get a Consultation for an Interior Remodel in Austin, Texas'
+seo_title: 'Get a Consultation for an Interior Remodel in Austin, Texas'
+title: Interior Remodel > 2. Consult
 step_number: 2
 project_name: interior remodel
 ---

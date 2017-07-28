@@ -1,5 +1,6 @@
 ---
 term: driveway
+seo_title: 
 title: Driveway
 short_definition: A paved path cars use to access a property. A driveway leads to a garage or other parking structure.
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

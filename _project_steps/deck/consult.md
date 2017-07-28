@@ -1,5 +1,6 @@
 ---
-title: Get a Consultation for a Deck Permit in Austin
+seo_title: Get a Consultation for a Deck Permit in Austin
+title:  Deck > 2. Consult
 step_number: 2
 project_name: deck
 ---

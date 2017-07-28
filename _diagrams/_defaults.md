@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Sample plan
 description: Sample plan.
 date: 2017-06-14

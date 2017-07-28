@@ -1,5 +1,6 @@
 ---
 term: "garage"
+seo_title: 
 title: "Garage"
 
 short_definition: "A building, or part of a building, used for parking and storing cars and trucks."

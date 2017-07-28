@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Sample interior remodel proposed floor plan
 description: Sample interior remodel proposed floor plan
 date: 2017-06-14

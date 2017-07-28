@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Residential Inspection Checklist for Foundation
 description: Foundation inspection checklist for residential properties.
 document_type: form

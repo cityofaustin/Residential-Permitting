@@ -1,5 +1,6 @@
 ---
 term: architectural feature
+seo_title: 
 title: Architectural Feature
 short_definition: "Materials, windows, porches or other design and style elements that make up a building's outside look."
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

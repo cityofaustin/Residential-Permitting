@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Can I get a permit?
 in_toolkit_menu: true
 menu_sort_order: 1

@@ -1,5 +1,6 @@
 ---
 term: deck
+seo_title: 
 title: Deck
 short_definition: "A flat structure without walls that is usually made of planks. Decks can't be lived on and are used for lounging."
 source_link: 'https://library.municode.com/tx/austin/codes/land_development_code?nodeId=THCOAUTE_CH25-12TECO'

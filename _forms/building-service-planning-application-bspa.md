@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Building Service Planning Application (BSPA)
 description: For electricity needs.
 document_type: application

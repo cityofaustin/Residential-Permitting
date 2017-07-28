@@ -1,4 +1,5 @@
 ---
+seo_title: 
 title: Define your Shed Project in Austin
 step_number: 1
 project_name: shed

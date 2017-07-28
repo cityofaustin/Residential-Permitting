@@ -1,5 +1,6 @@
 ---
 term: building elevation
+seo_title: 
 title: Building Elevation
 short_definition: "A building's outside wall that doesn't face a right-of-way, private street, or any public spaces."
 source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'

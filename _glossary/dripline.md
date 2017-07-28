@@ -1,5 +1,6 @@
 ---
 term: "dripline"
+seo_title: 
 title: "Dripline"
 
 short_definition: "See critical root zone."

@@ -1,5 +1,6 @@
 ---
 term: "landing"
+seo_title: 
 title: "Landing"
 
 short_definition: "Flat areas between flights of stairs and at the top or bottom of a staircase."
