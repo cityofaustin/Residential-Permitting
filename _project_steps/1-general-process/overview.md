@@ -8,9 +8,9 @@ menu_sort_order: 0
 step_number: 0
 overview_of_steps_markdown: 'Use this guide as an introduction to permitting if this is your first project, you are new to Austin, or need a refresher on the permitting process. For more detailed or project specific information, check to see if your project is featured in our [All Projects section](/projects).'
 permalink: /projects/general-process/
-prefooter_text: false
-prefooter_link_text: false
-prefooter_link_path: false
+prefooter_text:
+prefooter_link_text:
+prefooter_link_path:
 _hide_content: true
 
 project_steps_list:
