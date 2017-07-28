@@ -40,6 +40,8 @@ defaults:
   values:
     layout: 'page'
     algolia_category: Article
+    title:
+    seo_title:
 # for js, which is concatenating via jekyll
 - scope:
     path: 'assets'
@@ -163,7 +165,9 @@ defaults:
 
 # for all pages
 _comments:
-  title: Title for this page (shows up in SEO) (required)
+  title: Title for this page in CloudCannon (required)
+  seo_title: Title for this page (shows up in Search Engine results, defaults to title if empty)
+  description: A short description which will show up in Search Engine results
   menu_sort_order: Order this page shows up in any nav menus
   excerpt: If you don't define one here, the site will use your first content paragraph. If you define one, please keep it under about 155 characters.
 description: The City of Austin’s Residential Permitting Resource
