@@ -5,7 +5,7 @@ project_name: deck
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. You can also hire a professional to apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. You can also hire a professional to help you apply for your permit.
 
 ---
 
@@ -21,7 +21,7 @@ Remember to leave enough time for the completeness check. Residential Plan Revie
 
 ## What documents will I need to submit?
 
-All deck building permit applications require:
+All deck permit applications require:
 
 ### 1. Application
 
@@ -58,7 +58,7 @@ The foundation plan can only be drawn by a structural engineer.
 
 ## How do I submit my application?
 
-Submit your complete permit application to&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Road, 78704 . You may:
+Submit your complete permit application to&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
