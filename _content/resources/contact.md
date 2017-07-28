@@ -6,4 +6,6 @@ layout: contact
 in_resources_menu: true
 menu_sort_order: 3
 description: Directory of departments involved in permitting.
+_hide_content: true
+
 ---

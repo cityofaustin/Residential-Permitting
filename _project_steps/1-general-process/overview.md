@@ -11,6 +11,7 @@ permalink: /projects/general-process/
 prefooter_text: false
 prefooter_link_text: false
 prefooter_link_path: false
+_hide_content: true
 
 project_steps_list:
   - step_name: Overview

@@ -10,6 +10,8 @@ permalink: /projects/interior-remodel/
 prefooter_text: "Looking for all the applications and forms you might need for permitting an interior remodel? We've got you covered."
 prefooter_link_text: Download all interior remodel documents
 prefooter_link_path: /assets/applications-and-forms/all documents interior remodel.zip
+_hide_content: true
+
 _comments:
   excerpt: Shows up on homepage. Only use on overview page
   in_menu: Should this show up in the header navigation and homepage? Only use on overview page
@@ -19,5 +21,3 @@ _comments:
   prefooter_link_text: button text for bottom of overview
   prefooter_link_path: url to file or page where the button should link
 ---
-
-
