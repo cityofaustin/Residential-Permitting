@@ -111,4 +111,4 @@ It’s possible to prepare your permit application without consulting with a rev
 * Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
-You may need to hire a licensed professional to help you complete your project.&nbsp;
+You may need to [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;
