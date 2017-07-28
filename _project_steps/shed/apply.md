@@ -5,7 +5,7 @@ project_name: shed
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also hire a professional to apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also hire a professional to help you apply for your permit.
 
 ---
 
@@ -19,7 +19,7 @@ Once you apply, you will be moved into the Review process. Reviewers will either
 
 ## What documents will I need?
 
-All shed building permit applications require:
+All shed permit applications require:
 
 ### 1. Application
 
@@ -70,7 +70,7 @@ When applying for a shed building permit, a signed [BSPA Form]({{ site.url }}/as
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Rd., 78704. There are two ways to submit your application.&nbsp;
+Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
