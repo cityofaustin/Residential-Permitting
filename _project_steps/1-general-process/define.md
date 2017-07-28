@@ -10,7 +10,7 @@ permalink: /projects/general-process/define/
 The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * Define and describe your project,
-* Find out if you need permits and what they are, &nbsp;
+* [Find out if you need permits and what they are](/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
 * And collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
