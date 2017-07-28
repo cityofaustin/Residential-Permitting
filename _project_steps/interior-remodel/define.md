@@ -91,17 +91,19 @@ You will need to have your project reviewed by a city arborist if you have any t
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an [open or expired permit](/residential-toolkit/can-i-get-a-permit/). You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your interior remodel materials or design.
+You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
+
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
 
 ---
 
 ## You may need a consultation to determine your project requirements
 
-It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
+It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will:
 
-* Give you personalized property information that will help you fill out your application. Depending on what you learn during your consultation, you may not be able to build your shed as you originally planned.
-* Answer any application questions.
-* Give you a list of documents you need to prepare for your application based on your specific project.
-* Explain the steps you need to follow to apply for a permit.
+* Let you know if you can complete your project as you originally planned.
+* Give you the personalized property information you need to fill out your building permit application.
+* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
+* Explain any next steps needed for you to correctly permit your project.
 
 You may need to hire a licensed professional to help you complete your project.
