@@ -6,7 +6,7 @@ layout: default
 
 {% assign this_project = site[all_projects] | where: 'project_name', page.project_name | sort: 'step_number' %}
 
-{% assign general = site[all_projects] | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
+{% assign general_project = site[all_projects] | where: 'project_name', "general process" | where: 'step_number', page.step_number | first %}
 
 {% include project-header.html %}
 
@@ -21,7 +21,7 @@ layout: default
   		<div class="center-xs col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
         <span class="circled">{% include _icon.html icon="list" context="Project Overview" %}</span>
         <h2 class="step-title">
-          {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
+          {{ general_project.project_steps_list[page.step_number].step_name }}
         </h2>
         <div class="lead">{{ page.overview_of_steps_markdown | strip_newlines | markdownify }}</div>
         <p>{{ content }} <span></span></p>
@@ -34,13 +34,13 @@ layout: default
       <div class="container container-fluid">
         <div class="row start-xs">
           <div class="start-xs col-xs-10 col-xs-offset-1 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
-            <h2>{{ project_step.step_number }}. {{ site.data.labels.locales[site.locale].project_steps[project_step.step_number].step_name }}</h2>
+            <h2>{{ project_step.step_number }}. {{ general_project.project_steps_list[project_step.step_number].step_name }}</h2>
             <ul>
-              {% for item in site.data.labels.locales[site.locale].project_steps[project_step.step_number].table_of_contents %}
+              {% for item in general_project.project_steps_list[project_step.step_number].table_of_contents %}
               <li>{% include _icon.html icon='check' %} {{ item }}</li>
               {% endfor %}
             </ul>
-            <a class="usa-button" href="{{ site.url }}{{ project_step.url }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ site.data.labels.locales[site.locale].project_steps[project_step.step_number].step_name }}</a>
+            <a class="usa-button" href="{{ site.url }}{{ project_step.url }}">{{ site.data.labels.locales[site.locale].project_button_next }} {{ general_project.project_steps_list[project_step.step_number].step_name }}</a>
           </div>
         </div>
       </div>
@@ -67,7 +67,7 @@ layout: default
         <div class="center-xs">
           <span class="circled">{{ page.step_number }}</span>
           <h2 class="step-title">
-            {{ site.data.labels.locales[site.locale].project_steps[page.step_number].step_name }}
+            {{ general_project.project_steps_list[page.step_number].step_name }}
           </h2>
         </div>
         {% if page.use_default_project_content or content.size <= 1 %}
@@ -84,11 +84,11 @@ layout: default
     {% if project_step.step_number == page.step_number %}
       {% unless forloop.first %}
         {% assign prevurl = prev.url %}
-        {% assign prevtitle = site.data.labels.locales[site.locale].project_steps[prev.step_number].step_name %}
+        {% assign prevtitle = general_project.project_steps_list[prev.step_number].step_name %}
       {% endunless %}
       {% unless forloop.last %}
         {% assign next = this_project[forloop.index] %}
-        {% assign nexttitle = site.data.labels.locales[site.locale].project_steps[next.step_number].step_name %}
+        {% assign nexttitle = general_project.project_steps_list[next.step_number].step_name %}
         {% assign nexturl = next.url %}
       {% endunless %}
     {% endif %}

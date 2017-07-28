@@ -25,7 +25,8 @@ layout: default
     	</div>
 	  </div>
 	  <div class="row center-xs">
-		  {% for step in site.data.labels.locales[site.locale].project_steps %}
+			{% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
+		  {% for step in general_project.project_steps_list %}
 			{% if forloop.index0 > 0 %}
 	    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
 	      <div class="step-flag">

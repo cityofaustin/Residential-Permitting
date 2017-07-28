@@ -4,8 +4,9 @@
 	</a>
 	<div class="in-page-nav container-fluid center-xs">
 		<div class="row center-xs">
-		{% for project_steps in site.data.labels.locales[site.locale].project_steps %}
-			{% assign project_step = site.data.labels.locales[site.locale].project_steps[forloop.index0].step_name %}
+		{% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
+		{% for project_steps in general_project.project_steps_list %}
+			{% assign project_step = general_project.project_steps_list[forloop.index0].step_name %}
 			{% if forloop.first %}
 				<a class="{% if page.step_number == forloop.index0 %}active{% endif %}" href="{{ site.url }}/projects/{{ page.project_name | slugify }}/#go">
 					{{ project_step }}
