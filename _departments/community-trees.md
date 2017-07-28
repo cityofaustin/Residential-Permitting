@@ -1,9 +1,9 @@
 ---
-seo_title: 
+seo_title:
 title: Community Trees
 department_name: Community Trees
 department_link: 'http://www.austintexas.gov/department/city-arborist'
-description: "The Community Tree Preservation Division's mission is to protect, and nurture Austin’s trees on behalf of the community through regulation, planning and collaborative work."
+description: "The Community Tree Preservation Division's mission is to protect and nurture Austin’s trees on behalf of the community through regulation, planning, and collaborative work."
 phone: '311'
 contact_form_url: 'http://www.austintexas.gov/email/cityarborist'
 hours:
