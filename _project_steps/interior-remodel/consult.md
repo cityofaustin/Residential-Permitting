@@ -5,7 +5,7 @@ project_name: interior remodel
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
 
@@ -23,6 +23,8 @@ We suggest preparing some information about your shed ahead of time to share wit
 * Are you demolishing any walls?
 * Are you changing or adding electrical wiring, plumbing, or a heating and cooling system?
 * Is your home more than 40 years old?
+
+The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
 ### 2. If possible, bring your property survey.
 
@@ -46,12 +48,6 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
 
-* The current floor plan
-* The proposed floor plan (including new windows or doors)
-* The existing walls of your home
-* The proposed new walls
-* Any walls you will tear down
-
 #### What your interior currently looks like, including any windows and doors.
 
 * The current floor plan
@@ -63,13 +59,13 @@ Sketches give reviewers a clear picture of your project and help them determine 
 * The proposed floor plan (including new windows or doors)
 * The proposed new walls
 
-Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. It’s very important that you label any load-bearing walls or beams.
+Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. Do your best to label any load-bearing walls or beams.
 
 ---
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review) at 505 Barton Springs Road., 78704.
+All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
@@ -79,5 +75,7 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 Read more about signing up on QLess.
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this form to request a paid consultation. (hyperlink to consultation form)
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
