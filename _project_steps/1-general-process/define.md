@@ -1,6 +1,6 @@
 ---
 seo_title: Define your Project in Austin
-title: General > 1. Define
+title: 'General > 1. Define'
 step_number: 1
 project_name: general process
 permalink: /projects/general-process/define/
@@ -70,9 +70,11 @@ Your contractor is responsible for getting the required permits if you are insta
 
 Having certain trees on your property may require a tree permit.
 
-Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/page/residential-tree-permit-process).
-
 If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application]({{ site.url }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
+
+#### How to measure your trees
+
+Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/page/residential-tree-permit-process).
 
 You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
 
