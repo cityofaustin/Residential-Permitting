@@ -2,12 +2,12 @@
 title: Hiring a professional
 lead_markdown:
 in_resources_menu: false
-in_toolkit_menu: false
+in_toolkit_menu: true
 _hide_content: false
 ---
 
 
-### You may need to hire a professional.&nbsp;
+### You may need to hire a professional.
 
 Depending on your project needs, you may want to hire a licensed professional such as an engineer, architect, or surveyor to complete certain parts of your application. Your reviewer can tell you which parts of your application need to be filled out by a licensed professional during your consultation.
 
