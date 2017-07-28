@@ -17,10 +17,10 @@ collections:
     title: Content
     output: true
     permalink: "/:path/"
-  projects:
+  project_steps:
     title: Projects
     output: true
-    permalink: ":collection/:path/"
+    permalink: "projects/:path/"
   departments:
     title: Departments
     output: false
@@ -77,10 +77,10 @@ defaults:
 
 # for project pages
 - scope:
-    path: '_projects'
-    type: 'projects'
+    path: '_project_steps'
+    type: 'project_steps'
   values:
-    layout: 'project'
+    layout: 'project-step'
     in_projects_menu: false
     menu_sort_order: 10
     use_default_project_content: false
