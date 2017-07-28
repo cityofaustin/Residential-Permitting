@@ -29,6 +29,7 @@ collections:
     output: true
     permalink: "resources/:collection/:path"
   forms:
+    title: Applications and Forms
     output: true
     permalink: "resources/applications-and-forms/:path"
   diagrams:
