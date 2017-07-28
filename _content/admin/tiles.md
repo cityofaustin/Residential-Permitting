@@ -23,7 +23,7 @@ sitemap: false
     </div>
   </div>
   <div class="row center-xs">
-    {% assign project_pages = site.projects | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+    {% assign project_pages = site.project_steps | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
     {% for project in project_pages limit: 3 %}
       {% unless project.hide_project_from_homepage == true %}
         {% include tiles-projects.html tile=project %}
