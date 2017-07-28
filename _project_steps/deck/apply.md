@@ -1,6 +1,6 @@
 ---
-seo_title:  'Apply for a Deck Permit in Austin, Texas'
-title: Deck > 3. Apply
+seo_title: 'Apply for a Deck Permit in Austin, Texas'
+title: 'Deck > 3. Apply'
 step_number: 3
 project_name: deck
 ---
@@ -31,7 +31,7 @@ All deck permit applications require:
 
 ### 2. Plot Plan
 
-A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property. The deck's plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a licensed professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include any power lines that run above your property.
+A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property. The deck's plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a licensed professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include trees and power lines that run above your property.
 
 ### 3. Floor Plan
 
