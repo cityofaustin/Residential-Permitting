@@ -2,12 +2,12 @@
 title: Sign up on QLess
 lead_markdown:
 in_resources_menu: false
-in_toolkit_menu: false
+in_toolkit_menu: true
 _hide_content: false
 ---
 
 
-Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the QLess website or arriving as close to opening time as possible to sign up in person.&nbsp;
+Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the QLess website or arriving as close to opening time as possible to sign up in person.
 
 #### Instructions for signing up on the QLess website
 
