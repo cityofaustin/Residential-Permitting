@@ -14,9 +14,9 @@ tabs:
 
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
-* define and describe your project,
-* find out if you need &nbsp;permits (hyperlink to projects that don’t require a permit) and what they are,
-* collect the right information for your consultation and application.
+* Define and describe your project,
+* Find out if you need &nbsp;permits (hyperlink to projects that don’t require a permit) and what they are,
+* And collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -34,7 +34,7 @@ Projects that have the same requirements as a shed include: greenhouses, worksho
 
 ## Zoning requirements
 
-Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. Some customers choose to buy pre-made sheds since they can be moved off of easements and setbacks. Pre-made sheds still count towards your total impervious cover and must also follow zoning requirements. &nbsp;
+Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. Some customers choose to buy pre-made sheds since they can be moved off of easements and setbacks. Pre-made sheds still count toward your total impervious cover and must also follow zoning requirements. &nbsp;
 
 ![]({{ site.url }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
@@ -43,6 +43,8 @@ Whether your project needs a permit or not, there are still zoning regulations y
 ---
 
 ## Do I need a permit?
+
+The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
 
 ### Building permits
 
@@ -67,7 +69,7 @@ There are additional fees if you build near a protected tree, need a trade permi
 
 #### Do prefabricated sheds require a permit?
 
-A prefabricated shed may still require a permit. To see if your prefabricated shed requires a permit, refer to “Do I need a permit?” You do not need a permit to build or pour a foundation (such as pier and beam or concrete slab) for a prefabricated shed that otherwise doesn’t need a building permit.
+A prefabricated shed may still require a permit. You don't need a permit to build or pour a foundation (such as pier and beam or concrete slab) for a prefabricated shed that otherwise doesn’t need a building permit.
 
 ### Electric permits
 
@@ -91,18 +93,17 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design.
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
 
 ---
 
 ## You may need a consultation to determine your shed requirements
 
-It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will be able to:
+It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will:
 
-Give you personalized property information that will help you fill out your application. Depending on what you learn during your consultation, you may not be able to build your shed as you originally planned.
-
-* Answer any application questions.
-* Give you a list of documents you need to prepare for your application based on your specific project.
-* Explain the steps you need to follow to apply for a permit.
+* Let you know if you can complete your project as you originally planned.
+* Give you the personalized property information you need to fill out your building permit application.
+* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
+* Explain any next steps needed for you to correctly permit your project.
 
 You may need to hire a licensed professional to help you complete your project.
