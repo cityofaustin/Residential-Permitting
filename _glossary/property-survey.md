@@ -2,7 +2,7 @@
 term: property survey
 seo_title:
 title: Property Survey
-short_definition: 'A map drawn by a licensed surveyor after measuring a piece of land to show its area, boundaries, contours, elevations, improvements, and its relationship to the surrounding land.'
+short_definition: 'A map drawn by a licensed surveyor after measuring a piece of land to show its area, boundaries, contours, elevations, improvements, and relationship to the surrounding land.'
 ---
 
 
