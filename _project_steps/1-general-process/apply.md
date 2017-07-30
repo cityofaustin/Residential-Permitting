@@ -35,7 +35,7 @@ Even though they may be mentioned in relation to one another, a site plan and a 
 
 * A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 
-Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See samples of a plot plan and instructions for drawing a site plan.
+Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See [samples](/resources/sample-plans) of a plot plan and instructions for drawing a site plan.
 
 ### 3. Floor Plan
 
