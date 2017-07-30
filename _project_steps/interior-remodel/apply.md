@@ -16,7 +16,7 @@ A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet 
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend [signing up online](/https://kiosk.qless.com/kiosk/app/home or arriving as close to opening time as possible and sign up in person.
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible and sign up in person.
 
 ---
 
@@ -74,6 +74,6 @@ Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residen
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about signing up on QLess.&nbsp;
+[Read more about signing up on QLess](/residential-toolkit/sign-up-on-qless).&nbsp;
 
 ### &nbsp;
