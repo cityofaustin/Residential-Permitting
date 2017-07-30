@@ -73,10 +73,10 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 * Sign up in person at the QLess Kiosk at the [Residential Plan Review](/resources/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about how to sign up for a free 20 minute consultation.
+[Read more about how to sign up for a free 20 minute consultation](/residential-toolkit/sign-up-on-qless).
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
-If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this form to request a paid consultation. (hyperlink to consultation form)
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/resources/applications-and-fomrs/residential-review-consultation-form) to request a paid consultation. (hyperlink to consultation form)
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
