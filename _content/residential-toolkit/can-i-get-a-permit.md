@@ -72,9 +72,9 @@ Enter the required information to search for a permit in one of four ways:
 
 ---
 
-## I have open or expired permits
+## I have expired permits
 
-There are two ways to resolve open or expired permits.
+There are two ways to resolve expired permits.
 
 ### 1. Re-permit the project with a new permit application
 
