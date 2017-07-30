@@ -88,6 +88,7 @@ Submit your complete permit application at&nbsp;[Residential Plan Review](/resou
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about signing up on QLess.
+[Read more about signing up on QLess](residential-toolkit/sign-up-on-qless).
+
 
 ## &nbsp;
