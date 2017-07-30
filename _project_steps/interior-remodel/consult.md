@@ -77,6 +77,6 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
-If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/resources/applications-and-fomrs/residential-review-consultation-form) to request a paid consultation. (hyperlink to consultation form)
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/resources/applications-and-fomrs/residential-review-consultation-form) to request a paid consultation.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
