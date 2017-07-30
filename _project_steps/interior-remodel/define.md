@@ -9,7 +9,7 @@ project_name: interior remodel
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
 * Define and describe your project,
-* Find out if you need &nbsp;permits and what they are,
+* [Find out if you need &nbsp;permits and what they are](/residential-toolkit/projects/that-dont-require-a-permit),
 * And collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
@@ -92,9 +92,9 @@ You will need to have your project reviewed by a city arborist if you have any t
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
+You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -107,4 +107,4 @@ It is possible to prepare your permit application without consulting with a revi
 * Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
-You may need to hire a licensed professional to help you complete your project.
+You may need to [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you complete your project.
