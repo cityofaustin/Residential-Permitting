@@ -1,5 +1,5 @@
 ---
-seo_title: 
+seo_title:
 title: Can I get a permit?
 in_toolkit_menu: true
 menu_sort_order: 1
@@ -7,7 +7,7 @@ description: What is this page about?
 ---
 
 
-Certain things can prevent you from receiving a permit: having an open or expired permit, maxing out your impervious cover, or both. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
+Certain things can prevent you from receiving a permit: having an expired permit, maxing out your impervious cover, or both. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
 
 > ###### [What is impervious cover?](/resources/glossary/impervious-cover)
 >
@@ -42,15 +42,15 @@ Continue creating a New Profile. Enter your personal information on the followin
 
 You will receive an email with your unique PIN number and a link. Follow the link to finish setting up your profile.
 
-2.  Open the email you receive from web.registration@ci.austin.tx.us and copy or write down your PIN number.
+1. Open the email you receive from web.registration@ci.austin.tx.us and copy or write down your PIN number.
 
-3.  Click on the link in the email to complete your profile. You can also copy and paste the link into your browser, then press “Enter” on your keyboard. The link will take you back to the Austin Build + Connect page.
+2. Click on the link in the email to complete your profile. You can also copy and paste the link into your browser, then press “Enter” on your keyboard. The link will take you back to the Austin Build + Connect page.
 
-4.  Log In with your email, password and PIN number on the Austin Build + Connect page to access your profile.
+3. Log In with your email, password and PIN number on the Austin Build + Connect page to access your profile.
 
-5.  You will see several navigation links on the left side of the Austin Build + Connect page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
+4. You will see several navigation links on the left side of the Austin Build + Connect page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
 
-6.  Follow the instructions to find your permit.
+5. Follow the instructions to find your permit.
 
 &nbsp;
 
@@ -68,8 +68,7 @@ Enter the required information to search for a permit in one of four ways:
 
 * By Case Number
 
-* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range.
-Ex: 1920-2017
+* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. Ex: 1920-2017
 
 ---
 
