@@ -9,7 +9,7 @@ _hide_content: false
 
 Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the QLess website or arriving as close to opening time as possible to sign up in person.
 
-#### Instructions for signing up on the QLess website
+#### Instructions for signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 Keep in mind you will only be able to sign in to QLess during the office hours of Monday, Wednesday and Friday from 8am to 12pm.
 
