@@ -6,7 +6,7 @@ project_name: interior remodel
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also hire a professional to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -16,7 +16,7 @@ A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet 
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend [signing up online](/https://kiosk.qless.com/kiosk/app/home or arriving as close to opening time as possible and sign up in person.
 
 ---
 
