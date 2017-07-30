@@ -48,7 +48,7 @@ Use a separate page for each of the following items:
 
 ### 4. Elevation plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](resources/sample-plans).
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
