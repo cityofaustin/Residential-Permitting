@@ -16,7 +16,7 @@ tabs:
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your deck or apply for permits, it’s important to:
 
 * Define and describe your project,
-* Find out if you need &nbsp;permits (hyperlink to projects that don’t require a permit) and what they are,
+* [Find out if you need &nbsp;permits and what they are](/residential-toolkit/projects-that-dont-require-a-permit),
 * And collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
@@ -79,17 +79,19 @@ Having electricity on your deck requires getting an electric permit.
 
 Having certain trees on your property may require a tree permit.
 
-Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf) help you take an accurate measurement.
+Having certain trees on your property may require a tree permit. If any of your trees measure 19 inches or more in diameter, they are protected and require a Tree Permit before you start construction. You will also need to pay an additional fee.
 
-Any trees that measure 19 inches or more in diameter are protected and require getting a [Tree Ordinance Review Application]({{ site.url }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
+#### How to measure your trees
 
-You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.
+Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. 
 
-Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
+Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf) help you take an accurate measurement.
+
+You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees. Learn more about [protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
 
 ### Make sure you can get a permit
 
-You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at Austin Build + Connect to check for expired permits.
+You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](/https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
 You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
 
@@ -104,4 +106,4 @@ It is possible to prepare your permit application without consulting with a revi
 * Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
-You may need to hire a licensed professional to help you complete your project.
+You may need to [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you complete your project.
