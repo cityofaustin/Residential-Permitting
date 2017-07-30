@@ -16,7 +16,7 @@ A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet 
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend [signing up online](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible and sign up in person.
 
 ---
 
@@ -41,7 +41,7 @@ The deck's floor plan must be drawn to scale either by hand or on a computer. Th
 
 ### 4. Elevation Plan
 
-The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a licensed professional. Again, use graph paper if you’re hand drawing the elevation plan.
+The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a licensed professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
@@ -64,6 +64,6 @@ Submit your complete permit application to&nbsp;[Residential Plan Review](/resou
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about signing up on QLess.
+[Read more about signing up on QLess](/residential-toolkit/sign-up-on-qless).
 
 ### &nbsp;
