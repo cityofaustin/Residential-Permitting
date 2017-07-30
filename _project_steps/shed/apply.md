@@ -6,7 +6,7 @@ project_name: shed
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also hire a professional to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -48,7 +48,7 @@ Use a separate page for each of the following items:
 
 ### 4. Elevation plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See examples.
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
@@ -76,7 +76,7 @@ Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residen
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about signing up on QLess.
+[Read more about signing up on QLess](residential-toolkit/sign-up-on-qless).
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
