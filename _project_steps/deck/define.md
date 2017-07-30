@@ -91,7 +91,7 @@ Measure the diameters of any trees on your property. You can calculate the diame
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to find out if you can get a permit.
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential-toolkit/can-i-get-a-permit).
 
 ---
 
