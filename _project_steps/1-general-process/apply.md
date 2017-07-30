@@ -49,7 +49,7 @@ Use a separate page for:
 
 ### 4. Elevation Plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See examples.
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
 
 ### 5. Structural Drawings
 
@@ -77,7 +77,7 @@ Here is a list of commonly requested forms you may need to submit with your appl
 
 There may be other forms or plans you may need to submit depending on your project. Those forms and plans can be determined at the consultation.
 
-If you already know what plans you need, you can receive guidance on how to create them using these sample plans.
+If you already know what plans you need, you can receive guidance on how to create them using these [sample plans](/resources/sample-plans).
 
 ---
 
