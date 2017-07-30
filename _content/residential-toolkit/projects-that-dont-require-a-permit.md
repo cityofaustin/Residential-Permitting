@@ -19,4 +19,4 @@ Some types of projects can be completed without a permit. Examples of projects t
 * Portable heating and ventilation appliances or cooling units
 * Other work as determined by the building official
 
-You will probably need a permit if your project requires more work that what’s on this list. See a complete list of projects that don’t require permits in the Municode library section R105.2. (hyperlink to municode)
+You will probably need a permit if your project requires more work that what’s on this list. See a complete list of projects that don’t require permits in the Municode library section R105.2.
