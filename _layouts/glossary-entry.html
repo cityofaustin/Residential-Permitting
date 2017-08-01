@@ -23,9 +23,9 @@ layout: default
           {% assign term_url = term | slugify | prepend: '/resources/glossary/' %}
           {% assign term_title = term | capitalize %}
           <div class="tile col-xs-10 col-sm-6">
+            <a class="tile-link" title="{{ site.data.labels.languages[site.language].glossary_link_prefix }} {{ term_title }}" href="{{ site.url }}{{ term_url }}"></a>
             <div class="tile-outline tile-text--compact">
               <h4>{{ term_title }}</h4>
-              <a class="tile-link" href="{{ site.url }}{{ term_url }}"></a>
             </div>
           </div>
           {% endfor %}
