@@ -5,7 +5,7 @@
     <div class="tile-text">
       <h3 class="tile-title">{{ article.title }}</h3>
       <p class="tile-excerpt">{{ article.excerpt | strip_html | truncatewords: 19 }}</p>
-      <p class="tile-date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ article.last_modified_at | date: '%B %e, %Y' }}</p>
+      <p class="tile-date">{{ site.data.labels.languages[site.language].resource_last_revision_prefix }} {{ article.last_modified_at | date: '%B %e, %Y' }}</p>
     </div>
   </div>
 </div>

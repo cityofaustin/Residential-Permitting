@@ -9,10 +9,10 @@
         {% include _icon.html icon="close" %}
       </button>
       <div class="no-logo start-xs col-xs">
-        <span>{{ site.data.labels.locales[site.locale].intro_markdown | strip_newlines | markdownify }}</span>
+        <span>{{ site.data.labels.languages[site.language].intro_markdown | strip_newlines | markdownify }}</span>
       </div>
       <div class="mobile-site-title start-xs col-xs">
-        <span>{{ site.data.labels.locales[site.locale].site_title }}</span>
+        <span>{{ site.data.labels.languages[site.language].site_title }}</span>
       </div>
       <div class="control-translate end-xs start-sm col-xs">
         <span id="drawer-button--translate">Translate</span>
@@ -23,11 +23,11 @@
       <div class="header--search end-xs col-xs-12 col-sm-4 col-md-3">
         <form class="usa-search usa-search-small">
           <div role="search">
-            <span class="header--search-cancel" id="cancel-button--search">{{ site.data.labels.locales[site.locale].cancel_search }}</span>
-            <label class="usa-sr-only" for="header-search-box">{{ site.data.labels.locales[site.locale].search_label }}</label>
-            <input id="header-search-box" type="search" name="q" placeholder="{{ site.data.labels.locales[site.locale].search_placeholder }}">
+            <span class="header--search-cancel" id="cancel-button--search">{{ site.data.labels.languages[site.language].cancel_search }}</span>
+            <label class="usa-sr-only" for="header-search-box">{{ site.data.labels.languages[site.language].search_label }}</label>
+            <input id="header-search-box" type="search" name="q" placeholder="{{ site.data.labels.languages[site.language].search_placeholder }}">
             <button type="submit">
-              <span class="usa-sr-only">{{ site.data.labels.locales[site.locale].default_submit_label }} {{ site.data.labels.locales[site.locale].search_label }}</span>
+              <span class="usa-sr-only">{{ site.data.labels.languages[site.language].default_submit_label }} {{ site.data.labels.languages[site.language].search_label }}</span>
             </button>
 
           </div>
@@ -43,29 +43,29 @@
       <div class="center-xs col-xs-12">
         <nav>
           <ul>
-            <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.locales[site.locale].home }}</a></li>
-            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+            <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.languages[site.language].home }}</a></li>
+            <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                 {% for project in project_pages limit: 5 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.locales[site.locale].view_all_projects_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.languages[site.language].view_all_projects_link }}</a></li>
               </ul>
             </li>
-            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+            <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                   {% for page in toolkit_pages limit: 5 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.locales[site.locale].view_all_toolkit_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
               </ul>
             </li>
-            <li aria-haspopup="true"><span>{{ site.data.labels.locales[site.locale].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
+            <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                 {% for page in resource_pages limit: 5 %}
                   <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.locales[site.locale].view_all_resources_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
               </ul>
             </li>
           </ul>

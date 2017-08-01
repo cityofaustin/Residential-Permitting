@@ -1,5 +1,5 @@
-locales:
-  en:
+languages:
+  english:
     site_title: Residential Permitting
     intro_markdown: 'This official City of Austin site is a work-in-progress. [For more information, visit DSD](http://austintexas.gov/department/development-services).'
     projects_label: Projects

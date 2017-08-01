@@ -36,9 +36,9 @@ layout: default
           <div class="col-xs-12 col-md-5">
             <h4 class="department-name">{{ department.department_name }}</h4>
             {% if department.description %}<p>{{ department.description }}</p>{% endif %}
-            <h5><a href="{{ department.department_link }}" title="{{ site.data.labels.locales[site.locale].default_link_prefix }} {{ department.department_name }}" target="_blank">{{ site.data.labels.locales[site.locale].department_link_prefix }} {{ department.department_name }}</a></h5>
+            <h5><a href="{{ department.department_link }}" title="{{ site.data.labels.languages[site.language].default_link_prefix }} {{ department.department_name }}" target="_blank">{{ site.data.labels.languages[site.language].department_link_prefix }} {{ department.department_name }}</a></h5>
 
-            {% unless department.logo_path == nil %}<a class="department-logo" title="{{ site.data.labels.locales[site.locale].department_logo_label }} {{ department.department_name }}" href="{{ department.department_link }}" target="_blank"><img src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
+            {% unless department.logo_path == nil %}<a class="department-logo" title="{{ site.data.labels.languages[site.language].department_logo_label }} {{ department.department_name }}" href="{{ department.department_link }}" target="_blank"><img src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
 
           </div>
           <div class="col-xs-12 col-md-offset-1 col-md-6 department-details">
@@ -48,7 +48,7 @@ layout: default
               <div>
                 <p>{% include _icon.html icon='map-marker' context='Office Location' %}</p>
               </div>
-              <div class="col-xs-10" aria-label="{{ site.data.labels.locales[site.locale].department_address_label }} {{ department.department_name }}">
+              <div class="col-xs-10" aria-label="{{ site.data.labels.languages[site.language].department_address_label }} {{ department.department_name }}">
                 {{ department.physical_address_markdown  | markdownify | rtrim: '<p></p>' }}
               </div>
             </div>
@@ -59,7 +59,7 @@ layout: default
               <div>
                 <p>{% include _icon.html icon='clock' context='Office Hours' %}</p>
               </div>
-              <div class="col-xs-10" aria-label="{{ site.data.labels.locales[site.locale].department_hours_label }} {{ department.department_name }}">
+              <div class="col-xs-10" aria-label="{{ site.data.labels.languages[site.language].department_hours_label }} {{ department.department_name }}">
                 {% for periods in department.hours %}
                   {{ periods.time_period_markdown | markdownify | rtrim: '<p></p>' }}
                 {% endfor %}
@@ -73,7 +73,7 @@ layout: default
                 <p>{% include _icon.html icon='mail' context='Email' %}</p>
               </div>
               <div class="col-xs-10">
-                <p><a href="mailto:{{ department.email }}" title="{{ site.data.labels.locales[site.locale].department_email_label }} {{ department.department_name }}: {{ department.email }}" target="_blank">{{ department.email }}</a></p>
+                <p><a href="mailto:{{ department.email }}" title="{{ site.data.labels.languages[site.language].department_email_label }} {{ department.department_name }}: {{ department.email }}" target="_blank">{{ department.email }}</a></p>
               </div>
             </div>
             {% endif %}
@@ -84,7 +84,7 @@ layout: default
                 <p>{% include _icon.html icon='mail' context='Email' %}</p>
               </div>
               <div class="col-xs-10">
-                <p><a href="{{ department.contact_form_url }}" title="{{ site.data.labels.locales[site.locale].default_link_prefix }} {{ site.data.labels.locales[site.locale].department_contact_label }} {{ department.department_name }}" target="_blank">{{ department.contact_form_url }}</a></p>
+                <p><a href="{{ department.contact_form_url }}" title="{{ site.data.labels.languages[site.language].default_link_prefix }} {{ site.data.labels.languages[site.language].department_contact_label }} {{ department.department_name }}" target="_blank">{{ department.contact_form_url }}</a></p>
               </div>
             </div>
             {% endif %}
@@ -95,7 +95,7 @@ layout: default
                 <p>{% include _icon.html icon='phone' context='Office Phone' %}</p>
               </div>
               <div class="col-xs-10">
-                <p><a href="tel:{{ department.phone | slugify }}" title="{{ site.data.labels.locales[site.locale].department_telephone_label }} {{ department.department_name }}: {{ department.phone | slugify }}">{{ department.phone }}</a></p>
+                <p><a href="tel:{{ department.phone | slugify }}" title="{{ site.data.labels.languages[site.language].department_telephone_label }} {{ department.department_name }}: {{ department.phone | slugify }}">{{ department.phone }}</a></p>
               </div>
             </div>
             {% endif %}

@@ -1,6 +1,6 @@
 {% assign project = include.tile %}
 <div class="tile tile--project col-xs-10 col-sm-6 col-md-4">
-  <a class="tile-link" href="{{ site.url }}{{ project.url }}" title="{{ site.data.labels.locales[site.locale].project_button_next }} {{ project.project_name }}"></a>
+  <a class="tile-link" href="{{ site.url }}{{ project.url }}" title="{{ site.data.labels.languages[site.language].project_button_next }} {{ project.project_name }}"></a>
   <div class="tile-outline">
 		<object class="block-illustration" alt="{{ project.project_name | capitalize }} illustration" data="{{ site.url }}/assets/img/projects/{{ project.project_name  | slugify }}.svg" type="image/svg+xml">
 			<!-- TODO: See if necessary for browser support <img src="{{ project.project-illustration }}.jpg" /> -->

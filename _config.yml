@@ -11,7 +11,7 @@
 ---
 title: Residential Permitting
 timezone: America/Chicago
-locale: en
+language: english
 collections:
   content:
     title: Content

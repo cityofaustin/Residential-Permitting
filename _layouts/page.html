@@ -9,7 +9,7 @@ layout: default
         <div class="lead">{{ page.lead_markdown | markdownify }}</div>
       {% endunless %}
       {% unless page.date == false %}
-        <h5 class="date">{{ site.data.labels.locales[site.locale].resource_last_revision_prefix }} {{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
+        <h5 class="date">{{ site.data.labels.languages[site.language].resource_last_revision_prefix }} {{ page.last_modified_at | date: '%B %e, %Y' }}</h5>
       {% endunless %}
     </div>
   </div>
@@ -19,8 +19,8 @@ layout: default
 
       {% if page.collection == "forms" %}
         <div class="row center-xs button-row">
-          <a class="usa-button" target="_blank" title="{{ site.data.labels.locales[site.locale].resource_download_link_prefix }} {{ page.title }}" href="{{ site.url }}{{ page.file_path }}">
-            {{ site.data.labels.locales[site.locale].resource_download_link_prefix }}
+          <a class="usa-button" target="_blank" title="{{ site.data.labels.languages[site.language].resource_download_link_prefix }} {{ page.title }}" href="{{ site.url }}{{ page.file_path }}">
+            {{ site.data.labels.languages[site.language].resource_download_link_prefix }}
           </a>
         </div>
       {% endif %}
