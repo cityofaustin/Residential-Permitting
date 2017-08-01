@@ -3,7 +3,7 @@ seo_title: Deck Permit Overview
 title: Deck > 0. Overview
 excerpt: 'A platform-like structure without walls, often made of planks, that no one will live on and is typically used for lounging and gathering'
 project_name: deck
-in_projects_menu: true
+hide_project_from_menu: false
 menu_sort_order: 3
 step_number: 0
 overview_of_steps_markdown: "This is a preview of the permitting process for a deck and can be used as a checklist throughout your project. The cost for permitting a deck depends on size and if it's near a protected tree. The permitting cost for a deck under 1750 square feet in size that isn't near protected trees is $584.48. The cost includes the plan review, the permit itself, and inspections.&nbsp;"

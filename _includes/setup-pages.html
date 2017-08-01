@@ -1,3 +1,3 @@
-{% assign project_pages = site.project_steps | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+{% assign project_pages = site.project_steps | where: 'hide_project_from_menu', false | sort: "menu_sort_order" %}
 {% assign toolkit_pages = site.content | where: 'in_toolkit_menu', true | sort: "menu_sort_order"%}
 {% assign resource_pages = site.content | where: 'in_resources_menu', true | sort: "menu_sort_order" %}

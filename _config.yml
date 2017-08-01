@@ -84,7 +84,7 @@ defaults:
     type: 'project_steps'
   values:
     layout: 'project-step'
-    in_projects_menu: false
+    hide_project_from_menu: true
     menu_sort_order: 10
     use_default_project_content: false
     algolia_category: Project Steps for

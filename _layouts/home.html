@@ -25,7 +25,7 @@ layout: default
     	</div>
 	  </div>
 	  <div class="row center-xs">
-			{% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'in_projects_menu', true | first %}
+			{% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'hide_project_from_menu', false | first %}
 		  {% for step in general_project.project_steps_list %}
 			{% if forloop.index0 > 0 %}
 	    <div class="step-preview col-xs-6 col-sm-4 col-md-2">
@@ -50,7 +50,7 @@ layout: default
 	    </div>
 	  </div>
 	  <div class="row center-xs">
-			{% assign project_pages = site.project_steps | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+			{% assign project_pages = site.project_steps | where: 'hide_project_from_menu', false | sort: "menu_sort_order" %}
 			{% for project in project_pages limit: page.projects_section.limit_projects_to %}
 				{% unless project.hide_project_from_homepage == true %}
 					{% include tiles-projects.html tile=project %}

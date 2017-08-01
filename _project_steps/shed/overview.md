@@ -3,7 +3,7 @@ seo_title:
 title: Shed Permit Overview
 excerpt: 'A simple, enclosed structure that is physically detached from your house and will be used for storage'
 project_name: shed
-in_projects_menu: true
+hide_project_from_menu: false
 menu_sort_order: 1
 step_number: 0
 overview_of_steps_markdown: 'This is a preview of the permitting process for sheds that can be used as a checklist for your project. The cost for permitting a shed starts at $584.48, if your shed will be less than 1750 square feet in size. This cost includes the plan review, the permit itself, and inspections.'

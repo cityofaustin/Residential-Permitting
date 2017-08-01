@@ -262,7 +262,7 @@ Tiles are visual links to content. Different types of content have different til
     <h3>Project tiles</h3>
   </div>
   <div class="row center-xs">
-  {% assign project_pages = site.project_steps | where: 'in_projects_menu', true | sort: "menu_sort_order" %}
+  {% assign project_pages = site.project_steps | where: 'hide_project_from_menu', false | sort: "menu_sort_order" %}
   {% for project in project_pages limit:3 %}
     {% include tiles-projects.html tile=project %}
   {% endfor %}
