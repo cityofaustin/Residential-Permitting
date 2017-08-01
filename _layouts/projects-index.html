@@ -24,7 +24,7 @@ layout: default
     <div class="lead">{{ page.general_lead_markdown | markdownify }}</div>
   </div>
   <div class="row center-xs">
-    {% assign general_project = site[projects_collection] | where: 'project_name', "general process" | where: 'hide_project_from_menu', false | first %}
+    {% assign general_project = site.project_steps | where: 'project_name', "general process" | where: 'hide_project_from_menu', false | first %}
     {% include tiles-projects.html tile=general_project %}
   </div>
 </div>
