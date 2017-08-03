@@ -3,6 +3,7 @@ seo_title:  City of Austin Residential Permitting
 title: Home
 description: 'in Austin, Texas'
 layout: home
+_hide_content: true
 header:
   header_title: Residential Permitting
   header_subtitle: An official resource of the City of Austin
