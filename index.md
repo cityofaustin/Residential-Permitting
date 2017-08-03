@@ -1,5 +1,5 @@
 ---
-seo_title:  City of Austin Residential Permitting
+seo_title: "The Official City of Austin's Residential Permitting Resource"
 title: Home
 description: 'in Austin, Texas'
 layout: home
