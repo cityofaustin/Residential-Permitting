@@ -1,6 +1,6 @@
 ---
 seo_title:
-title: Residential Toolkit
+title: Residential Toolkit - View All
 layout: residential-toolkit-index
 lead_markdown: >-
   Use the toolkit to find details about specific city processes, your property,
