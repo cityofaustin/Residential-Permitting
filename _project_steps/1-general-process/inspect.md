@@ -31,7 +31,7 @@ Inspections can be scheduled one of two ways.
 
 * In order to schedule your inspections through the [Austin Build + Connect portal](https://abc.austintexas.gov/web/permit/index), you must be a registered user. If you’re not already registered, you can register online.
 * Click on "My Inspections" in the Menu option and follow the prompts.
-* If your hired professional submitted your application and you want to schedule inspections on Austin Build + Connect, you will need to visit the Service Center to have the permit linked to your account.&nbsp;
+* If your hired professional submitted your application and you want to schedule inspections on Austin Build + Connect, you will need to visit the [Service Center](/resources/contact/#service-center) to have the permit linked to your account.&nbsp;
 * If you are experiencing difficulty, you can call 512-978-4000 between the hours of 7:45am and 4:45pm, or e-mail DSD Help at [dsdhelp@austintexas.gov](mailto:dsdhelp@austintexas.gov)
 
 ### In-person
