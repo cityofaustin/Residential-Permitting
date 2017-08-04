@@ -220,7 +220,7 @@ $drawer-width: 28rem;
         &:hover ul,
         ul:hover {
           // limit of 6 items in dropdown lists
-          max-height: 6 * 3 * $base-font-size ; // > 28rem
+          max-height: 6 * 4 * $base-font-size ; // > 28rem
           background: $color-gray-lightest;
         }
       }
