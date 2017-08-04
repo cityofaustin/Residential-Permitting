@@ -12,7 +12,8 @@ overview_of_steps_markdown: >-
   This is a preview of the permitting process for interior remodels and can be
   used as a checklist throughout your project. The cost for permitting an
   interior remodel depends on the type of work done to the home.&nbsp;
-permalink: /projects/interior-remodel/
+permalink: /residential/projects/interior-remodel/
+redirect_from: /projects/interior-remodel/
 prefooter_text: >-
   Looking for all the applications and forms you might need for permitting an
   interior remodel? We've got you covered.

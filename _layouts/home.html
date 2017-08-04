@@ -3,7 +3,7 @@ layout: default
 ---
 {% include setup-pages.html %}
 
-<section class="photo-header" style="background-image: url('{{ page.header.header_photo_path }}')">
+<section class="photo-header" style="background-image: url('{{ site.baseurl }}{{ page.header.header_photo_path }}')">
 	<div class="container container-fluid start-xs">
     <div class="overlay">
 			<h1>{{ page.header.header_title }}</h1>
@@ -59,7 +59,7 @@ layout: default
 		</div>
 	  <div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}/projects" }}>{{ page.projects_section.projects_button_text }}</a>
+				<a class="usa-button" href="{{ site.baseurl }}/residential/projects" }}>{{ page.projects_section.projects_button_text }}</a>
 			</div>
 	  </div>
 	</div>
@@ -82,7 +82,7 @@ layout: default
 	  </div>
 		<div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}{{ page.toolkit_section.toolkit_button_url }}" }}>{{ page.toolkit_section.toolkit_button_text }}</a>
+				<a class="usa-button" href="{{ site.baseurl }}{{ page.toolkit_section.toolkit_button_url }}" }}>{{ page.toolkit_section.toolkit_button_text }}</a>
 			</div>
 		</div>
 	</div>
@@ -105,7 +105,7 @@ layout: default
 	  </div>
 		<div class="row center-xs button-row">
 			<div class="col-xs-10">
-				<a class="usa-button" href="{{ site.url }}{{ page.resources_section.resources_button_url }}" }}>{{ page.resources_section.resources_button_text }}</a>
+				<a class="usa-button" href="{{ site.baseurl }}{{ page.resources_section.resources_button_url }}" }}>{{ page.resources_section.resources_button_text }}</a>
 			</div>
 		</div>
 	</div>

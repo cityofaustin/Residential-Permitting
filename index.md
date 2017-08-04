@@ -4,6 +4,9 @@ title: Home
 description: 'in Austin, Texas'
 layout: home
 _hide_content: true
+permalink: /residential/
+redirect_from: /
+
 header:
   header_title: Residential Permitting
   header_subtitle: An official resource of the City of Austin
@@ -16,7 +19,7 @@ process_section:
     Work with the City of Austin to make sure your next building or renovation
     project is safe, sustainable, and permitted. There are five key steps to
     getting a permit. For more information, [check out our general process
-    page](/projects/general-process/).
+    page](/residential/projects/general-process/).
 projects_section:
   projects_title: Featured Projects
   projects_summary_markdown: >-
@@ -29,14 +32,14 @@ toolkit_section:
   toolkit_summary_markdown: >-
     Find details about specific city processes, your property, or your
     applications using the Residential Toolkit.
-  toolkit_button_url: /residential-toolkit
+  toolkit_button_url: /residential/residential-toolkit
   toolkit_button_text: View Residential Toolkit
 resources_section:
   resources_title: Resources
   resources_summary_markdown: >-
     Having trouble understanding something? Check out our Resources section to
     help you navigate the permitting process.
-  resources_button_url: /resources
+  resources_button_url: /residential/resources
   resources_button_text: View all resources
 _comments:
   header:

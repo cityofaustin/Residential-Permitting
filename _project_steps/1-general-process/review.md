@@ -3,7 +3,7 @@ seo_title: The Review Process for a Permit in Austin
 title: General > 4. Review
 step_number: 4
 project_name: general process
-permalink: /projects/general-process/review/
+permalink: /residential/projects/general-process/review/
 ---
 
 
@@ -30,7 +30,7 @@ If you are not the applicant, meaning a hired professional submitted your applic
 
 Comments are sent in a Master Comment Report to the email provided on the application.
 
-If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/resources/glossary/) or speak with a professional.
+If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/residential/resources/glossary/) or speak with a professional.
 
 If you have questions or concerns about your comments, you can reach out directly to the reviewer who made the specific comments. Their information will be located on your comment document.
 

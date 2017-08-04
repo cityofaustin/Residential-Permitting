@@ -16,22 +16,22 @@ collections:
   content:
     title: Content
     output: true
-    permalink: "/:path/"
+    permalink: "/residential/:path/"
   project_steps:
     title: Projects
     output: true
-    permalink: "projects/:path/"
+    permalink: "/residential/projects/:path/"
   departments:
     title: Departments
     output: false
   glossary:
     title: Glossary
     output: true
-    permalink: "resources/:collection/:path"
+    permalink: "/residential/resources/:collection/:path"
   forms:
     title: Applications and Forms
     output: true
-    permalink: "resources/applications-and-forms/:path"
+    permalink: "/residential/resources/applications-and-forms/:path"
   diagrams:
     output: false
 
@@ -185,13 +185,14 @@ development:
     - jekyll-feed
     - jekyll-last-modified-at
     - algoliasearch-jekyll
+    - jekyll-redirect-from
 
 production:
   gems:
     - jekyll-feed
     - jekyll-last-modified-at
     - jekyll-sitemap
-
+    - jekyll-redirect-from
 
 # Search settings
 algolia:

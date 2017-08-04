@@ -3,15 +3,15 @@ seo_title: Get a Consultation for a Permit in Austin
 title: General > 2. Consult
 step_number: 2
 project_name: general process
-permalink: /projects/general-process/consult/
+permalink: /residential/projects/general-process/consult/
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).&nbsp;
+All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).&nbsp;
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
 
-For more specific issues regarding your project, consider scheduling a [paid consultation](/resources/applications-and-forms/residential-review-consultation-form).&nbsp;
+For more specific issues regarding your project, consider scheduling a [paid consultation](/residential/resources/applications-and-forms/residential-review-consultation-form).&nbsp;
 
 ---
 
@@ -49,7 +49,7 @@ See examples of project sketches:
 
 ### 3. If possible, bring your property survey
 
-Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/resources/glossary/setback), [easements](/resources/glossary/easement), and [impervious cover](/resources/glossary/impervious-cover).
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential/resources/glossary/setback), [easements](/residential/resources/glossary/easement), and [impervious cover](/residential/resources/glossary/impervious-cover).
 
 > ###### What is a property survey?
 >
@@ -69,17 +69,17 @@ You can find a surveyor through the [Texas Board of Professional Land Surveying]
 
 ## How do I sign up for a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).
+All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about how to sign up for a free 20 minute consultation](/residential-toolkit/sign-up-on-qless).
+[Read more about how to sign up for a free 20 minute consultation](/residential/residential-toolkit/sign-up-on-qless).
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation. 
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/residential/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation. 
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.

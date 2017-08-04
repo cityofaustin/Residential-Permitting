@@ -54,7 +54,7 @@ Body text looks like this. Maecenas sed diam eget risus varius blandit sit amet 
 
 Link styles are automatically formatted based on what they are linked to and if they've been visited before.
 
-* This is an [internal link](/home).
+* This is an [internal link](/residential/).
 * This is an [external link](https://www.austintexas.gov).
 * This is a [link to a PDF](http://d1qmdf3vop2l07.cloudfront.net/magnificent-jellyfish.cloudvent.net/compressed/4c4c8727759f49d099e5d6d591d5e02c.pdf).
 * This is a <a class="usa-color-text-visited" href="javascript:void(0);">visited external link</a>.
@@ -83,14 +83,14 @@ Icons are used on the site for visual interest and added clarity.
 {% include _icon.html icon='search' %}
 
 ### Project icons
-Icons for projects are custom and were made in Adobe Illustrator. They should be converted to outlines and exported as svgs. [View and edit the original files]({{ site.url }}/assets/img/for-guides/project-icons-source.ai). The icons have multiple shared attributes. They all:
+Icons for projects are custom and were made in Adobe Illustrator. They should be converted to outlines and exported as svgs. [View and edit the original files]({{ site.baseurl }}/assets/img/for-guides/project-icons-source.ai). The icons have multiple shared attributes. They all:
 
 * Are made of gray-dark (#0f0035) lines (no fills),
 * Have a single-stroke weight (4 pt),
 * Include a full-width underline bar,
 * And have the same width for the main icon that sits above the underline bar.
 
-![]({{ site.url }}/assets/img/for-guides/design-style-guide-icons.png)
+![]({{ site.baseurl }}/assets/img/for-guides/design-style-guide-icons.png)
 
 ---
 

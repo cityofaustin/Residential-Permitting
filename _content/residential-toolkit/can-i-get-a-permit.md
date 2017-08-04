@@ -11,7 +11,7 @@ Certain things can prevent you from receiving a permit.
 
 Having an expired permit, maxing out your impervious cover, or both can prevent you from getting your building permit. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
 
-> ###### [What is impervious cover?](/resources/glossary/impervious-cover)
+> ###### [What is impervious cover?](/residential/resources/glossary/impervious-cover)
 >
 > {% include glossary-definition.html term="impervious cover"%}
 
@@ -86,8 +86,8 @@ This is the best option if the old project is impacted by the new project. For e
 
 You may still need a separate inspection even if your old project won’t be impacted by the new work. If the new project doesn't impact the old project, or you want a separate inspection, you need to fill out the following two forms and include them with your new application:
 
-* [Request for a Permit Extension, Withdrawal, or Reactivation]({{ site.url }}/resources/applications-and-forms/request-for-permit-extension-withdrawal-or-reactivation),
-* And [Acknowledgement of Expired Permits]({{ site.url }}/resources/applications-and-forms/acknowledgement-of-expired-permits) form.
+* [Request for a Permit Extension, Withdrawal, or Reactivation]({{ site.baseurl }}/residential/resources/applications-and-forms/request-for-permit-extension-withdrawal-or-reactivation),
+* And [Acknowledgement of Expired Permits]({{ site.baseurl }}/residential/resources/applications-and-forms/acknowledgement-of-expired-permits) form.
 
 Be sure to include the expired permit numbers and property address where necessary.
 
