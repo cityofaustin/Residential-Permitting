@@ -7,7 +7,9 @@ description: What is this page about?
 ---
 
 
-Certain things can prevent you from receiving a permit: having an expired permit, maxing out your impervious cover, or both. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
+Certain things can prevent you from receiving a permit.
+
+Having an expired permit, maxing out your impervious cover, or both can prevent you from getting your building permit. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
 
 > ###### [What is impervious cover?](/resources/glossary/impervious-cover)
 >
