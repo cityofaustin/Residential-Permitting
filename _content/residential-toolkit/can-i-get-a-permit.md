@@ -3,7 +3,7 @@ seo_title:
 title: Can I get a permit?
 in_toolkit_menu: true
 menu_sort_order: 1
-description: What is this page about?
+seo_description: What is this page about?
 ---
 
 

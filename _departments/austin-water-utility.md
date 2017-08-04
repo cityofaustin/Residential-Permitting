@@ -3,7 +3,7 @@ seo_title:
 title: Austin Water
 department_name: Austin Water
 department_link: 'http://www.austintexas.gov/department/water'
-description: 'Austin Water provides reliable, safe, and sustainable water services to Austin residents.'
+summary: 'Austin Water provides reliable, safe, and sustainable water services to Austin residents.'
 phone: 512-494-9400
 email_address:
 contact_form_url:

@@ -3,7 +3,7 @@ seo_title:
 title: Historic Preservation
 department_name: Historic Preservation
 department_link: 'http://www.austintexas.gov/department/historic-preservation'
-description: 'The Historic Preservation Office protects and enhances neighborhoods, buildings and sites that reflect elements of Austin’s cultural, social, economic, political and architectural history.'
+summary: 'The Historic Preservation Office protects and enhances neighborhoods, buildings and sites that reflect elements of Austin’s cultural, social, economic, political and architectural history.'
 phone: 512-474-2727
 contact_form_url: 'http://www.austintexas.gov/email/stevesadowsky'
 hours:

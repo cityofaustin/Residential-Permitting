@@ -2,7 +2,7 @@
 title: Admin
 layout: default
 lead_markdown: ''
-description:
+summary:
 permalink: /residential/admin/
 redirect_from: /admin
 in_admin_pages: true

@@ -3,7 +3,7 @@ seo_title:
 title: Development Services Department
 department_name: Development Services Department
 department_link: 'http://www.austintexas.gov/department/development-services'
-description: 'The purpose of the Development Services Department is to provide excellent customer service regarding planning, preservation and design services to build a better Austin.'
+summary: 'The purpose of the Development Services Department is to provide excellent customer service regarding planning, preservation and design services to build a better Austin.'
 phone: 512-978-4000
 contact_form_url: 'http://austintexas.gov/email/dsdhelp'
 hours:

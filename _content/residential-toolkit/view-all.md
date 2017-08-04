@@ -5,7 +5,7 @@ layout: residential-toolkit-index
 lead_markdown: >-
   Use the toolkit to find details about specific city processes, your property,
   or your applications.
-description:
+seo_description:
 permalink: /residential/residential-toolkit/
 redirect_from: /residential-toolkit
 _hide_content: true

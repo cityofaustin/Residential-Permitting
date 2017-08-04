@@ -127,7 +127,7 @@ defaults:
     algolia_category: Diagram
     _comments:
       title: Title of this Diagram
-      description: Brief description of this form or document
+      summary: Brief description of this form or document
       date: 2017-06-14
       for_project_named:
       thumb_path: /assets/img/diagrams/project/plan.png
@@ -146,7 +146,7 @@ defaults:
     algolia_category: Form
     _comments:
       title: Resource / Document Title
-      description: Brief description of this form or document
+      summary: Brief description of this form or document
       document_type: What kind of document is this?
       file_path: local path to the file itself, i.e. /uploads/form.pdf
     document_type:
@@ -168,7 +168,7 @@ defaults:
 _comments:
   title: Title for this page in CloudCannon (required)
   seo_title: Title for this page (shows up in Search Engine results, defaults to title if empty)
-  description: A short description which will show up in Search Engine results
+  seo_description: A short description which will show up in Search Engine results
   menu_sort_order: Order this page shows up in any nav menus
   excerpt: If you don't define one here, the site will use your first content paragraph. If you define one, please keep it under about 155 characters.
 description: The City of Austin’s Residential Permitting Resource

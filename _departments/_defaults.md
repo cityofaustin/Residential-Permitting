@@ -2,7 +2,7 @@
 title: 
 department_name:
 department_link: 'http://austintexas.gov'
-description: ''
+summary: ''
 phone: 512-974-2000
 email_address: something@austintexas.gov
 contact_form_url: http://www.austintexas.gov/email/

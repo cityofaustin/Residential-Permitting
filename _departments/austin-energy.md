@@ -3,7 +3,7 @@ seo_title:
 title: Austin Energy
 department_name: Austin Energy
 department_link: 'https://austinenergy.com/wps/portal/ae/about/'
-description: 'Austin Energy is the nation’s 8th largest publicly owned electric utility, serving more than 1 million residents in Greater Austin.'
+summary: 'Austin Energy is the nation’s 8th largest publicly owned electric utility, serving more than 1 million residents in Greater Austin.'
 phone: 512-494-9400
 email_address: customercare@coautilities.com
 hours:

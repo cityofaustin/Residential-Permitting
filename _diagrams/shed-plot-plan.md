@@ -1,7 +1,7 @@
 ---
 seo_title: 
 title: Sample shed plot plan
-description: Sample shed plot plan
+summary: Sample shed plot plan
 date: 2017-06-14 00:00:00
 for_project_named: shed
 diagram_type: plot-plan

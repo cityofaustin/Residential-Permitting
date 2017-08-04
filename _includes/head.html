@@ -19,8 +19,8 @@
   <link itemprop="url" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
-  {% if page.description.size > 0 %}
-    {% assign description = page.description %}
+  {% if page.seo_description.size > 0 %}
+    {% assign description = page.seo_description %}
   {% else %}
     {% assign description = site.description %}
   {% endif %}

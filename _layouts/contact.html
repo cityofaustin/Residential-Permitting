@@ -35,7 +35,7 @@ layout: default
 
           <div class="col-xs-12 col-md-5">
             <h4 class="department-name">{{ department.department_name }}</h4>
-            {% if department.description %}<p>{{ department.description }}</p>{% endif %}
+            {% if department.summary %}<p>{{ department.summary }}</p>{% endif %}
             <h5><a href="{{ department.department_link }}" title="{{ site.data.labels.languages[site.language].default_link_prefix }} {{ department.department_name }}" target="_blank">{{ site.data.labels.languages[site.language].department_link_prefix }} {{ department.department_name }}</a></h5>
 
             {% unless department.logo_path == nil %}<a class="department-logo" title="{{ site.data.labels.languages[site.language].department_logo_label }} {{ department.department_name }}" href="{{ department.department_link }}" target="_blank"><img src="{{ site.baseurl }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}

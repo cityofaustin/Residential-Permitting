@@ -3,7 +3,7 @@ seo_title:
 title: Check my application status
 in_toolkit_menu: true
 menu_sort_order: 2
-description: What is this page about?
+seo_description: What is this page about?
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 seo_title: 
 title: Sample deck floor plan
-description: Sample deck floor plan
+summary: Sample deck floor plan
 date: 2017-06-14
 for_project_named: deck
 diagram_type: floor-plan

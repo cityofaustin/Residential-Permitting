@@ -1,7 +1,7 @@
 ---
 seo_title: 
 title: Sample deck elevation
-description: Sample deck elevation
+summary: Sample deck elevation
 date: 2017-06-14
 for_project_named: deck
 diagram_type: elevation
