@@ -8,7 +8,9 @@ description: What is this page about?
 ---
 
 
-The City of Austin preserves the natural resources that make Austin beautiful. To keep Austin gorgeous, the city protects large trees and their roots. Be conscious of any trees that could get damaged when you start working on a new project.
+Be conscious of any trees that could get damaged when you start working on a new project.
+
+The City of Austin preserves the natural resources that make Austin beautiful. To keep Austin gorgeous, the city protects large trees and their roots.
 
 ---
 
