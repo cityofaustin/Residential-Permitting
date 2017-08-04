@@ -33,7 +33,9 @@ toolkit_section:
   toolkit_button_text: View Residential Toolkit
 resources_section:
   resources_title: Resources
-  resources_summary_markdown: Use these resources to help you apply for a permit.&nbsp;
+  resources_summary_markdown: >-
+    Having trouble understanding something? Check out our Resources section to
+    help you navigate the permitting process.
   resources_button_url: /resources
   resources_button_text: View all resources
 _comments:
