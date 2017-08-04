@@ -27,7 +27,7 @@ You can then follow the prompts to check the status of your permit.
 
 If your hired professional such as a general contractor submitted the permit application for you, then they will receive your approval or any comments.
 
-If your hired professional submitted your application and you want to check your application status on Austin Build + Connect, you will need to visit the Service Center to have the permit linked to your account.&nbsp;
+If your hired professional submitted your application and you want to check your application status on Austin Build + Connect, you will need to visit the [Service Center](/resources/contact/#service-center) to have the permit linked to your account.&nbsp;
 
 You can also request for copies of any emails to be sent to you or have your authorized applicant forward them to you if this is the case.
 
