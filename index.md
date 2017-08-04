@@ -4,8 +4,8 @@ title: Home
 description: 'in Austin, Texas'
 layout: home
 _hide_content: true
-permalink: /residential/
-
+permalink: /
+redirect_from: /residential/
 header:
   header_title: Residential Permitting
   header_subtitle: An official resource of the City of Austin
