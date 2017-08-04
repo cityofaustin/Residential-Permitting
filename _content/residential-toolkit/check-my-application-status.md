@@ -1,5 +1,5 @@
 ---
-seo_title: 
+seo_title:
 title: Check my application status
 in_toolkit_menu: true
 menu_sort_order: 2
@@ -7,7 +7,9 @@ description: What is this page about?
 ---
 
 
-It takes about 15 business days for your permit application to be reviewed once you submit it. There are two ways to check the status of your permit application:
+It takes about 15 business days for your permit application to be reviewed once you submit it.
+
+There are two ways to check the status of your permit application:
 
 * On [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index),
 * Or by calling your reviewer.
@@ -16,9 +18,9 @@ It takes about 15 business days for your permit application to be reviewed once 
 
 ## Check your permit status on Austin Build + Connect
 
-You can check the status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you don't have an Austin Build + Connect account, you can create one on the Austin Build + Connect homepage. 
+You can check the status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you don't have an Austin Build + Connect account, you can create one on the Austin Build + Connect homepage.
 
-* Select “Conduct business with City,” and then follow the prompts for a first time user. 
+* Select “Conduct business with City,” and then follow the prompts for a first time user.
 * After creating your account, select “My Permits/Cases” from the navigation menu located on the left hand side of the screen.
 
 You can then follow the prompts to check the status of your permit.
