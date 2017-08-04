@@ -5,7 +5,6 @@ description: 'in Austin, Texas'
 layout: home
 _hide_content: true
 permalink: /residential/
-redirect_from: /
 
 header:
   header_title: Residential Permitting
