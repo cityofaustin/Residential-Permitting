@@ -56,11 +56,11 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Sketch the layout of your property and show any existing structures including your home, pool, deck, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
 
-![](/residential/uploads/versions/shed-sample-property-sketch---x----1000-1500x---.png)
+![](/uploads/versions/shed-sample-property-sketch---x----1000-1500x---.png)
 
 #### What will your shed look like?
 
-Sketch the shed you will build and include its dimensions and any windows or doors it will have.![](/residential/uploads/versions/shed-sample-layout-sketch---x----1500-1000x---.png)
+Sketch the shed you will build and include its dimensions and any windows or doors it will have.![](/uploads/versions/shed-sample-layout-sketch---x----1500-1000x---.png)
 
 ---
 
