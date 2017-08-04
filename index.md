@@ -27,16 +27,13 @@ projects_section:
 toolkit_section:
   toolkit_title: Residential Toolkit
   toolkit_summary_markdown: >-
-    The Residential Toolkit helps residents navigate the permitting process. Use
-    the toolkit to find details about specific city processes, your property or
-    applications.
+    Find details about specific city processes, your property, or your
+    applications using the Residential Toolkit.
   toolkit_button_url: /residential-toolkit
   toolkit_button_text: View Residential Toolkit
 resources_section:
   resources_title: Resources
-  resources_summary_markdown: >-
-    Having trouble understanding something? Check out our Resources to help you
-    navigate the permitting process.&nbsp;
+  resources_summary_markdown: Use these resources to help you apply for a permit.&nbsp;
   resources_button_url: /resources
   resources_button_text: View all resources
 _comments:
