@@ -35,8 +35,8 @@ toolkit_section:
 resources_section:
   resources_title: Resources
   resources_summary_markdown: >-
-    Having trouble understanding something? Check out our resources section to
-    help navigate the permitting process.&nbsp;
+    Having trouble understanding something? Check out our Resources to help you
+    navigate the permitting process.&nbsp;
   resources_button_url: /resources
   resources_button_text: View all resources
 _comments:
