@@ -2,7 +2,7 @@
 seo_title:
 title: Building near a tree
 in_toolkit_menu: true
-lead_markdown: The City of Austin preserves the natural resources that make Austin beautiful.
+lead_markdown:
 menu_sort_order: 3
 description: What is this page about?
 ---
