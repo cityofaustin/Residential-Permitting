@@ -6,7 +6,7 @@ project_name: interior remodel
 ---
 
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).
+All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
 
@@ -20,7 +20,7 @@ We suggest preparing some information about your shed ahead of time to share wit
 
 * Are you moving any interior walls?
 * Are you adding to or removing any square footage from your home?
-* Does your property have any [trees larger than 19 inches in diameter](/residential-toolkit/building-near-a-tree/)?
+* Does your property have any [trees larger than 19 inches in diameter](/residential/residential-toolkit/building-near-a-tree/)?
 * Are you demolishing any walls?
 * Are you changing or adding electrical wiring, plumbing, or a heating and cooling system?
 * Is your home more than 40 years old?
@@ -29,7 +29,7 @@ The project scoping worksheet can help you collect this information. You can als
 
 ### 2. If possible, bring your property survey.
 
-Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/resources/glossary/setback), [easements](/resources/glossary/easement), and [impervious cover](/resources/glossary/impervious-cover).
+Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential/resources/glossary/setback), [easements](/residential/resources/glossary/easement), and [impervious cover](/residential/resources/glossary/impervious-cover).
 
 > ###### What is a property survey?
 >
@@ -66,17 +66,17 @@ Make sure you label smoke and carbon monoxide detectors and any walls that will 
 
 ## How can I get a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/resources/contact/#residential-plan-review).
+All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about how to sign up for a free 20 minute consultation](/residential-toolkit/sign-up-on-qless).
+[Read more about how to sign up for a free 20 minute consultation](/residential/residential-toolkit/sign-up-on-qless).
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
-If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation.
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/residential/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.

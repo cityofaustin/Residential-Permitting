@@ -6,6 +6,7 @@ lead_markdown: >-
   Use the toolkit to find details about specific city processes, your property,
   or your applications.
 description:
-permalink: /residential-toolkit/
+permalink: /residential/residential-toolkit/
+redirect_from: /residential-toolkit
 _hide_content: true
 ---

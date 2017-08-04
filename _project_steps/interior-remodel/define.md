@@ -9,7 +9,7 @@ project_name: interior remodel
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
 * Define and describe your project,
-* [Find out if you need &nbsp;permits and what they are](/residential-toolkit/projects-that-dont-require-a-permit),
+* [Find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
 * And collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
@@ -20,7 +20,7 @@ You can start by making sure your definition of your project is the same as the 
 
 An interior remodel fixes or updates the appearance or use of an existing home without adding or removing square footage.
 
-[If this doesn't sound like your project, check out the General Process page](/projects/general-process).
+[If this doesn't sound like your project, check out the General Process page](/residential/projects/general-process).
 
 ---
 
@@ -38,7 +38,7 @@ There will be additional charges if your project requires a trade permit, like a
 
 ### Express permits
 
-Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.&nbsp;[Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits/).
+Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.&nbsp;[Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits/).
 
 ### Interior remodel permits
 
@@ -69,7 +69,7 @@ A new addition permit is required if you change your home's footprint by expandi
 
 You may need a demolition permit if you tear down an exterior wall.&nbsp;
 
-If this sounds like your project, [schedule a consultation](/projects/interior-remodel/consult/) to review any zoning considerations that will affect your project.
+If this sounds like your project, [schedule a consultation](/residential/projects/interior-remodel/consult/) to review any zoning considerations that will affect your project.
 
 ### Trade permits
 
@@ -88,13 +88,13 @@ Your contractor is responsible for getting the required permits if you install o
 
 Having certain trees on your property may require a tree permit.
 
-You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.&nbsp;[Learn more about protected trees and their construction requirements](/residential-toolkit/building-near-a-tree/).
+You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.&nbsp;[Learn more about protected trees and their construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 ### Make sure you can get a permit
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential-toolkit/can-i-get-a-permit).
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -107,4 +107,4 @@ It is possible to prepare your permit application without consulting with a revi
 * Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
-You may need to [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you complete your project.
+You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.

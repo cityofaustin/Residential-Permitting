@@ -12,37 +12,42 @@
   {% endif %}
   <title>{{ title }} &mdash; {{ site.title }}</title>
   <!-- Title  -->
-  <meta itemprop="name" content="{{ site.description }}">
-  <meta property="og:title" content="{{ site.description }}">
+  <meta itemprop="name" content="{{ title }} &mdash; {{ site.title }}">
+  <meta property="og:title" content="{{ title }} &mdash; {{ site.title }}">
 
   <!-- URL -->
-  <link itemprop="url" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <link itemprop="url" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
+  {% if page.description.size > 0 %}
+    {% assign description = page.description %}
+  {% else %}
+    {% assign description = site.description %}
+  {% endif %}
   <!-- Description -->
-  <meta name="description" content="{{ site.description }}">
-  <meta itemprop="description" content="{{ site.description }}">
-  <meta property="og:description" content="{{ site.description }}">
+  <meta name="description" content="{{ description }}">
+  <meta itemprop="description" content="{{ description }}">
+  <meta property="og:description" content="{{ description }}">
 
   <!-- Favicons -->
-  <link rel="icon" href="{{ site.url }}{{ site.favicon_path }}favicon.ico" sizes="16x16,32x32">
-  <link rel="apple-touch-icon-precomposed" href="{{ site.url }}{{ site.favicon_path }}apple-touch-icon.png">
+  <link rel="icon" href="{{ site.baseurl }}{{ site.favicon_path }}favicon.ico" sizes="16x16,32x32">
+  <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}{{ site.favicon_path }}apple-touch-icon.png">
   <meta name="msapplication-TileColor" content="#FFFFFF">
-  <meta name="msapplication-TileImage" content="{{ site.url }}{{ site.favicon_path }}ms-tile-144x144.png">
-  <meta name="msapplication-config" content="{{ site.url }}{{ site.favicon_path }}browserconfig.xml" />
+  <meta name="msapplication-TileImage" content="{{ site.baseurl }}{{ site.favicon_path }}ms-tile-144x144.png">
+  <meta name="msapplication-config" content="{{ site.baseurl }}{{ site.favicon_path }}browserconfig.xml" />
   <meta name="application-name" content="{{ site.title }}">
-  <link rel="manifest" href="{{ site.url }}{{ site.favicon_path }}manifest.json">
-  <link rel="icon" href="{{ site.url }}{{ site.favicon_path }}favicon-32x32.png" sizes="32x32">
-  <link rel="icon" href="{{ site.url }}{{ site.favicon_path }}favicon-16x16.png" sizes="16x16">
-  <link rel="shortcut icon" sizes="512x512" href="{{ site.url }}{{ site.favicon_path }}android-chrome-512x512.png">
-  <link rel="shortcut icon" sizes="192x192" href="{{ site.url }}{{ site.favicon_path }}android-chrome-192x192.png">
-  <link rel='mask-icon' href='{{ site.url }}{{ site.favicon_path }}safari-pinned-tab.svg' color='#01875f'>
+  <link rel="manifest" href="{{ site.baseurl }}{{ site.favicon_path }}manifest.json">
+  <link rel="icon" href="{{ site.baseurl }}{{ site.favicon_path }}favicon-32x32.png" sizes="32x32">
+  <link rel="icon" href="{{ site.baseurl }}{{ site.favicon_path }}favicon-16x16.png" sizes="16x16">
+  <link rel="shortcut icon" sizes="512x512" href="{{ site.baseurl }}{{ site.favicon_path }}android-chrome-512x512.png">
+  <link rel="shortcut icon" sizes="192x192" href="{{ site.baseurl }}{{ site.favicon_path }}android-chrome-192x192.png">
+  <link rel='mask-icon' href='{{ site.baseurl }}{{ site.favicon_path }}safari-pinned-tab.svg' color='#01875f'>
 
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
   <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700|Roboto:400,500,700" rel="stylesheet">
-  <link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/application.css">
-  <script src="{{ site.url }}/assets/javascripts/application.js"></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/application.css">
+  <script src="{{ site.baseurl }}/assets/javascripts/application.js"></script>
 
 
   {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}

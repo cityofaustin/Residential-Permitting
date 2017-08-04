@@ -3,11 +3,11 @@ seo_title: Apply for a Permit in Austin
 title: 'General > 3. Apply'
 step_number: 3
 project_name: general process
-permalink: /projects/general-process/apply/
+permalink: /residential/projects/general-process/apply/
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -35,7 +35,7 @@ Even though they may be mentioned in relation to one another, a site plan and a 
 
 * A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 
-Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See [samples](/resources/sample-plans) of a plot plan and instructions for drawing a site plan.
+Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See [samples](/residential/resources/sample-plans) of a plot plan and instructions for drawing a site plan.
 
 ### 3. Floor Plan
 
@@ -49,7 +49,7 @@ Use a separate page for:
 
 ### 4. Elevation Plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
 
 ### 5. Structural Drawings
 
@@ -77,18 +77,18 @@ Here is a list of commonly requested forms you may need to submit with your appl
 
 There may be other forms or plans you may need to submit depending on your project. Those forms and plans can be determined at the consultation.
 
-If you already know what plans you need, you can receive guidance on how to create them using these [sample plans](/resources/sample-plans).
+If you already know what plans you need, you can receive guidance on how to create them using these [sample plans](/residential/resources/sample-plans).
 
 ---
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about signing up on QLess](residential-toolkit/sign-up-on-qless).
+[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
 
 ## &nbsp;

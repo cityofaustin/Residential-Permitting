@@ -38,7 +38,7 @@ layout: default
             {% if department.description %}<p>{{ department.description }}</p>{% endif %}
             <h5><a href="{{ department.department_link }}" title="{{ site.data.labels.languages[site.language].default_link_prefix }} {{ department.department_name }}" target="_blank">{{ site.data.labels.languages[site.language].department_link_prefix }} {{ department.department_name }}</a></h5>
 
-            {% unless department.logo_path == nil %}<a class="department-logo" title="{{ site.data.labels.languages[site.language].department_logo_label }} {{ department.department_name }}" href="{{ department.department_link }}" target="_blank"><img src="{{ site.url }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
+            {% unless department.logo_path == nil %}<a class="department-logo" title="{{ site.data.labels.languages[site.language].department_logo_label }} {{ department.department_name }}" href="{{ department.department_link }}" target="_blank"><img src="{{ site.baseurl }}{{ department.logo_path }}" alt="{{ department.department_name }}" /></a>{% endunless %}
 
           </div>
           <div class="col-xs-12 col-md-offset-1 col-md-6 department-details">

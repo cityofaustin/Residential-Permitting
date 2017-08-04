@@ -6,7 +6,7 @@ project_name: interior remodel
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -69,11 +69,11 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Intake happens during&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about signing up on QLess](/residential-toolkit/sign-up-on-qless).&nbsp;
+[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).&nbsp;
 
 ### &nbsp;

@@ -6,7 +6,7 @@ project_name: deck
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. You can also [hire a professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -26,7 +26,7 @@ All deck permit applications require:
 
 ### 1. Application
 
-* The [Uncovered deck permit application]({{ site.url }}/assets/applications-and-forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
+* The [Uncovered deck permit application]({{ site.baseurl }}/assets/applications-and-forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
 * Covered decks require a New Construction/Addition application that can be filled out by you, your architect or your engineer.
 
 ### 2. Plot Plan
@@ -41,7 +41,7 @@ The deck's floor plan must be drawn to scale either by hand or on a computer. Th
 
 ### 4. Elevation Plan
 
-The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a licensed professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
+The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a licensed professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
@@ -59,11 +59,11 @@ The foundation plan can only be drawn by a structural engineer.
 
 ## How do I submit my application?
 
-Submit your complete permit application to&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application to&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about signing up on QLess](/residential-toolkit/sign-up-on-qless).
+[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
 ### &nbsp;

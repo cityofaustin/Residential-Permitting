@@ -3,14 +3,14 @@ seo_title: Define your Project in Austin
 title: 'General > 1. Define'
 step_number: 1
 project_name: general process
-permalink: /projects/general-process/define/
+permalink: /residential/projects/general-process/define/
 ---
 
 
 The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * Define and describe your project,
-* [Find out if you need permits and what they are](/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
+* [Find out if you need permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
 * And collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
@@ -29,10 +29,10 @@ Every project requires you to follow zoning regulations to make sure it doesn’
 
 ### The most common zoning regulations apply to:
 
-* [Setbacks](/resources/glossary/setback)
-* [Easements](/resources/glossary/easement)
-* [Impervious Cover](/resources/glossary/impervious-cover)
-* [Floodplains](/resources/glossary/floodplain)
+* [Setbacks](/residential/resources/glossary/setback)
+* [Easements](/residential/resources/glossary/easement)
+* [Impervious Cover](/residential/resources/glossary/impervious-cover)
+* [Floodplains](/residential/resources/glossary/floodplain)
 * And historic reviews for homes over 40 years old.
 
 ## Do I need a permit?
@@ -70,13 +70,13 @@ Your contractor is responsible for getting the required permits if you are insta
 
 Having certain trees on your property may require a tree permit.
 
-If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application]({{ site.url }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
+If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application]({{ site.baseurl }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
 
 #### How to measure your trees
 
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/page/residential-tree-permit-process).
 
-You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential-toolkit/building-near-a-tree/).
+You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 > ###### What is a critical root zone?
 >
@@ -92,13 +92,13 @@ Demolition permits are necessary if you change walls in your home, extend a room
 
 ### Express permits
 
-You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Express permits helps make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential-toolkit/express-permits).
+You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Express permits helps make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits).
 
 ### Make sure you can get a permit
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential-toolkit/can-i-get-a-permit).
+You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -111,4 +111,4 @@ It’s possible to prepare your permit application without consulting with a rev
 * Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
-You may need to [hire a licensed professional](/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;
+You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;

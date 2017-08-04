@@ -6,7 +6,7 @@ project_name: shed
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -24,7 +24,7 @@ All shed permit applications require:
 
 ### 1. Application
 
-The [new construction/addition application]({{ site.url }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or other licensed professional.
+The [new construction/addition application]({{ site.baseurl }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or other licensed professional.
 
 ### 2. Plot plan
 
@@ -48,7 +48,7 @@ Use a separate page for each of the following items:
 
 ### 4. Elevation plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/resources/sample-plans).
+The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
@@ -56,27 +56,27 @@ The elevation plan of your proposed addition or extension must be drawn to scale
 
 The foundation plan can only be drawn by a structural engineer. A foundation plan is required for all custom-built sheds. A foundation plan is also required for any foundations that require digging into the ground (excavating) or building a level surface (grading), such as a pier and beam foundation or a slab foundation. You will need a foundation plan if you put a prefabricated shed on a slab foundation.
 
-For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report]({{ site.url }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a foundation plan.
+For prefabricated sheds that require a building permit, a copy of the plans from the manufacturer along with a [Structural Verification Report]({{ site.baseurl }}/assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf) from a licensed engineer or architect may be submitted instead of a foundation plan.
 
 ### 6. BSPA form
 
-When applying for a shed building permit, a signed [BSPA Form]({{ site.url }}/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/resources/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
+When applying for a shed building permit, a signed [BSPA Form]({{ site.baseurl }}/assets/applications-and-forms/bspa.pdf) from [Austin Energy](/residential/resources/contact/#austin-energy) is required to confirm your shed isn't too close to any power lines.
 
 ### Other commonly required documents
 
-* [**Owner’s Authorization Form**]({{ site.url }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
+* [**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
 * **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need wind bracing and framing plans that are drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer.
 
 ---
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
+Intake happens during&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about signing up on QLess](/residential-toolkit/sign-up-on-qless).
+[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
 Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 

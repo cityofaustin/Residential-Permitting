@@ -3,8 +3,10 @@ title: Admin
 layout: default
 lead_markdown: ''
 description:
-permalink: /admin/
-in_admin_pages: false
+permalink: /residential/admin/
+redirect_from: /admin
+in_admin_pages: true
+sitemap: false
 ---
 {% assign admin_pages = site.content | where: "in_admin_pages", true | sort: "menu_sort_order" %}
 

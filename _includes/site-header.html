@@ -43,29 +43,29 @@
       <div class="center-xs col-xs-12">
         <nav>
           <ul>
-            <li><a class="header-link-list" href="{{ site.url }}/">{{ site.data.labels.languages[site.language].home }}</a></li>
+            <li><a class="header-link-list" href="{{ site.baseurl }}/residential">{{ site.data.labels.languages[site.language].home }}</a></li>
             <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].projects_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                 {% for project in project_pages limit: 5 %}
-                  <li><a class="header-link-list" href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.baseurl }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/projects">{{ site.data.labels.languages[site.language].view_all_projects_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.baseurl }}/residential/projects">{{ site.data.labels.languages[site.language].view_all_projects_link }}</a></li>
               </ul>
             </li>
             <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].toolkit_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                   {% for page in toolkit_pages limit: 5 %}
-                  <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.baseurl }}/residential/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
               </ul>
             </li>
             <li aria-haspopup="true"><span>{{ site.data.labels.languages[site.language].resources_label }} {% include _icon.html icon='caret-down' context='More options' %}</span>
               <ul aria-hidden="true" aria-label="submenu">
                 {% for page in resource_pages limit: 5 %}
-                  <li><a class="header-link-list" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a class="header-link-list" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
-                <li><a class="header-link-list-view-all" href="{{ site.url }}/resources">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
+                <li><a class="header-link-list-view-all" href="{{ site.baseurl }}/residential/resources">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
               </ul>
             </li>
           </ul>

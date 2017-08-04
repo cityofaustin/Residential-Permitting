@@ -2,21 +2,21 @@
   <div class="container container-fluid">
     <div class="row start-md start-xs center-sm">
       <div class="footer-border-top footer-logo col-xs-12 col-sm-5 col-md-3 col-sm-offset-1 col-md-offset-0 first-md last-xs start-sm">
-        <img src="{{ site.url }}/assets/img/coa-austin-seal-white.svg" alt="City of Austin Seal" height="100" width="100"/>
+        <img src="{{ site.baseurl }}/assets/img/coa-austin-seal-white.svg" alt="City of Austin Seal" height="100" width="100"/>
         <div class="hidden-md">{{ site.data.labels.languages[site.language].intro_markdown | strip_newlines | markdownify }}</div>
       </div>
 
       <div class="footer-link-list col-xs-12 hidden-sm">
-        <h4><a href="{{ site.url }}">{{ site.data.labels.languages[site.language].home }}</a></h4>
+        <h4><a href="{{ site.baseurl }}">{{ site.data.labels.languages[site.language].home }}</a></h4>
       </div>
 
       <div class="footer-link-list col-xs-12 col-sm-5 col-md-3 start-sm">
         <h4 class="footer-border-top">{{ site.data.labels.languages[site.language].projects_label }}</h4>
           <ul aria-label="submenu">
             {% for project in project_pages limit: 5 %}
-              <li><a href="{{ site.url }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
+              <li><a href="{{ site.baseurl }}{{ project.url }}">{{ project.project_name | titlecase }}</a></li>
             {% endfor %}
-            <li class="footer-link-list-view-all"><a href="{{ site.url }}/projects">{{ site.data.labels.languages[site.language].view_all_projects_link }}</a></li>
+            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/residential/projects">{{ site.data.labels.languages[site.language].view_all_projects_link }}</a></li>
           </ul>
         </div>
 
@@ -24,9 +24,9 @@
           <h4 class="footer-border-top">{{ site.data.labels.languages[site.language].toolkit_label }}</h4>
           <ul aria-label="submenu">
             {% for page in toolkit_pages limit: 5 %}
-              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+              <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li class="footer-link-list-view-all"><a href="{{ site.url }}/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
+            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
           </ul>
         </div>
 
@@ -34,9 +34,9 @@
           <h4 class="footer-border-top">{{ site.data.labels.languages[site.language].resources_label }}</h4>
           <ul aria-label="submenu">
             {% for page in resource_pages limit: 5 %}
-              <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+              <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li class="footer-link-list-view-all"><a href="{{ site.url }}/resources">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
+            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/resources/residential">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
           </ul>
       </div>
     </div>
