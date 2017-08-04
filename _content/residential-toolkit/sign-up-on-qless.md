@@ -1,5 +1,5 @@
 ---
-title: Sign up on QLess
+title: Get in line on QLess
 lead_markdown:
 in_resources_menu: false
 in_toolkit_menu: true
@@ -7,7 +7,9 @@ _hide_content: false
 ---
 
 
-Residential Plan Review can get very busy and wait times can be an hour or longer. To hold your place in line and save time, we recommend signing in to the&nbsp;[QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), an online queueing system, or arriving as close to opening time as possible to sign up in person.
+Hold your place in line and save time.&nbsp;
+
+Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing in to the&nbsp;[QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), an online queueing system, or arriving as close to opening time as possible to sign up in person.
 
 #### Instructions for signing up on the QLess website
 
