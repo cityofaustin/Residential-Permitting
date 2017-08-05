@@ -2,6 +2,7 @@
 title: Contact a department
 seo_title:
 seo_description: Directory of departments involved in permitting.
+summary: Directory of departments involved in permitting.
 layout: contact
 in_resources_menu: true
 in_toolkit_menu: false

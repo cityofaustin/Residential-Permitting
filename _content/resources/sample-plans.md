@@ -2,6 +2,7 @@
 title: Sample Plans
 seo_title:
 seo_description: Examples of effective sample plans.
+summary: Examples of effective sample plans.
 layout: sample-plans-index
 in_resources_menu: true
 in_toolkit_menu: false
