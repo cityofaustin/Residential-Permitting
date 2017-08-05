@@ -67,13 +67,13 @@ layout: default
             </div>
             {% endif %}
 
-            {% if department.email %}
+            {% if department.email_address %}
             <div class="row">
               <div>
                 <p>{% include _icon.html icon='mail' context='Email' %}</p>
               </div>
               <div class="col-xs-10">
-                <p><a href="mailto:{{ department.email }}" title="{{ site.data.labels.languages[site.language].department_email_label }} {{ department.department_name }}: {{ department.email }}" target="_blank">{{ department.email }}</a></p>
+                <p><a href="mailto:{{ department.email_address }}" title="{{ site.data.labels.languages[site.language].department_email_label }} {{ department.department_name }}: {{ department.email_address }}" target="_blank">{{ department.email_address }}</a></p>
               </div>
             </div>
             {% endif %}

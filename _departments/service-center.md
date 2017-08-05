@@ -5,6 +5,7 @@ department_name: Service Center
 department_link: 'http://www.austintexas.gov/department/building-permits'
 summary: 'The Service Center (formerly the Permit Center) issues building and applicable trade (building, plumbing, electrical, mechanical, irrigation) permits, provides permit payment services, and registers licensed contractors (electrical, mechanical, plumbing, and irrigation) to perform work.'
 phone: 512-978-4000
+email_address:
 contact_form_url: 'http://www.austintexas.gov/email/dsdhelp'
 hours:
   - time_period_markdown: |-

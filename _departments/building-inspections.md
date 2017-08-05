@@ -6,6 +6,7 @@ department_link: 'http://austintexas.gov/page/building-inspections'
 summary: 'The Building Inspection Division performs inspections to ensure construction is in compliance with applicable Building, Electrical, Plumbing, Mechanical, Energy and Zoning Codes for the benefit and safety of everyone.'
 phone: 512-978-4000
 email_address: building.inspections@austintexas.gov
+contact_form_url:
 hours:
   - time_period_markdown: |-
       *General*
