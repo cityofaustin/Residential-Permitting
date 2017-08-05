@@ -38,7 +38,7 @@ A plot plan is a drawing that shows your home’s current footprint and any exis
 
 The deck's floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale. Include details such as any support beams and handrails on the floor plan.
 
-{% include diagram.html diagram="floor-plan" %}
+{% include diagram.html diagram="floor plan" %}
 
 ### 4. Elevation Plan
 

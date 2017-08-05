@@ -14,13 +14,4 @@ prefooter_text: "Looking for all the applications and forms you might need for p
 prefooter_link_text: Download all deck documents
 prefooter_link_path: /assets/applications-and-forms/all documents deck.zip
 _hide_content: true
-
-_comments:
-  excerpt: Shows up on homepage. Only use on overview page
-  hide_project_from_menu: Should this show up in the header navigation and homepage? Only use on overview page
-  overview_of_steps_markdown: Only use on overview page
-  permalink: "The relative URL of the project's folder, ie \"/residential/projects/project-folder/\". Only use on overview page"
-  prefooter_text: text before the button at the bottom of overview
-  prefooter_link_text: button text for bottom of overview
-  prefooter_link_path: url to file or page where the button should link
 ---

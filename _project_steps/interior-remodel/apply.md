@@ -43,9 +43,9 @@ Use a separate page for:
 * Existing walls and features that will remain intact
 * Your proposed floor plan.
 
-{% include diagram.html diagram="exist-demo-plan" %}
+{% include diagram.html diagram="existing demo plan" %}
 
-{% include diagram.html diagram="proposed-floor-plan" %}
+{% include diagram.html diagram="proposed floor plan" %}
 
 ### 4. Elevation Plan
 

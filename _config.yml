@@ -60,11 +60,11 @@ defaults:
       - glossary
     algolia_category: Term
     _comments:
-      term: lowercase with spaces
-      short_definition: (required)
-      long_definition_markdown: (required)
-      source: Related Code?
-      confused_with_term_in_glossary: Other words commonly confused with this term
+      term: The word to define, formatted lowercase with spaces. e.g. easement, impervious cover, etc
+      short_definition: A short, digestible defintion which shows up on sidebars in other articles.
+      source_link: The URL to your official source.
+      source_name: The name of your official source. Use location information (Chapter, section, etc) if you can
+      confused_with_term_in_glossary: Select other glossary words commonly confused with this term.
 
 # for all content
 - scope:
@@ -89,8 +89,16 @@ defaults:
     use_default_project_content: false
     algolia_category: Project Steps for
     _comments:
-      project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project.
-      step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc
+      excerpt: Preview text that shows up on homepage.
+      hide_project_from_menu: Check this box if you don't want anyone to see your page. It will still be published at it's normal URL, but will not show in the menus or on the homepage.
+      hide_project_from_homepage: Check this box to hide this project from the homepage.
+      overview_of_steps_markdown: Explain the basic process from a high level here.
+      permalink: "The relative URL of the project's folder, ie \"/residential/projects/shed/\". Otherwise this page would live at /residential/projects/project-folder/overview"
+      prefooter_text: The text before the button at the bottom of overview pages. Introduces additional content.
+      prefooter_link_text: The button text at the bottom of overview pages.
+      prefooter_link_path: Upload or select a document or zip file, or link to another page.
+      project_name: e.g., shed, interior remodel, etc. Use the same project name for all pages associated with a project. Format the name lowercase, with spaces.
+      step_number: Order the pages of the project here, starting with 0 for overview, 1 for define, etc.
       table_of_contents: The sub-steps of each major step, which show up on overview.
 # for resource pages
 - scope:
@@ -117,7 +125,6 @@ defaults:
       contact_form_url: Only a link to a contact form http://www.austintexas.gov/email/
       period_name: e.g., "General questions" or "By appointment only"
       period_time_markdown: e.g., "Monday through Friday, 8am to 5pm"
-      featured: Whether to show this department above all others on the contact page. Only one department can be featured, so deselect any other department (with permission)
 
 # for document and plan libraries
 - scope:
@@ -125,30 +132,18 @@ defaults:
     type: diagrams
   values:
     algolia_category: Diagram
-    _comments:
-      title: Title of this Diagram
-      summary: Brief description of this form or document
-      date: 2017-06-14
-      for_project_named:
-      thumb_path: /assets/img/diagrams/project/plan.png
-      file_path: /assets/img/diagrams/project/plan.pdf
     diagram_type:
-      - floor-plan
-      - elevation
-      - plot-plan
-      - exist-demo-plan
-      - proposed-floor-plan
+      - "floor plan"
+      - "elevation"
+      - "plot plan"
+      - "existing demo plan"
+      - "proposed floor plan"
 - scope:
     path: ''
     type: forms
   values:
     layout: page
     algolia_category: Form
-    _comments:
-      title: Resource / Document Title
-      summary: Brief description of this form or document
-      document_type: What kind of document is this?
-      file_path: local path to the file itself, i.e. /uploads/form.pdf
     document_type:
       - form
       - application
@@ -160,7 +155,6 @@ defaults:
   values:
     sitemap: false
     in_admin_pages: true
-    _comments:
 
 
 
@@ -168,9 +162,23 @@ defaults:
 _comments:
   title: Title for this page in CloudCannon (required)
   seo_title: Title for this page (shows up in Search Engine results, defaults to title if empty)
-  seo_description: A short description which will show up in Search Engine results
-  menu_sort_order: Order this page shows up in any nav menus
+  seo_description: A short description which will show up in Search Engine results.
+  in_resources_menu: Check this to show this page in the Resources menu.
+  in_toolkit_menu: Check this to show this page in the Residential Toolkit menu.
+  menu_sort_order: The order this page shows up in any nav menus. Higher is lower. 0 is first.
+  lead_markdown: The first paragraph of body copy, larger and just below the headline.
   excerpt: If you don't define one here, the site will use your first content paragraph. If you define one, please keep it under about 155 characters.
+  summary: A short intro to this oage. Please keep it under about 155 characters.
+  document_type: Format the name lowercase, with spaces. Common answers are application, form, etc
+  diagram_type: Format the name lowercase, with spaces. Common answers are floor plan, elevation, existing plot plan
+  thumb_path: Upload a new file or select an existing one. This image should be 792 × 612px
+  file_path: Upload a new file or select an existing one
+  date: In the format 2017-06-14
+  for_project_named: Make sure this matches the project pages' "Project Name" fields
+  redirect_from: Anyone visiting the URL in this field will be redirected to this page. Relative path, e.g., /residential/resources/contact
+  permalink: This is the URL that this file should output to, regardless of it's folder structure. Relative path, e.g., /residential/resources/contact
+  layout: Manually specify a different layout for this page. Usually, you do not need to change this.
+
 description: The City of Austin’s Residential Permitting Resource
 subtitle: Austin’s Residential Permitting Resource
 show_full_navigation: true

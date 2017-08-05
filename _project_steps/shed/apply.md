@@ -33,7 +33,7 @@ The plot plan must be drawn to scale by hand or on a computer. It can be prepare
 
 > You can draw your shed to scale on a copy of your survey. It’s easier and helpful for reviewers!
 
-{% include diagram.html diagram="plot-plan" %}
+{% include diagram.html diagram="plot plan" %}
 
 ### 3. Floor plan
 
@@ -45,7 +45,7 @@ Use a separate page for each of the following items:
 * Existing walls and features that will remain,
 * Your proposed floor plan.
 
-{% include diagram.html diagram="floor-plan" %}
+{% include diagram.html diagram="floor plan" %}
 
 ### 4. Elevation plan
 

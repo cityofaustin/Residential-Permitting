@@ -1,6 +1,6 @@
 ---
-seo_title: 
 title: Sample plan
+seo_title:
 summary: Sample plan.
 date: 2017-06-14
 for_project_named: project
