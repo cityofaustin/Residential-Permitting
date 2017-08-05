@@ -1,6 +1,7 @@
 ---
-seo_title: Get a Consultation for a Shed Permit in Austin
 title: Shed > 2. Consult
+seo_title: Get a Consultation for a Shed Permit in Austin
+seo_description:
 step_number: 2
 project_name: shed
 ---

@@ -1,5 +1,5 @@
 ---
-seo_title: 
+
 title: Residential Plan Review
 department_name: Residential Plan Review
 department_link: 'http://austintexas.gov/page/residential-building-review'

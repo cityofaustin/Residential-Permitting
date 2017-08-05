@@ -1,9 +1,11 @@
 ---
-seo_title:
 title: Check my application status
+seo_title:
+seo_description: What is this page about?
+in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 2
-seo_description: What is this page about?
+lead_markdown:
 ---
 
 

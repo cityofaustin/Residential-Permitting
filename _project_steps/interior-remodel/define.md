@@ -1,6 +1,7 @@
 ---
-seo_title: 'Define your Interior Remodel in Austin, Texas'
 title: Interior Remodel > 1. Define
+seo_title: 'Define your Interior Remodel in Austin, Texas'
+seo_description:
 step_number: 1
 project_name: interior remodel
 ---

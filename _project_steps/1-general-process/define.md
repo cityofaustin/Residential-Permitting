@@ -1,6 +1,7 @@
 ---
-seo_title: Define your Project in Austin
 title: 'General > 1. Define'
+seo_title: Define your Project in Austin
+seo_description:
 step_number: 1
 project_name: general process
 permalink: /residential/projects/general-process/define/

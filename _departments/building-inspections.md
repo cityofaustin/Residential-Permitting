@@ -1,5 +1,5 @@
 ---
-seo_title: 
+
 title: Building Inspections
 department_name: Building Inspections
 department_link: 'http://austintexas.gov/page/building-inspections'

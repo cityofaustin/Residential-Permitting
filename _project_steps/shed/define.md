@@ -1,6 +1,7 @@
 ---
-seo_title: 
 title: Define your Shed Project in Austin
+seo_title:
+seo_description:
 step_number: 1
 project_name: shed
 tabs:

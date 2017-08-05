@@ -1,6 +1,8 @@
 ---
-seo_title: 
+
 title: Structural Verification Report
+seo_title:
+seo_description:
 summary: Structural Checklist and Report
 document_type: form
 file_path: /assets/applications-and-forms/Structural_Verification_Report_citylogo.pdf

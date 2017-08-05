@@ -1,5 +1,4 @@
 ---
-seo_title: 
 title: Sample deck elevation
 summary: Sample deck elevation
 date: 2017-06-14

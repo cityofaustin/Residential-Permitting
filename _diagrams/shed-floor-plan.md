@@ -1,5 +1,4 @@
 ---
-seo_title: 
 title: Sample shed floor plan
 summary: Sample shed floor plan
 date: 2017-06-14 00:00:00

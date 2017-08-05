@@ -1,9 +1,11 @@
 ---
-seo_title:
 title: Can I get a permit?
+seo_title:
+seo_description: What is this page about?
+in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 1
-seo_description: What is this page about?
+lead_markdown:
 ---
 
 

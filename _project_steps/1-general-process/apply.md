@@ -1,6 +1,7 @@
 ---
-seo_title: Apply for a Permit in Austin
 title: 'General > 3. Apply'
+seo_title: Apply for a Permit in Austin
+seo_description:
 step_number: 3
 project_name: general process
 permalink: /residential/projects/general-process/apply/

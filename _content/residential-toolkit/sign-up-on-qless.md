@@ -1,9 +1,11 @@
 ---
 title: Get in line on QLess
-lead_markdown:
+seo_title:
+seo_description: What is this page about?
 in_resources_menu: false
 in_toolkit_menu: true
-_hide_content: false
+menu_sort_order: 1
+lead_markdown:
 ---
 
 

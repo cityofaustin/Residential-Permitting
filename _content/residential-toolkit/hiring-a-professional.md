@@ -1,10 +1,11 @@
 ---
-seo_title: 
 title: Hiring a professional
-lead_markdown:
+seo_title:
+seo_description:
 in_resources_menu: false
 in_toolkit_menu: true
-_hide_content: false
+menu_sort_order: 
+lead_markdown:
 ---
 
 

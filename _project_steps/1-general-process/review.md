@@ -1,6 +1,7 @@
 ---
-seo_title: The Review Process for a Permit in Austin
 title: General > 4. Review
+seo_title: The Review Process for a Permit in Austin
+seo_description: 
 step_number: 4
 project_name: general process
 permalink: /residential/projects/general-process/review/

@@ -1,5 +1,5 @@
 ---
-seo_title: 
+
 title: Development Assistance Center
 department_name: Development Assistance Center
 department_link: 'http://www.austintexas.gov/department/development-assistance-center'

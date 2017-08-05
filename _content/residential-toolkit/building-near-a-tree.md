@@ -1,10 +1,11 @@
 ---
-seo_title:
 title: Building near a tree
-in_toolkit_menu: true
-lead_markdown:
-menu_sort_order: 3
+seo_title:
 seo_description: What is this page about?
+in_resources_menu: false
+in_toolkit_menu: true
+menu_sort_order: 3
+lead_markdown:
 ---
 
 

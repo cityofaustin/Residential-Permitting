@@ -1,18 +1,19 @@
 ---
-seo_title: General Process Permit Overview
 title: General > 0. Overview
-excerpt: A detailed look into the residential permitting process in the City of Austin
+seo_title: General Process Permit Overview
+seo_description:
+step_number: 0
 project_name: general process
+permalink: /residential/projects/general-process/
+redirect_from: /projects/general-process/
 hide_project_from_menu: false
 hide_project_from_homepage: true
 menu_sort_order: 0
-step_number: 0
+excerpt: A detailed look into the residential permitting process in the City of Austin
 overview_of_steps_markdown: 'Use this guide as an introduction to permitting if this is your first project, you are new to Austin, or need a refresher on the permitting process. For more detailed or project specific information, check to see if your project is featured in our [All Projects section](/residential/projects).'
-permalink: /residential/projects/general-process/
-redirect_from: /projects/general-process/
-prefooter_text:
-prefooter_link_text:
-prefooter_link_path:
+prefooter_text: nil
+prefooter_link_text: nil
+prefooter_link_path: nil
 _hide_content: true
 
 project_steps_list:

@@ -1,5 +1,5 @@
 ---
-seo_title: 
+
 title: Development Services Department
 department_name: Development Services Department
 department_link: 'http://www.austintexas.gov/department/development-services'

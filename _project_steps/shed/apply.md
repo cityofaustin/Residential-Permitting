@@ -1,6 +1,7 @@
 ---
-seo_title: Apply for a Shed Permit in Austin
 title: Shed > 3. Apply
+seo_title: Apply for a Shed Permit in Austin
+seo_description:
 step_number: 3
 project_name: shed
 ---

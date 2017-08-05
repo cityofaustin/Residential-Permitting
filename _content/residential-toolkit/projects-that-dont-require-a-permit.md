@@ -1,9 +1,11 @@
 ---
 title: "Projects that don't require a permit"
-lead_markdown:
+seo_title:
+seo_description: What is this page about?
 in_resources_menu: false
 in_toolkit_menu: true
-_hide_content: false
+menu_sort_order:
+lead_markdown:
 ---
 
 

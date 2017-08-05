@@ -1,5 +1,4 @@
 ---
-seo_title: 
 title: Sample shed plot plan
 summary: Sample shed plot plan
 date: 2017-06-14 00:00:00

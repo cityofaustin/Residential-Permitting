@@ -1,6 +1,7 @@
 ---
-seo_title: Schedule inspections for a Deck Permit in Austin
 title: Deck > 5. Inspect
+seo_title: Schedule inspections for a Deck Permit in Austin
+seo_description:
 step_number: 5
 project_name: deck
 tabs:

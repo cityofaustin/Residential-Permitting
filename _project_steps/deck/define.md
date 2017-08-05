@@ -1,6 +1,7 @@
 ---
-seo_title: 'Define your Deck Project in Austin, Texas'
 title: Deck > 1. Define
+seo_title: 'Define your Deck Project in Austin, Texas'
+seo_description:
 step_number: 1
 project_name: deck
 tabs:
@@ -84,7 +85,7 @@ Having certain trees on your property may require a tree permit.
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf) help you take an accurate measurement.
 
  If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Permit]({{ site.baseurl }}/assets/applications-and-forms/tree_permit.pdf)  before you start construction. You will also need to pay an additional fee.
- 
+
  You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees. Learn more about [protected trees and their construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 ### Make sure you can get a permit
