@@ -62,7 +62,7 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Do your best to label any load-bearing walls or beams.
 
-See examples of project sketches.
+[See examples of project sketches](/residential/resources/sample-plans).
 
 ---
 
