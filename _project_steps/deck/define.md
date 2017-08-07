@@ -75,7 +75,7 @@ Your deck requires a building permit if it will:
 
 * Be attached to your home,
 * Services a door,
-* Be over 200 square feet (larger than 20 feet x 10 feet),
+* Be over 200 square feet,
 * Be more than 30 inches above ground,
 * Have plumbing,
 * Have electric,
@@ -87,9 +87,9 @@ Your deck requires a building permit if it will:
 
 #### How much do building permits cost?
 
-Building permits for decks start at $584.48 and go up depending on the your specific needs. This cost includes the plan review, the actual permit, inspections, and any additional fees.
+Building permits for decks start at $584.48 and go up depending on the your specific needs. This cost includes the plan review, the permit itself, your inspections, and any additional fees.
 
-There will be additional fees if your project requires a trade permit like an electrical or plumbing permit, or if you are building near a tree. Your reviewer will explain any additional costs during your consultation.
+There are additional fees if you build near a protected tree or need trade permits. Your reviewer will explain any additional costs during your consultation.
 
 ### Electric permits
 
