@@ -18,7 +18,7 @@ For more specific issues regarding your project, consider scheduling a [paid con
 
 ## How can I prepare for my consultation?
 
-We suggest preparing some information about your property and project ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
+We suggest preparing some information about your property and project ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most of your consultation.
 
 ### 1. Be prepared to answer the following questions about your project:
 
@@ -30,7 +30,7 @@ We suggest preparing some information about your property and project ahead of t
 * Will you demolish or change any existing property features such as a patio, a driveway, or a walkway?
 * Will you change or add electrical wiring, plumbing, or a heating and cooling system?
 * Will you make any cosmetic changes that would require an express permit?
-* Do you have any on trees larger than 19 inches in diameter on your property?
+* Do you have any trees larger than 19 inches in diameter on your property?
 * Is your home more than 40 years old?
 
 The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
@@ -39,14 +39,12 @@ The project scoping worksheet can help you collect this information. You can als
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
 
-* The current layout of your property including any existing structures such as your house, pool, or driveway,
-* The layout of the structure you may be changing, adding, or removing.
+* the current layout of your property including any existing structures such as your house, pool, or driveway,
+* and the layout of the structure you may be changing, adding, or removing.
 
 Do your best to label any load-bearing walls or beams.
 
-See examples of project sketches:
-
-[Good Example / Bad Example]
+See examples of project sketches.
 
 ### 3. If possible, bring your property survey
 
@@ -60,9 +58,9 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
-* Home lender or title company from your original purchase,
-* Neighbors to find out where they got theirs,
-* Or, a surveyor to get a new survey.
+* home lender or title company from your original purchase,
+* neighbors to find out where they got theirs,
+* or, a surveyor to get a new survey.
 
 You can find a surveyor through the [Texas Board of Professional Land Surveying](http://txls.texas.gov).
 
@@ -74,7 +72,7 @@ All consultations take place at [Residential Plan Review](/residential/resources
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about how to sign up for a free 20 minute consultation](/residential/residential-toolkit/sign-up-on-qless).
