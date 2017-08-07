@@ -9,7 +9,7 @@ project_name: interior remodel
 
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
-* fefine and describe your project,
+* define and describe your project,
 * [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
 * and collect the right information for your consultation and application.
 
