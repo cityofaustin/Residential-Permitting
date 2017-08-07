@@ -105,11 +105,11 @@ You may also be unable to get a permit if you have already reached the maximum a
 
 ## Come in for a free 20 minute consultation with a reviewer
 
-It’s possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for their permits. During this consultation, the reviewer will:
+It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for their permits. During this consultation, the reviewer will:
 
-* Let you know if you can complete your project as you originally planned.
-* Give you the personalized property information you need to fill out your building permit application.
-* Give you a list of documents you need to prepare for your building permit application based on your specific project.
-* Explain any next steps needed for you to correctly permit your project.
+* let you know if you can complete your project as you originally planned,
+* give you the personalized property information you need to fill out your building permit application,
+* give you a list of documents you need to prepare for your building permit application based on your specific project,
+* and explain any next steps needed for you to correctly permit your project.
 
 You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;
