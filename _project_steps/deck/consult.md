@@ -1,5 +1,5 @@
 ---
-title:  Deck > 2. Consult
+title: Deck > 2. Consult
 seo_title: Get a Consultation for a Deck Permit in Austin
 seo_description:
 step_number: 2
@@ -9,26 +9,28 @@ project_name: deck
 
 All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
-Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
+Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
+
+For more specific issues regarding your project, consider scheduling a paid consultation.&nbsp;
 
 ---
 
 ## How can I prepare for my consultation?
 
-We suggest preparing some information about your shed ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
+We suggest preparing some information about your deck ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
 
 ### 1. Be prepared to answer these questions about your project:
 
-* What is the address where you will build the deck?
+* What is the address where your deck will be built?
 * Is your deck:
-  * Attached to your home?
-  * Accessible by a door?
-  * Smaller than 200 square feet?
-  * Built in a floodplain?
+  * attached to your home?
+  * accessible by a door?
+  * smaller than 200 square feet?
+  * built in a floodplain?
   * 30 inches or more above ground?
-  * Covered or uncovered?
-  * Going to need electricity?
-  * Near a tree greater than 19 inches in diameter?
+  * covered or uncovered?
+  * going to need electricity?
+  * near a tree greater than 19 inches in diameter?
 
 The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
@@ -44,9 +46,9 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
-* Home lender or the title company from your original purchase,
-* Neighbors to find out where they got theirs,
-* Or, your surveyor to get a new survey.
+* home lender or the title company from your original purchase,
+* neighbors to find out where they got theirs,
+* or, your surveyor to get a new survey.
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
@@ -70,7 +72,7 @@ All consultations take place at [Residential Plan Review](/residential/resources
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 Read more about how to sign up for a free 20 minute consultation.
