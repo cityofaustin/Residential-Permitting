@@ -26,7 +26,7 @@
             {% for page in toolkit_pages limit: 5 %}
               <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
+            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/residential/residential-toolkit">{{ site.data.labels.languages[site.language].view_all_toolkit_link }}</a></li>
           </ul>
         </div>
 
@@ -36,7 +36,7 @@
             {% for page in resource_pages limit: 5 %}
               <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}
-            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/resources/residential">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
+            <li class="footer-link-list-view-all"><a href="{{ site.baseurl }}/residential/resources">{{ site.data.labels.languages[site.language].view_all_resources_link }}</a></li>
           </ul>
       </div>
     </div>
