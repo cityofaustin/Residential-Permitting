@@ -67,7 +67,7 @@ When applying for a shed building permit, a signed [BSPA Form]({{ site.baseurl }
 
 ### Other commonly required documents
 
-* [**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
+* [**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf): An engineer, architect, or any other licensed professional will need your permission to submit your application. Use this form if they will submit your application for you.
 * **Wind Bracing and Framing Plan:** If your shed will be over 500 square feet and custom built, you will need wind bracing and framing plans that are drawn to IRC standards by you, a structural engineer, an architect, or a certified building designer.
 
 ---
