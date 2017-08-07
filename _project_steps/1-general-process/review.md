@@ -1,7 +1,7 @@
 ---
 title: General > 4. Review
 seo_title: The Review Process for a Permit in Austin
-seo_description: 
+seo_description:
 step_number: 4
 project_name: general process
 permalink: /residential/projects/general-process/review/
@@ -10,8 +10,8 @@ permalink: /residential/projects/general-process/review/
 
 You enter into the review process after you submit your application. During review, you and the city work together to make sure your plans are:
 
-* Up to code,
-* Safe for you, guests, and neighbors.
+* up to code,
+* and safe for you, guests, and neighbors.
 
 ---
 
@@ -25,7 +25,7 @@ You can check the status of your permit application on [Austin Build + Connect](
 
 You can search for expired permits by selecting "Public Search," and entering the property address, date range, or permit case/type and hitting submit.
 
-If you are not the applicant, meaning a hired professional submitted your application, the hired professional will receive the approval of your permit application or any review comments. You can request to be sent a copies of any emails or have your authorized applicant forward them to you.
+If you are not the applicant, meaning a hired professional submitted your application, the hired professional will receive the approval of your permit application or any review comments. You can request to be sent copies of any emails or have your authorized applicant forward them to you.
 
 ### 2. If you receive comments, your plans must be adjusted
 
@@ -33,7 +33,7 @@ Comments are sent in a Master Comment Report to the email provided on the applic
 
 If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/residential/resources/glossary/) or speak with a professional.
 
-If you have questions or concerns about your comments, you can reach out directly to the reviewer who made the specific comments. Their information will be located on your comment document.
+If you have questions or concerns about your comments, you can reach out to a reviewer.
 
 ### 3. Submit updated plans
 
@@ -53,4 +53,4 @@ Most applications go through 2 rounds of review. After a second round of review,
 
 When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible on your work site before you begin your project.
 
-Remember, permitting doesn’t stop when you start building. Your work must be inspected throughout your process. Your permit will be closed after you pass the final inspection.
+Remember, permitting doesn’t stop when you start building. Your work must be inspected throughout your process. Your permit will be closed after you pass final inspections.
