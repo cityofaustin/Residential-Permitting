@@ -56,7 +56,7 @@ Additional charges are required if your project needs trade permits, if you are 
 
 ### Trade permits
 
-Trade permits are required if your project requires specialized work like changes to electrical wiring, plumbing, or heating and cooling. Trade permits can only be obtained by licensed professionals.
+Trade permits are required if your project includes specialized work like changes to electrical wiring, plumbing, or heating and cooling. Trade permits can only be obtained by licensed professionals.
 
 You need a trade permit if your project includes:
 
