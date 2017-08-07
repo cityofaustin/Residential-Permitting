@@ -75,7 +75,7 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 * Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-Read more about how to sign up for a free 20 minute consultation.
+[Read more about how to sign up for a free 20 minute consultation.](/residential/residential-toolkit/sign-up-on-qless)
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
