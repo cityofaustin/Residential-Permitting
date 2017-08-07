@@ -52,7 +52,7 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 
 3. Log In with your email, password and PIN number on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index) to access your profile.
 
-4. You will see several navigation links on the left side of the [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index) page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
+4. You will see several navigation links on the [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index) page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
 
 5. Follow the instructions to find your permit.
 
