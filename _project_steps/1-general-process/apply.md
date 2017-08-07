@@ -1,5 +1,5 @@
 ---
-title: 'General > 3. Apply'
+title: General > 3. Apply
 seo_title: Apply for a Permit in Austin
 seo_description:
 step_number: 3
@@ -8,7 +8,7 @@ permalink: /residential/projects/general-process/apply/
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a &nbsp;free 20 minute consultation or you can [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you sign up for a free 20 minute consultation or you can [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
@@ -36,7 +36,7 @@ Even though they may be mentioned in relation to one another, a site plan and a 
 
 * A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property.
 
-Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing the site plan or plot plan, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See [samples](/residential/resources/sample-plans) of a plot plan and instructions for drawing a site plan.
+Your plot plan must be drawn to scale either by hand or on a computer and can be prepared by you or a hired professional. If you’re hand drawing your plans, use graph paper to make it easy to draw to scale. If possible, include trees and power lines that run above your property. See [samples](/residential/resources/sample-plans) of a plot plan and instructions for drawing a site plan.
 
 ### 3. Floor Plan
 
@@ -44,9 +44,9 @@ The floor plan of your proposed project must be drawn to scale either by hand or
 
 Use a separate page for:
 
-* Existing walls and features to be demolished,&nbsp;
-* Existing walls and features that will remain,&nbsp;
-* Your proposed floor plan.
+* existing walls and features to be demolished,&nbsp;
+* existing walls and features that will remain,&nbsp;
+* and your proposed floor plan.
 
 ### 4. Elevation Plan
 
@@ -70,11 +70,10 @@ Here is a list of commonly requested forms you may need to submit with your appl
 * Homeowners authorization letter: There is a space for the homeowner’s signature on the application in place of letter.
 * S.M.A.R.T. Housing Project Information: If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
 * Demolition Application: This is only necessary if you will change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you need a demolition application, you will also need:
-  * A survey or plot plan (you can use the same one you used for your interior remodel or new addition application).
-  * To have it signed by the owner and notarized.
-  * Photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
+  * a survey or plot plan (you can use the same one you used for your interior remodel or new addition application),
+  * to have it signed by the owner and notarized,
+  * and photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 * Building Service Permit Application (BSPA): Required for building permits, not standalone trade or tree permits.
-* There are other forms or plans you may need, depending on the project specific needs. Those forms and plans can be determined at the consultation.
 
 There may be other forms or plans you may need to submit depending on your project. Those forms and plans can be determined at the consultation.
 
@@ -90,6 +89,5 @@ Submit your complete permit application at&nbsp;[Residential Plan Review](/resid
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
-
 
 ## &nbsp;
