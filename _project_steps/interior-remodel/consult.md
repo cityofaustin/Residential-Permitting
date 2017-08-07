@@ -64,7 +64,7 @@ Sketches give reviewers a clear picture of your project and help them determine 
 * the proposed floor plan (including new windows or doors),
 * and the proposed new walls.
 
-Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. Do your best to label any load-bearing walls or beams.
+Label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. Do your best to label any load-bearing walls or beams.
 
 ---
 
