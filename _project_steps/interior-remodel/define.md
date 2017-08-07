@@ -9,9 +9,9 @@ project_name: interior remodel
 
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
-* Define and describe your project,
-* [Find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
-* And collect the right information for your consultation and application.
+* fefine and describe your project,
+* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -47,16 +47,16 @@ Small changes, like converting a bathtub to shower or vice-versa, that don't req
 
 With the exception of changing doors and windows, an interior remodel only affects the inside of your home. You will need to apply for an interior remodel permit if your project includes at least one of the following:
 
-* Moving electric or plumbing fixture locations,
-* Moving an interior wall,
-* Changing an exterior wall, such as adding a window or door, or changing the size of a window.
+* moving electric or plumbing fixture locations,
+* moving an interior wall,
+* changing an exterior wall, such as adding a window or door, or changing the size of a window.
 
 Examples of projects that qualify for an interior remodel permit include:
 
-* Kitchen remodels,
-* Bathroom remodels,
-  * Removing more drywall than what surrounds the bathtub or shower in bathrooms,
-* Or adding a window or door where one did not originally exist.
+* kitchen remodels,
+* bathroom remodels,
+  * temoving more drywall than what surrounds the bathtub or shower in bathrooms,
+* or adding a window or door where one did not originally exist.
 
 Your interior remodel may need a demolition permit, especially if you will move or change an exterior wall, or change a window's shape. Extra considerations are taken if you make a change to your home's load-bearing walls or supports.
 
@@ -66,9 +66,9 @@ While you may think your project is a remodel, the City of Austin may consider i
 
 A new addition permit is required if you change your home's footprint by expanding a room, or if you convert a garage into a living or sleeping space. Other examples include:
 
-* Adding square footage to your home (air conditioned or un air conditioned),&nbsp;
-* Converting inhabitable space into habitable space,
-* Or moving an exterior wall.
+* adding square footage to your home (air conditioned or un air conditioned),&nbsp;
+* converting inhabitable space into habitable space,
+* or moving an exterior wall.
 
 You may need a demolition permit if you tear down an exterior wall.&nbsp;
 
@@ -80,10 +80,10 @@ Trade permits are required if your project includes changes to electrical wiring
 
 You will need a trade permit if your project includes:
 
-* Adding or moving an electrical outlet or fixture,
-* Installing HVAC,
-* Moving or adding a plumbing utility,
-* Or installing a new hot water heater.
+* adding or moving an electrical outlet or fixture,
+* installing HVAC,
+* moving or adding a plumbing utility,
+* or installing a new hot water heater.
 
 Your contractor is responsible for getting the required permits if you install or replace your hot water heater. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained.
 
