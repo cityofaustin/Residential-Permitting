@@ -39,9 +39,9 @@ tabs:
 
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your deck or applying for permits, it’s important to:
 
-* Define and describe your project,
-* [Find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
-* And collect the right information for your consultation and application.
+* define and describe your project,
+* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -73,13 +73,13 @@ The City of Austin provides a variety of permits to help residents build safe an
 
 Your deck requires a building permit if it will:
 
-* Be attached to your home,
-* Services a door,
-* Be over 200 square feet,
-* Be more than 30 inches above ground,
-* Have plumbing,
-* Have electric,
-* Or be built in a floodplain. To find out if you're in a floodplain, enter your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
+* be attached to your home,
+* services a door,
+* be over 200 square feet,
+* be more than 30 inches above ground,
+* have plumbing,
+* have electric,
+* or be built in a floodplain. To find out if you're in a floodplain, enter your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/residential/resources/glossary/floodplain)
 >
