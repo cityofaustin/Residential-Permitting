@@ -21,7 +21,7 @@ Remember to leave enough time for the completeness check. Residential Plan Revie
 
 ---
 
-## What documents will I need?
+## What documents will I need to submit?
 
 All shed permit applications require:
 
