@@ -27,6 +27,8 @@ An interior remodel fixes or updates the appearance or use of an existing home w
 
 ## Do I need a permit?
 
+The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
+
 Your project will need specific permits depending on what you want to do. You may also need to apply for a trade permit if you will change or install electric, plumbing, or HVAC.
 
 You may be able to simplify your project plan so that you don't need a permit. You can change your project plan before you apply as long as it still meets the requirements for a simpler permit.
@@ -35,7 +37,7 @@ You may be able to simplify your project plan so that you don't need a permit. Y
 
 The cost for permitting an interior remodeling project starts at $200 and goes up depending on your project's specific needs. This includes the plan review, the permit itself, your inspections, and fees.
 
-There will be additional charges if your project requires a trade permit, like an electrical or plumbing permit, if you are building near a tree, or if your home is in a historic neighborhood. Your reviewer can explain the costs during your in-person consultation.
+There are additional fees if you are building near a tree, need a trade permit, or if your home is in a historic neighborhood. Your reviewer can explain the costs during your consultation.
 
 ### Express permits
 
@@ -64,7 +66,7 @@ While you may think your project is a remodel, the City of Austin may consider i
 
 A new addition permit is required if you change your home's footprint by expanding a room, or if you convert a garage into a living or sleeping space. Other examples include:
 
-* Adding square footage to your home, (air conditioned or un air conditioned)&nbsp;
+* Adding square footage to your home (air conditioned or un air conditioned),&nbsp;
 * Converting inhabitable space into habitable space,
 * Or moving an exterior wall.
 
@@ -83,7 +85,7 @@ You will need a trade permit if your project includes:
 * Moving or adding a plumbing utility,
 * Or installing a new hot water heater.
 
-Your contractor is responsible for getting the required permits if you install or replace your hot water heater.
+Your contractor is responsible for getting the required permits if you install or replace your hot water heater. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained.
 
 ### Tree permits
 
@@ -95,7 +97,7 @@ You will need to have your project reviewed by a city arborist if you have any t
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
+You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -103,9 +105,9 @@ You may also be unable to get a permit if you have already reached the maximum a
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will:
 
-* Let you know if you can complete your project as you originally planned.
-* Give you the personalized property information you need to fill out your building permit application.
-* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
-* Explain any next steps needed for you to correctly permit your project.
+* let you know if you can complete your project as you originally planned,
+* give you the personalized property information you need to fill out your building permit application,
+* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
+* and explain any next steps needed for you to correctly permit your project.
 
 You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.
