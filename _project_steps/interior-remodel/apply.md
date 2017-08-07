@@ -23,6 +23,8 @@ Remember to leave enough time for the completeness check. Residential Plan Revie
 
 ## What documents will I need to submit?
 
+All interior remodel applications require:
+
 ### 1. Application
 
 The interior remodel application can be filled out by you, an architect, or an engineer.
@@ -39,9 +41,9 @@ The floor plan must be drawn to scale either by hand or on a computer. The floor
 
 Use a separate page for:
 
-* Existing walls and features that will be demolished
-* Existing walls and features that will remain intact
-* Your proposed floor plan.
+* existing walls and features that will be demolished,
+* existing walls and features that will remain intact,
+* and your proposed floor plan.
 
 {% include diagram.html diagram="existing demo plan" %}
 
@@ -70,7 +72,7 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
