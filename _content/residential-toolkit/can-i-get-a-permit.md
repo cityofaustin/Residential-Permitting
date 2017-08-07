@@ -36,7 +36,7 @@ The City of Austin makes every effort to produce and publish the most current an
 
 #### Create a New User Profile:
 
-Visit Austin Build + Connect at https://abc.austintexas.gov. Click on “Register Now” in the New User field to create an online profile.
+Visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other). Click on “Register Now” in the New User field to create an online profile.
 
 * If you are already have a profile, enter your email and password in the Registered User field.
 
@@ -50,9 +50,9 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 
 2. Click on the link in the email to complete your profile. You can also copy and paste the link into your browser, then press “Enter” on your keyboard. The link will take you back to the Austin Build + Connect page.
 
-3. Log In with your email, password and PIN number on the Austin Build + Connect page to access your profile.
+3. Log In with your email, password and PIN number on [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to access your profile.
 
-4. You will see several navigation links on the left side of the Austin Build + Connect page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
+4. You will see several navigation links on the left side of the [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
 
 5. Follow the instructions to find your permit.
 
@@ -60,7 +60,7 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 
 #### To search for an existing or expired permit:
 
-Visit https://abc.austintexas.gov and Log In.
+Visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) and Log In.
 
 Click on “Public Search” on the lefthand menu.
 
