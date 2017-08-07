@@ -11,7 +11,7 @@ lead_markdown:
 
 Certain things can prevent you from receiving a permit.
 
-Having an expired permit, maxing out your impervious cover, or both can prevent you from getting your building permit. If you have one of the following permits types and they have expired, you'll need to get them resolved before you can move forward with your project.
+Having an expired permit, maxing out your impervious cover, or both can prevent you from getting your building permit. If you have one of the following permit types and they have expired, you'll need to get them resolved before you can move forward with your project.
 
 > ###### [What is impervious cover?](/residential/resources/glossary/impervious-cover)
 >
@@ -26,7 +26,7 @@ Having an expired permit, maxing out your impervious cover, or both can prevent 
 
 ## When does my permit expire?
 
-Permits have a 180-day lifespan from the day they are issued or from the most recent in-progress inspection. Permits open on the date they are issued and close on the day you pass your final inspection. Your permit will expire if your project hasn't been inspected or approved by day 181.
+Permits have a 180-day lifespan starting on the day they are issued or from the most recent in-progress inspection. Permits close on the day you pass your final inspection. Your permit will expire if your project hasn't been inspected or approved by day 181.
 
 ### How can I check for expired permits?
 
@@ -40,7 +40,7 @@ Visit Austin Build + Connect at https://abc.austintexas.gov. Click on “Registe
 
 * If you are already have a profile, enter your email and password in the Registered User field.
 
-* If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email.
+* If you are a Registered User but forgot your password, click on “Reset Password” and follow the prompts sent to your email address.
 
 Continue creating a New Profile. Enter your personal information on the following page and click on “Submit.”
 
@@ -97,6 +97,6 @@ Be sure to include the expired permit numbers and property address where necessa
 
 ## What if I maxed out on impervious cover?
 
-Building a deck or shed, or adding square footage to a current structure will increase your amount of impervious cover. If that sounds like your project, then you will need to schedule a free 20 minute in-person consultation to review your options. Reviewers may be able to help you adjust your plans so that you meet the impervious cover limits.
+Building a deck or shed, or adding square footage to a current structure will increase your amount of impervious cover. If this sounds like your project, then you will need to schedule a free 20 minute in-person consultation to review your options. Reviewers may be able to help you adjust your plans so that you meet the impervious cover limits.
 
 If your project will not increase impervious cover, then your permit will most likely be approved.
