@@ -8,7 +8,7 @@ permalink: /residential/projects/general-process/define/
 ---
 
 
-The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
+The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your projects in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * define and describe your project,
 * f[ind out if you need permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
