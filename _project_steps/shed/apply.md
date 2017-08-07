@@ -13,9 +13,11 @@ You need to provide a paper application and some additional documents when you a
 
 ## What happens at Residential Plan Review?
 
-A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
+A staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
+
+Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
 ---
 
@@ -25,7 +27,7 @@ All shed permit applications require:
 
 ### 1. Application
 
-The [new construction/addition application]({{ site.baseurl }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or other licensed professional.
+The [new construction/addition application]({{ site.baseurl }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) is the application you need to fill out for a shed. This application can be filled out by either you or your architect, engineer, expeditor, or another licensed professional.
 
 ### 2. Plot plan
 
@@ -41,15 +43,15 @@ The shed’s floor plan must be drawn to scale either by hand or on a computer a
 
 Use a separate page for each of the following items:
 
-* Existing walls and features to be demolished,
-* Existing walls and features that will remain,
-* Your proposed floor plan.
+* existing walls and features to be demolished,
+* existing walls and features that will remain,
+* and your proposed floor plan.
 
 {% include diagram.html diagram="floor plan" %}
 
 ### 4. Elevation plan
 
-The elevation plan of your proposed addition or extension must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
+Your shed's elevation plan must be drawn to scale either by hand or by using a CAD program and can be prepared by you or a hired professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
 
 {% include diagram.html diagram="elevation" %}
 
@@ -72,13 +74,11 @@ When applying for a shed building permit, a signed [BSPA Form]({{ site.baseurl }
 
 ## How do I submit my application?
 
-Intake happens during&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
+Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
-
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
 
 ### &nbsp;
