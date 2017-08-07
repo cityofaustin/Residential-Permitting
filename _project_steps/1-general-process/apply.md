@@ -64,16 +64,16 @@ Your foundation plan must be drawn by a structural engineer.
 
 Here is a list of commonly requested forms you may need to submit with your application.
 
-* Owner’s Authorization Form: This form is required if one of your hired professionals, such as an engineer or an architect, is submitting your application. They will need your authorization to do so.
-* Certified Tax Certificate or Warranty Deed: You will have to pay any taxes you owe before you are approved for a permit.
-* Austin Water Utility Form: This form is required if you are increasing the number or bathrooms or performing any work that will promote you to the next water meter size. An example of this can be upgrading from 3 to 3.5 bathrooms.
-* Homeowners authorization letter: There is a space for the homeowner’s signature on the application in place of letter.
-* S.M.A.R.T. Housing Project Information: If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
-* Demolition Application: This is only necessary if you will change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you need a demolition application, you will also need:
+* **Owner’s Authorization Form:** This form is required if one of your hired professionals, such as an engineer or an architect, is submitting your application. They will need your authorization to do so.
+* **Certified Tax Certificate or Warranty Deed:** You will have to pay any taxes you owe before you are approved for a permit.
+* **Austin Water Utility Form:**This form is required if you are increasing the number or bathrooms or performing any work that will promote you to the next water meter size. An example of this can be upgrading from 3 to 3.5 bathrooms.
+* **Homeowners authorization letter:**There is a space for the homeowner’s signature on the application in place of letter.
+* **S.M.A.R.T. Housing Project Information:** If you participate in S.M.A.R.T. housing, you will need to include a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
+* **Demolition Application:** This is only necessary if you will change any walls in your home, extend a room past your home’s current footprint, or add any windows or doors. If you need a demolition application, you will also need:
   * a survey or plot plan (you can use the same one you used for your interior remodel or new addition application),
   * to have it signed by the owner and notarized,
   * and photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
-* Building Service Permit Application (BSPA): Required for building permits, not standalone trade or tree permits.
+* **Building Service Permit Application (BSPA):**Required for building permits, not standalone trade or tree permits.
 
 There may be other forms or plans you may need to submit depending on your project. Those forms and plans can be determined at the consultation.
 
