@@ -20,7 +20,7 @@ For more specific issues regarding your project, consider scheduling a [paid con
 
 We suggest preparing some information about your property and project ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most of your consultation.
 
-### 1. Be prepared to answer the following questions about your project:
+### 1. Be prepared to answer these questions about your project:
 
 * What is the address of the property you are working on?
 * Will you move or demolish any interior or exterior walls?
@@ -35,18 +35,7 @@ We suggest preparing some information about your property and project ahead of t
 
 The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
-### 2. Draw a few simple sketches of your property or home interior
-
-Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
-
-* the current layout of your property including any existing structures such as your house, pool, or driveway,
-* and the layout of the structure you may be changing, adding, or removing.
-
-Do your best to label any load-bearing walls or beams.
-
-See examples of project sketches.
-
-### 3. If possible, bring your property survey
+### 2. If possible, bring your property survey
 
 Your property survey, also called a cadastral survey, isn’t required during the consultation, but will show the reviewer whether or not you can move forward with your project as planned. Property surveys give reviewers insight into details like: [setbacks](/residential/resources/glossary/setback), [easements](/residential/resources/glossary/easement), and [impervious cover](/residential/resources/glossary/impervious-cover).
 
@@ -63,6 +52,17 @@ You probably received your survey when you purchased your home if you bought it 
 * or, a surveyor to get a new survey.
 
 You can find a surveyor through the [Texas Board of Professional Land Surveying](http://txls.texas.gov).
+
+### 3. Draw a few simple sketches of your property or home interior
+
+Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
+
+* the current layout of your property including any existing structures such as your house, pool, or driveway,
+* and the layout of the structure you may be changing, adding, or removing.
+
+Do your best to label any load-bearing walls or beams.
+
+See examples of project sketches.
 
 ---
 
