@@ -66,6 +66,7 @@ Sketches give reviewers a clear picture of your project and help them determine 
 
 Label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. Do your best to label any load-bearing walls or beams.
 
+[See examples of project sketches](/residential/resources/sample-plans).
 ---
 
 ## How can I get a free in-person consultation?
