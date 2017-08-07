@@ -52,7 +52,7 @@ The foundation plan can only be drawn by a structural engineer.
 
 ### Other commonly requested documents
 
-[**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf) An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
+[**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf): An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 
 **Building Service Permit Application (BSPA):** Required for building permits, not standalone trade or tree permits.
 
