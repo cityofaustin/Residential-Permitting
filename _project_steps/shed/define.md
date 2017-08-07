@@ -41,9 +41,9 @@ tabs:
 
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or applying for permits, it’s important to:
 
-* Define and describe your project,
-* [Find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
-* And collect the right information for your consultation and application.
+* define and describe your project,
+* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
 
@@ -77,12 +77,12 @@ The City of Austin provides a variety of permits to help residents build safe an
 
 Your shed requires a building permit if it will:
 
-* Be over one story,
-* Be over 200 square feet,
-* Have plumbing,
-* Be over 15ft tall,
-* Be attached to your house,
-* Or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
+* be over one story,
+* be over 200 square feet,
+* have plumbing,
+* be over 15ft tall,
+* be attached to your house,
+* or be built in a floodplain. To find out if you're in a floodplain, use your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
 
 > ###### [What is a floodplain?](/residential/resources/glossary/floodplain)
 >
