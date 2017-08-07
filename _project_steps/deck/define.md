@@ -93,11 +93,13 @@ There are additional fees if you build near a protected tree or need trade permi
 
 ### Electric permits
 
-Having electricity on your deck requires getting an electric permit.
+Having electricity on your deck requires an electric permit.
+
+* Make sure to tell your reviewer your shed needs an electric permit and circle it on your application.
 
 * If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/residential/resources/contact/#service-contact) at One Texas Center.
+
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
-* If your deck requires a building permit, the City will automatically include the electric permit with your building permit.
 
 ### Tree permits
 
@@ -115,7 +117,7 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
+You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -123,9 +125,9 @@ You may also be unable to get a permit if you have already reached the maximum a
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will:
 
-* Let you know if you can complete your project as you originally planned.
-* Give you the personalized property information you need to fill out your building permit application.
-* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
-* Explain any next steps needed for you to correctly permit your project.
+* let you know if you can complete your project as you originally planned,
+* give you the personalized property information you need to fill out your building permit application,
+* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
+* and explain any next steps needed for you to correctly permit your project.
 
 You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.
