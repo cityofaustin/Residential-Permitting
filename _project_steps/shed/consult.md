@@ -65,6 +65,8 @@ Sketch the layout of your property and show any existing structures including yo
 
 Sketch the shed you will build and include its dimensions and any windows or doors it will have.![](/uploads/versions/shed-sample-layout-sketch---x----1500-1000x---.png)
 
+[See examples of project sketches](/residential/resources/sample-plans).
+
 ---
 
 ## How do I sign up for a free in-person consultation?
