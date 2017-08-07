@@ -64,6 +64,8 @@ Sketch the layout of your property and show any existing structures including yo
 
 Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
 
+[See examples of project sketches](/residential/resources/sample-plans).
+
 ---
 
 ## How do I sign up for a free in-person consultation?
