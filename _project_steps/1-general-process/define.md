@@ -10,9 +10,9 @@ permalink: /residential/projects/general-process/define/
 
 The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your project in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
-* Define and describe your project,
-* [Find out if you need permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
-* And collect the right information for your consultation and application.
+* define and describe your project,
+* f[ind out if you need permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
+* and collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
 
@@ -60,10 +60,10 @@ Trade permits are required if your project includes specialized work like change
 
 You need a trade permit if your project includes:
 
-* Adding or moving an electrical outlet or fixture,
-* Installing HVAC,
-* Moving or adding a plumbing utility,
-* Or installing a new hot water heater.
+* adding or moving an electrical outlet or fixture,
+* installing HVAC,
+* moving or adding a plumbing utility,
+* or installing a new hot water heater.
 
 Your contractor is responsible for getting the required permits if you are installing or replacing a hot water heater. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained.
 
@@ -87,9 +87,9 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 Demolition permits are necessary if you change walls in your home, extend a room past your home’s current footprint, or add windows or doors. If you apply for a demolition permit, you will need:
 
-* A survey or plot plan (you can use the same one used for your interior remodel or new addition application),
-* To have it signed by the owner and notarized,
-* And photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
+* a survey or plot plan (you can use the same one used for your interior remodel or new addition application),
+* to have it signed by the owner and notarized,
+* and photographs of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
 
 ### Express permits
 
