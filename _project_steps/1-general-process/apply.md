@@ -14,7 +14,7 @@ You need to provide a paper application and some additional documents when you a
 
 ## What happens at Residential Plan Review?
 
-A staff member will meet with you and use a checklist to perform a completeness check.
+A staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
