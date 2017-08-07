@@ -1,5 +1,5 @@
 ---
-title: 'General > 1. Define'
+title: General > 1. Define
 seo_title: Define your Project in Austin
 seo_description:
 step_number: 1
@@ -93,13 +93,13 @@ Demolition permits are necessary if you change walls in your home, extend a room
 
 ### Express permits
 
-You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Express permits helps make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits).
+You can apply for an express permit if you are making small changes to your home that don’t require moving plumbing fixtures, like converting a bathtub to shower or vice-versa. Express permits help make sure these changes are done safely. [Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits).
 
 ### Make sure you can get a permit
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious coverage on your property. If this happens, reconsider your shed materials or design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
+You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
@@ -109,7 +109,7 @@ It’s possible to prepare your permit application without consulting with a rev
 
 * Let you know if you can complete your project as you originally planned.
 * Give you the personalized property information you need to fill out your building permit application.
-* Give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project.
+* Give you a list of documents you need to prepare for your building permit application based on your specific project.
 * Explain any next steps needed for you to correctly permit your project.
 
 You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;
