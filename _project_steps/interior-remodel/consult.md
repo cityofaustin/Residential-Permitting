@@ -9,13 +9,15 @@ project_name: interior remodel
 
 All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
-Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
+Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
+
+For more specific issues regarding your project, consider scheduling a paid consultation.&nbsp;
 
 ---
 
 ## How can I prepare for my consultation?
 
-We suggest preparing some information about your shed ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
+We suggest preparing some information about your interior remodel ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most of your consultation.
 
 ### 1. Be prepared to answer the following questions about your project:
 
@@ -40,9 +42,9 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
-* Home lender or the title company from your original purchase,
-* Neighbors to find out where they got theirs,
-* Or, your surveyor to get a new survey.
+* home lender or the title company from your original purchase,
+* neighbors to find out where they got theirs,
+* or, your surveyor to get a new survey.
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
@@ -50,16 +52,17 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
 
-#### What your interior currently looks like, including any windows and doors.
+#### What your interior looks like. Make sure to include:&nbsp;
 
-* The current floor plan
-* The existing walls of your home
-* Any walls you will tear down
+* the current floor plan,
+* the existing walls of your home,
+* any walls you will tear down,
+* and any windows and doors.
 
-#### What your remodel project will look like when it's completed.
+#### What your remodel project will look like when it's completed. Make sure to include:
 
-* The proposed floor plan (including new windows or doors)
-* The proposed new walls
+* the proposed floor plan (including new windows or doors),
+* and the proposed new walls.
 
 Make sure you label smoke and carbon monoxide detectors and any walls that will be partially or completely torn down. Do your best to label any load-bearing walls or beams.
 
@@ -71,12 +74,12 @@ All consultations take place at [Residential Plan Review](/residential/resources
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about how to sign up for a free 20 minute consultation](/residential/residential-toolkit/sign-up-on-qless).
 
-Remember to leave enough time for the completeness check. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up online or arriving as close to opening time as possible and sign up in person.
+Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the QLess website or arriving as close to opening time as possible to sign up in person.
 
 If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/residential/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation.
 
