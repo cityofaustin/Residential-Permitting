@@ -122,7 +122,7 @@ You will not be able to remove trees that are 19 inches or more in diameter and 
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to find out if you can get a permit.
+You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
 
 ---
 
