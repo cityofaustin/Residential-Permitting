@@ -9,7 +9,9 @@ project_name: shed
 
 All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
-Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application during your consultation, meeting with a reviewer will save you time and help make the permitting process clearer and easier.
+Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
+
+For more specific issues regarding your project, consider scheduling a paid consultation.&nbsp;
 
 ---
 
@@ -22,12 +24,12 @@ We suggest preparing some information about your shed ahead of time to share wit
 * What's the address where the shed will be built?
 * What will you use this shed for?
 * Decide whether your shed will:
-  * Be over 1 story,
-  * Be over 200 square feet (larger than 20 feet by 10 feet),
-  * Be built in a floodplain,
-  * Have plumbing,
-  * Have a Heating, Ventilation, and Air Conditioning unit (HVAC),
-  * Have electricity.
+  * be over 1 story,
+  * be over 200 square feet,
+  * be built in a floodplain,
+  * have plumbing,
+  * have a Heating, Ventilation, and Air Conditioning unit (HVAC),
+  * have electricity.
 
 The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
@@ -43,9 +45,9 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
 
-* Home lender or the title company from your original purchase,
-* Neighbors to find out where they got theirs,
-* Or, your surveyor to get a new survey.
+* home lender or the title company from your original purchase,
+* neighbors to find out where they got theirs,
+* or, your surveyor to get a new survey.
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
@@ -67,11 +69,11 @@ Sketch the shed you will build and include its dimensions and any windows or doo
 
 ## How do I sign up for a free in-person consultation?
 
-All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review) located at 505 Barton Springs Rd., 78704.
+All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
 There are two ways to sign up for your free 20 minute in-person consultation:
 
-* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review)
+* Sign up in person at the QLess Kiosk at the [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 * Or save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about how to sign up for a free 20 minute consultation.](/residential/residential-toolkit/sign-up-on-qless)
@@ -79,3 +81,5 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
 If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Paid consultations cost $64 + a 4% surcharge. Use this [form](/residential/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation.
+
+After your consultation, feel free to return to the next section for further assistance on preparing your application.
