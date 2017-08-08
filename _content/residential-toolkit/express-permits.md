@@ -1,7 +1,9 @@
 ---
 title: Express Permits
-seo_title:
-seo_description: What is this page about?
+seo_title: Express Permits
+seo_description: >-
+  Some projects are simple enough to qualify for an express permit from the City
+  of Austin. See if your home improvement project or renovation qualifies.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order:
@@ -30,7 +32,7 @@ You can get an express permit if your project is simple and similar to projects 
 * removing drywall or insulation to evaluate or observe the home-structure
 * roof repair: just replacing decking boards
 * foundation repair that doesn't increase impervious cover
-* limitations for bathroom and kitchen remodels&nbsp;
+* limitations for bathroom and kitchen remodels
   * converting bathtubs and showers
   * plumbing fixtures cannot be added or relocated
   * walls cannot be relocated or removed
