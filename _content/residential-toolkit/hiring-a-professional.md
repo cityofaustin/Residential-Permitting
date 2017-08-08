@@ -19,4 +19,4 @@ Some customers also choose to hire permit expediters to help them apply for perm
 
 Some customers choose to work with a contractor. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained. It’s important to hire a licensed contractor you trust to make sure this work is done properly.&nbsp;
 
-Check out our tips for hiring a professional.&nbsp;
+[Check out our tips for hiring a professional](https:/austintexas.gov/page/how-select-contractor).&nbsp;
