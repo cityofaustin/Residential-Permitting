@@ -1,7 +1,10 @@
 ---
 title: Can I get a permit?
-seo_title:
-seo_description: What is this page about?
+seo_title: Can I get a permit?
+seo_description: >-
+  Certain property specifics can prevent you from getting a new permit in
+  Austin, Texas. Make sure you can get a permit before starting the permitting
+  process.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 1
@@ -55,8 +58,6 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 4. You will see several navigation links on the [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index) page. Your permit information will automatically appear on the center of the page under “My Permits”. If your permit is not found, you will see the following information:
 
 5. Follow the instructions to find your permit.
-
-&nbsp;
 
 #### To search for an existing or expired permit:
 
