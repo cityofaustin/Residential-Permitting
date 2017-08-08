@@ -31,7 +31,7 @@ We suggest preparing some information about your shed ahead of time to share wit
   * have a Heating, Ventilation, and Air Conditioning unit (HVAC),
   * have electricity.
 
-The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
+The [project scoping worksheet](residential/resources/applications-and-forms/project-scoping-worksheet) can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
 ### 2. If possible, bring your property survey.
 
