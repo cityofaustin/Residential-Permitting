@@ -1,7 +1,10 @@
 ---
 title: Hiring a professional
-seo_title:
-seo_description:
+seo_title: Hiring a professional
+seo_description: >-
+  You may need to hire a professional to complete your permit application for
+  your Austin home improvement project. Check out our tips for hiring a
+  professional.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order:
@@ -17,6 +20,6 @@ Some customers also choose to hire permit expediters to help them apply for perm
 
 ### What if I want to hire a contractor?
 
-Some customers choose to work with a contractor. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained. It’s important to hire a licensed contractor you trust to make sure this work is done properly.&nbsp;
+Some customers choose to work with a contractor. Although contractors are required to get permits for their work, it is up to you to make sure those permits are obtained. It’s important to hire a licensed contractor you trust to make sure this work is done properly.
 
-[Check out our tips for hiring a professional](https://austintexas.gov/page/how-select-contractor).&nbsp;
+[Check out our tips for hiring a professional](https://austintexas.gov/page/how-select-contractor).
