@@ -33,7 +33,7 @@ We suggest preparing some information about your property and project ahead of t
 * Do you have any trees larger than 19 inches in diameter on your property?
 * Is your home more than 40 years old?
 
-The project scoping worksheet can help you collect this information. You can also bring the worksheet to your consultation to help save time.
+The [project scoping worksheet](/residential/resources/applications-and-forms/project-scoping-worksheet) can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
 ### 2. If possible, bring your property survey
 
