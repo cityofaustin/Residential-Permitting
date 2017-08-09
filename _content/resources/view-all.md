@@ -1,7 +1,9 @@
 ---
 title: Resources
-seo_title:
-seo_description: What is this page about?
+seo_title: Applicant Resources
+seo_description: >-
+  Check out our resources for helping you navigate the City of Austin's
+  Residential Permitting Process with ease.
 layout: resources-index
 permalink: /residential/resources/
 redirect_from: /resources
