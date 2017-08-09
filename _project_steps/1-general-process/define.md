@@ -11,7 +11,7 @@ permalink: /residential/projects/general-process/define/
 The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your projects in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * define and describe your project,
-* [find out if you need permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit/), &nbsp;
+* [find out if you need permits](/residential/residential-toolkit/projects-that-dont-require-a-permit/) and what they are, &nbsp;
 * and collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
@@ -38,9 +38,7 @@ Every project requires you to follow zoning regulations to make sure it doesn’
 
 ## Do I need a permit?
 
-The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit.
-
-### &nbsp;
+The City of Austin provides a variety of permits to help residents build safe and sustainable projects. Many projects require more than one type of permit, and [some smaller projects don't require a permit at all](/residential/residential-toolkit/projects-that-dont-require-a-permit/).
 
 ## Common types of permits
 
