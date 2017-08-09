@@ -20,3 +20,7 @@ Keep in mind you will only be able to sign in to QLess during the office hours o
 * Fill out your name and phone number on the website and select Residential-Permit Application Submittals.
 * Select New Application if this is the first time you’re submitting your application. Select Update if you’re submitting an update to an existing application.
 * You will get a text with your estimated wait time. Follow the text prompts to receive status updates, leave the line, or get help.
+
+#### Prepare to come in
+
+Before you come in for a consultation or to apply, make sure you have thought through your project or prepared all the necessary application materials. Check out our [General Process](/residential/projects/general-process/) for details.
