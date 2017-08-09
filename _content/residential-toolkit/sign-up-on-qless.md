@@ -1,7 +1,9 @@
 ---
 title: Get in line on QLess
-seo_title:
-seo_description: What is this page about?
+seo_title: Get in line on QLess
+seo_description: >-
+  The City of Austin's Residential Plan Review can get very busy. Save time in
+  your permitting process by holding your place in line on QLess.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 1
@@ -9,9 +11,9 @@ lead_markdown:
 ---
 
 
-Hold your place in line and save time.&nbsp;
+Hold your place in line and save time.
 
-Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing in to the&nbsp;[QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), an online queueing system, or arriving as close to opening time as possible to sign up in person.
+Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing in to the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812), an online queueing system, or arriving as close to opening time as possible to sign up in person.
 
 #### Instructions for signing up on the QLess website
 
