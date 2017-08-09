@@ -1,7 +1,9 @@
 ---
 title: Projects that don't require a permit
-seo_title:
-seo_description: What is this page about?
+seo_title: Do I need a permit?
+seo_description: >-
+  Some smaller home improvement projects don't require a permit in Austin,
+  Texas. Check out our list of projects that don't require a residential permit.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order:
