@@ -40,7 +40,7 @@ tabs:
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your deck or applying for permits, it’s important to:
 
 * define and describe your project,
-* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* [find out if you need permits](/residential/residential-toolkit/projects-that-dont-require-a-permit/) and what they are,
 * and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
