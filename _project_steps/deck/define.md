@@ -87,7 +87,7 @@ Your deck requires a building permit if it will:
 
 #### How much do building permits cost?
 
-Building permits for decks start at $584.48 and go up depending on the your specific needs. This cost includes the plan review, the permit itself, your inspections, and any additional fees.
+Building permits for decks start at $584.48 and go up depending on your specific needs. This cost includes the plan review, the permit itself, and your inspections.
 
 There are additional fees if you build near a protected tree or need trade permits. Your reviewer will explain any additional costs during your consultation.
 
