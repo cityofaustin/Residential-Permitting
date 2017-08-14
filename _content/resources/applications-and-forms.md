@@ -2,9 +2,8 @@
 title: Applications & Forms
 seo_title: Applications & Forms
 seo_description: >-
-  Getting your home improvement project permitted in Austin requires several
-  forms and applications. Find the form or application you need in the list
-  below.
+  Find the residential form(s) or application(s) you may need to get your home
+  improvement project permitted in Austin, Texas.
 summary: Forms and applications needed for residential permits.
 in_resources_menu: true
 in_toolkit_menu: false
