@@ -3,7 +3,7 @@ title: Deck > 0. Overview
 seo_title: Getting a Deck Permit
 seo_description: >-
   Building a deck in Austin? Find out if you will need a permit, what you'll
-  need to apply, and familiarize yourself with the permitting process.
+  need to apply, and learn about the permitting process.
 step_number: 0
 project_name: deck
 permalink: /residential/projects/deck/
