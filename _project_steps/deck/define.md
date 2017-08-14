@@ -1,7 +1,9 @@
 ---
 title: Deck > 1. Define
-seo_title: 'Define your Deck Project in Austin, Texas'
-seo_description:
+seo_title: Do I need a Deck Permit?
+seo_description: >-
+  Find out if you need a deck permit in Austin, Texas, what other permits you
+  may need, and learn about the standard deck zoning regulations.
 step_number: 1
 project_name: deck
 tabs:
