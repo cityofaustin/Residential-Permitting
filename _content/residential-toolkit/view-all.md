@@ -2,9 +2,8 @@
 title: Residential Toolkit
 seo_title: Residential Toolkit
 seo_description: >-
-  Navigate Austin's Permitting Process using the Residential Toolkit. Find
-  details about specific city processes, your property, or your permit
-  applications.
+  Navigate Austin Permitting with the Residential Toolkit. Find details about
+  city processes, your property, or your permit applications.
 layout: residential-toolkit-index
 permalink: /residential/residential-toolkit/
 redirect_from: /residential-toolkit
