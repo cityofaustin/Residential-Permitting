@@ -1,7 +1,9 @@
 ---
 title: Interior Remodel > 2. Consult
-seo_title: 'Get a Consultation for an Interior Remodel in Austin, Texas'
-seo_description:
+seo_title: Get an Interior Remodel consultation
+seo_description: >-
+  Have questions about interior remodel permits or applications? Learn how to
+  get a free 20 minutes consultation with the City of Austin.
 step_number: 2
 project_name: interior remodel
 ---
@@ -11,7 +13,7 @@ All consultations take place at [Residential Plan Review](/residential/resources
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
 
-For more specific issues regarding your project, consider scheduling a [paid consultation](/residential/resources/applications-and-forms/residential-review-consultation-form).&nbsp;
+For more specific issues regarding your project, consider scheduling a [paid consultation](/residential/resources/applications-and-forms/residential-review-consultation-form).
 
 ---
 
@@ -52,7 +54,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. Use a separate page for each sketch. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see:
 
-#### What your interior looks like. Make sure to include:&nbsp;
+#### What your interior looks like. Make sure to include:
 
 * the current floor plan,
 * the existing walls of your home,
