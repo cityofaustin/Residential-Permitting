@@ -1,7 +1,9 @@
 ---
 title: General > 3. Apply
-seo_title: Apply for a Permit in Austin
-seo_description:
+seo_title: Applying for a permit
+seo_description: >-
+  Learn what you will need to apply for a permit for your home improvement
+  project in Austin, Texas, and how to submit your permit application.
 step_number: 3
 project_name: general process
 permalink: /residential/projects/general-process/apply/
@@ -24,7 +26,7 @@ Remember to leave enough time for the completeness check. Residential Plan Revie
 
 ## What documents will I need to submit?
 
-The documents you need to submit with your application depend on the type of project you want to build. You can request a free 20 minute consultation with a reviewer to help you determine what you need to submit.&nbsp;&nbsp;
+The documents you need to submit with your application depend on the type of project you want to build. You can request a free 20 minute consultation with a reviewer to help you determine what you need to submit.
 
 ### 1. Application
 
@@ -44,8 +46,8 @@ The floor plan of your proposed project must be drawn to scale either by hand or
 
 Use a separate page for:
 
-* existing walls and features to be demolished,&nbsp;
-* existing walls and features that will remain,&nbsp;
+* existing walls and features to be demolished,
+* existing walls and features that will remain,
 * and your proposed floor plan.
 
 ### 4. Elevation Plan
@@ -83,11 +85,11 @@ If you already know what plans you need, you can receive guidance on how to crea
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application at [Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
-## &nbsp;
+##
