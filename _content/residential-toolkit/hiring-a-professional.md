@@ -2,9 +2,8 @@
 title: Hiring a professional
 seo_title: Hiring a professional
 seo_description: >-
-  You may need to hire a professional to complete your permit application for
-  your Austin home improvement project. Check out our tips for hiring a
-  professional.
+  You may need a professional to complete your permit application for your
+  Austin home project. Check out our tips for hiring a professional.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order:
