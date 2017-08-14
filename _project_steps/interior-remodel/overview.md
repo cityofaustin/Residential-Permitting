@@ -1,7 +1,9 @@
 ---
 title: Interior Remodel > 0. Overview
-seo_title: Interior Remodel Permit Overview
-seo_description:
+seo_title: Getting an Interior Remodel Permit
+seo_description: >-
+  Doing an interior remodel in Austin? Find out if you need a permit, what you
+  will need to apply, and learn about the permitting process.
 step_number: 0
 project_name: interior remodel
 permalink: /residential/projects/interior-remodel/
