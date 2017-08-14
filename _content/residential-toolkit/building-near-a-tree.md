@@ -2,8 +2,8 @@
 title: Building near a tree
 seo_title: Building Near a Protected Tree
 seo_description: >-
-  Find out if you have a protected tree on your Austin property and if you need
-  a Tree Ordinance Review before starting your home improvement project.
+  Find out if you have a protected tree on your Austin property and need a Tree
+  Ordinance Review before starting your home improvement project.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 3
