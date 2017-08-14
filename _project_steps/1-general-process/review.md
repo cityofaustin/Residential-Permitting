@@ -1,7 +1,9 @@
 ---
 title: General > 4. Review
-seo_title: The Review Process for a Permit in Austin
-seo_description:
+seo_title: The Permit Application Review Process
+seo_description: >-
+  Find out what happens in the residential permit application review process in
+  Austin, Texas, how long it takes, and your next steps.
 step_number: 4
 project_name: general process
 permalink: /residential/projects/general-process/review/
