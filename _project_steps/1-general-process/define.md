@@ -1,7 +1,9 @@
 ---
 title: General > 1. Define
-seo_title: Define your Project in Austin
-seo_description:
+seo_title: What kind of permit do I need?
+seo_description: >-
+  Define your home improvement project, find out what permits if any you may
+  need from the City of Austin, and how to get your project permitted.
 step_number: 1
 project_name: general process
 permalink: /residential/projects/general-process/define/
@@ -11,7 +13,7 @@ permalink: /residential/projects/general-process/define/
 The most important step toward bringing your project to life is to get a permit. Permits empower you to complete your projects in a way that meets your needs and follows the city’s code. Before applying for any permits, it’s important to:
 
 * define and describe your project,
-* [find out if you need permits](/residential/residential-toolkit/projects-that-dont-require-a-permit/) and what they are, &nbsp;
+* [find out if you need permits](/residential/residential-toolkit/projects-that-dont-require-a-permit/) and what they are,
 * and collect the right information for your consultation and application.
 
 Reviewers are also available to help you during free and paid consultations.
@@ -75,7 +77,7 @@ If any of your trees measure 19 inches or more in diameter, they are protected a
 
 Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If that sounds like one of your trees, [use this diagram to measure your tree](https://www.austintexas.gov/page/residential-tree-permit-process).
 
-You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential/residential-toolkit/building-near-a-tree/).
+You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees. [Learn more about protected trees and construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 > ###### What is a critical root zone?
 >
@@ -114,4 +116,4 @@ It is possible to prepare your permit application without consulting with a revi
 
 ### Hiring a professional
 
-You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.&nbsp;
+You may need to [hire a licensed professional](/residential/residential-toolkit/hiring-a-professional) to help you complete your project.
