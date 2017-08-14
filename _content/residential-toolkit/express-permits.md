@@ -2,8 +2,8 @@
 title: Express Permits
 seo_title: Express Permits
 seo_description: >-
-  Some projects are simple enough to qualify for an express permit from the City
-  of Austin. See if your home improvement project or renovation qualifies.
+  Some simple projects qualify for an express permit from the City of Austin.
+  See if your home improvement project or renovation qualifies.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order:
