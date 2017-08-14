@@ -1,7 +1,9 @@
 ---
-seo_title: The Official City of Austin's Residential Permitting Resource
+seo_title: Improve your home safely
 title: Home
-seo_description: 'in Austin, Texas'
+seo_description: >-
+  Improving or changing your home in Austin, Texas? Find out if you will need a
+  permit and learn about the permitting process with the City of Austin.
 layout: home
 _hide_content: true
 permalink: /
