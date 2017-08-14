@@ -1,7 +1,9 @@
 ---
 title: Shed > 3. Apply
-seo_title: Apply for a Shed Permit in Austin
-seo_description:
+seo_title: Applying for a Shed Permit
+seo_description: >-
+  Find out how to apply for a shed permit in Austin, Texas, and what
+  application(s) or plans you will need to submit for approval.
 step_number: 3
 project_name: shed
 ---
@@ -74,11 +76,11 @@ When applying for a shed building permit, a signed [BSPA Form]({{ site.baseurl }
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.&nbsp;
+Submit your complete permit application at [Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
 [Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
-### &nbsp;
+###
