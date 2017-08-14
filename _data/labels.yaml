@@ -42,3 +42,4 @@ languages:
     get_feedback_text: Was this page helpful?
     get_feedback_link_text: Leave us feedback about your experience
     get_feedback_survey: 'https://docs.google.com/forms/d/e/1FAIpQLSdjp_oIYteKyTYYGy1fJKoXuKSo5Ba-qqCfEPfxjQ1-NGKNZg/viewform?usp=pp_url&entry.1434612984&entry.1739464470&entry.848061124&entry.56189753='
+    translate: Translate
