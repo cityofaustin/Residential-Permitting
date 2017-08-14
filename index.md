@@ -1,5 +1,5 @@
 ---
-seo_title: Improve your home safely
+seo_title: Permit Your Project
 title: Home
 seo_description: >-
   Improving or changing your home in Austin, Texas? Find out if you will need a
