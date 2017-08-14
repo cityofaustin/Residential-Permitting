@@ -1,7 +1,9 @@
 ---
 title: Shed > 2. Consult
-seo_title: Get a Consultation for a Shed Permit in Austin
-seo_description:
+seo_title: Get a Shed Permit consultation
+seo_description: >-
+  Have questions about shed permits or applications? Learn how to get a free 20
+  minute consultation with the City of Austin and what to bring.
 step_number: 2
 project_name: shed
 ---
@@ -11,7 +13,7 @@ All consultations take place at [Residential Plan Review](/residential/resources
 
 Reviewers provide free 20 minute in-person consultations for residents who want help with general questions about their project. Even though you can’t submit your permit application to a reviewer, having a consultation saves time and helps make the permitting process easier.
 
-For more specific issues regarding your project, consider scheduling a [paid consultation](/residential/resources/applications-and-forms/residential-review-consultation-form).&nbsp;
+For more specific issues regarding your project, consider scheduling a [paid consultation](/residential/resources/applications-and-forms/residential-review-consultation-form).
 
 ---
 
