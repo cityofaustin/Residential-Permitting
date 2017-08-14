@@ -3,7 +3,7 @@ title: Check my application status
 seo_title: Check my application status
 seo_description: >-
   Once you have submitted your residential permit application, the City of
-  Austin takes about 15 days to review your project application and plans.
+  Austin takes about 15 days to review your application and plans.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 2
