@@ -2,9 +2,8 @@
 title: Can I get a permit?
 seo_title: Can I get a permit?
 seo_description: >-
-  Certain property specifics can prevent you from getting a new permit in
-  Austin, Texas. Make sure you can get a permit before starting the permitting
-  process.
+  A few things can prevent you from getting a new permit in Austin, Texas. Make
+  sure you can get a permit before starting the permitting process.
 in_resources_menu: false
 in_toolkit_menu: true
 menu_sort_order: 1
