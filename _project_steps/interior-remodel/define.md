@@ -1,7 +1,9 @@
 ---
 title: Interior Remodel > 1. Define
-seo_title: 'Define your Interior Remodel in Austin, Texas'
-seo_description:
+seo_title: Do I need an Interior Remodel Permit?
+seo_description: >-
+  Find out if you need an interior remodel permit for your home improvement
+  project in Austin, Texas, and what other permits you may need.
 step_number: 1
 project_name: interior remodel
 ---
@@ -10,7 +12,7 @@ project_name: interior remodel
 Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or apply for permits, it’s important to:
 
 * define and describe your project,
-* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* [find out if you need  permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
 * and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
@@ -41,7 +43,7 @@ There are additional fees if you are building near a tree, need a trade permit, 
 
 ### Express permits
 
-Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely.&nbsp;[Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits/).
+Small changes, like converting a bathtub to shower or vice-versa, that don't require moving plumbing fixtures in your home are eligible for express permits. Applying for an express permit will help make sure it’s done safely. [Figure out if your project qualifies for an express permit](/residential/residential-toolkit/express-permits/).
 
 ### Interior remodel permits
 
@@ -66,11 +68,11 @@ While you may think your project is a remodel, the City of Austin may consider i
 
 A new addition permit is required if you change your home's footprint by expanding a room, or if you convert a garage into a living or sleeping space. Other examples include:
 
-* adding square footage to your home (air conditioned or un air conditioned),&nbsp;
+* adding square footage to your home (air conditioned or un air conditioned),
 * converting inhabitable space into habitable space,
 * or moving an exterior wall.
 
-You may need a demolition permit if you tear down an exterior wall.&nbsp;
+You may need a demolition permit if you tear down an exterior wall.
 
 If this sounds like your project, [schedule a consultation](/residential/projects/interior-remodel/consult/) to review any zoning considerations that will affect your project.
 
@@ -91,7 +93,7 @@ Your contractor is responsible for getting the required permits if you install o
 
 Having certain trees on your property may require a tree permit.
 
-You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home.&nbsp;[Learn more about protected trees and their construction requirements](/residential/residential-toolkit/building-near-a-tree/).
+You will need to have your project reviewed by a city arborist if you have any trees over 19 inches in diameter on you property. Even though there aren't any trees inside your home, arborists make sure the tree's Critical Root Zone isn't damaged by any construction equipment brought in to remodel your home. [Learn more about protected trees and their construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 ### Make sure you can get a permit
 
@@ -107,7 +109,7 @@ It is possible to prepare your permit application without consulting with a revi
 
 * let you know if you can complete your project as you originally planned,
 * give you the personalized property information you need to fill out your building permit application,
-* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
+* give you a list of documents you need to prepare for your building permit  application based on your specific project,
 * and explain any next steps needed for you to correctly permit your project.
 
 ---
