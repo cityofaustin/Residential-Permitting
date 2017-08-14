@@ -1,19 +1,21 @@
 ---
 title: Interior Remodel > 3. Apply
-seo_title: 'Apply for an Interior Remodel Permit in Austin, Texas'
-seo_description:
+seo_title: Applying for an Interior Remodel Permit
+seo_description: >-
+  Find out how to apply for an interior remodel permit in Austin, Texas, and
+  what application(s) or plans you will need to submit for approval.
 step_number: 3
 project_name: interior remodel
 ---
 
 
-You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. &nbsp;You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
+You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation.  You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
 ---
 
 ### What happens at Residential Plan Review?
 
-A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
+A  staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
@@ -51,7 +53,7 @@ Use a separate page for:
 
 ### 4. Elevation Plan
 
-You don't need an elevation plan for an interior remodel.&nbsp;
+You don't need an elevation plan for an interior remodel.
 
 ### 5. Structural Drawings
 
@@ -63,7 +65,7 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 * **Certified Tax Certificate or Warranty Deed**: This form serves as proof of ownership of the property being work on.
 * **Austin Water Utility Form**: This form is required if you are adding bathrooms or doing any work that will promote you to the next water meter size. An example of this can be increasing from 3 to 3.5 bathrooms.
 * **Homeowners Authorization Letter**: There is a space for a homeowner’s signature on the application. You can choose to sign there instead of submitting a letter.
-* **S.M.A.R.T. Housing Project Information**: You were probably told if your home was part of the S.M.A.R.T. Housing initiative when you purchased it. If you participate in S.M.A.R.T. housing, you will need to include both a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.&nbsp;
+* **S.M.A.R.T. Housing Project Information**: You were probably told if your home was part of the S.M.A.R.T. Housing initiative when you purchased it. If you participate in S.M.A.R.T. housing, you will need to include both a signed certification letter from Neighborhood Housing and Community Development (NHCD) and a signed conditional approval letter from Austin Energy Green Building.
 * **Demolition Application**: This application is only necessary if you change any exterior walls in your home, extend a room past your home's current footprint, or add any windows or doors. If you need a demolition application, you will also need:
   * a survey or plot plan that is signed by the owner and notarized (you can use the same plot plan as your interior remodel or new addition application),
   * and pictures of the area to be demolished. We recommend taking photos from several angles and taking more than you may think necessary.
@@ -72,11 +74,11 @@ You'll need structural drawings if you are removing a load-bearing wall or chang
 
 ## How do I submit my application?
 
-Submit your complete permit application at&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application at [Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
 
-[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).&nbsp;
+[Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
-### &nbsp;
+###
