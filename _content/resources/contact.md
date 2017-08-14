@@ -2,9 +2,8 @@
 title: Contact a department
 seo_title: Contact A Department
 seo_description: >-
-  There may be more than one City of Austin department involved in your
-  permitting process. Find the department you’re looking for and their contact
-  information.
+  Find the contact information for the various City of Austin departments that
+  may be involved in your permitting process.
 summary: Directory of departments involved in permitting.
 layout: contact
 in_resources_menu: true
