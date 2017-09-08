@@ -20,7 +20,7 @@ layout: default
         </div>
         <div class="row center-xs">
           {% for term in page.confused_with_term_in_glossary %}
-          {% assign term_url = term | slugify | prepend: '/resources/glossary/' %}
+          {% assign term_url = term | slugify | prepend: '/residential/resources/glossary/' %}
           {% assign term_title = term | capitalize %}
           <div class="tile col-xs-10 col-sm-6">
             <a class="tile-link" title="{{ site.data.labels.languages[site.language].glossary_link_prefix }} {{ term_title }}" href="{{ site.baseurl }}{{ term_url }}"></a>
