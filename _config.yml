@@ -187,6 +187,7 @@ show_full_navigation: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://permittingatx.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon_path: "/assets/favicons/"
+google_analytics_key: UA-106861757-1
 
 # Build settings
 markdown: kramdown
