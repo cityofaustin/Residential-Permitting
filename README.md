@@ -42,6 +42,16 @@ The `assets/stylesheets/fellows` CSS is intended to be a set of consistent, reus
 ## Javascript
 jQuery and the full USWDS JS file has been included. This can probably be improved a bit since both of these libraries will add significant weight and performance hits to your page. All JavaScript are imported and concatenated into a single file, `assets/javascripts/application.js`. Imports are handled with Jekyll’s `include_relative` method. Place your scripts in `assets/javascripts/scripts` and link to them in `assets/javascripts/application.js`.
 
+## Running with Docker
+
+If you have Docker installed, you can run the project via the terminal:
+
+```
+$ git clone git@github.com:cityofaustin/Residential-Permitting.git
+$ cd Residential-Permitting
+$ ./scripts/serve-local.sh
+```
+
 ## How to run
 Using the command line, the following commands should be able to get you up and running. You will need to clone this repo, remove `origin` as a remote branch, and run on local host.
 
