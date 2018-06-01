@@ -3,8 +3,8 @@ term: garage and carport exemption
 seo_title: 
 title: Garage and Carport Exemption
 short_definition: An exemption permit given to a resident that allows them to build a garage or carport when it is more than the Floor to Area Ratio (FAR).
-source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/new_con_addtn_app_AWU.pdf'
-source_name: New Construction Application
+source_link: 'https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE_CH25-1GEREPR_ART2DEME_S25-1-21DE'
+source_name: Municode
 ---
 
 

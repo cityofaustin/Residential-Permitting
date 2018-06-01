@@ -3,7 +3,8 @@ term: basement exemption
 seo_title: 
 title: Basement Exemption
 short_definition: A livable room under a buildings first floor that may not need a permit. Learn more.
-source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/Applications_Forms/new_con_addtn_app_AWU.pdf,New Construction Application'
+source_link: 'https://library.municode.com/tx/austin/codes/building_criteria_manual?nodeId=S4RECO_4.4.0RESURE_4.4.5SUFEX_4.4.5.3BAEX'
+source_name: Municode
 ---
 
 

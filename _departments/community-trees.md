@@ -4,8 +4,8 @@ department_name: Community Trees
 department_link: 'http://www.austintexas.gov/department/city-arborist'
 summary: "The Community Tree Preservation Division's mission is to protect and nurture Austin’s trees on behalf of the community through regulation, planning, and collaborative work."
 phone: '311'
-email_address:
-contact_form_url: 'http://www.austintexas.gov/email/cityarborist'
+email_address:  cityarborist@austintexas.gov
+contact_form_url: 
 hours:
   - time_period_markdown: |-
       *General Information Walk-In*
@@ -15,4 +15,5 @@ physical_address_markdown: |-
   <br>505 Barton Springs Road
   <br>​Austin, TX 78704
 _hide_content: true
+logo_path: /assets/img/department-logos/logo-dsd.png
 ---

@@ -3,8 +3,8 @@ term: addition
 seo_title: 
 title: Addition
 short_definition: Adding to or expanding a part of a building to create a vertical or horizontal extension.
-source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'
-source_name: CodeNext 2M-1 p.1
+source_link: 'https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE_CH25-11BUDEREPESPREHIST_ART2BUDEPE_DIV1BUDEPEGE_S25-11-33EXBU'
+source_name: Municode
 ---
 
 

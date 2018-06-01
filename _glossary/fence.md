@@ -4,7 +4,7 @@ seo_title:
 title: Fence
 short_definition: 'A fence is a railing, barrier, or standing structure with supporting posts that creates a boundary on the property. '
 source_link: 'https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART5ACUS_S25-2-899FEACUS'
-source_name: Muni Code
+source_name: Municode
 ---
 
 
