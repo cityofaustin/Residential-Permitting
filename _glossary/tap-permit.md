@@ -3,8 +3,8 @@ term: tap permit
 seo_title: 
 title: Tap Permit
 short_definition: "A permit that allows residents to connect to the City's water or wastewater system."
-source_link: 'https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf'
-source_name: CodeNext 2M-1 p.31
+source_link: 'https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE_CH25-9WAWA_ART1UTSE_DIV3TAPE'
+source_name: Municode
 ---
 
 

@@ -33,7 +33,7 @@ If you are not the applicant, meaning a hired professional submitted your applic
 
 Comments are sent in a Master Comment Report to the email provided on the application.
 
-If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) and [glossary](/residential/resources/glossary/) or speak with a professional.
+If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) or call 512-978-4000 for further help.
 
 If you have questions or concerns about your comments, you can reach out to a reviewer.
 
@@ -41,13 +41,13 @@ If you have questions or concerns about your comments, you can reach out to a re
 
 Resubmission is done through the same process as your initial [application submission](/residential/projects/deck#how-do-i-submit-my-application?).
 
-After you or your hired professional resubmit, you will receive notice that your plans have been approved or you will receive new comments. If you receive comments a second time, there is an additional $355.68 fee for a third round of review.
+After you or your hired professional resubmit, you will receive notice that your plans have been approved or you will receive new comments. If you receive comments a second time, there is an additional fee for a third round of review.
 
 ### 4. Repeat if needed
 
 This process will be repeated until all comments are addressed and your application is approved.
 
-Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee of $355.68.
+Most applications go through 2 rounds of review. After a second round of review, additional reviews incur a fee.
 
 ---
 

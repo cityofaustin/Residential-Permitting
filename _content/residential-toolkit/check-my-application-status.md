@@ -22,13 +22,13 @@ There are two ways to check the status of your permit application:
 
 ## Check your permit status on Austin Build + Connect
 
-You can check the status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index). If you don't have an Austin Build + Connect account, you can create one on the Austin Build + Connect homepage.
+You can check the status of your permit by visiting [Austin Build + Connect](https://abc.austintexas.gov/web/permit/index) and using the [Public Search](https://abc.austintexas.gov/web/permit/public-search-other?reset=true) option.
 
-If your hired professional such as a general contractor submitted the permit application for you, then they will receive your approval or any comments.
+If your hired professional, such as a general contractor, submitted the permit application for you, then they will receive your approval or any comments from the reviewer.
 
-If your hired professional submitted your application and you want to check your application status on Austin Build + Connect, you will need to visit the [Service Center](/residential/resources/contact/#service-center) to have the permit linked to your account.
+If your hired professional submitted your application and you want to check your application status, use the [Public Search](https://abc.austintexas.gov/web/permit/public-search-other?reset=true) option on Austin Build + Connect.
 
-You can also request for copies of any emails to be sent to you or have your authorized applicant forward them to you if this is the case.
+You can also request for copies of any emails to be sent to you or have your authorized applicant forward them to you if this is the case. You will need to contact the [Service Center](http://permittingatx.com/residential/resources/contact/#service-center) to have the permit linked to your account.
 
 ---
 

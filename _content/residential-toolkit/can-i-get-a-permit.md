@@ -58,21 +58,19 @@ You will receive an email with your unique PIN number and a link. Follow the lin
 
 5. Follow the instructions to find your permit.
 
-#### To search for an existing or expired permit:
+#### To search for permit information:
 
-Visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) and Log In.
+Visit [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other).
 
-Click on “Public Search” on the lefthand menu.
+Enter at least one search field to find a permit:
 
-Enter the required information to search for a permit in one of four ways:
+* Permit Number
 
-* By Permit Number
+* FolderRSN or Row ID
 
-* By FolderRSN or Row ID
+* Case Number
 
-* By Case Number
-
-* By Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. Ex: 1920-2017
+* Property/Project Name/Types/Date Range: If you use this option, enter as much information as possible and enter a large date range. Ex: 1920-2017
 
 ---
 

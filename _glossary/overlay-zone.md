@@ -4,8 +4,8 @@ seo_title:
 title: "Overlay Zone"
 
 short_definition: "A zone or space with two sets of regulations."
-source_link: "https://www.austintexas.gov/sites/default/files/files/Planning/CodeNEXT/ALDC_PRD_23_LandDevelopmentCode_Combined_2017_0130_web.pdf"
-source_name: "CodeNext 2M-1 p.20"
+source_link: 'https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT25LADE_CH25-1GEREPR_ART2DEME_S25-1-21DE'
+source_name: Municode
 ---
 A zone that has a regulation added in addition to its base zone regulation.
 A zone established by this Title to prescribe regulations to be applied to a site in combination with regulations applicable to a base zone.

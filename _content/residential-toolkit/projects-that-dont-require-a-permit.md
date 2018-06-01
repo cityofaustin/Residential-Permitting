@@ -23,6 +23,6 @@ Some types of projects can be completed without a permit. Examples of projects t
 * portable heating and ventilation appliances or cooling units
 * other work as determined by the building official
 
-You will probably need a permit if your project requires more work that what’s on this list. See a complete list of projects that don’t require permits in the Municode library section [R105.2](https://library.municode.com/tx/austin/codes/building_criteria_manual?nodeId=S6MILISAGU_6.4.0PEEXCORE).
+You will probably need a permit if your project requires more work than what’s on this list. See a complete list of projects that don’t require permits on the Development Services Department's [Work Exempt From Building Permits webpage](http://austintexas.gov/page/work-exempt-building-permits).
 
 You can also check out our [Projects page](/residential/projects/) to learn about the permitting process in Austin, Texas, and to see if your project falls under one of our common projects.

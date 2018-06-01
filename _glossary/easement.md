@@ -1,10 +1,14 @@
 ---
 term: easement
-seo_title: 
+seo_title:
 title: Easement
-short_definition: "An area of a resident's property that can be used, built on or changed by a government entity or neighbor. You may not build on any easements on your property."
-source_link: 'https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT30AUTRCOSURE_CH30-2SURE_ART3PLRE_DIV1PRMAEAAL_S30-2-132EAAL'
-source_name: Muni Code
+short_definition: >-
+  An area of a resident's property that can be used, built on or changed by a
+  government entity or neighbor. You may not build on any easements on your
+  property.
+source_link: >-
+  https://www.municode.com/library/tx/austin/codes/land_development_code?nodeId=TIT30AUTRCOSURE_CH30-2SURE_ART3PLRE_DIV1PRMAEAAL_S30-2-132EAAL
+source_name: Municode
 confused_with_term_in_glossary:
   - setback
 ---
