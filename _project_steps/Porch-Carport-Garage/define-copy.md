@@ -5,7 +5,7 @@ seo_description: >-
   Find out if you need a deck permit in Austin, Texas, what other permits you
   may need, and learn about the standard deck zoning regulations.
 step_number: 1
-project_name: deck
+project_name: conversion
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >-
@@ -58,7 +58,7 @@ For a porch or carport, exterior walls are built to enclose the space. For a gar
 
 ## Zoning requirements
 
-Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.&nbsp; The zoning code allows covered porches to encroach into required yard setbacks.&nbsp; Converting a covered porch into interior living space may not be possible if the covered porch encroaches into a yard setback.
+Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.  The zoning code allows covered porches to encroach into required yard setbacks.  Converting a covered porch into interior living space may not be possible if the covered porch encroaches into a yard setback.
 
 ![]({{ site.baseurl }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
@@ -98,7 +98,7 @@ Having electricity on your deck requires an electric permit.
 
 * Make sure to tell your reviewer your shed needs an electric permit and circle it on your application.
 
-* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the&nbsp;[Service Center](/residential/resources/contact/#service-contact) at One Texas Center.
+* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the [Service Center](/residential/resources/contact/#service-contact) at One Texas Center.
 
 * Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
 
@@ -128,7 +128,7 @@ It is possible to prepare your permit application without consulting with a revi
 
 * let you know if you can complete your project as you originally planned,
 * give you the personalized property information you need to fill out your building permit application,
-* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
+* give you a list of documents you need to prepare for your building permit  application based on your specific project,
 * and explain any next steps needed for you to correctly permit your project.
 
 ---
