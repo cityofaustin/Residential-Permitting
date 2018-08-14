@@ -38,8 +38,7 @@ tabs:
       cover](/residential/resources/glossary/impervious-cover).
 ---
 
-
-Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your deck or applying for permits, it’s important to:
+Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start converting the porch, carport or garage into interior living space or applying for permits, it’s important to:
 
 * define and describe your project,
 * [find out if you need permits](/residential/residential-toolkit/projects-that-dont-require-a-permit/) and what they are,
@@ -49,9 +48,9 @@ You can start by making sure your definition of your project is the same as the 
 
 ---
 
-## What is a deck?
+## What does it mean to convert a porch, carport or garage into interior living space?
 
-A deck is a platform-like structure without walls, often made of planks, that no one lives on and is typically used for lounging or gathering.
+For a porch or carport, exterior walls are built to enclose the space. For a garage, the area where the garage door was is filled in.
 
 [If this doesn't sound like your project, check out the General Process page](/residential/projects/general-process).
 
@@ -59,7 +58,7 @@ A deck is a platform-like structure without walls, often made of planks, that no
 
 ## Zoning requirements
 
-Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your deck follows the City of Austin’s code. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.
+Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.&nbsp; The zoning code allows covered porches to encroach into required yard setbacks.&nbsp; Converting a covered porch into interior living space may not be possible if the covered porch encroaches into a yard setback.
 
 ![]({{ site.baseurl }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
