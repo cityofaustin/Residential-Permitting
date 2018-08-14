@@ -1,6 +1,6 @@
 ---
 title: Conversion > 0. Overview
-seo_title: Getting a Permit for Porch Carport Garage Conversions
+seo_title: Getting a Permit for Porch/Carport/Garage Conversions
 seo_description: >-
   Converting a porch, carport, or garage into living space in Austin? Find out
   if you will need a permit, what you'll need to apply, and learn about the
@@ -26,3 +26,4 @@ prefooter_link_text: Download all conversion documents
 prefooter_link_path: /assets/applications-and-forms/all documents deck.zip
 _hide_content: true
 ---
+
