@@ -80,9 +80,7 @@ Adding or modifying the electrical layout of a space requires an electric permit
 
 * Make sure to circle it on your application.
 
-* &nbsp;
-
-  Only a registered electrician can get a permit if the electrical changes require making changes to the main electrical service.
+* Only a registered electrician can get a permit if the electrical changes require making changes to the main electrical service.
 
 #### Mechanical permits
 
@@ -110,13 +108,12 @@ You may also be unable to get a permit if the conversion of parking areas (i.e.,
 
 ---
 
-## You may need a consultation to determine your deck requirements
+## You may need a consultation to determine your conversion requirements
 
 It is possible to prepare your permit application without consulting with a reviewer. However, many residents prefer to come in for a free 20 minute consultation with a reviewer before applying for a permit. During this consultation, the reviewer will:
 
-* let you know if you can complete your project as you originally planned,
 * give you the personalized property information you need to fill out your building permit application,
-* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
+* give you a list of documents you need to prepare for your building permit application based on your specific project,
 * and explain any next steps needed for you to correctly permit your project.
 
 ---
