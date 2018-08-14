@@ -1,13 +1,12 @@
 ---
-title: Deck > 2. Consult
-seo_title: Get a Deck Permit consultation
+title: Conversion > 2. Consult
+seo_title: Get a Conversion Permit consultation
 seo_description: >-
   Have questions about deck permits or applications? Learn how to get a free 20
   minute consultation with the City of Austin and what to bring.
 step_number: 2
-project_name: deck
+project_name: conversion
 ---
-
 
 All consultations take place at [Residential Plan Review](/residential/resources/contact/#residential-plan-review).
 
