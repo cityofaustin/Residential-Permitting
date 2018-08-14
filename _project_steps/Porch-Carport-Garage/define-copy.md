@@ -1,9 +1,9 @@
 ---
 title: Conversion > 1. Define
-seo_title: Do I need a Deck Permit?
+seo_title: Do I need a Conversion Permit?
 seo_description: >-
-  Find out if you need a deck permit in Austin, Texas, what other permits you
-  may need, and learn about the standard deck zoning regulations.
+  Find out if you need a conversion permit in Austin, Texas, what other permits
+  you may need, and learn about the standard conversion zoning regulations.
 step_number: 1
 project_name: conversion
 tabs:
@@ -50,7 +50,7 @@ You can start by making sure your definition of your project is the same as the 
 
 ## What does it mean to convert a porch, carport or garage into interior living space?
 
-For a porch or carport, exterior walls are built to enclose the space. For a garage, the area where the garage door was is filled in.
+A porch or carport conversion builds exterior walls to enclose the space.&nbsp; A garage conversion fills in the area where the garage door is located.
 
 [If this doesn't sound like your project, check out the General Process page](/residential/projects/general-process).
 
@@ -58,7 +58,7 @@ For a porch or carport, exterior walls are built to enclose the space. For a gar
 
 ## Zoning requirements
 
-Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. Zoning regulations are also kept in place to ensure that Austin’s beauty is protected for many generations.  The zoning code allows covered porches to encroach into required yard setbacks.  Converting a covered porch into interior living space may not be possible if the covered porch encroaches into a yard setback.
+Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your conversion follows the City of Austin’s code. Zoning regulations usually apply to exterior projects and exist for your safety and the safety of your family, guests, and neighbors. The zoning code allows covered porches to encroach into required yard setbacks. Converting a covered porch into interior living space may not be possible if the covered porch encroaches into a yard setback.
 
 ![]({{ site.baseurl }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
@@ -72,53 +72,41 @@ The City of Austin provides a variety of permits to help residents build safe an
 
 ### Building permits
 
-Your deck requires a building permit if it will:
+The conversion of a porch, carport or garage into habitable space requires a permit.&nbsp; Electric and mechanical permits will be needed.&nbsp; A plumbing permit will be needed if a bathroom is being added, the washer/dryer is being relocated or any other fixture that requires water or has is being added or removed from the space. If the converted space contains a gas water heater, be advised that new venting may be required for safety.
 
-* be attached to your home,
-* services a door,
-* be over 200 square feet,
-* be more than 30 inches above ground,
-* have plumbing,
-* have electric,
-* or be built in a floodplain. To find out if you're in a floodplain, enter your address at [austintexas.gov/floodpro](http://austintexas.gov/floodpro/). If your Flood Zone says “Flood Zone: X,” then you do not live in a floodplain.
+#### Electric permits
 
-> ###### [What is a floodplain?](/residential/resources/glossary/floodplain)
->
-> {% include glossary-definition.html term="floodplain" %}
+Adding or modifying the electrical layout of a space requires an electric permit.
 
-#### How much do building permits cost?
+* Make sure to circle it on your application.
 
-Building permits for decks start at $584.48 and go up depending on your specific needs. This cost includes the plan review, the permit itself, and your inspections.
+* &nbsp;
 
-There are additional fees if you build near a protected tree or need trade permits. Your reviewer will explain any additional costs during your consultation.
+  Only a registered electrician can get a permit if the electrical changes require making changes to the main electrical service.
 
-### Electric permits
+#### Mechanical permits
 
-Having electricity on your deck requires an electric permit.
+A mechanical permit will be needed to bring code-required heat to the converted space(s). The use of a portable space heater is not allowed.
 
-* Make sure to tell your reviewer your shed needs an electric permit and circle it on your application.
+* Make sure to circle it on your application.
 
-* If you want to run a line of electricity to your deck for an outlet or fan, you will need to get a stand-alone electric permit in person from the [Service Center](/residential/resources/contact/#service-contact) at One Texas Center.
+* Only a licensed HVAC contractor can get a permit if the mechanical changes require reclaiming refrigerant.
 
-* Only a registered electrician can get a permit if the electricity on your deck requires making changes to the main electrical meter.
+#### Plumbing permits
 
-### Tree permits
+A plumbing permit will be needed if water or gas lines are being added or removed from the converted space.
 
-Having certain trees on your property may require a tree permit.
+* Make sure to circle it on your application if this permit is needed.
 
-#### How to measure your trees
-
-Measure the diameters of any trees on your property. You can calculate the diameter of a tree by taking a measurement of the trunk at 4.5 feet from the ground. Not all trees grow straight up from the ground. Some grow on a slope, others lean to one side, and some branch out near the ground. If these sound like one of your trees, [use this diagram to](https://www.austintexas.gov/sites/default/files/files/Planning/City_Arborist/Tree_Measurement_Diagram.pdf) help you take an accurate measurement.
-
-If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Permit]({{ site.baseurl }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
-
-You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees. Learn more about [protected trees and their construction requirements](/residential/residential-toolkit/building-near-a-tree/).
+* Only a registered plumber can get a permit if the plumbing changes involve natural gas or liquefied petroleum systems.
 
 ### Make sure you can get a permit
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-You may also be unable to get a permit if you have already reached the maximum amount of impervious cover on your property. If this happens, reconsider your shed materials and design or come in for a consultation to [find out if you can get a permit](/residential/residential-toolkit/can-i-get-a-permit).
+If your property is in the Subchapter F area of town and the Floor to Area Ratio (FAR) has been maxed out for the property, you may not be able to get a permit.
+
+You may also be unable to get a permit if the conversion of parking areas (i.e., carport or garage) reduces the amount of onsite parking below the requirement.
 
 ---
 
@@ -128,7 +116,7 @@ It is possible to prepare your permit application without consulting with a revi
 
 * let you know if you can complete your project as you originally planned,
 * give you the personalized property information you need to fill out your building permit application,
-* give you a list of documents you need to prepare for your building permit  application based on your specific project,
+* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
 * and explain any next steps needed for you to correctly permit your project.
 
 ---
