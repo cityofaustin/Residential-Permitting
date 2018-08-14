@@ -1,13 +1,12 @@
 ---
-title: Deck > 3. Apply
-seo_title: Applying for a Deck Permit
+title: Conversion > 3. Apply
+seo_title: Applying for a ConversionPermit
 seo_description: >-
   Find out how to apply for a deck permit in Austin, Texas, and what
   application(s) or plans you will need to submit for approval.
 step_number: 3
-project_name: deck
+project_name: conversion
 ---
-
 
 You need to provide a paper application and some additional documents when you apply for a permit. The types of documents you need to submit with your application depend on the kind of project you want to build. A reviewer can help you find out what documents you need if you come in for a free 20 minute consultation. You can also [hire a professional](/residential/residential-toolkit/hiring-a-professional) to help you apply for your permit.
 
@@ -69,4 +68,4 @@ Submit your complete permit application to [Residential Plan Review](/residenti
 
 [Read more about signing up on QLess](/residential/residential-toolkit/sign-up-on-qless).
 
-###
+## #
