@@ -1,11 +1,11 @@
 ---
-title: Deck > 5. Inspect
-seo_title: Scheduling a Deck Inspection
+title: Conversion > 5. Inspect
+seo_title: Scheduling a Conversion Inspection
 seo_description: >-
-  Learn about the inspections process for your permitted deck in Austin, Texas,
-  how to schedule inspections, and what to do you if you fail.
+  Learn about the inspections process for your permitted conversion in Austin,
+  Texas, how to schedule inspections, and what to do you if you fail.
 step_number: 5
-project_name: deck
+project_name: conversion
 tabs:
   - tab_title: Online
     tab_content_markdown: >
@@ -65,5 +65,4 @@ tabs:
       conducting an inspection, or driving. Please leave a voicemail with your
       name, phone number and address, and they will contact you.
 ---
-
 
