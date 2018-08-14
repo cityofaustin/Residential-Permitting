@@ -9,7 +9,7 @@ project_name: deck
 permalink: /residential/projects/deck/
 redirect_from: /projects/deck/
 hide_project_from_menu: false
-menu_sort_order: 3
+menu_sort_order: 4
 excerpt: >-
   A platform-like structure without walls, often made of planks, that no one
   will live on and is typically used for lounging and gathering
