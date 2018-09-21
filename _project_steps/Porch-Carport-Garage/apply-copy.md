@@ -14,7 +14,7 @@ You need to provide a paper application and some additional documents when you a
 
 ### What happens at Residential Plan Review?
 
-A  staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
+A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
@@ -24,20 +24,19 @@ Remember to leave enough time for the completeness check. Residential Plan Revie
 
 ## What documents will I need to submit?
 
-All deck permit applications require:
+All permit applications for this project type require:
 
 ### 1. Application
 
-* The [uncovered deck permit application]({{ site.baseurl }}/assets/applications-and-forms/pool_app_AWU.pdf) can be filled out by you, your architect or your engineer.
-* Covered decks require a [new construction/addition application]({{ site.baseurl }}/assets/applications-and-forms/new_con_addtn_app_AWU.pdf) that can be filled out by you, your architect or your engineer.
+* The [Garage Conversion and Carport/Porch Enclosure Permit application](http://austintexas.gov/sites/default/files/files/Development_Services/Applications/residential/garage_carportPorch_app_010918.pdf){: target="_blank"} needs to be filled out by you, your architect or your engineer.
 
 ### 2. Plot Plan
 
-A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property. The deck's plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a licensed professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include trees and power lines that run above your property.
+A plot plan is a drawing that shows your home’s current footprint and any existing structures on your property. The plot plan must be drawn to scale by hand or on a computer. It can be prepared by you or a licensed professional. Use graph paper if you're drawing your plot plan by hand to make it easier to draw to scale. If applicable, include trees and power lines that run above your property.
 
 ### 3. Floor Plan
 
-The deck's floor plan must be drawn to scale either by hand or on a computer. The floor plan can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale. Include details such as any support beams and handrails on the floor plan.
+The floor plan of the existing porch, carport or garage space along with a floor plan of the enclosed space(s) and immediately adjacent rooms must be drawn to scale either by hand or on a computer. The floor plans can be prepared by you or a licensed professional. If possible, use graph paper to make it easier to draw to scale. Include details such as door width and heights, window width and heights, space dimensions and ceiling heights.
 
 {% include diagram.html diagram="floor plan" %}
 
@@ -61,7 +60,7 @@ The foundation plan can only be drawn by a structural engineer.
 
 ## How do I submit my application?
 
-Submit your complete permit application to [Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application to&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
