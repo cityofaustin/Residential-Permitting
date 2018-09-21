@@ -102,9 +102,7 @@ A plumbing permit will be needed if water or gas lines are being added or remove
 
 You may not be able to get a new permit right away if your property currently has an expired permit. Use the public search at [Austin Build + Connect](https://abc.austintexas.gov/web/permit/public-search-other) to check for expired permits.
 
-If your property is in the Subchapter F area of town and the Floor to Area Ratio (FAR) has been maxed out for the property, you may not be able to get a permit.
-
-You may also be unable to get a permit if the conversion of parking areas (i.e., carport or garage) reduces the amount of onsite parking below the requirement.
+You may also be unable to get a permit if your property is in the Subchapter F area of town and the Floor to Area Ratio (FAR) has been maxed out for the property or if the conversion of parking areas (i.e., carport or garage) reduces the amount of onsite parking below the necessary requirement.
 
 ---
 
