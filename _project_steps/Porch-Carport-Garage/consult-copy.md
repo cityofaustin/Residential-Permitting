@@ -18,20 +18,18 @@ For more specific issues regarding your project, consider scheduling a [paid con
 
 ## How can I prepare for my consultation?
 
-We suggest preparing some information about your deck ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
+We suggest preparing some information about your project ahead of time to share with the reviewer during your consultation. This information allows the reviewer to tell you what permits you’ll need to finish your project. Follow these steps to make the most out of your consultation.
 
 ### 1. Be prepared to answer these questions about your project:
 
-* What is the address where your deck will be built?
-* Is your deck:
+* What is the address where your conversion will take place?
+* Is the conversion:
   * attached to your home?
-  * accessible by a door?
-  * smaller than 200 square feet?
-  * built in a floodplain?
-  * 30 inches or more above ground?
+  * is the existing space a porch, carport or garage?
+  * is the water heater accessed from this area?
+  * will any portion of the converted space be used as a bedroom?
   * covered or uncovered?
-  * going to need electricity?
-  * near a tree greater than 19 inches in diameter?
+  * going to need plumbing?
 
 The [project scoping worksheet](/residential/resources/applications-and-forms/project-scoping-worksheet) can help you collect this information. You can also bring the worksheet to your consultation to help save time.
 
