@@ -51,9 +51,9 @@ You probably received your survey when you purchased your home. If you can’t f
 
 You can find a surveyor through the [The Texas Board of Professional Land Surveying](http://txls.texas.gov/education/).
 
-### 3. Draw a few simple sketches of your deck and property.
+### 3. Draw a few simple sketches of the converted space.
 
-Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to perfect drawings, but they should give the reviewer enough information so they can see the following:
+Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see the following:
 
 #### Where will the deck be on your property?
 
