@@ -72,7 +72,7 @@ The City of Austin provides a variety of permits to help residents build safe an
 
 ### Building permits
 
-The conversion of a porch, carport or garage into habitable space requires a permit.&nbsp; Electric and mechanical permits will be needed.&nbsp; A plumbing permit will be needed if a bathroom is being added, the washer/dryer is being relocated or any other fixture that requires water or has is being added or removed from the space. If the converted space contains a gas water heater, be advised that new venting may be required for safety.
+The conversion of a porch, carport or garage into habitable space requires a permit. Electric and mechanical permits will be needed. A plumbing permit will be needed if a bathroom is being added, the washer/dryer is being relocated or any other fixture that requires water or has is being added or removed from the space. If the converted space contains a gas water heater, be advised that new venting may be required for safety.
 
 #### Electric permits
 
