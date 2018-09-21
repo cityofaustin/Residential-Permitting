@@ -40,21 +40,13 @@ The floor plan of the existing porch, carport or garage space along with a floor
 
 {% include diagram.html diagram="floor plan" %}
 
-### 4. Elevation Plan
-
-The deck's elevation plan must be drawn to scale either by hand or on the computer. The elevation plan can be prepared by you or a licensed professional. Again, use graph paper if you’re hand drawing the elevation plan. See [examples](/residential/resources/sample-plans).
-
-{% include diagram.html diagram="elevation" %}
-
-### 5. Foundation Plan
-
-The foundation plan can only be drawn by a structural engineer.
-
 ### Other commonly requested documents
 
 [**Owner’s Authorization Form**]({{ site.baseurl }}/assets/applications-and-forms/coaownersletter-1.pdf): An engineer, architect, or any other hired professional will need your permission to submit your application. Use this form if they will submit your application for you.
 
 **Building Service Permit Application (BSPA):** Required for building permits, not standalone trade or tree permits.
+
+**Water & Wastewater Service Plan Verification (WWWSPV):** Required for building permits when the number of bathrooms on the property exceeds (3).
 
 ---
 
