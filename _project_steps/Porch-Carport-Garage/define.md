@@ -50,7 +50,7 @@ You can start by making sure your definition of your project is the same as the 
 
 ## What does it mean to convert a porch, carport or garage into interior living space?
 
-A porch or carport conversion builds exterior walls to enclose the space.&nbsp; A garage conversion fills in the area where the garage door is located.
+A porch or carport conversion builds exterior walls to enclose the space. A garage conversion fills in the area where the garage door is located.
 
 [If this doesn't sound like your project, check out the General Process page](/residential/projects/general-process).
 
