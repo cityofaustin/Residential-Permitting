@@ -55,15 +55,7 @@ You can find a surveyor through the [The Texas Board of Professional Land Survey
 
 Sketches give reviewers a clear picture of your project and help them determine if you can continue with your project as planned. Please bring two simple sketches of the floor plan and plot plan to your consultation. These sketches don’t have to be perfect drawings, but they should give the reviewer enough information so they can see the following:
 
-#### Where will the deck be on your property?
-
-Sketch the layout of your property and show any existing structures including your home, pool, shed, driveway, etc. If possible, include estimated square footage or dimensions of the items on your property.
-
-#### What will your deck look like?
-
-Sketch the deck you will build and include its dimensions. Be sure to show it in relation to your home, where it will attach to your home (if it will), and any doors that will open onto the deck.
-
-[See examples of project sketches](/residential/resources/sample-plans).
+#### [See examples of project sketches](/residential/resources/sample-plans).
 
 ---
 
@@ -80,6 +72,6 @@ There are two ways to sign up for your free 20 minute in-person consultation:
 
 Remember to leave enough time for this process. Residential Plan Review can get very busy and wait times can be an hour or longer. We recommend signing up on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812) or arriving as close to opening time as possible to sign up in person.
 
-If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Use this [form](/residential/resources/applications-and-forms/residential-review-consultation-form) to request a paid consultation.
+If you need more help, you can schedule a 1 hour paid consultation to discuss project-specific questions with a reviewer. Use this [form](http://austintexas.gov/sites/default/files/files/Development_Services/Applications/residential/Residential_PPR_requestform_020218.pdf){: target="_blank"} to request a paid consultation.
 
 After your consultation, feel free to return to the next section for further assistance on preparing your application.
