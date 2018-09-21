@@ -14,7 +14,7 @@ You need to provide a paper application and some additional documents when you a
 
 ### What happens at Residential Plan Review?
 
-A &nbsp;staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
+A staff member will meet with you and use a checklist called a Gold Sheet to perform a completeness check.
 
 Once you apply, you will be moved into the Review process. Reviewers will either approve your application or send you any required changes in the form of comments. This process typically takes about 15 business days.
 
@@ -52,7 +52,7 @@ The floor plan of the existing porch, carport or garage space along with a floor
 
 ## How do I submit my application?
 
-Submit your complete permit application to&nbsp;[Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
+Submit your complete permit application to [Residential Plan Review](/residential/resources/contact/#residential-plan-review). There are two ways to submit your application.
 
 * Sign up for intake in person at the QLess Kiosk. The kiosk is located within the Residential Plan Review Division.
 * You can also save time by joining the line remotely on the [QLess website](https://kiosk.qless.com/kiosk/app/home/19062?queues=63813,65072,64852,64862,66812).
