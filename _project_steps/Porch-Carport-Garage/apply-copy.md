@@ -1,8 +1,8 @@
 ---
 title: Conversion > 3. Apply
-seo_title: Applying for a ConversionPermit
+seo_title: Applying for a Conversion Permit
 seo_description: >-
-  Find out how to apply for a deck permit in Austin, Texas, and what
+  Find out how to apply for a conversion permit in Austin, Texas, and what
   application(s) or plans you will need to submit for approval.
 step_number: 3
 project_name: conversion
