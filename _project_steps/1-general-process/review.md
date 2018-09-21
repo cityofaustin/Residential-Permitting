@@ -9,7 +9,6 @@ project_name: general process
 permalink: /residential/projects/general-process/review/
 ---
 
-
 You enter into the review process after you submit your application. During review, you and the city work together to make sure your plans are:
 
 * up to code,
@@ -35,7 +34,7 @@ Comments are sent in a Master Comment Report to the email provided on the applic
 
 If you need help understanding your comments, refer to the [Municipal Code](https://www.municode.com/library/tx/austin/codes/code_of_ordinances?nodeId=THCOAUTE01) or call 512-978-4000 for further help.
 
-If you have questions or concerns about your comments, you can reach out to a reviewer.
+If you have questions or concerns about your comments, you can reach out to the reviewer(s) of the project.
 
 ### 3. Submit updated plans
 
