@@ -43,7 +43,7 @@ Your property survey, also called a cadastral survey, isn’t required during th
 
 #### What if I don't have my survey?
 
-You probably received your survey when you purchased your home if you bought it after 1980. If you can’t find it, or you don’t remember getting it, check with your:
+You probably received your survey when you purchased your home. If you can’t find it, or you don’t remember getting it, check with your:
 
 * home lender or the title company from your original purchase,
 * neighbors to find out where they got theirs,
