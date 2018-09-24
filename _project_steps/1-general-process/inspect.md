@@ -16,7 +16,7 @@ Inspections are required as you build and when you're finished with the project.
 
 ## What inspections will I need?
 
-A list of the required inspections for your project will be printed on the permit you receive.
+A list of the required inspections for your project will be printed on the permit you receive. Depending on the project scope, not all inspections will be required.
 
 ---
 
