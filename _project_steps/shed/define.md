@@ -40,11 +40,10 @@ tabs:
       cover](/residential/resources/glossary/impervious-cover).
 ---
 
-
-Getting a permit proves that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits guarantee that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or applying for permits, it’s important to:
+Getting a permit ensures that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits ensure that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or applying for permits, it’s important to:
 
 * define and describe your project,
-* [find out if you need  permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
+* [find out if you need &nbsp;permits and what they are](/residential/residential-toolkit/projects-that-dont-require-a-permit),
 * and collect the right information for your consultation and application.
 
 You can start by making sure your definition of your project is the same as the City of Austin’s definition.
@@ -63,7 +62,7 @@ Projects that have the same requirements as a shed include: greenhouses, worksho
 
 ## Zoning requirements
 
-Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. Some customers choose to buy pre-made sheds since they can be moved off of easements and setbacks. Pre-made sheds still count toward your total impervious cover and must also follow zoning requirements.
+Whether your project needs a permit or not, there are still zoning regulations you must follow to make sure your shed follows the City of Austin’s code. Some customers choose to buy pre-made sheds since they can be moved off of easements and setbacks. Pre-made sheds still count toward your total impervious cover and building coverage. They must also follow zoning requirements.
 
 ![]({{ site.baseurl }}/assets/img/diagrams/easement-setback-impervious-cover.svg)
 
@@ -79,7 +78,7 @@ The City of Austin provides a variety of permits to help residents build safe an
 
 Your shed requires a building permit if it will:
 
-* be over one story,
+* be more than one story,
 * be over 200 square feet,
 * have plumbing,
 * be over 15ft tall,
@@ -118,7 +117,7 @@ Measure the diameters of any trees on your property. You can calculate the diame
 
 If any of your trees measure 19 inches or more in diameter, they are protected and require a [Tree Ordinance Review Application]({{ site.baseurl }}/assets/applications-and-forms/tree_permit.pdf) before you start construction. You will also need to pay an additional fee.
 
-You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees. [Learn more about protected trees and construction requirements](/residential/residential-toolkit/building-near-a-tree/).
+You will not be able to remove trees that are 19 inches or more in diameter and also considered heritage trees.&nbsp;[Learn more about protected trees and construction requirements](/residential/residential-toolkit/building-near-a-tree/).
 
 ### Make sure you can get a permit
 
@@ -134,7 +133,7 @@ It is possible to prepare your permit application without consulting with a revi
 
 * let you know if you can complete your project as you originally planned,
 * give you the personalized property information you need to fill out your building permit application,
-* give you a list of documents you need to prepare for your building permit  application based on your specific project,
+* give you a list of documents you need to prepare for your building permit &nbsp;application based on your specific project,
 * and explain any next steps needed for you to correctly permit your project.
 
 ---
