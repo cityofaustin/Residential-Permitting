@@ -11,7 +11,7 @@ tabs:
     tab_content_markdown: >-
       **What is a setback?** The space between a lot's border and the area where
       a building can be built. Setbacks typically cannot have anything built on
-      them. If your shed will be less than 15 feet tall, then you must keep 5
+      them. Setbacks vary per zoning type. If you are not sure of your property zoning type you can either visit Residential Review during walk-in hours or visit the Property Profile tool. If your shed will be less than 15 feet tall, then you must keep 5
       feet from both your side and rear property lines clear. You may not build
       within these spaces. If you shed will be more than 15 feet tall, then you
       must keep 10 feet from your rear property line clear and 5 feet from your
