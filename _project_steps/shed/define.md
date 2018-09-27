@@ -38,10 +38,7 @@ tabs:
       amount of water is making it back into the soil and to prevent flooding.
       [Learn more about impervious
       cover](/residential/resources/glossary/impervious-cover).
-  - tab_title: Building Cover
-    tab_content_markdown: >-
-      **What is building cover?** Rooftops, driveways, parking lots, and other.
-  
+
 ---
 
 Getting a permit ensures that changes on your property follow the City of Austin’s rules or are “up to code.” Building permits ensure that any changes you make are safe for you, guests, and neighbors. Before you start building your shed or applying for permits, it’s important to:
