@@ -20,7 +20,7 @@ tabs:
       setbacks](/residential/resources/glossary/setback).
   - tab_title: Easements
     tab_content_markdown: >-
-      **What is an easement?**An area of a resident’s property that can be
+      **What is an easement?** An area of a resident’s property that can be
       used, built on or changed by a government entity or neighbor. You may not
       build on any easements on your property. The city will need to access any
       easements on your lot. You may be fined or asked to demolish your shed if
