@@ -7,7 +7,3 @@ seo_description: >-
 step_number: 4
 project_name: conversion
 ---
-
-I CAN DO ANYTHING!!!
-
-My bosses are grade A idoits. 
