@@ -43,7 +43,7 @@ Schedule your inspections in person at [Building Inspections](/residential/resou
 
 ### Do I need to be home for my inspection?
 
-You will find out whether or not you need to be home when you schedule your inspection.
+If the home is occupied, meaning there is furniture and it looks like people are living there, someone over the age of 18 will need to be home for the inspections. If the home is completely vacant, you do not need to be home when you schedule your inspection.
 
 If you don't need to be home during your inspection, you must clearly post your permitted plans and your permit for your inspector.
 
