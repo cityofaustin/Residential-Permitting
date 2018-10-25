@@ -52,6 +52,6 @@ Most applications go through 2 rounds of review. After a second round of review,
 
 ## What happens after my application is approved?
 
-When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible on your work site before you begin your project.
+When your application is approved, you or your hired professional will receive an email notification stating that your permit and approved plans are ready to be purchased and picked up at the Service Center at One Texas Center. Your permit must be posted somewhere visible from the public right of way (ROW) on your work site before you begin your project.
 
 Remember, permitting doesn’t stop when you start building. Your work must be inspected throughout your process. Your permit will be closed after you pass final inspections.
